@@ -8,6 +8,7 @@
 # Variables opcionales (misma pantalla → Variables):
 #   FTP_PROTOCOL  ftps (por defecto) o ftp si el hosting no admite FTP cifrado
 #   COMPILACION   build:demo (por defecto, sin indexar en buscadores) o build (web definitiva)
+#   AGUAS_BASE    subcarpeta si la web no está en la raíz del dominio (p. ej. /aguasdegrancanaria); solo con build:demo
 name: Publicar en el hosting
 
 on:
@@ -56,6 +57,7 @@ jobs:
         run: npm run ${{ vars.COMPILACION || 'build:demo' }}
         env:
           ASTRO_TELEMETRY_DISABLED: 1
+          AGUAS_BASE: ${{ vars.AGUAS_BASE }}
 
       - name: Credenciales del inicio de sesión del gestor
         if: steps.config.outputs.lista == 'true'

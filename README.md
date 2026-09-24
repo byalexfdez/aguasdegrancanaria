@@ -80,6 +80,16 @@ Otros servidores:
 
 Si cambia `migracion/mapa-urls.csv`, regenere las redirecciones con `npm run redirecciones`.
 
+### Publicar en una subcarpeta
+
+Si la web no va en la raíz de un dominio, sino en una subcarpeta (p. ej. `https://licitaciones.victoriacrea.com/aguasdegrancanaria/`), compile con la variable `AGUAS_BASE`:
+
+```powershell
+$env:AGUAS_BASE = '/aguasdegrancanaria'; npm run build:demo
+```
+
+`scripts/despliegue/subcarpeta.mjs` antepone esa carpeta a todas las rutas internas de `dist/` (HTML, CSS, JS, datos JSON y `.htaccess`), y el buscador la toma automáticamente. Los documentos y vídeos se suben dentro de esa subcarpeta (`/aguasdegrancanaria/documentos`, `/aguasdegrancanaria/videos`). En la acción de GitHub, se configura como variable `AGUAS_BASE`.
+
 ## 4. Gestor de contenidos (Decap CMS)
 
 Se entra en **https://www.aguasgrancanaria.com/admin/**. Funciona en cuanto esté conectado el repositorio Git (ver «Configuración» más abajo). Permite editar:

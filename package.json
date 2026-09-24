@@ -14,7 +14,7 @@
     "scrape:all": "npm run scrape:crawl && npm run scrape:check && npm run scrape:download && npm run scrape:extract && npm run scrape:collections && npm run scrape:report",
     "dev": "astro dev",
     "build": "astro build && pagefind --site dist",
-    "build:demo": "astro build --mode demo && pagefind --site dist && node scripts/despliegue/demo.mjs",
+    "build:demo": "astro build --mode demo && node scripts/despliegue/subcarpeta.mjs && pagefind --site dist && node scripts/despliegue/demo.mjs",
     "preview": "node scripts/servidor-local.mjs",
     "contenido": "node scripts/contenido/construir.mjs",
     "verificar": "node scripts/verify/verificar.mjs",

@@ -33,7 +33,7 @@ const ext = (u: string) => /^https?:/.test(u);
   let pf: any = null;
   const cargar = async () => {
     if (pf) return pf;
-    try { const ruta = ['/pagefind', 'pagefind.js'].join('/'); pf = await import(/* @vite-ignore */ ruta); await pf.options({ excerptLength: 30 }); return pf; }
+    try { const ruta = ['/pagefind', 'pagefind.js'].join('/'); pf = await import(/* @vite-ignore */ ruta); await pf.options({ excerptLength: 30, baseUrl: ruta.replace(/pagefind\/pagefind\.js$/, '') }); return pf; } // baseUrl: «/» o la subcarpeta (scripts/despliegue/subcarpeta.mjs)
     catch { estado.textContent = 'El índice de búsqueda se genera al publicar la web (npm run build). En modo desarrollo no está disponible.'; return null; }
   };
   const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]!));
