@@ -1,0 +1,29 @@
+---
+import Pagina from '../layouts/Pagina.astro';
+import TarjetaNoticia from './TarjetaNoticia.astro';
+import Icono from './Icono.astro';
+import { urlPagina } from '../lib/noticias';
+interface Props { noticias: any[]; pagina: number; total: number; entrada: any }
+const { noticias, pagina, total, entrada } = Astro.props;
+const d = entrada.data;
+const url = urlPagina(pagina);
+const [primera, ...resto] = noticias;
+---
+<Pagina titulo={pagina > 1 ? `${d.titulo} · página ${pagina}` : d.titulo} descripcion={d.descripcion} url={pagina > 1 ? '/actualidad/noticias/' : url} antetitulo={d.antetitulo} entradilla={d.entradilla} conSubmenu={false}>
+  <h2 class="sr-only">Listado de noticias{pagina > 1 ? `, página ${pagina} de ${total}` : ''}</h2>
+  <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+    {primera && <TarjetaNoticia noticia={primera} destacada={pagina === 1} />}
+    {resto.map((n) => <TarjetaNoticia noticia={n} />)}
+  </div>
+  {total > 1 && (
+    <nav aria-label="Paginación de noticias" class="mt-12 flex flex-wrap items-center justify-center gap-2">
+      {pagina > 1 && <a href={urlPagina(pagina - 1)} class="boton boton-borde" rel="prev"><Icono nombre="derecha" tam={16} clase="rotate-180" /> Anteriores</a>}
+      <ol class="flex gap-1">
+        {Array.from({ length: total }, (_, i) => i + 1).map((n) => (
+          <li><a href={urlPagina(n)} aria-current={n === pagina ? 'page' : undefined} class:list={['grid place-items-center size-11 rounded-full font-semibold no-underline', n === pagina ? 'bg-marca-700 text-white' : 'hover:bg-superficie-2']}><span class="sr-only">Página </span>{n}</a></li>
+        ))}
+      </ol>
+      {pagina < total && <a href={urlPagina(pagina + 1)} class="boton boton-borde" rel="next">Siguientes <Icono nombre="derecha" tam={16} /></a>}
+    </nav>
+  )}
+</Pagina>

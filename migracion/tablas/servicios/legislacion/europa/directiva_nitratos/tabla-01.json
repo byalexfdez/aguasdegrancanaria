@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/europa/directiva_nitratos.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 08/01/2007",
+      "Título",
+      "Directiva de Nitratos",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Directiva 91/676/CEE del Consejo, de 12 de diciembre de 1991, relativa a la protección de las aguas contra la contaminación producida por nitratos utilizados en la agricultura.",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua Cont",
+      "",
+      "Directiva",
+      "Union Europea"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

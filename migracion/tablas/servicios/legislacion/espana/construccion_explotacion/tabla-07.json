@@ -1,0 +1,40 @@
+{
+  "fuente": "/servicios/legislacion/españa/construccion_explotacion.php",
+  "indice": 7,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "",
+      "Sin efecto sísmico",
+      "Con efecto sísmico"
+    ]
+  ],
+  "filas": [
+    [
+      "Distintas fases de la construcción",
+      "1,2",
+      "1,0"
+    ],
+    [
+      "Embalse lleno",
+      "1,4",
+      "1,4"
+    ],
+    [
+      "Desembalse rápido",
+      "1,3",
+      "1,1"
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 0,
+      "texto": "",
+      "url": "https://www.aguasgrancanaria.com/icons/ecblank.gif",
+      "imagen": true
+    }
+  ]
+}

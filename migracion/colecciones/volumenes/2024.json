@@ -1,0 +1,1130 @@
+{
+  "anio": 2024,
+  "hoja": "2024",
+  "fichero": "/documentos/pdfs/presas/volumenes/2026.xlsx",
+  "titulo": "VOLÚMENES ALMACENADOS EN LOS EMBALSES DE GRAN CANARIA GESTIONADOS POR EL CONSEJO INSULAR DE AGUAS",
+  "datos_mensuales": 96,
+  "presas": [
+    {
+      "presa": "CHIRA",
+      "grupo": null,
+      "altura_maxima_m": 32,
+      "meses": [
+        {
+          "mes": "enero",
+          "altura_m": 9.58,
+          "volumen_m3": 263333,
+          "variacion_m3": -19269,
+          "porcentaje_embalsado": 0.04668390782386647
+        },
+        {
+          "mes": "febrero",
+          "altura_m": 9.37,
+          "volumen_m3": 247788,
+          "variacion_m3": -15545,
+          "porcentaje_embalsado": 0.043928076435009004
+        },
+        {
+          "mes": "marzo",
+          "altura_m": 9.07,
+          "volumen_m3": 226746,
+          "variacion_m3": -21042,
+          "porcentaje_embalsado": 0.04019773201015607
+        },
+        {
+          "mes": "abril",
+          "altura_m": 8.59,
+          "volumen_m3": 196075,
+          "variacion_m3": -30671,
+          "porcentaje_embalsado": 0.03476034992410605
+        },
+        {
+          "mes": "mayo",
+          "altura_m": 8.18,
+          "volumen_m3": 172492,
+          "variacion_m3": -23583,
+          "porcentaje_embalsado": 0.03057953476531379
+        },
+        {
+          "mes": "junio",
+          "altura_m": 7.84,
+          "volumen_m3": 154513,
+          "variacion_m3": -17979,
+          "porcentaje_embalsado": 0.027392201697429036
+        },
+        {
+          "mes": "julio",
+          "altura_m": 7.31,
+          "volumen_m3": 129053,
+          "variacion_m3": -25460,
+          "porcentaje_embalsado": 0.022878630313684346
+        },
+        {
+          "mes": "agosto",
+          "altura_m": 6.83,
+          "volumen_m3": 108381,
+          "variacion_m3": -20672,
+          "porcentaje_embalsado": 0.019213879817031942
+        },
+        {
+          "mes": "septiembre",
+          "altura_m": 6.47,
+          "volumen_m3": 94238,
+          "variacion_m3": -14143,
+          "porcentaje_embalsado": 0.016706596231788377
+        },
+        {
+          "mes": "octubre",
+          "altura_m": 6.3,
+          "volumen_m3": 87697,
+          "variacion_m3": -6541,
+          "porcentaje_embalsado": 0.015547001949735196
+        },
+        {
+          "mes": "noviembre",
+          "altura_m": 6.25,
+          "volumen_m3": 86172,
+          "variacion_m3": -1525,
+          "porcentaje_embalsado": 0.015276648597016789
+        },
+        {
+          "mes": "diciembre",
+          "altura_m": 6.1,
+          "volumen_m3": 80924,
+          "variacion_m3": -5248,
+          "porcentaje_embalsado": 0.01434627850189141
+        }
+      ],
+      "volumen_maximo_m3": 5640766
+    },
+    {
+      "presa": "AYAGAURES",
+      "grupo": null,
+      "altura_maxima_m": 40,
+      "meses": [
+        {
+          "mes": "enero",
+          "altura_m": 14.72,
+          "volumen_m3": 71243,
+          "variacion_m3": -1483,
+          "porcentaje_embalsado": 0.038529410969387064
+        },
+        {
+          "mes": "febrero",
+          "altura_m": 14.63,
+          "volumen_m3": 69365,
+          "variacion_m3": -1878,
+          "porcentaje_embalsado": 0.03751375702723824
+        },
+        {
+          "mes": "marzo",
+          "altura_m": 14.59,
+          "volumen_m3": 68540,
+          "variacion_m3": -825,
+          "porcentaje_embalsado": 0.03706758317086296
+        },
+        {
+          "mes": "abril",
+          "altura_m": 14.55,
+          "volumen_m3": 67519,
+          "variacion_m3": -1021,
+          "porcentaje_embalsado": 0.03651540922254882
+        },
+        {
+          "mes": "mayo",
+          "altura_m": 14.48,
+          "volumen_m3": 66104,
+          "variacion_m3": -1415,
+          "porcentaje_embalsado": 0.03575015345676575
+        },
+        {
+          "mes": "junio",
+          "altura_m": 14.36,
+          "volumen_m3": 63921,
+          "variacion_m3": -2183,
+          "porcentaje_embalsado": 0.03456955039195697
+        },
+        {
+          "mes": "julio",
+          "altura_m": 14.19,
+          "volumen_m3": 60637,
+          "variacion_m3": -3284,
+          "porcentaje_embalsado": 0.03279350803518554
+        },
+        {
+          "mes": "agosto",
+          "altura_m": 13.98,
+          "volumen_m3": 56551,
+          "variacion_m3": -4086,
+          "porcentaje_embalsado": 0.030583730608337772
+        },
+        {
+          "mes": "septiembre",
+          "altura_m": 13.05,
+          "volumen_m3": 41250,
+          "variacion_m3": -15301,
+          "porcentaje_embalsado": 0.02230869281876418
+        },
+        {
+          "mes": "octubre",
+          "altura_m": 12.65,
+          "volumen_m3": 35780,
+          "variacion_m3": -5470,
+          "porcentaje_embalsado": 0.01935042494679715
+        },
+        {
+          "mes": "noviembre",
+          "altura_m": 11.85,
+          "volumen_m3": 26306,
+          "variacion_m3": -9474,
+          "porcentaje_embalsado": 0.014226726625222072
+        },
+        {
+          "mes": "diciembre",
+          "altura_m": 11.15,
+          "volumen_m3": 19501,
+          "variacion_m3": -6805,
+          "porcentaje_embalsado": 0.010546468331120492
+        }
+      ],
+      "volumen_maximo_m3": 1849055
+    },
+    {
+      "presa": "GAMBUESA",
+      "grupo": null,
+      "altura_maxima_m": 42,
+      "meses": [
+        {
+          "mes": "enero",
+          "altura_m": 32.95,
+          "volumen_m3": 712930,
+          "variacion_m3": -29550,
+          "porcentaje_embalsado": 0.5286025801007929
+        },
+        {
+          "mes": "febrero",
+          "altura_m": 32.47,
+          "volumen_m3": 683987,
+          "variacion_m3": -28943,
+          "porcentaje_embalsado": 0.5071427671095353
+        },
+        {
+          "mes": "marzo",
+          "altura_m": 32.29,
+          "volumen_m3": 673323,
+          "variacion_m3": -10664,
+          "porcentaje_embalsado": 0.49923593486205675
+        },
+        {
+          "mes": "abril",
+          "altura_m": 31.85,
+          "volumen_m3": 647154,
+          "variacion_m3": -26169,
+          "porcentaje_embalsado": 0.4798329066283485
+        },
+        {
+          "mes": "mayo",
+          "altura_m": 31.31,
+          "volumen_m3": 617306,
+          "variacion_m3": -29848,
+          "porcentaje_embalsado": 0.45770208058533096
+        },
+        {
+          "mes": "junio",
+          "altura_m": 30.92,
+          "volumen_m3": 595501,
+          "variacion_m3": -21805,
+          "porcentaje_embalsado": 0.4415347440177889
+        },
+        {
+          "mes": "julio",
+          "altura_m": 30.25,
+          "volumen_m3": 560745,
+          "variacion_m3": -34756,
+          "porcentaje_embalsado": 0.4157648770266633
+        },
+        {
+          "mes": "agosto",
+          "altura_m": 29.57,
+          "volumen_m3": 526452,
+          "variacion_m3": -34293,
+          "porcentaje_embalsado": 0.3903383017957199
+        },
+        {
+          "mes": "septiembre",
+          "altura_m": 29.05,
+          "volumen_m3": 500806,
+          "variacion_m3": -25646,
+          "porcentaje_embalsado": 0.3713230523753491
+        },
+        {
+          "mes": "octubre",
+          "altura_m": 28.6,
+          "volumen_m3": 479718,
+          "variacion_m3": -21088,
+          "porcentaje_embalsado": 0.3556873360930135
+        },
+        {
+          "mes": "noviembre",
+          "altura_m": 28.4,
+          "volumen_m3": 470986,
+          "variacion_m3": -8732,
+          "porcentaje_embalsado": 0.3492129869571375
+        },
+        {
+          "mes": "diciembre",
+          "altura_m": 28.2,
+          "volumen_m3": 461899,
+          "variacion_m3": -9087,
+          "porcentaje_embalsado": 0.3424754227567589
+        }
+      ],
+      "volumen_maximo_m3": 1348707
+    },
+    {
+      "presa": "EL MULATO",
+      "grupo": null,
+      "altura_maxima_m": 35,
+      "meses": [
+        {
+          "mes": "enero",
+          "altura_m": 26.94,
+          "volumen_m3": 303742,
+          "variacion_m3": -4916,
+          "porcentaje_embalsado": 0.39982624377208975
+        },
+        {
+          "mes": "febrero",
+          "altura_m": 26.82,
+          "volumen_m3": 299275,
+          "variacion_m3": -4467,
+          "porcentaje_embalsado": 0.3939461750593996
+        },
+        {
+          "mes": "marzo",
+          "altura_m": 26.71,
+          "volumen_m3": 294847,
+          "variacion_m3": -4428,
+          "porcentaje_embalsado": 0.38811744341404664
+        },
+        {
+          "mes": "abril",
+          "altura_m": 26.51,
+          "volumen_m3": 286499,
+          "variacion_m3": -8348,
+          "porcentaje_embalsado": 0.3771286783337831
+        },
+        {
+          "mes": "mayo",
+          "altura_m": 24.83,
+          "volumen_m3": 225085,
+          "variacion_m3": -61414,
+          "porcentaje_embalsado": 0.2962872769634783
+        },
+        {
+          "mes": "junio",
+          "altura_m": 24.48,
+          "volumen_m3": 213306,
+          "variacion_m3": -11779,
+          "porcentaje_embalsado": 0.2807821662926081
+        },
+        {
+          "mes": "julio",
+          "altura_m": 23.98,
+          "volumen_m3": 197141,
+          "variacion_m3": -16165,
+          "porcentaje_embalsado": 0.2595036100489018
+        },
+        {
+          "mes": "agosto",
+          "altura_m": 23.26,
+          "volumen_m3": 174973,
+          "variacion_m3": -22168,
+          "porcentaje_embalsado": 0.23032309444045887
+        },
+        {
+          "mes": "septiembre",
+          "altura_m": 22.74,
+          "volumen_m3": 160541,
+          "variacion_m3": -14432,
+          "porcentaje_embalsado": 0.21132574685560462
+        },
+        {
+          "mes": "octubre",
+          "altura_m": 22.23,
+          "volumen_m3": 146967,
+          "variacion_m3": -13574,
+          "porcentaje_embalsado": 0.19345781475216703
+        },
+        {
+          "mes": "noviembre",
+          "altura_m": 21.82,
+          "volumen_m3": 136651,
+          "variacion_m3": -10316,
+          "porcentaje_embalsado": 0.17987850227396882
+        },
+        {
+          "mes": "diciembre",
+          "altura_m": 21.71,
+          "volumen_m3": 133975,
+          "variacion_m3": -2676,
+          "porcentaje_embalsado": 0.17635598965360644
+        }
+      ],
+      "volumen_maximo_m3": 759685
+    },
+    {
+      "presa": "CANDELARIA",
+      "grupo": null,
+      "altura_maxima_m": 25,
+      "meses": [
+        {
+          "mes": "enero",
+          "altura_m": 12.85,
+          "volumen_m3": 52153,
+          "variacion_m3": -6484,
+          "porcentaje_embalsado": 0.13140615393918625
+        },
+        {
+          "mes": "febrero",
+          "altura_m": 12.5,
+          "volumen_m3": 48342,
+          "variacion_m3": -3811,
+          "porcentaje_embalsado": 0.12180385200713559
+        },
+        {
+          "mes": "marzo",
+          "altura_m": 12.1,
+          "volumen_m3": 44270,
+          "variacion_m3": -4072,
+          "porcentaje_embalsado": 0.11154392719283217
+        },
+        {
+          "mes": "abril",
+          "altura_m": 11.8,
+          "volumen_m3": 41400,
+          "variacion_m3": -2870,
+          "porcentaje_embalsado": 0.10431259511595328
+        },
+        {
+          "mes": "mayo",
+          "altura_m": 11.2,
+          "volumen_m3": 36077,
+          "variacion_m3": -5323,
+          "porcentaje_embalsado": 0.09090061579705909
+        },
+        {
+          "mes": "junio",
+          "altura_m": 10.7,
+          "volumen_m3": 32019,
+          "variacion_m3": -4058,
+          "porcentaje_embalsado": 0.08067596577337459
+        },
+        {
+          "mes": "julio",
+          "altura_m": 9.9,
+          "volumen_m3": 26214,
+          "variacion_m3": -5805,
+          "porcentaje_embalsado": 0.06604952580602896
+        },
+        {
+          "mes": "agosto",
+          "altura_m": 9.2,
+          "volumen_m3": 21754,
+          "variacion_m3": -4460,
+          "porcentaje_embalsado": 0.05481198536600115
+        },
+        {
+          "mes": "septiembre",
+          "altura_m": 8.6,
+          "volumen_m3": 18313,
+          "variacion_m3": -3441,
+          "porcentaje_embalsado": 0.046141945757450537
+        },
+        {
+          "mes": "octubre",
+          "altura_m": 8.2,
+          "volumen_m3": 16192,
+          "variacion_m3": -2121,
+          "porcentaje_embalsado": 0.04079781497868395
+        },
+        {
+          "mes": "noviembre",
+          "altura_m": 7.85,
+          "volumen_m3": 14442,
+          "variacion_m3": -1750,
+          "porcentaje_embalsado": 0.03638846615131877
+        },
+        {
+          "mes": "diciembre",
+          "altura_m": 7.55,
+          "volumen_m3": 13030,
+          "variacion_m3": -1412,
+          "porcentaje_embalsado": 0.03283075155461042
+        }
+      ],
+      "volumen_maximo_m3": 396884
+    },
+    {
+      "presa": "FATAGA",
+      "grupo": null,
+      "altura_maxima_m": 32,
+      "meses": [
+        {
+          "mes": "enero",
+          "altura_m": 5.82,
+          "volumen_m3": 1010,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0.003080263743770853
+        },
+        {
+          "mes": "febrero",
+          "altura_m": 5.82,
+          "volumen_m3": 1010,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0.003080263743770853
+        },
+        {
+          "mes": "marzo",
+          "altura_m": 5.82,
+          "volumen_m3": 1010,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0.003080263743770853
+        },
+        {
+          "mes": "abril",
+          "altura_m": 5.55,
+          "volumen_m3": 624,
+          "variacion_m3": -386,
+          "porcentaje_embalsado": 0.0019030540357554576
+        },
+        {
+          "mes": "mayo",
+          "altura_m": 0,
+          "volumen_m3": 0,
+          "variacion_m3": -624,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "junio",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "julio",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "agosto",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "septiembre",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "octubre",
+          "altura_m": 5.55,
+          "volumen_m3": 624,
+          "variacion_m3": 624,
+          "porcentaje_embalsado": 0.0019030540357554576
+        },
+        {
+          "mes": "noviembre",
+          "altura_m": 5.55,
+          "volumen_m3": 624,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0.0019030540357554576
+        },
+        {
+          "mes": "diciembre",
+          "altura_m": 5.55,
+          "volumen_m3": 624,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0.0019030540357554576
+        }
+      ],
+      "volumen_maximo_m3": 327894
+    },
+    {
+      "presa": "VAQUERO",
+      "grupo": null,
+      "altura_maxima_m": 35,
+      "meses": [
+        {
+          "mes": "enero",
+          "altura_m": 18.02,
+          "volumen_m3": 39507,
+          "variacion_m3": -4956,
+          "porcentaje_embalsado": 0.14794357420770593
+        },
+        {
+          "mes": "febrero",
+          "altura_m": 16.9,
+          "volumen_m3": 33253,
+          "variacion_m3": -6254,
+          "porcentaje_embalsado": 0.12452394950588112
+        },
+        {
+          "mes": "marzo",
+          "altura_m": 16.2,
+          "volumen_m3": 29807,
+          "variacion_m3": -3446,
+          "porcentaje_embalsado": 0.11161956403698309
+        },
+        {
+          "mes": "abril",
+          "altura_m": 14.68,
+          "volumen_m3": 23230,
+          "variacion_m3": -6577,
+          "porcentaje_embalsado": 0.08699038724390637
+        },
+        {
+          "mes": "mayo",
+          "altura_m": 12.9,
+          "volumen_m3": 16724,
+          "variacion_m3": -6506,
+          "porcentaje_embalsado": 0.06262708722630607
+        },
+        {
+          "mes": "junio",
+          "altura_m": 10.6,
+          "volumen_m3": 9859,
+          "variacion_m3": -6865,
+          "porcentaje_embalsado": 0.036919424358057375
+        },
+        {
+          "mes": "julio",
+          "altura_m": 7.6,
+          "volumen_m3": 3583,
+          "variacion_m3": -6276,
+          "porcentaje_embalsado": 0.013417415303268038
+        },
+        {
+          "mes": "agosto",
+          "altura_m": 5.75,
+          "volumen_m3": 1333,
+          "variacion_m3": -2250,
+          "porcentaje_embalsado": 0.0049917428409869645
+        },
+        {
+          "mes": "septiembre",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": -1333,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "octubre",
+          "altura_m": 3.45,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "noviembre",
+          "altura_m": 3.85,
+          "volumen_m3": 61,
+          "variacion_m3": 61,
+          "porcentaje_embalsado": 0.00022842934231073132
+        },
+        {
+          "mes": "diciembre",
+          "altura_m": 3.85,
+          "volumen_m3": 61,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0.00022842934231073132
+        }
+      ],
+      "volumen_maximo_m3": 267041
+    },
+    {
+      "presa": "SORIA",
+      "grupo": null,
+      "altura_maxima_m": 120,
+      "meses": [
+        {
+          "mes": "enero",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "febrero",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "marzo",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "abril",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "mayo",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "junio",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "julio",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "agosto",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "septiembre",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "octubre",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "noviembre",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        },
+        {
+          "mes": "diciembre",
+          "altura_m": null,
+          "volumen_m3": 0,
+          "variacion_m3": 0,
+          "porcentaje_embalsado": 0
+        }
+      ],
+      "volumen_maximo_m3": 13014589
+    }
+  ],
+  "totales": [
+    {
+      "concepto": "VOLUMEN TEÓRICO TOTAL",
+      "valor_referencia": 10590032,
+      "meses": [
+        {
+          "mes": "enero",
+          "valor": 1443918
+        },
+        {
+          "mes": "febrero",
+          "valor": 1383020
+        },
+        {
+          "mes": "marzo",
+          "valor": 1338543
+        },
+        {
+          "mes": "abril",
+          "valor": 1262501
+        },
+        {
+          "mes": "mayo",
+          "valor": 1133788
+        },
+        {
+          "mes": "junio",
+          "valor": 1069119
+        },
+        {
+          "mes": "julio",
+          "valor": 977373
+        },
+        {
+          "mes": "agosto",
+          "valor": 889444
+        },
+        {
+          "mes": "septiembre",
+          "valor": 815148
+        },
+        {
+          "mes": "octubre",
+          "valor": 766978
+        },
+        {
+          "mes": "noviembre",
+          "valor": 735242
+        },
+        {
+          "mes": "diciembre",
+          "valor": 710014
+        }
+      ]
+    },
+    {
+      "concepto": "VARIACIÓN TOTAL RESPECTO MES ANTERIOR",
+      "valor_referencia": null,
+      "meses": [
+        {
+          "mes": "enero",
+          "valor": -66658
+        },
+        {
+          "mes": "febrero",
+          "valor": -60898
+        },
+        {
+          "mes": "marzo",
+          "valor": -44477
+        },
+        {
+          "mes": "abril",
+          "valor": -76042
+        },
+        {
+          "mes": "mayo",
+          "valor": -128713
+        },
+        {
+          "mes": "junio",
+          "valor": -64669
+        },
+        {
+          "mes": "julio",
+          "valor": -91746
+        },
+        {
+          "mes": "agosto",
+          "valor": -87929
+        },
+        {
+          "mes": "septiembre",
+          "valor": -74296
+        },
+        {
+          "mes": "octubre",
+          "valor": -48170
+        },
+        {
+          "mes": "noviembre",
+          "valor": -31736
+        },
+        {
+          "mes": "diciembre",
+          "valor": -25228
+        }
+      ]
+    },
+    {
+      "concepto": "%EMBALSADO TOTAL RESPECTO A Vmáx.",
+      "valor_referencia": null,
+      "meses": [
+        {
+          "mes": "enero",
+          "valor": 0.1363468967799153
+        },
+        {
+          "mes": "febrero",
+          "valor": 0.13059639479842933
+        },
+        {
+          "mes": "marzo",
+          "valor": 0.1263965019180301
+        },
+        {
+          "mes": "abril",
+          "valor": 0.11921597592906234
+        },
+        {
+          "mes": "mayo",
+          "valor": 0.10706181057809835
+        },
+        {
+          "mes": "junio",
+          "valor": 0.10095521902105678
+        },
+        {
+          "mes": "julio",
+          "valor": 0.09229178910885255
+        },
+        {
+          "mes": "agosto",
+          "valor": 0.08398879247956946
+        },
+        {
+          "mes": "septiembre",
+          "valor": 0.07697313851365133
+        },
+        {
+          "mes": "octubre",
+          "valor": 0.07242452147453379
+        },
+        {
+          "mes": "noviembre",
+          "valor": 0.06942774110597588
+        },
+        {
+          "mes": "diciembre",
+          "valor": 0.06704550090122485
+        }
+      ]
+    },
+    {
+      "concepto": "COMUNIDAD DE AGUAS LA LUMBRE (participa en un 91,75% por el Cabildo)",
+      "valor_referencia": null,
+      "meses": [
+        {
+          "mes": "enero",
+          "valor": "Columna4"
+        },
+        {
+          "mes": "febrero",
+          "valor": "Columna5"
+        },
+        {
+          "mes": "marzo",
+          "valor": "Columna6"
+        },
+        {
+          "mes": "abril",
+          "valor": "Columna7"
+        },
+        {
+          "mes": "mayo",
+          "valor": "Columna8"
+        },
+        {
+          "mes": "junio",
+          "valor": "Columna9"
+        },
+        {
+          "mes": "julio",
+          "valor": "Columna10"
+        },
+        {
+          "mes": "agosto",
+          "valor": "Columna11"
+        },
+        {
+          "mes": "septiembre",
+          "valor": "Columna12"
+        },
+        {
+          "mes": "octubre",
+          "valor": "Columna13"
+        },
+        {
+          "mes": "noviembre",
+          "valor": "Columna14"
+        },
+        {
+          "mes": "diciembre",
+          "valor": "Columna15"
+        }
+      ]
+    },
+    {
+      "concepto": "V TEÓRICO TOTAL INCLUIDO SORIA",
+      "valor_referencia": 23604621,
+      "meses": [
+        {
+          "mes": "enero",
+          "valor": 1443918
+        },
+        {
+          "mes": "febrero",
+          "valor": 1383020
+        },
+        {
+          "mes": "marzo",
+          "valor": 1338543
+        },
+        {
+          "mes": "abril",
+          "valor": 1262501
+        },
+        {
+          "mes": "mayo",
+          "valor": 1133788
+        },
+        {
+          "mes": "junio",
+          "valor": 1069119
+        },
+        {
+          "mes": "julio",
+          "valor": 977373
+        },
+        {
+          "mes": "agosto",
+          "valor": 889444
+        },
+        {
+          "mes": "septiembre",
+          "valor": 815148
+        },
+        {
+          "mes": "octubre",
+          "valor": 766978
+        },
+        {
+          "mes": "noviembre",
+          "valor": 735242
+        },
+        {
+          "mes": "diciembre",
+          "valor": 710014
+        }
+      ]
+    },
+    {
+      "concepto": "VARIACIÓN TOTAL RESPECTO A MES ANTERIOR",
+      "valor_referencia": null,
+      "meses": [
+        {
+          "mes": "enero",
+          "valor": -66658
+        },
+        {
+          "mes": "febrero",
+          "valor": -60898
+        },
+        {
+          "mes": "marzo",
+          "valor": -44477
+        },
+        {
+          "mes": "abril",
+          "valor": -76042
+        },
+        {
+          "mes": "mayo",
+          "valor": -128713
+        },
+        {
+          "mes": "junio",
+          "valor": -64669
+        },
+        {
+          "mes": "julio",
+          "valor": -91746
+        },
+        {
+          "mes": "agosto",
+          "valor": -87929
+        },
+        {
+          "mes": "septiembre",
+          "valor": -74296
+        },
+        {
+          "mes": "octubre",
+          "valor": -48170
+        },
+        {
+          "mes": "noviembre",
+          "valor": -31736
+        },
+        {
+          "mes": "diciembre",
+          "valor": -25228
+        }
+      ]
+    },
+    {
+      "concepto": "%EMBALSADO TOTAL RESPECTO A Vmáx.",
+      "valor_referencia": null,
+      "meses": [
+        {
+          "mes": "enero",
+          "valor": 0.061170988511105515
+        },
+        {
+          "mes": "febrero",
+          "valor": 0.05859106994346573
+        },
+        {
+          "mes": "marzo",
+          "valor": 0.05670682024506981
+        },
+        {
+          "mes": "abril",
+          "valor": 0.05348533238470552
+        },
+        {
+          "mes": "mayo",
+          "valor": 0.04803245940699493
+        },
+        {
+          "mes": "junio",
+          "valor": 0.045292783984966334
+        },
+        {
+          "mes": "julio",
+          "valor": 0.04140600266363099
+        },
+        {
+          "mes": "agosto",
+          "valor": 0.03768092696764756
+        },
+        {
+          "mes": "septiembre",
+          "valor": 0.03453340767470912
+        },
+        {
+          "mes": "octubre",
+          "valor": 0.032492705559644446
+        },
+        {
+          "mes": "noviembre",
+          "valor": 0.031148223053443645
+        },
+        {
+          "mes": "diciembre",
+          "valor": 0.03007944927393666
+        }
+      ]
+    }
+  ],
+  "notas": [
+    "* Con el fin de no desvirtuar los datos porcentuales, en lugar de los 32.023.957 m³ de capacidad teórica del Embalse de Soria, se considera como 100% el máximo registro histórico, 13.014.589 m³ (90,77 m. de altura), alcanzado en marzo de 2011.",
+    "Desde finales de 2023, el agua embalsada en Fataga está por debajo de la toma inferior de la presa. El volumen muerto de agua (fango) existente por debjao de ese nivel no es aprovechable, por lo que a partir de mayo de 2024 se considera que el embalse está técnicamente vacío.",
+    "El jueves 22 de agosto el agua embalsada en el Vaquero llegó a la altura de la toma inferior, quedando un volumen muerto, y por lo tanto no útil de 1.333m³. A partir de septiembre de 2024 se considera que el embalse está técnicamente vacío"
+  ]
+}

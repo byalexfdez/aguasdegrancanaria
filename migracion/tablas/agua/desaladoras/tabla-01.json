@@ -1,0 +1,36 @@
+{
+  "fuente": "/agua/desaladoras.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [
+    [
+      "Usos Principales",
+      "Usos del agua desalada (hm3/año)"
+    ]
+  ],
+  "filas": [
+    [
+      "Agrario",
+      "7.3"
+    ],
+    [
+      "Urbano",
+      "48.6"
+    ],
+    [
+      "Turístico",
+      "10"
+    ],
+    [
+      "Recreativo",
+      "0"
+    ],
+    [
+      "Industrial",
+      "5"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

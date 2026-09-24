@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/tratamiento_aguas.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 22/10/2002",
+      "Título",
+      "Tratamiento aguas residuales urbanas: Real Decreto 509/1996 normas aplicables",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Real Decreto 509/1996, de 15 de marzo, de desarrollo del Real Decreto 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua Resid",
+      "",
+      "Real Decreto",
+      "España"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

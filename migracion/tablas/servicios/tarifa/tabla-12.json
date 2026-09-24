@@ -1,0 +1,32 @@
+{
+  "fuente": "/servicios/tarifa.php",
+  "indice": 12,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "",
+      "",
+      "EUROS/m³"
+    ]
+  ],
+  "filas": [
+    [
+      "1.",
+      "Uso agrícola",
+      "0.032"
+    ],
+    [
+      "2.",
+      "Uso industrial-comercial",
+      "0.072"
+    ],
+    [
+      "3.",
+      "Uso Turístico-ocio",
+      "0.048"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

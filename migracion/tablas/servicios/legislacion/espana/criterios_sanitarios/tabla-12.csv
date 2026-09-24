@@ -1,0 +1,4 @@
+﻿Volumen de agua distribuido por día en m³;Número mínimo de muestras al año
+< 100;1
+> 100 - < 1.000;2
+>1.000;1 + 1 por cada 1.000 m³/día y fracción del volumen total

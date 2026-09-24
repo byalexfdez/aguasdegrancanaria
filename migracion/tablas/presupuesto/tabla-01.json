@@ -1,0 +1,32 @@
+{
+  "fuente": "/presupuesto.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Completo",
+      ""
+    ],
+    [
+      "Resumen",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/presupuesto_completo_2025.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/presupuesto_2025.pdf"
+    }
+  ]
+}

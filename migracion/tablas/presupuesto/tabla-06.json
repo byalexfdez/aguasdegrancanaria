@@ -1,0 +1,68 @@
+{
+  "fuente": "/presupuesto.php",
+  "indice": 6,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Completo",
+      ""
+    ],
+    [
+      "Resumen",
+      ""
+    ],
+    [
+      "Detallado",
+      ""
+    ],
+    [
+      "Liquidación del Presupuesto",
+      ""
+    ],
+    [
+      "Rendición de Cuentas",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/presupuesto_completo_-2020.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/presupuesto_2020.pdf"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/presupuesto_2020.xlsx"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/presupuesto_2020.ods"
+    },
+    {
+      "fila": 4,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/liquidacion_presupuesto_2020.pdf"
+    },
+    {
+      "fila": 5,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rendicioncuenta2020.pdf"
+    }
+  ]
+}

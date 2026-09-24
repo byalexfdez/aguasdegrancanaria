@@ -1,0 +1,64 @@
+---
+import { getCollection, render } from 'astro:content';
+import Pagina from '../layouts/Pagina.astro';
+import Hub from '../components/plantillas/Hub.astro';
+import Presas from '../components/plantillas/Presas.astro';
+import Volumenes from '../components/plantillas/Volumenes.astro';
+import Censo from '../components/plantillas/Censo.astro';
+import Visor from '../components/plantillas/Visor.astro';
+import Planificacion from '../components/plantillas/Planificacion.astro';
+import Juntas from '../components/plantillas/Juntas.astro';
+import Organos from '../components/plantillas/Organos.astro';
+import Contacto from '../components/plantillas/Contacto.astro';
+import NormativaIndice from '../components/plantillas/NormativaIndice.astro';
+import Normativa from '../components/plantillas/Normativa.astro';
+import Anuncios from '../components/plantillas/Anuncios.astro';
+import Avisos from '../components/plantillas/Avisos.astro';
+import Buscar from '../components/plantillas/Buscar.astro';
+import CentroDocumentos from '../components/plantillas/CentroDocumentos.astro';
+import MapaWeb from '../components/plantillas/MapaWeb.astro';
+import Pluviometros from '../components/plantillas/Pluviometros.astro';
+
+export async function getStaticPaths() {
+  const paginas = await getCollection('paginas');
+  return paginas
+    .filter((p) => !['/', '/actualidad/noticias/'].includes(p.data.url))
+    .map((p) => ({ params: { slug: p.data.url.replace(/^\/|\/$/g, '') }, props: { entrada: p } }));
+}
+
+const { entrada } = Astro.props;
+const d = entrada.data;
+const { Content, headings } = await render(entrada);
+const ANCHAS = new Set(['censo', 'visor', 'buscar', 'centro-documentos', 'mapa-web']);
+const SIN_SUBMENU = new Set(['buscar', 'centro-documentos', 'mapa-web']);
+const p = d.plantilla;
+---
+<Pagina
+  titulo={d.titulo}
+  descripcion={d.descripcion}
+  url={d.url}
+  antetitulo={d.antetitulo}
+  entradilla={d.entradilla}
+  actualizado={d.ultima_actualizacion}
+  conSubmenu={!SIN_SUBMENU.has(p) && !(p === 'hub' && d.nodo === d.seccion)}
+  ancho={ANCHAS.has(p) ? 'completo' : 'normal'}
+>
+  {p === 'hub' && <Hub entrada={entrada}><Content /></Hub>}
+  {p === 'presas' && <Presas entrada={entrada}><Content /></Presas>}
+  {p === 'volumenes' && <Volumenes entrada={entrada}><Content /></Volumenes>}
+  {p === 'censo' && <Censo entrada={entrada}><Content /></Censo>}
+  {p === 'visor' && <Visor entrada={entrada}><Content /></Visor>}
+  {p === 'planificacion' && <Planificacion entrada={entrada} headings={headings}><Content /></Planificacion>}
+  {p === 'juntas' && <Juntas entrada={entrada}><Content /></Juntas>}
+  {p === 'organos' && <Organos entrada={entrada} headings={headings}><Content /></Organos>}
+  {p === 'contacto' && <Contacto entrada={entrada}><Content /></Contacto>}
+  {p === 'normativa-indice' && <NormativaIndice entrada={entrada}><Content /></NormativaIndice>}
+  {p === 'normativa' && <Normativa entrada={entrada} headings={headings}><Content /></Normativa>}
+  {p === 'anuncios' && <Anuncios entrada={entrada} />}
+  {p === 'avisos' && <Avisos entrada={entrada} />}
+  {p === 'buscar' && <Buscar />}
+  {p === 'centro-documentos' && <CentroDocumentos />}
+  {p === 'mapa-web' && <MapaWeb />}
+  {p === 'pluviometros' && <Pluviometros entrada={entrada}><Content /></Pluviometros>}
+  {p === 'pagina' && <article class="prosa"><Content /></article>}
+</Pagina>

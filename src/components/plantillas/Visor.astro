@@ -1,0 +1,17 @@
+---
+// Integra un visor cartográfico existente (se conserva tal cual en /visores/).
+import Icono from '../Icono.astro';
+const { entrada } = Astro.props;
+const VISORES: Record<string, string> = {
+  cauces: '/visores/Catalogo_Cauces/index.html',
+};
+const src = VISORES[entrada.data.nodo];
+---
+<div class="grid gap-4">
+  <div class="flex flex-wrap items-center justify-between gap-3">
+    <p class="text-texto-suave">Visor cartográfico del Consejo. Puede usarse con ratón, teclado o pantalla táctil.</p>
+    <a href={src} target="_blank" rel="noopener" class="boton boton-borde">Abrir a pantalla completa <Icono nombre="externo" tam={16} /><span class="sr-only"> (abre en una ventana nueva)</span></a>
+  </div>
+  <iframe src={src} title={entrada.data.titulo} class="w-full h-[78vh] min-h-[30rem] rounded-[var(--radius-tarjeta)] border border-borde bg-superficie-2" loading="lazy"></iframe>
+  {entrada.body?.trim() && <div class="sr-only"><slot /></div>}
+</div>

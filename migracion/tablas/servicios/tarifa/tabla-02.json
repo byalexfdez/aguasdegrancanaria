@@ -1,0 +1,37 @@
+{
+  "fuente": "/servicios/tarifa.php",
+  "indice": 2,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "",
+      "",
+      "EUROS"
+    ]
+  ],
+  "filas": [
+    [
+      "1.",
+      "Títulos, nombramientos y credenciales",
+      "9,30"
+    ],
+    [
+      "2.",
+      "Licencias",
+      "9,30"
+    ],
+    [
+      "3.",
+      "Permuta de funcionarios",
+      "9,30"
+    ],
+    [
+      "4.",
+      "Reconocimiento de derechos pasivos a favor\ndel personal o de sus causahabientes",
+      "9,30"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

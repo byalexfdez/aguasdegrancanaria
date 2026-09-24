@@ -1,0 +1,32 @@
+{
+  "fuente": "/servicios/tarifa.php",
+  "indice": 4,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "",
+      "",
+      "EUROS"
+    ]
+  ],
+  "filas": [
+    [
+      "1.",
+      "Expedición de certificados de documentos, acuerdos,\nestados de tramitación de procedimientos, de\ninscripción, de renovaciones, de modificaciones\nen el Registro Insular de Aguas y otras certificaciones.",
+      "12.70"
+    ],
+    [
+      "2.",
+      "Compulsa de documentos, por página.",
+      "3.15"
+    ],
+    [
+      "3.",
+      "Bastanteo de poderes que hayan de surtir efecto en este Organismo.",
+      "14.55"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

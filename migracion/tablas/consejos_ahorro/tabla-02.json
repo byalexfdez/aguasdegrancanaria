@@ -1,0 +1,48 @@
+{
+  "fuente": "/consejos_ahorro.php",
+  "indice": 2,
+  "titulo": "AL LAVAR LA ROPA... · ¿Qué hacer?, ¿Cuánto ahorraríamos?",
+  "columnas": 3,
+  "cabeceras": [],
+  "filas": [
+    [
+      "",
+      "Si llenas el tambor de la lavadora harás menos lavados.\nAhorrarás hasta 100 litros de agua y entre 1 y 2 kWh con\ncada lavado que no hagas.",
+      ""
+    ],
+    [
+      "Puedes usar el agua de los aclarados en la limpieza de las aceras,\nterrazas, azoteas, escaleras, etc. Ahorrarás hasta 20 litros\nde agua.",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Compra electrodomésticos de bajo consumo (Clase A o B) aunque te sean\nun poco más caros. Ahorrarás el 50% de agua y de energía\ny en poco tiempo recuperarás ese dinero.",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 2,
+      "columna": 0,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-09.svg",
+      "imagen": true
+    },
+    {
+      "fila": 3,
+      "columna": 2,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-10.svg",
+      "imagen": true
+    },
+    {
+      "fila": 4,
+      "columna": 0,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-11.svg",
+      "imagen": true
+    }
+  ]
+}

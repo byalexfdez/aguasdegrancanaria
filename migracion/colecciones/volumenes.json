@@ -1,0 +1,32 @@
+{
+  "anios_con_datos": [
+    {
+      "anio": 2026,
+      "hoja": "2026",
+      "fichero": "/documentos/pdfs/presas/volumenes/2026.xlsx",
+      "presas": 8,
+      "datos_mensuales": 68
+    },
+    {
+      "anio": 2025,
+      "hoja": "2025",
+      "fichero": "/documentos/pdfs/presas/volumenes/2026.xlsx",
+      "presas": 8,
+      "datos_mensuales": 95
+    },
+    {
+      "anio": 2024,
+      "hoja": "2024",
+      "fichero": "/documentos/pdfs/presas/volumenes/2026.xlsx",
+      "presas": 8,
+      "datos_mensuales": 96
+    }
+  ],
+  "solo_en_pdf": [
+    "/documentos/pdfs/presas/volumenes/20210930.pdf",
+    "/documentos/pdfs/presas/volumenes/20211031.pdf",
+    "/documentos/pdfs/presas/volumenes/2023.pdf",
+    "/documentos/pdfs/presas/volumenes/2024.pdf"
+  ],
+  "registros_csv": 259
+}

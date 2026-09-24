@@ -1,0 +1,103 @@
+---
+import 'leaflet/dist/leaflet.css';
+// Mapa interactivo del Censo de Instalaciones Hidráulicas Subterráneas (datos del visor original).
+import Icono from '../Icono.astro';
+import censo from '../../data/censo-resumen.json';
+import { numero } from '../../lib/formato';
+const { entrada } = Astro.props;
+const et = censo.etiquetas as { municipio: Record<string, string>; tipo: Record<string, string>; estado: Record<string, string> };
+const TIPOS = censo.tipos as Record<string, number>;
+const COLORES: Record<string, string> = { mixed_well: '#16649c', well: '#0b7671', gallery: '#a94a0c', exploration: '#7c3aed', boring: '#b42318', other: '#5b6572' };
+---
+<div class="grid gap-6 [&>*]:min-w-0">
+  <div class="grid gap-4 sm:grid-cols-3 lg:grid-cols-5">
+    <div class="tarjeta p-5"><p class="text-sm text-texto-suave">Instalaciones censadas</p><p class="font-display text-3xl font-bold text-marca-700 dark:text-marca-300">{numero(censo.total)}</p></div>
+    {Object.entries(censo.estados).sort((a, b) => b[1] - a[1]).map(([k, v]) => (
+      <div class="tarjeta p-5"><p class="text-sm text-texto-suave">{et.estado[k] ?? k}</p><p class="font-display text-3xl font-bold">{numero(v)}</p></div>
+    ))}
+  </div>
+
+  <form class="tarjeta p-4 grid gap-3 md:grid-cols-[1.4fr_1fr_1fr_1fr_auto] items-end" id="filtros-censo" aria-label="Filtrar instalaciones">
+    <label class="grid gap-1 text-sm font-semibold">Buscar por código o nombre
+      <input type="search" name="q" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal" placeholder="Ej.: TR190-IHS" />
+    </label>
+    <label class="grid gap-1 text-sm font-semibold">Municipio
+      <select name="m" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal"><option value="">Todo</option>{Object.entries(et.municipio).map(([k, v]) => <option value={k}>{v}</option>)}</select>
+    </label>
+    <label class="grid gap-1 text-sm font-semibold">Tipo de instalación
+      <select name="t" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal"><option value="">Todo</option>{Object.entries(et.tipo).map(([k, v]) => <option value={k}>{v}</option>)}</select>
+    </label>
+    <label class="grid gap-1 text-sm font-semibold">Estado de la instalación
+      <select name="s" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal"><option value="">Todo</option>{Object.entries(et.estado).map(([k, v]) => <option value={k}>{v}</option>)}</select>
+    </label>
+    <button type="reset" class="boton boton-borde justify-center">Limpiar</button>
+  </form>
+
+  <p id="censo-resultado" class="text-sm text-texto-suave" role="status" aria-live="polite">Cargando datos del censo…</p>
+
+  <div class="grid gap-4 lg:grid-cols-[1fr_20rem]">
+    <div id="mapa-censo" class="h-[70vh] min-h-[28rem] rounded-[var(--radius-tarjeta)] border border-borde bg-superficie-2 overflow-hidden" role="region" aria-label="Mapa de instalaciones hidráulicas subterráneas"></div>
+    <aside class="tarjeta p-5 text-sm">
+      <h2 class="font-display font-bold text-base">Leyenda</h2>
+      <ul class="mt-3 grid gap-2">
+        {Object.entries(et.tipo).map(([k, v]) => <li class="flex items-center gap-2"><span class="size-3.5 rounded-full border-2" style={`background:${COLORES[k]}66;border-color:${COLORES[k]}`} aria-hidden="true"></span>{v} <span class="ml-auto tabular-nums text-texto-suave">{numero(TIPOS[k] ?? 0)}</span></li>)}
+      </ul>
+      <p class="mt-5 text-texto-suave">Cada instalación enlaza su ficha en PDF. Las coordenadas X e Y se muestran tal como figuran en el censo.</p>
+      <p class="mt-4"><a href="/visores/CensoInstalaciones/map-censo.html" target="_blank" rel="noopener" class="inline-flex items-center gap-1 font-semibold">Abrir el visor original <Icono nombre="externo" tam={14} /><span class="sr-only"> (abre en una ventana nueva)</span></a></p>
+    </aside>
+  </div>
+
+  <details class="tarjeta p-5">
+    <summary class="cursor-pointer font-display font-bold">Ver los resultados como listado (primeros 200)</summary>
+    <div class="tabla-contenedor mt-4" tabindex="0" role="region" aria-label="Listado de instalaciones">
+      <table><thead><tr><th scope="col">Código</th><th scope="col">Nombre de la instalación</th><th scope="col">Municipio</th><th scope="col">Tipo</th><th scope="col">Estado</th><th scope="col">Ficha</th></tr></thead><tbody id="censo-lista"></tbody></table>
+    </div>
+  </details>
+  {entrada.body?.trim() && <div class="sr-only"><slot /></div>}
+</div>
+
+<script define:vars={{ et, COLORES }}>
+  window.__censo = { et, COLORES };
+</script>
+<script>
+  import L from 'leaflet';
+  type R = { id: number; c: string; n: string; t: string; m: string; s: string; x: string; y: string; p: string; lat: number; lon: number };
+  const { et, COLORES } = (window as any).__censo;
+  const FICHA = (id: number) => `https://www.aguasgrancanaria.com/cartografia/CIfichas/${id}/public.pdf`;
+  const esc = (s: string) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]!));
+  const ISLA = L.latLngBounds([27.73, -15.84], [28.19, -15.35]);
+  const mapa = L.map('mapa-censo', { preferCanvas: true, scrollWheelZoom: false }).fitBounds(ISLA);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18, attribution: '© colaboradores de <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>' }).addTo(mapa);
+  const capa = L.layerGroup().addTo(mapa);
+  const form = document.getElementById('filtros-censo') as HTMLFormElement;
+  const res = document.getElementById('censo-resultado')!;
+  const lista = document.getElementById('censo-lista')!;
+  let datos: R[] = [];
+  const popup = (r: R) => `<table class="text-sm"><tbody>
+    <tr><th scope="row">Código:</th><td>${esc(r.c)}</td></tr>
+    <tr><th scope="row">Número de expediente principal:</th><td>${esc(r.p)}</td></tr>
+    <tr><th scope="row">Nombre de la instalación:</th><td>${esc(r.n)}</td></tr>
+    <tr><th scope="row">Municipio:</th><td>${esc(et.municipio[r.m] ?? r.m)}</td></tr>
+    <tr><th scope="row">Tipo:</th><td>${esc(et.tipo[r.t] ?? r.t)}</td></tr>
+    <tr><th scope="row">X:</th><td>${parseInt(r.x)}</td></tr><tr><th scope="row">Y:</th><td>${parseInt(r.y)}</td></tr>
+    <tr><th scope="row">Estado:</th><td>${esc(et.estado[r.s] ?? r.s)}</td></tr></tbody></table>
+    <a class="boton boton-primario mt-2 !text-white" href="${FICHA(r.id)}" target="_blank" rel="noopener">Descargar ficha (PDF)</a>`;
+  const pintar = () => {
+    const f = new FormData(form);
+    const q = String(f.get('q') ?? '').trim().toLowerCase();
+    const m = f.get('m'), t = f.get('t'), s = f.get('s');
+    const sel = datos.filter((r) => (!m || r.m === m) && (!t || r.t === t) && (!s || r.s === s) && (!q || r.c.toLowerCase().includes(q) || r.n.toLowerCase().includes(q)));
+    capa.clearLayers();
+    for (const r of sel) {
+      if (r.lat == null) continue;
+      L.circleMarker([r.lat, r.lon], { radius: 5, color: COLORES[r.t] ?? '#333', weight: 1.5, fillColor: COLORES[r.t] ?? '#333', fillOpacity: .45 }).bindPopup(popup(r), { maxWidth: 320 }).addTo(capa);
+    }
+    res.textContent = `${sel.length.toLocaleString('es-ES')} instalaciones mostradas de ${datos.length.toLocaleString('es-ES')}.`;
+    lista.innerHTML = sel.slice(0, 200).map((r) => `<tr><td>${esc(r.c)}</td><td>${esc(r.n)}</td><td>${esc(et.municipio[r.m] ?? r.m)}</td><td>${esc(et.tipo[r.t] ?? r.t)}</td><td>${esc(et.estado[r.s] ?? r.s)}</td><td><a href="${FICHA(r.id)}" target="_blank" rel="noopener">Ficha PDF</a></td></tr>`).join('');
+    if (sel.length && sel.length < datos.length) { const b = L.latLngBounds(sel.filter((r) => r.lat != null).map((r) => [r.lat, r.lon] as [number, number])); if (b.isValid()) mapa.fitBounds(b, { maxZoom: 14, padding: [20, 20] }); }
+  };
+  fetch('/datos/censo-instalaciones.json').then((r) => r.json()).then((d) => { datos = d; pintar(); });
+  form.addEventListener('input', pintar);
+  form.addEventListener('reset', () => setTimeout(() => { pintar(); mapa.fitBounds(ISLA); }));
+  mapa.on('focus', () => mapa.scrollWheelZoom.enable());
+</script>

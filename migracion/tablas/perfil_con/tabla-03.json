@@ -1,0 +1,60 @@
+{
+  "fuente": "/perfil_con.php",
+  "indice": 3,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Contratos",
+      ""
+    ],
+    [
+      "Contratos Menores (Relación Trimestral)",
+      ""
+    ],
+    [
+      "Modificados",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/contratos_2024.xlsx"
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/contratos_2024.ods"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/contratos_menores_2024.xlsx"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/contratos_menores_2024.ods"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2024-modificados.xlsx"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2024-modificados.ods"
+    }
+  ]
+}

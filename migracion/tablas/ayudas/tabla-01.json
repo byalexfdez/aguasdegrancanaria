@@ -1,0 +1,52 @@
+{
+  "fuente": "/ayudas.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Anuncio del BOC",
+      ""
+    ],
+    [
+      "Bases de la convocatoria",
+      ""
+    ],
+    [
+      "Baremos Estándar de Coste Unitario: BECU",
+      ""
+    ],
+    [
+      "Enlace al Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/boc-a-2024-259-4424.pdf"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/bases_convocatoria.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/resolucion_becu2024_agricultura.pdf"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/803873"
+    }
+  ]
+}

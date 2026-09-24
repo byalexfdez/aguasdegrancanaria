@@ -1,0 +1,52 @@
+{
+  "fuente": "/inundaciones.php",
+  "indice": 1,
+  "titulo": "EPRI del 3º Ciclo del Plan de Inundaciones",
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Anuncio del BOC",
+      ""
+    ],
+    [
+      "Memoria - Noviembre 2024",
+      ""
+    ],
+    [
+      "Anexo 1 - Planos",
+      ""
+    ],
+    [
+      "Anexo 2 - Fichas",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/inundaciones/boc-a-2025-003-66_7-de-enero-de-2025.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/inundaciones/es120_epri_memoria-02_00.pdf"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/inundaciones/es120_epri_anexo1_planos-02_00.pdf"
+    },
+    {
+      "fila": 4,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/inundaciones/es120_epri_anexo2_fichas-02_00.pdf"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fuente": "/servicios/legislacion/españa/contratos_administraciones.php",
+  "indice": 9,
+  "titulo": null,
+  "columnas": 4,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Importancia de la asistencia técnica contratada",
+      "Escasa",
+      "Media",
+      "Elevada"
+    ],
+    [
+      "Porcentaje de incremento en la puntuación",
+      "5",
+      "10",
+      "15"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

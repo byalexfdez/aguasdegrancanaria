@@ -1,0 +1,25 @@
+{
+  "fuente": "/servicios/legislacion/españa/contratos_administraciones.php",
+  "indice": 14,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Número de contratos",
+      "1",
+      "2",
+      "3",
+      "4 o más"
+    ],
+    [
+      "Coeficiente",
+      "1",
+      "0,9",
+      "0,8",
+      "0,7"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

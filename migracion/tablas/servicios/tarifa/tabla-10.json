@@ -1,0 +1,32 @@
+{
+  "fuente": "/servicios/tarifa.php",
+  "indice": 10,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "",
+      "",
+      "EUROS/m³"
+    ]
+  ],
+  "filas": [
+    [
+      "1.",
+      "Destino uso propio o autoconsumo-pequeño aprovechamiento",
+      "0.008"
+    ],
+    [
+      "2.",
+      "Destino para venta o abastecimiento a terceros, uso agrario",
+      "0.016"
+    ],
+    [
+      "3.",
+      "Destino para venta o abastecimiento a terceros, otros usos",
+      "0.032"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

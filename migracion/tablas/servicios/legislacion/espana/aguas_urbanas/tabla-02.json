@@ -1,0 +1,25 @@
+{
+  "fuente": "/servicios/legislacion/españa/aguas_urbanas.php",
+  "indice": 2,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 0,
+      "texto": "boe.gif (2116 bytes)",
+      "url": "/imagenes/img/boe.gif",
+      "imagen": true
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "escudo2.gif (2629 bytes)",
+      "url": "/imagenes/img/escudo.gif",
+      "imagen": true
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+---
+import Base from './Base.astro';
+import Migas from '../components/Migas.astro';
+import Submenu from '../components/Submenu.astro';
+import Icono from '../components/Icono.astro';
+import { migas, seccionDe } from '../lib/navegacion';
+import { fechaCorta, fechaISO } from '../lib/formato';
+
+interface Props {
+  titulo: string;
+  descripcion: string;
+  url: string;
+  antetitulo?: string;
+  entradilla?: string;
+  actualizado?: Date;
+  conSubmenu?: boolean;
+  ancho?: 'normal' | 'completo';
+  imagen?: string;
+  jsonld?: Record<string, unknown>[];
+}
+const { titulo, descripcion, url, antetitulo, entradilla, actualizado, conSubmenu = true, ancho = 'normal', jsonld = [] } = Astro.props;
+const items = migas(url);
+const seccion = seccionDe(url);
+
+// Fotografía de cabecera por sección (imágenes existentes en la web del Consejo).
+const FOTOS: Record<string, string> = {
+  'el-consejo': '/imagenes/img/verde-campos-sur-gran-canaria.webp',
+  agua: '/imagenes/img/oliver-embalses-2.webp',
+  planificacion: '/imagenes/img/chira-aerrea-canarias7.webp',
+  mapas: '/imagenes/img/lluvias-gc-oliver.webp',
+  divulgacion: '/imagenes/img/oliver-embalses.webp',
+  fondos: '/imagenes/img/gc-contra-desertizacion.webp',
+};
+const foto = Astro.props.imagen ?? (seccion ? FOTOS[seccion.id] : undefined);
+const migasLd = {
+  '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+  itemListElement: items.map((m, i) => ({ '@type': 'ListItem', position: i + 1, name: m.titulo, item: new URL(m.url, Astro.site).href })),
+};
+const tieneSubmenu = conSubmenu && !!seccion && (seccion.hijos?.length ?? 0) > 0;
+---
+<Base titulo={titulo} descripcion={descripcion} url={url} imagen={foto} jsonld={[migasLd, ...jsonld]}>
+  <slot name="head" slot="head" />
+  <section class="relative isolate overflow-hidden bg-atlantico-900 text-white">
+    <div class="absolute inset-0 -z-10 ondas-fondo opacity-60" aria-hidden="true"></div>
+    {foto && (
+      <div class="absolute inset-y-0 right-0 -z-10 hidden md:block w-1/2 lg:w-[46%]" aria-hidden="true">
+        <picture><source media="(min-width: 768px)" srcset={foto} /><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="h-full w-full object-cover" fetchpriority="high" decoding="async" /></picture>
+        <div class="absolute inset-0 bg-gradient-to-r from-atlantico-900 via-atlantico-900/70 to-atlantico-900/10"></div>
+      </div>
+    )}
+    <div class="contenedor pt-8 pb-14 md:pt-10 md:pb-20">
+      <Migas items={items} claro />
+      <div class="mt-8 max-w-3xl">
+        {antetitulo && <p class="antetitulo !text-turquesa-300">{antetitulo}</p>}
+        <h1 class:list={['mt-2 font-bold', titulo.length > 70 ? 'text-[clamp(1.6rem,1.2rem+1.6vw,2.4rem)]' : 'text-[clamp(2rem,1.3rem+3vw,3.4rem)]']}>{titulo}</h1>
+        {entradilla && <p class="mt-4 text-lg md:text-xl text-white/85 max-w-2xl">{entradilla}</p>}
+        {actualizado && (
+          <p class="mt-6 inline-flex items-center gap-2 rounded-full bg-white/10 px-4 py-1.5 text-sm text-white/90">
+            <Icono nombre="calendario" tam={16} /> Última actualización: <time datetime={fechaISO(actualizado)}>{fechaCorta(actualizado)}</time>
+          </p>
+        )}
+      </div>
+    </div>
+    <svg class="absolute bottom-0 left-0 w-full h-8 md:h-12 text-fondo" viewBox="0 0 1440 48" preserveAspectRatio="none" aria-hidden="true">
+      <path fill="currentColor" d="M0 30c120-12 240-18 360-14s240 22 360 20 240-24 360-26 240 12 360 20v18H0z" />
+    </svg>
+  </section>
+
+  <div class:list={['contenedor py-10 md:py-14', tieneSubmenu && ancho === 'normal' && 'grid gap-10 lg:grid-cols-[16rem_minmax(0,1fr)] xl:gap-14']}>
+    {tieneSubmenu && ancho === 'normal' && <aside><Submenu url={url} /></aside>}
+    <div class="min-w-0">
+      <slot />
+    </div>
+  </div>
+</Base>

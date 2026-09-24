@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/canarias/tramitacion.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 24/09/2004",
+      "Título",
+      "Tramitación de los expedientes de autorización de los vertidos de tierra al mar",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Obtención de la concesión de ocupación de Dominio Público marítimo-terrestre y de la autorización de vertido a las aguas litorales mediante la instalación de una conducción de vertido.",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "MAmb",
+      "",
+      "Varios",
+      "Canarias",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

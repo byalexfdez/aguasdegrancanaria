@@ -1,0 +1,21 @@
+{
+  "fuente": "/servicios/tarifas.php",
+  "indice": 10,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [],
+  "filas": [
+    [
+      "1.",
+      "Inscripción para pruebas de selección de personal convocadas por el CIAGC",
+      "21,96"
+    ],
+    [
+      "2.",
+      "Certificación de asistencia o participación en pruebas de acceso de selección de personal convocadas por el CIAGC",
+      "5,42"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

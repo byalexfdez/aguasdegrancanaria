@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/construccion_explotacion.php",
+  "indice": 2,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Gravedad",
+      "P"
+    ],
+    [
+      "Contrafuertes",
+      "F"
+    ],
+    [
+      "Bóveda de radio constante",
+      "VRC"
+    ],
+    [
+      "Bóveda de ángulo constante",
+      "VAC"
+    ],
+    [
+      "Bóvedas múltiples",
+      "VM"
+    ],
+    [
+      "Cúpula",
+      "C"
+    ],
+    [
+      "Cúpulas múltiples",
+      "DM"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

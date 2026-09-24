@@ -1,0 +1,34 @@
+{
+  "fuente": "/servicios/legislacion/europa/directiva_subterranea.php",
+  "indice": 2,
+  "titulo": "UNIÓN EUROPEA · EL PARLAMENTO EUROPEO EL CONSEJO",
+  "columnas": 3,
+  "cabeceras": [],
+  "filas": [
+    [
+      "(OR. en)",
+      "Estrasburgo, 12 de diciembre de 2006",
+      ""
+    ],
+    [
+      "2003/0210 (COD)",
+      "LEX 750Ccccc",
+      "REV 4"
+    ],
+    [
+      "CODEC 1199",
+      "ENV 577",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 1,
+      "columna": 0,
+      "texto": "",
+      "url": "/imagenes/img/ue.gif",
+      "imagen": true
+    }
+  ]
+}

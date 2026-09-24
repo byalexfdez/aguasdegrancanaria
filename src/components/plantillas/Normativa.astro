@@ -1,0 +1,43 @@
+---
+// Ficha de norma: metadatos + índice lateral (textos largos) + texto completo.
+import Icono from '../Icono.astro';
+const { entrada, headings = [] } = Astro.props;
+const n = entrada.data.norma ?? {};
+const indice = headings.filter((h: any) => h.depth <= 3);
+const filas = [
+  ['Título', n.titulo], ['Descripción', n.descripcion], ['Categoría', n.categoria], ['Ámbito', n.ambito_ficha ?? n.ambito],
+  ['Código', n.codigo], ['Aprobado', n.aprobado], ['Creada el', n.creada],
+].filter(([, v]) => v);
+const largo = (entrada.body?.length ?? 0) > 20000;
+---
+<div class:list={['grid gap-10', indice.length > 4 && largo && 'xl:grid-cols-[minmax(0,1fr)_15rem]']}>
+  <div class="min-w-0">
+    <section class="tarjeta p-6" aria-labelledby="t-ficha">
+      <div class="flex flex-wrap items-center gap-2">
+        <h2 id="t-ficha" class="font-display text-lg font-bold mr-auto">Ficha de la norma</h2>
+        {n.estado && <span class="chip !bg-alerta-100 !text-alerta-700">{n.estado === 'derogada' ? 'Derogada' : 'Derogada parcialmente'}</span>}
+      </div>
+      <dl class="mt-4 grid gap-x-6 gap-y-2 sm:grid-cols-[11rem_1fr] text-[.95rem]">
+        {filas.map(([k, v]) => <><dt class="font-semibold text-texto-suave">{k}</dt><dd>{v}</dd></>)}
+      </dl>
+      {n.enlaces_oficiales?.length > 0 && (
+        <div class="mt-5 border-t border-borde pt-4">
+          <p class="text-sm font-semibold text-texto-suave">Enlaces oficiales</p>
+          <ul class="mt-2 flex flex-wrap gap-2">{n.enlaces_oficiales.map((e: any) => <li><a href={e.url} target="_blank" rel="noopener noreferrer" class="chip !text-marca-800 enlace-externo no-underline hover:!bg-marca-100">{e.texto || new URL(e.url).hostname}<span class="sr-only"> (abre en una ventana nueva)</span></a></li>)}</ul>
+        </div>
+      )}
+    </section>
+    <article class="prosa mt-10"><slot /></article>
+  </div>
+  {indice.length > 4 && largo && (
+    <nav aria-label="Índice del texto" class="hidden xl:block">
+      <div class="sticky top-28 max-h-[calc(100vh-9rem)] overflow-y-auto pr-2">
+        <p class="antetitulo">Índice</p>
+        <ol class="mt-3 grid gap-1 border-l border-borde text-sm">
+          {indice.map((h: any) => <li><a href={`#${h.slug}`} class:list={['block -ml-px border-l-2 border-transparent py-1 no-underline text-texto-suave hover:border-marca-500 hover:text-texto', h.depth === 3 ? 'pl-6' : 'pl-3']}>{h.text}</a></li>)}
+        </ol>
+        <a href="#contenido" class="mt-4 inline-flex items-center gap-1 text-sm"><Icono nombre="abajo" tam={14} clase="rotate-180" /> Volver arriba</a>
+      </div>
+    </nav>
+  )}
+</div>

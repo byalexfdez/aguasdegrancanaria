@@ -1,0 +1,112 @@
+---
+// Red pluviométrica: mapa, gráfica y tabla a partir de la «Tabla 1» publicada en Excel (pluviometria.xls),
+// con la ficha de ajuste estadístico de cada estación (extraída del ZIP publicado). El contenido original se mantiene debajo.
+import 'leaflet/dist/leaflet.css';
+import fs from 'node:fs';
+import path from 'node:path';
+import Icono from '../Icono.astro';
+import { numero } from '../../lib/formato';
+const { entrada } = Astro.props;
+const datos = JSON.parse(fs.readFileSync(path.resolve('public/datos/pluviometros.json'), 'utf8'));
+const est = datos.estaciones as any[];
+const conMedia = est.filter((e) => e.media != null);
+const media = conMedia.reduce((s, e) => s + e.media, 0) / conMedia.length;
+const maxima = conMedia.reduce((a, e) => (e.media > a.media ? e : a));
+const ZONAS: Record<string, string> = { N: 'Norte', S: 'Sur', O: 'Oeste' };
+---
+<div class="grid gap-4 sm:grid-cols-3">
+  <div class="tarjeta p-5"><p class="text-sm text-texto-suave">Estaciones en la tabla</p><p class="font-display text-3xl font-bold text-marca-700 dark:text-marca-300">{est.length}</p></div>
+  <div class="tarjeta p-5"><p class="text-sm text-texto-suave">Media de las medias anuales</p><p class="font-display text-3xl font-bold">{numero(media)} mm</p></div>
+  <div class="tarjeta p-5"><p class="text-sm text-texto-suave">Mayor media anual</p><p class="font-display text-3xl font-bold">{numero(maxima.media)} mm</p><p class="text-sm text-texto-suave">{maxima.nombre} ({maxima.cota} m)</p></div>
+</div>
+<p class="mt-3 text-sm text-texto-suave">Datos de la <a href={datos.fuente} class="doc-link" data-formato="xls">Tabla 1.- Características principales de las estaciones pluviométricas</a>. {datos.notas.join(' ')}</p>
+
+<section class="mt-10 grid gap-6 lg:grid-cols-[1.3fr_1fr] [&>*]:min-w-0" aria-label="Mapa y gráfica de la red pluviométrica">
+  <figure class="tarjeta p-4">
+    <figcaption class="font-display font-bold">Estaciones por media anual</figcaption>
+    <div id="mapa-pluvio" class="mt-3 h-[28rem] rounded-2xl overflow-hidden bg-superficie-2" role="region" aria-label="Mapa de estaciones pluviométricas"></div>
+    <p class="mt-2 flex flex-wrap items-center gap-3 text-xs text-texto-suave"><span>Media anual (mm):</span>
+      {[['< 200', '#b9dff5'], ['200–400', '#6fbfe8'], ['400–600', '#2d8fd0'], ['600–800', '#16649c'], ['> 800', '#0a2440']].map(([t, c]) => <span class="inline-flex items-center gap-1"><span class="size-3 rounded-full" style={`background:${c}`}></span>{t}</span>)}
+      <span>· Posición aproximada a partir de las coordenadas UTM de la tabla.</span></p>
+  </figure>
+  <figure class="tarjeta p-4">
+    <figcaption class="font-display font-bold">Media anual según la cota, por zona</figcaption>
+    <div id="grafica-pluvio" class="mt-3 h-[28rem]" role="img" aria-label="Gráfica de dispersión de la precipitación media anual frente a la cota de cada estación, por zonas Norte, Sur y Oeste"></div>
+  </figure>
+</section>
+
+<section class="mt-10" aria-labelledby="t-tabla-pluvio">
+  <div class="flex flex-wrap items-end justify-between gap-3">
+    <h2 id="t-tabla-pluvio" class="font-display text-2xl font-bold">Tabla 1.- Características principales de las estaciones pluviométricas</h2>
+    <label class="grid gap-1 text-sm font-semibold">Buscar estación
+      <input id="buscar-estacion" type="search" class="rounded-xl border border-borde bg-superficie px-3 py-1.5 font-normal" placeholder="Nombre o número" />
+    </label>
+  </div>
+  <div class="tabla-contenedor" tabindex="0" role="region" aria-label="Tabla de estaciones pluviométricas" data-tabla>
+    <table data-ordenable>
+      <thead><tr>{datos.columnas.map((c: string) => <th scope="col">{c}</th>)}<th scope="col">Ficha</th></tr></thead>
+      <tbody id="tabla-pluvio">
+        {est.map((e) => (
+          <tr data-q={`${e.n} ${e.nombre}`.toLowerCase()}>
+            <td class="num">{e.n}</td><td>{e.red ?? ''}</td><td>{e.nombre}</td><td class="num">{e.x ?? ''}</td><td class="num">{e.y ?? ''}</td><td class="num">{e.cota ?? ''}</td>
+            <td>{e.zona ?? ''}</td><td class="num">{e.cuenca ?? ''}</td><td class="num">{e.inicio ?? ''}</td><td class="num">{e.fin ?? ''}</td>
+            <td class="num">{e.media ?? ''}</td><td class="num">{e.maxMensual ?? ''}</td><td class="num">{e.maxDiaria ?? ''}</td>
+            <td>{e.ficha ? <a href={e.ficha} class="inline-flex items-center gap-1 whitespace-nowrap"><Icono nombre="documento" tam={15} />PDF<span class="sr-only"> ficha de {e.nombre}</span></a> : '—'}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<article class="prosa mt-14"><slot /></article>
+
+<script define:vars={{ est, ZONAS }}>window.__pluvio = { est, ZONAS };</script>
+<script>
+  import L from 'leaflet';
+  import * as echarts from 'echarts/core';
+  import { ScatterChart } from 'echarts/charts';
+  import { GridComponent, TooltipComponent, LegendComponent, AriaComponent } from 'echarts/components';
+  import { CanvasRenderer } from 'echarts/renderers';
+  echarts.use([ScatterChart, GridComponent, TooltipComponent, LegendComponent, AriaComponent, CanvasRenderer]);
+  const { est, ZONAS } = (window as any).__pluvio;
+  const esc = (s: string) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]!));
+  const color = (m: number | null) => (m == null ? '#aab1ba' : m < 200 ? '#b9dff5' : m < 400 ? '#6fbfe8' : m < 600 ? '#2d8fd0' : m < 800 ? '#16649c' : '#0a2440');
+  const el = document.getElementById('mapa-pluvio');
+  if (el) {
+    const mapa = L.map(el, { scrollWheelZoom: false, preferCanvas: true }).fitBounds([[27.73, -15.84], [28.19, -15.35]]);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18, attribution: '© colaboradores de <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>' }).addTo(mapa);
+    mapa.on('focus', () => mapa.scrollWheelZoom.enable());
+    for (const e of est) {
+      if (e.lat == null) continue;
+      L.circleMarker([e.lat, e.lon], { radius: 6, color: '#fff', weight: 1, fillColor: color(e.media), fillOpacity: .95 })
+        .bindTooltip(`${e.n} · ${esc(e.nombre)}`)
+        .bindPopup(`<p class="font-display font-bold">${e.n} · ${esc(e.nombre)}</p><table class="text-sm"><tbody>
+          <tr><th scope="row" class="pr-3 text-left">Cota</th><td>${e.cota ?? '—'} m</td></tr>
+          <tr><th scope="row" class="pr-3 text-left">Zona</th><td>${esc(e.zona ?? '—')}</td></tr>
+          <tr><th scope="row" class="pr-3 text-left">Años</th><td>${e.inicio ?? '—'}${e.fin ? '–' + e.fin : ''}</td></tr>
+          <tr><th scope="row" class="pr-3 text-left">Media anual</th><td>${e.media ?? '—'} mm</td></tr>
+          <tr><th scope="row" class="pr-3 text-left">Máxima mensual</th><td>${e.maxMensual ?? '—'} mm</td></tr>
+          <tr><th scope="row" class="pr-3 text-left">Máx. diaria</th><td>${e.maxDiaria ?? '—'} mm</td></tr></tbody></table>`
+          + (e.ficha ? `<a class="boton boton-primario mt-2 !text-white" href="${e.ficha}" target="_blank" rel="noopener">Ficha de la estación (PDF)</a>` : ''))
+        .addTo(mapa);
+    }
+  }
+  const g = document.getElementById('grafica-pluvio');
+  if (g) {
+    const c = echarts.init(g);
+    const oscuro = document.documentElement.dataset.tema === 'oscuro';
+    c.setOption({
+      aria: { enabled: true }, textStyle: { fontFamily: 'Public Sans Variable, sans-serif', color: oscuro ? '#e9eef4' : '#161b21' },
+      grid: { left: 56, right: 16, top: 64, bottom: 44 }, legend: { top: 0, right: 0 },
+      tooltip: { trigger: 'item', formatter: (p: any) => `${p.data[2]}<br>Cota: ${p.data[0]} m<br>Media anual: ${p.data[1]} mm` },
+      xAxis: { type: 'value', name: 'Cota (m)', nameLocation: 'middle', nameGap: 28 },
+      yAxis: { type: 'value', name: 'Media anual (mm)', nameTextStyle: { align: 'left' } },
+      series: Object.entries(ZONAS).map(([k, nombre], i) => ({ name: nombre, type: 'scatter', symbolSize: 8, color: ['#16649c', '#e8762c', '#15a8a0'][i],
+        data: est.filter((e: any) => (e.zona ?? '')[0] === k && e.media != null && e.cota != null).map((e: any) => [e.cota, e.media, e.nombre]) })),
+    });
+    addEventListener('resize', () => c.resize());
+  }
+  const b = document.getElementById('buscar-estacion') as HTMLInputElement | null;
+  b?.addEventListener('input', () => { const q = b.value.trim().toLowerCase(); document.querySelectorAll<HTMLElement>('#tabla-pluvio tr').forEach((tr) => { tr.hidden = !!q && !tr.dataset.q!.includes(q); }); });
+</script>

@@ -1,0 +1,365 @@
+---
+titulo: "Nitratos: protección de las aguas contra la contaminación producida por los nitratos proce"
+titulo_html: null
+ruta_antigua: "/servicios/legislacion/españa/nitratos.php"
+url_antigua: "https://www.aguasgrancanaria.com/servicios/legislacion/espa%C3%B1a/nitratos.php"
+seccion: "Servicios › Normativa"
+origen: "inventario"
+ultima_actualizacion: null
+ultima_actualizacion_texto: null
+encabezados: 
+  - nivel: 4
+    texto: "Contenido:"
+documentos: []
+imagenes: 
+  - url_antigua: "https://www.aguasgrancanaria.com/img/logociagc_cian_peq_agua_clara.gif"
+    ruta_nueva: "/imagenes/img/logociagc_cian_peq_agua_clara.gif"
+    alt: null
+    enlazada: false
+videos: []
+iframes: []
+enlaces_externos: 
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "Artículo 1. Objeto."
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "Artículo 2. Definiciones."
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "Artículo 3. Aguas afectadas por la contaminación por nitratos."
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "Artículo 4. Zonas vulnerables."
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "Artículo 5. Códigos de buenas prácticas agrarias."
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "Artículo 6. Programas de actuación."
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "Artículo 7. Medidas a incorporar en los programas de actuación."
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "Artículo 8. Programas de muestreo y seguimiento de la calidad de las aguas."
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "Artículo 9. Informe de situación."
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "DISPOSICIÓN FINAL PRIMERA. Fundamento constitucional y carácter básico."
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "DISPOSICIÓN FINAL SEGUNDA. Autorización de desarrollo."
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "DISPOSICIÓN FINAL TERCERA. Entrada en vigor."
+  - url: "http://noticias.juridicas.com/base_datos/Derogadas/r0-rd51-1995.html"
+    texto: "Reales Decretos 51/1995, de 20 de enero"
+  - url: "http://noticias.juridicas.com/base_datos/Derogadas/r0-rd632-1995.html"
+    texto: "632/1995, de 21 de abril"
+  - url: "http://noticias.juridicas.com/base_datos/Derogadas/r0-rd928-1995.html"
+    texto: "928/1995, de 9 de junio"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/constitucion.t8.html"
+    texto: "artículo 149.1.13, 22 y 23 de la Constitución"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "artículo 6 de la presente disposición"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd927-1988.t1.html"
+    texto: "anexo número 1 del Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, aprobado por Real Decreto 927/1988, modificado por el Real Decreto 1541/1994, de 8 de julio"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "artículo 6"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "artículo 6 de este Real Decreto"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "artículos 4"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "6"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "anejo 1"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "artículo 1 de este Real Decreto"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "anejo 2"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd927-1988.t2.html"
+    texto: "artículos 95"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd927-1988.t2.html"
+    texto: "100.3 del Real Decreto 927/1988, de 29 de julio, por el que se aprueba el Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "anejo 3 de esta disposición"
+  - url: "http://noticias.juridicas.com/base_datos/Derogadas/r0-rd1138-1990.html"
+    texto: "Real Decreto 1138/1990, de 14 de septiembre"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "anejo 4"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "anejo 5"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/constitucion.t8.html"
+    texto: "artículo 149.1.13 y 23 de la Constitución"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/constitucion.t8.html"
+    texto: "artículo 149.1.22"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "artículo 1"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "artículo 3 de este Real Decreto"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "artículo 8"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "anejos 2"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "3 del presente Real Decreto"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "artículo 7"
+  - url: "http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html"
+    texto: "artículo 7 del presente Real Decreto"
+enlaces_internos: []
+emails: []
+telefonos: []
+tablas: 
+  - archivo: "tablas/servicios/legislacion/espana/nitratos/tabla-01.json"
+    titulo: null
+    filas: 4
+    columnas: 5
+  - archivo: "tablas/servicios/legislacion/espana/nitratos/tabla-02.json"
+    titulo: null
+    filas: 0
+    columnas: 1
+referencias_rotas: []
+contenido_oculto_en_origen: []
+---
+
+<!-- tabla 01: tablas/servicios/legislacion/espana/nitratos/tabla-01.json -->
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Legislación Creada el 08/01/2007 | Título | Nitratos: protección de las aguas contra la contaminación producida por los nitratos procedentes de fuentes agrarias. |  |  |
+|  | Descripción | R.D. 261/1996, de 16 de febrero, sobre protección de las aguas contra la contaminación producida por los nitratos procedentes de fuentes agrarias. |  |  |
+|  | Código | Aprobado | Categoría | Ámbito |
+|  | Agua Cont |  | Real Decreto | España |
+
+#### Contenido:
+
+<!-- tabla 02: tablas/servicios/legislacion/espana/nitratos/tabla-02.json -->
+
+| Real Decreto 261/1996, de 16 de febrero, sobre protección de las aguas contra la contaminación producida por los nitratos procedentes de fuentes agrarias. |
+| --- |
+| --- |
+
+**Sumario:**
+
+-   [**Artículo 1.** Objeto.](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html)
+-   [**Artículo 2.** Definiciones.](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html)
+-   [**Artículo 3.** Aguas afectadas por la contaminación por nitratos.](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html)
+-   [**Artículo 4.** Zonas vulnerables.](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html)
+-   [**Artículo 5.** Códigos de buenas prácticas agrarias.](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html)
+-   [**Artículo 6.** Programas de actuación.](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html)
+-   [**Artículo 7.** Medidas a incorporar en los programas de actuación.](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html)
+-   [**Artículo 8.** Programas de muestreo y seguimiento de la calidad de las aguas.](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html)
+-   [**Artículo 9.** Informe de situación.](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html)  
+    
+-   [**DISPOSICIÓN FINAL PRIMERA.** Fundamento constitucional y carácter básico.](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html)
+-   [**DISPOSICIÓN FINAL SEGUNDA.** Autorización de desarrollo.](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html)
+-   [**DISPOSICIÓN FINAL TERCERA.** Entrada en vigor.](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html)
+
+La contaminación de las aguas causada, en determinadas circunstancias, por la producción agrícola intensiva es un fenómeno cada vez más acusado que se manifiesta, especialmente, en un aumento de la concentración de nitratos en las aguas superficiales y subterráneas, así como a la eutrofización de los embalses, estuarios y aguas litorales.
+
+De hecho, entre las fuentes difusas que contribuyen a la contaminación de las aguas, la más importante actualmente es la aplicación excesiva o inadecuada de los fertilizantes nitrogenados en la agricultura.
+
+Para paliar este problema, la Directiva 91/676/CEE, de 12 de diciembre, relativa a la protección de las aguas contra la contaminación producida por nitratos de origen agrícola, impone a los Estados miembros la obligación de identificar las aguas que se hallen afectadas por la contaminación por nitratos de esta procedencia, cuyas concentraciones deberán ser vigiladas en una serie de estaciones de muestreo. Por otra parte, establece criterios para designar como zonas vulnerables, aquellas superficies territoriales cuyo drenaje da lugar a la contaminación por nitratos. Una vez determinadas tales zonas, se deberán realizar y poner en funcionamiento programas de actuación, coordinados con técnicas agrícolas, con la finalidad de eliminar o minimizar los efectos de los nitratos sobre las aguas. Por último, la Directiva establece la obligación de emitir periódicamente informes de situación sobre este tipo de contaminación.
+
+Asimismo, el Reglamento (CEE) 2078/92, del Consejo, de 30 de junio, ha establecido las normas sobre los métodos de producción agraria compatibles con las exigencias de protección del medio ambiente y la conservación del espacio natural. Para aplicar las medidas contenidas en el mismo se han dictado los [Reales Decretos 51/1995, de 20 de enero](http://noticias.juridicas.com/base_datos/Derogadas/r0-rd51-1995.html), por el que se establece un régimen de medidas horizontales para fomentar dichos métodos; [632/1995, de 21 de abril](http://noticias.juridicas.com/base_datos/Derogadas/r0-rd632-1995.html), por el que se establece un régimen de medidas a aplicar en las zonas de influencia de los parques nacionales y de otras zonas sensibles de especial protección, para fomentar el empleo de dichos métodos, y [928/1995, de 9 de junio](http://noticias.juridicas.com/base_datos/Derogadas/r0-rd928-1995.html), por el que se establece un régimen de fomento del uso, en determinados humedales, de dichos métodos.
+
+Mediante el presente Real Decreto se incorpora a nuestro ordenamiento la Directiva 91/676/CEE, de conformidad con las competencias atribuidas al Estado por el [artículo 149.1.13, 22 y 23 de la Constitución](http://noticias.juridicas.com/base_datos/Admin/constitucion.t8.html), en materia de planificación general de la economía, de legislación sobre recursos hidráulicos cuando las aguas discurran por más de una Comunidad Autónoma y de legislación básica sobre protección del medio ambiente, respectivamente.
+
+En la elaboración del presente Real Decreto se ha consultado a las Comunidades Autónomas y a los sectores afectados.
+
+En su virtud, a propuesta de los Ministros de Obras Públicas, Transportes y Medio Ambiente, y de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 16 de febrero de 1996, dispongo:
+
+**Artículo 1.** Objeto.
+
+El presente Real Decreto tiene por objeto establecer las medidas necesarias para prevenir y corregir la contaminación de las aguas, continentales y litorales, causada por los nitratos de origen agrario.
+
+**Artículo 2.** Definiciones.
+
+A los efectos de este Real Decreto se entiende por:
+
+a. Compuesto nitrogenado: cualquier sustancia que contenga nitrógeno, excepto el nitrógeno molecular gaseoso.  
+b. Ganado: todos los animales criados con fines de aprovechamiento o lucrativos.  
+c. Fertilizante: cualquier sustancia que contenga uno o varios compuestos nitrogenados y se aplique sobre el terreno para aumentar el crecimiento de la vegetación, incluidos el estiércol, el compost, los residuos de las piscifactorías y los lodos de depuradora.  
+d. Fertilizante químico: cualquier fertilizante fabricado mediante un proceso industrial.  
+e. Estiércol: los excrementos y residuos excretados por el ganado, solos o mezclados, aunque se hubieran transformado.  
+f. Aplicación sobre el terreno: la incorporación de sustancias al suelo, extendiéndolas sobre la superficie, inyectándolas, introduciéndolas bajo la superficie o mezclándolas con las capas superficiales del suelo.  
+g. Eutrofización: el aumento de la concentración de compuestos de nitrógeno que provoca un crecimiento acelerado de las algas o las plantas acuáticas superiores, causando trastornos negativos en el equilibrio de las poblaciones biológicas presentes en el medio acuático y en la propia calidad del agua.
+
+  
+**Artículo 3.** Aguas afectadas por la contaminación por nitratos.
+
+1\. El Ministerio de Obras Públicas, Transportes y Medio Ambiente, en el caso de aguas continentales de cuencas hidrográficas que excedan del ámbito territorial de una Comunidad Autónoma, y los órganos competentes de las Comunidades Autónomas, en el resto de los casos, determinarán las masas de agua que se encuentran afectadas por la contaminación, o en riesgo de estarlo, por aportación de nitratos de origen agrario.
+
+2\. Dicha determinación se efectuará sobre aquellas masas de agua que se encuentren en las circunstancias que se indican a continuación:
+
+a. Aguas superficiales que presenten, o puedan llegar a presentar si no se actúa de conformidad con lo establecido en el [artículo 6 de la presente disposición](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html), una concentración de nitratos superior a los límites fijados en el [anexo número 1 del Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, aprobado por Real Decreto 927/1988, modificado por el Real Decreto 1541/1994, de 8 de julio](http://noticias.juridicas.com/base_datos/Admin/rd927-1988.t1.html).  
+b. Aguas subterráneas cuya concentración de nitratos sea superior a 50 mg/l. o pueda llegar a superar este límite si no se actúa de conformidad con el [artículo 6](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html).  
+c. Embalses, lagos naturales, charcas, estuarios y aguas litorales que se encuentren en estado eutrófico o puedan eutrofizarse en un futuro próximo si no se actúa de conformidad al [artículo 6](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html).
+
+  
+3\. Al valorar las situaciones indicadas en el apartado anterior también deberán tenerse en cuenta los siguientes aspectos:
+
+a. Características limnológicas de los ecosistemas acuáticos y factores ambientales de las cuencas alimentadoras y, en especial, las emisiones puntuales de nitrógeno, tales como vertidos de aguas residuales y su contribución al contenido de nitratos en las aguas.  
+b. Conocimiento científico actual sobre el comportamiento de los compuestos nitrogenados en los medios acuático, atmosférico, edáfico y litológico.  
+c. Conocimientos actuales sobre las posibles repercusiones de las medidas previstas en el [artículo 6 de este Real Decreto](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html).
+
+  
+4\. Cuando la determinación de las aguas afectadas por la contaminación haya sido llevada a cabo por el Ministerio de Obras Públicas, Transportes y Medio Ambiente, éste lo pondrá en conocimiento de los órganos competentes de las Comunidades Autónomas territorialmente afectadas, a efectos de la declaración de zonas vulnerables y la consiguiente elaboración de los programas de actuación, de acuerdo con lo establecido en los [artículos 4](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html) y [6](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html).
+
+**Artículo 4.** Zonas vulnerables.
+
+1\. En el plazo de seis meses a partir de la entrada en vigor de este Real Decreto, los órganos competentes de las Comunidades Autónomas designarán como zonas vulnerables en sus respectivos ámbitos, aquellas superficies territoriales cuya escorrentía o filtración afecte o pueda afectar a la contaminación por nitratos de las aguas contempladas en el artículo anterior.
+
+2\. Las zonas designadas como vulnerables deberán ser examinadas y, en su caso, modificadas o ampliadas por los órganos competentes de las Comunidades Autónomas, en un plazo adecuado y como mínimo cada cuatro años, a fin de tener en cuenta los cambios o factores que no hubiesen sido previstos en el momento de su designación.
+
+3\. En el plazo de cinco meses a partir de la designación, los órganos competentes de las Comunidades Autónomas pondrán en conocimiento de la Secretaría de Estado de Medio Ambiente y Vivienda del Ministerio de Obras Públicas, Transportes y Medio Ambiente la relación de las zonas vulnerables designadas, para su comunicación a la Comisión Europea. Asimismo, en idéntico plazo y con los mismos efectos, comunicarán, en su caso, las zonas modificadas o ampliadas.
+
+4\. Cuando las aguas indicadas en el artículo anterior estén afectadas por la contaminación por nitratos de origen agrario procedente de otro Estado miembro, el Ministerio de Obras Públicas, Transportes y Medio Ambiente, previa notificación efectuada, en su caso, por los órganos competentes de las Comunidades Autónomas, lo pondrá en conocimiento de dicho Estado y de la Comisión Europea, a través del cauce correspondiente, a fin de facilitar la actuación concertada entre los Estados miembros afectados y, en su caso, con la Comisión Europea, para determinar las fuentes causantes de la contaminación y las medidas que deban tomarse para proteger las aguas afectadas.
+
+**Artículo 5.** Códigos de buenas prácticas agrarias.
+
+1\. Los órganos competentes de las Comunidades Autónomas elaborarán, de acuerdo con las determinaciones que se especifican en el [anejo 1](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html) y en plazo máximo de seis meses desde la entrada en vigor del presente Real Decreto, uno o varios códigos de buenas prácticas agrarias, que los agricultores podrán poner en práctica de forma voluntaria, con la finalidad de reducir la contaminación producida por los nitratos de origen agrario. Asimismo, si lo estiman conveniente, podrán elaborar programas de fomento de la puesta en práctica de los códigos de buenas prácticas agrarias, que incluirán la formación e información a los agricultores.
+
+2\. Las Comunidades Autónomas remitirán los códigos de buenas prácticas agrarias que hayan elaborado al Ministerio de Agricultura, Pesca y Alimentación, a los efectos de su comunicación a la Comisión Europea, a través del cauce correspondiente.
+
+**Artículo 6.** Programas de actuación.
+
+1\. En las zonas designadas como vulnerables, los órganos competentes de las Comunidades Autónomas establecerán programas de actuación con objeto de prevenir y reducir la contaminación causada por los nitratos de origen agrario. Estos programas de actuación serán elaborados en el plazo de dos años a partir de la designación inicial de zonas vulnerables, o de un año a partir de cada ampliación o modificación complementaria, y se llevarán a la práctica durante los cuatro años siguientes a su elaboración.
+
+2\. Se podrán establecer programas de actuación diferentes para distintas zonas vulnerables o partes de éstas, cuando esta solución sea más apropiada.
+
+3\. Los programas de actuación habrán de tener en cuenta la información científica de que se disponga, en especial, en lo que se refiere a las aportaciones de nitrógeno de origen agrario o de otras fuentes, así como las condiciones medioambientales existentes o previsibles en las zonas afectadas.
+
+4\. Los programas de actuación se revisarán, al menos, cada cuatro años, y se modificarán, si fuera necesario, para incluir en ellos aquellas medidas adicionales que se consideren oportunas a la vista del grado de cumplimiento que, con respecto a la finalidad enunciada en el [artículo 1 de este Real Decreto](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html), se haya alcanzado mediante la aplicación de las medidas indicadas en el [anejo 2](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html). Para adoptar estas medidas adicionales se tendrá en cuenta su eficacia y su coste en comparación con otras posibles medidas de prevención.
+
+5\. Los órganos competentes de las Comunidades Autónomas aportarán el contenido de los programas de actuación en el procedimiento de elaboración de los planes hidrológicos de cuenca, de conformidad con lo establecido en los [artículos 95](http://noticias.juridicas.com/base_datos/Admin/rd927-1988.t2.html) y [100.3 del Real Decreto 927/1988, de 29 de julio, por el que se aprueba el Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica](http://noticias.juridicas.com/base_datos/Admin/rd927-1988.t2.html).
+
+6\. Los órganos competentes de las Comunidades Autónomas enviarán a la Secretaría de Estado de Medio Ambiente y Vivienda los programas de actuación elaborados o modificados, a efectos de su comunicación a la Comisión Europea, a través del cauce correspondiente.
+
+**Artículo 7.** Medidas a incorporar en los programas de actuación.
+
+1\. Los programas de actuación deberán contener con carácter obligatorio, al menos, las medidas que se indican en el [anejo 2](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html).
+
+Asimismo, los programas de actuación incluirán las medidas incorporadas en los códigos de buenas prácticas agrarias elaborados por las respectivas Comunidades Autónomas.
+
+2\. Las medidas indicadas en el apartado anterior deberán evitar que la cantidad de estiércol aplicada al terreno cada año, incluyendo la de los propios animales existentes en cada explotación o unidad ganadera, exceda de las cantidades específicas por hectárea establecidas en el [anejo 3 de esta disposición](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html).
+
+Los órganos competentes de las Comunidades Autónomas informarán a la Secretaría de Estado de Medio Ambiente y Vivienda sobre la forma en que estén aplicando lo establecido en este apartado, a efectos de su comunicación a la Comisión Europea, a través del cauce correspondiente.
+
+**Artículo 8.** Programas de muestreo y seguimiento de la calidad de las aguas.
+
+1\. A fin de modificar, en su caso, la relación de zonas vulnerables designadas, así como para comprobar la eficacia de los programas de actuación elaborados, los organismos de cuenca y los órganos competentes de las Comunidades Autónomas, en el ámbito de sus respectivas competencias, realizarán programas de muestreo y seguimiento de la calidad de las aguas, con las siguientes especificaciones:
+
+a. En el plazo de dos años a partir de la entrada en vigor de este Real Decreto se controlará la concentración de nitratos en las aguas continentales durante un año:
+
+1\. En las estaciones de muestreo de las redes de vigilancia de los organismos de cuenca o de los órganos competentes de las Comunidades Autónomas, según los casos, al menos, una vez al mes, y con mayor frecuencia durante los meses de crecida.  
+2\. En las estaciones de muestreo que sean representativas de los acuíferos subterráneos, a intervalos regulares y teniendo en cuenta lo establecido en el [Real Decreto 1138/1990, de 14 de septiembre](http://noticias.juridicas.com/base_datos/Derogadas/r0-rd1138-1990.html), por el que se aprueba la Reglamentación técnico-sanitaria para el abastecimiento y control de calidad de las aguas potables de consumo público.
+
+b. Los controles establecidos en el apartado anterior se repetirán cada cuatro años. No obstante, se suprimirán los controles en las estaciones de muestreo en las que la concentración de nitratos de todas las muestras anteriores hubiere sido inferior a 25 mg/l. y cuando no hubieren aparecido nuevos factores que pudiesen propiciar un aumento del contenido de nitratos. En tal caso, bastará con repetir el programa de seguimiento cada ocho años.  
+c. Cada cuatro años se revisará el estado de eutrofia de los embalses, lagos naturales, charcas, estuarios y aguas litorales.
+
+  
+2\. La medición de los nitratos se hará según los métodos de referencia fijados en el [anejo 4](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html).
+
+3\. La Administración General del Estado y los órganos competentes de las Comunidades Autónomas se intercambiarán los datos obtenidos como consecuencia del resultado de los programas de muestreo y seguimiento de la calidad de las aguas que hayan realizado, como método de colaboración en el ejercicio de las competencias que corresponden a cada una de ellas, de acuerdo con lo establecido en este Real Decreto.
+
+**Artículo 9.** Informe de situación.
+
+Los Ministerios de Obras Públicas, Transportes y Medio Ambiente y de Agricultura, Pesca y Alimentación elaborarán cada cuatro años un informe de situación. Este informe será comunicado a la Comisión Europea a través del cauce correspondiente, dentro de los seis meses siguientes al final del período al que se refiera y deberá contener los extremos que se señalan en el [anejo 5](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html), que serán previamente notificados por los órganos competentes de las Comunidades Autónomas a la Secretaría de Estado de Medio Ambiente y Vivienda cuando se corresponda con actuaciones llevadas a cabo en el ejercicio de sus competencias.
+
+Dicho informe se pondrá en conocimiento de los órganos competentes de las Comunidades Autónomas.
+
+**DISPOSICIÓN FINAL PRIMERA.** Fundamento constitucional y carácter básico.
+
+El presente Real Decreto tiene el carácter de legislación básica en materia de planificación general de la economía y sobre protección del medio ambiente, de acuerdo con lo establecido en el [artículo 149.1.13 y 23 de la Constitución](http://noticias.juridicas.com/base_datos/Admin/constitucion.t8.html), y se dicta, además, de conformidad con la competencia atribuida al Estado por el [artículo 149.1.22](http://noticias.juridicas.com/base_datos/Admin/constitucion.t8.html) en materia de legislación sobre recursos hidráulicos cuando las aguas discurran por más de una Comunidad Autónoma.
+
+**DISPOSICIÓN FINAL SEGUNDA.** Autorización de desarrollo.
+
+Se autoriza a los Ministros de Obras Públicas, Transportes y Medio Ambiente y de Agricultura, Pesca y Alimentación para dictar, en el ámbito de sus respectivas competencias, las disposiciones necesarias para la aplicación y desarrollo de este Real Decreto y, en particular, para adaptar la presente disposición a las modificaciones que, en su caso, sean introducidas por la Comisión Europea en los anejos de la Directiva 91/676/CEE, para adaptarlos al progreso científico y técnico.
+
+**DISPOSICIÓN FINAL TERCERA.** Entrada en vigor.
+
+Este Real Decreto entrará en vigor el día siguiente al de su publicación en el *Boletín Oficial del Estado*.
+
+Dado en Madrid a 16 de febrero de 1996.
+
+\- Juan Carlos R. -
+
+El Ministro de la Presidencia,  
+Alfredo Pérez Rubalcaba.
+
+  
+**ANEJO 1.  
+Códigos de buenas prácticas agrarias**
+
+  
+A. El código, o los códigos, de buenas prácticas agrarias deberán contener, al menos, disposiciones que contemplen las siguientes determinaciones, en la medida en que sean pertinentes:
+
+1\. Los períodos en que no es conveniente la aplicación de fertilizantes a las tierras.  
+2\. La aplicación de fertilizantes a tierras en terrenos inclinados y escarpados.  
+3\. La aplicación de fertilizantes a tierras en terrenos hidromorfos, inundados, helados o cubiertos de nieve.  
+4\. Las condiciones de aplicación de fertilizantes a tierras cercanas a cursos de aguas.  
+5\. La capacidad y el diseño de los tanques de almacenamiento de estiércol, las medidas para evitar la contaminación del agua por escorrentía y filtración en aguas superficiales o subterráneas de líquidos que contengan estiércol y residuos procedentes de productos vegetales almacenados como el forraje ensilado.  
+6\. Los procedimientos para la aplicación a las tierras de fertilizantes químicos y estiércol que mantengan las pérdidas de nutrientes en las aguas a un nivel aceptable, considerando tanto la periodicidad como la uniformidad de la aplicación.
+
+  
+B. Además de lo indicado en el apartado A) anterior, el código, o los códigos, de buenas prácticas agrarias también podrán incluir las siguientes cuestiones, con carácter complementario:
+
+1\. La gestión del uso de la tierra con referencia a los sistemas de rotación de cultivos y a la proporción de la superficie de tierras dedicadas a cultivos permanentes en relación con cultivos anuales.  
+2\. El mantenimiento durante períodos lluviosos de un manto mínimo de vegetación que absorba el nitrógeno del suelo que, de lo contrario, podría causar fenómenos de contaminación del agua por nitratos.  
+3\. La utilización, como alternativa, de cultivos con alta demanda de nitrógeno y con sistemas radicales potentes, capaces de aprovechar los nitratos que hayan sido arrastrados a capas profundas.  
+4\. El establecimiento de planes de fertilización acordes con la situación particular de cada explotación y la consignación en registro del uso de fertilizantes.  
+5\. La prevención de la contaminación del agua por escorrentía y la filtración del agua por debajo de los sistemas radiculares de los cultivos en los sistemas de riego.
+
+**ANEJO 2.  
+Medidas a incorporar en los programas de actuación**
+
+  
+a. Determinación de los períodos en los que esté prohibida la aplicación al terreno de determinados tipos de fertilizantes.
+
+b. Determinación de la capacidad necesaria de los tanques de almacenamiento de estiércol, que deberá ser superior a la requerida para almacenamiento de este abono a lo largo del período más largo durante el cual esté prohibida la aplicación del mismo a la zona vulnerable. Esta medida no será necesaria cuando pueda demostrarse a las autoridades competentes que toda cantidad de estiércol que exceda de la capacidad real de almacenamiento será eliminada de forma que no cause daños al medio ambiente.
+
+c. Limitación de la aplicación de fertilizantes al terreno, de tal manera que ésta sea compatible con prácticas agrarias adecuadas y que tenga en cuenta las características de la zona vulnerable considerada y, en particular, los siguientes factores: el estado del suelo, tipo de suelo y pendiente; las condiciones climáticas de la zona y necesidades de riego; los usos de la tierra y prácticas agrarias, incluidos los sistemas de rotación de cultivos.
+
+Esta limitación deberá basarse en un equilibrio entre la cantidad previsible de nitrógeno que en su momento precisen los cultivos y la cantidad de nitrógeno que éstos vayan a tener disponible. Esta disponibilidad de nitrógeno se compone de las siguientes fracciones:
+
+1\. Cantidad de nitrógeno presente en el suelo en el momento en que los cultivos comienzan a demandar un elevado consumo de nitrógeno.  
+2\. Suministro de nitrógeno a través de la mineralización neta de las reservas de nitrógeno orgánico del suelo.  
+3\. Aportes de compuestos nitrogenados de excrementos animales.  
+4\. Aportes de compuestos nitrogenados procedentes de fertilizantes químicos y otros productos, así como de las propias aguas utilizadas para el riego.
+
+**ANEJO 3.  
+Cantidades máximas de estiércol aplicadas al terreno**
+
+  
+1\. La cantidad específica por hectárea será la cantidad de estiércol que contenga 170 kg/año de nitrógeno. No obstante, durante los primeros programas de actuación cuatrienal se podrá permitir una cantidad de estiércol que contenga hasta 210 kg/año de nitrógeno. Estas cantidades podrán ser calculadas basándose en el número de animales de la explotación agraria.
+
+2\. Asimismo, durante, y una vez transcurrido, el primer programa de actuación cuatrienal, los órganos competentes de las Comunidades Autónomas podrán establecer cantidades distintas a las mencionadas anteriormente. Dichas cantidades deberán establecerse de forma que no perjudiquen el cumplimiento de los objetivos especificados en el [artículo 1](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html) y deberán justificarse con arreglo a criterios objetivos tales como:
+
+-   Ciclos de crecimiento largos.
+-   Cultivos con elevada captación de nitrógeno.
+-   Alta precipitación neta en la zona vulnerable.
+-   Suelos con capacidad de pérdida de nitrógeno excepcionalmente elevada.
+
+**ANEJO 4.  
+Métodos de medición de referencia**
+
+  
+1\. Fertilizantes químicos: la medición de los compuestos nitrogenados se efectuará con arreglo a lo dispuesto en la Orden de 18 de julio de 1989, por la que se aprueba el método oficial de la toma de muestras de fertilizantes, y por la Orden de 18 de julio de 1989, por la que se aprueban los métodos de análisis de fertilizantes.
+
+2\. Aguas continentales, costeras y marinas: la concentración de nitratos se medirá, en mg/l. NO, por espectrofotometría de absorción molecular.
+
+  
+**ANEJO 5.  
+Contenido que deberá figurar en el informe de situación a que se hace referencia en el artículo 9**
+
+  
+1\. Declaración de medidas preventivas adoptadas de conformidad con los códigos de buenas prácticas agrarias que se elaboren.
+
+2\. Mapa que refleje las aguas afectadas por la contaminación por nitratos, señalando las circunstancias que se han aplicado entre las expuestas en el apartado 2 del [artículo 3 de este Real Decreto](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html).
+
+3\. Localización de las zonas designadas como vulnerables, distinguiendo entre las zonas ya existentes y las que hayan sido designadas, en su caso, con posterioridad al anterior informe de situación.
+
+4\. Resumen del resultado del seguimiento efectuado en las estaciones de muestreo, de conformidad con el [artículo 8](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html), en el que deben constar los motivos que han inducido a la designación de cada zona vulnerable o, en su caso, a su modificación o ampliación.
+
+5\. Resumen de los programas de actuación elaborados de conformidad con el [artículo 6 de la presente disposición](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html) y, en especial, de:
+
+-   Las medidas impuestas de conformidad con lo establecido en los [anejos 2](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html) y [3 del presente Real Decreto](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html) y, en su caso, en los códigos de buenas prácticas agrarias, así como las medidas adicionales indicadas en el segundo párrafo del apartado 1 del [artículo 7](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html).
+-   La información a que se hace referencia en el segundo párrafo del apartado 2 del [artículo 7 del presente Real Decreto](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html).
+
+6\. Resumen de los programas de muestreo y seguimiento de la calidad de las aguas indicados en el [artículo 8](http://noticias.juridicas.com/base_datos/Admin/rd261-1996.html).
+
+7\. Hipótesis, grado de certidumbre y plazos en los que se presuma se producirán resultados beneficiosos para las aguas contaminadas por nitratos, como consecuencia de los programas de actuación.

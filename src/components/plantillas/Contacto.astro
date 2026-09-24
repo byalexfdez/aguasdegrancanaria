@@ -1,0 +1,28 @@
+---
+import 'leaflet/dist/leaflet.css';
+// Ubicación y contacto: datos institucionales + mapa sin cookies (OpenStreetMap). El mapa de Google original
+// se conserva dentro del contenido, detrás de una fachada.
+import Icono from '../Icono.astro';
+const { entrada } = Astro.props;
+---
+<div class="grid gap-6 lg:grid-cols-[1fr_1.3fr]">
+  <address class="tarjeta p-6 not-italic grid gap-5 content-start">
+    <p class="flex gap-3"><Icono nombre="ubicacion" clase="shrink-0 text-marca-700" /><span><strong class="block">Consejo Insular de Aguas de Gran Canaria</strong>Avda. Juan XXIII, 2, 1ª planta<br />35004 Las Palmas de Gran Canaria</span></p>
+    <p class="flex gap-3"><Icono nombre="telefono" clase="shrink-0 text-marca-700" /><a href="tel:+34928293456" class="font-semibold">928 29 34 56</a></p>
+    <p class="flex gap-3"><Icono nombre="reloj" clase="shrink-0 text-marca-700" /><span>Horario de registro de entrada: 9:00 – 14:00<br /><span class="text-texto-suave">Julio, agosto y septiembre: 8:30 – 13:00</span></span></p>
+    <p class="flex gap-3"><Icono nombre="edificio" clase="shrink-0 text-marca-700" /><a href="https://consejoinsularaguasgrancanaria.sedelectronica.es" target="_blank" rel="noopener noreferrer" class="enlace-externo">Sede electrónica<span class="sr-only"> (abre en una ventana nueva)</span></a></p>
+  </address>
+  <div id="mapa-contacto" class="min-h-[22rem] rounded-[var(--radius-tarjeta)] border border-borde overflow-hidden bg-superficie-2" role="region" aria-label="Mapa de situación de la sede del Consejo"></div>
+</div>
+<article class="prosa mt-12"><slot /></article>
+<script>
+  import L from 'leaflet';
+  const el = document.getElementById('mapa-contacto');
+  if (el) {
+    // Coordenadas de la sede según el mapa incrustado en la web actual.
+    const sede: [number, number] = [28.120723813810194, -15.426431784706617];
+    const m = L.map(el, { scrollWheelZoom: false }).setView(sede, 16);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '© colaboradores de <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>' }).addTo(m);
+    L.circleMarker(sede, { radius: 11, color: '#fff', weight: 3, fillColor: '#16649c', fillOpacity: 1 }).addTo(m).bindPopup('<strong>Consejo Insular de Aguas de Gran Canaria</strong><br>Avda. Juan XXIII, 2, 1ª planta').openPopup();
+  }
+</script>

@@ -1,0 +1,47 @@
+{
+  "fuente": "/servicios/legislacion/españa/construccion_explotacion.php",
+  "indice": 4,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "a) Peso propio.",
+      "Artículo 28º"
+    ],
+    [
+      "b) Empujes hidráulicos.",
+      "Artículo 29º"
+    ],
+    [
+      "c) Presión intersticial",
+      "Artículo 30º"
+    ],
+    [
+      "d) Efecto del oleaje",
+      "Artículo 31º"
+    ],
+    [
+      "e) Empuje de los aterramientos.",
+      "Artículo 32º"
+    ],
+    [
+      "f) Acción del hielo.",
+      "Artículo 33º"
+    ],
+    [
+      "g) Efectos sísmicos.",
+      "Artículo 34º"
+    ],
+    [
+      "h) Variaciones de temperatura.",
+      "Artículo 36º"
+    ],
+    [
+      "i) Otras solicitaciones.",
+      "Artículo 37º"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

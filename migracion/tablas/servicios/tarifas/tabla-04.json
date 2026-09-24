@@ -1,0 +1,32 @@
+{
+  "fuente": "/servicios/tarifas.php",
+  "indice": 4,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "",
+      "",
+      "EUROS/m³"
+    ]
+  ],
+  "filas": [
+    [
+      "1.",
+      "Plantación en cauce público",
+      "0.06"
+    ],
+    [
+      "2.",
+      "Pasarela sobre cauce público",
+      "0.10"
+    ],
+    [
+      "3.",
+      "Pista de acceso en cauce público",
+      "0.03"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

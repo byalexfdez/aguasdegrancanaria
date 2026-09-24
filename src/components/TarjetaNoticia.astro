@@ -1,0 +1,29 @@
+---
+import { fechaLarga, fechaISO } from '../lib/formato';
+import imagenes from '../data/imagenes.json';
+interface Props { noticia: any; destacada?: boolean; nivel?: 'h2' | 'h3' }
+const { noticia, destacada = false, nivel = 'h3' } = Astro.props;
+const d = noticia.data;
+const url = `/actualidad/noticias/${noticia.id}/`;
+const img = d.imagen ? (imagenes as Record<string, any>)[d.imagen] : null;
+const Titulo = nivel;
+const extracto = (noticia.body ?? '').replace(/!\[[^\]]*\]\([^)]*\)/g, '').replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/[#*_>`]/g, '').replace(/\s+/g, ' ').trim();
+---
+<article class:list={['tarjeta tarjeta-enlace group relative overflow-hidden flex flex-col', destacada && 'md:col-span-2 md:flex-row']}>
+  {d.imagen && (
+    <div class:list={['relative overflow-hidden bg-superficie-2', destacada ? 'md:w-3/5 aspect-[16/10] md:aspect-auto' : 'aspect-[16/10]']}>
+      <picture>
+        {img?.webp && <source srcset={img.webp} type="image/webp" />}
+        <img src={d.imagen} alt={d.imagen_alt} width={img?.w} height={img?.h} loading="lazy" decoding="async" class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-[1.04]" />
+      </picture>
+    </div>
+  )}
+  <div class:list={['flex flex-col gap-3 p-6', destacada && 'md:w-2/5 md:p-8 md:justify-center']}>
+    {d.fecha ? <time datetime={fechaISO(d.fecha)} class="antetitulo">{fechaLarga(d.fecha)}</time> : <span class="antetitulo">Noticia</span>}
+    <Titulo class:list={['font-display font-bold leading-snug text-atlantico-900 dark:text-white', destacada ? 'text-2xl md:text-3xl' : 'text-lg']}>
+      <a href={url} class="text-inherit no-underline after:absolute after:inset-0 group-hover:text-marca-700 dark:group-hover:text-marca-300">{d.titulo}</a>
+    </Titulo>
+    {destacada && extracto && <p class="text-texto-suave line-clamp-4">{extracto}</p>}
+    {d.fuente && <p class="mt-auto text-sm text-texto-suave">{d.fuente.texto}</p>}
+  </div>
+</article>

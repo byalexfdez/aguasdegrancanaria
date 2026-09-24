@@ -1,0 +1,36 @@
+{
+  "fuente": "/servicios/legislacion/españa/criterios_sanitarios.php",
+  "indice": 7,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Parámetro",
+      "Valor paramétrico",
+      "Notas"
+    ],
+    [
+      "50. Dosis indicativa total",
+      "0,10 mSv/año",
+      "1"
+    ],
+    [
+      "51. Tritio",
+      "100 Bq/l",
+      ""
+    ],
+    [
+      "52. Actividad total",
+      "0,1 Bq/l",
+      ""
+    ],
+    [
+      "53. Actividad ß resto",
+      "1 Bq/l",
+      "2"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

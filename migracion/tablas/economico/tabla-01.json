@@ -1,0 +1,27 @@
+{
+  "fuente": "/economico.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Códigos DIR3",
+      ""
+    ],
+    [
+      "Oficina Contable:",
+      "LA0000164"
+    ],
+    [
+      "Órgano Gestor:",
+      "LA0000164"
+    ],
+    [
+      "Unidad Tramitadora",
+      "LA0000164"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

@@ -1,0 +1,32 @@
+{
+  "fuente": "/ayudas.php",
+  "indice": 9,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Subvención al agua de riego",
+      ""
+    ],
+    [
+      "Resolución",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2019_subvencion_aguariego.pdf"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2019_resolucion_aguariego.pdf"
+    }
+  ]
+}

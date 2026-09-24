@@ -1,0 +1,5 @@
+﻿Volumen Hm3;Coeficientes de minoración (1)
+Menor de 100;0,02000
+100 a 250;0,01166
+250 a 1.000;0,00566
+Superior a 1.000;0,00125

@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import Icono from '../components/Icono.astro';
+---
+<Base titulo="Página no encontrada" descripcion="La página solicitada no existe o ha cambiado de dirección." sinBuscador>
+  <section class="contenedor py-24 md:py-32 text-center">
+    <p class="font-display text-8xl font-bold text-marca-200 dark:text-marca-800" aria-hidden="true">404</p>
+    <h1 class="mt-4 text-3xl md:text-4xl font-bold">No encontramos esta página</h1>
+    <p class="mt-4 text-lg text-texto-suave max-w-xl mx-auto">Es posible que la dirección haya cambiado con la nueva web del Consejo. Puedes buscar lo que necesitas o volver al inicio.</p>
+    <form action="/buscar/" method="get" role="search" class="mt-8 mx-auto max-w-lg flex items-center gap-2 rounded-full border border-borde bg-superficie p-1.5 pl-5">
+      <label for="q404" class="sr-only">Buscar</label>
+      <input id="q404" name="q" type="search" class="min-w-0 flex-1 bg-transparent py-2 outline-none" placeholder="¿Qué estabas buscando?" />
+      <button class="boton boton-primario">Buscar</button>
+    </form>
+    <p class="mt-8 flex flex-wrap justify-center gap-3">
+      <a href="/" class="boton boton-borde"><Icono nombre="inicio" tam={18} /> Ir al inicio</a>
+      <a href="/mapa-web/" class="boton boton-borde"><Icono nombre="rejilla" tam={18} /> Mapa web</a>
+    </p>
+  </section>
+</Base>

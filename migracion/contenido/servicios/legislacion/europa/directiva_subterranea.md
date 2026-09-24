@@ -1,0 +1,524 @@
+---
+titulo: "Directiva de subterráneas. DIRECTIVA 2006/118/CE del parlamento europeo y del consejo rela"
+titulo_html: null
+ruta_antigua: "/servicios/legislacion/europa/directiva_subterranea.php"
+url_antigua: "https://www.aguasgrancanaria.com/servicios/legislacion/europa/directiva_subterranea.php"
+seccion: "Servicios › Normativa"
+origen: "inventario"
+ultima_actualizacion: null
+ultima_actualizacion_texto: null
+encabezados: 
+  - nivel: 4
+    texto: "Contenido:"
+  - nivel: 5
+    texto: "PE-CONS 3658/4/06 REV 4"
+  - nivel: 2
+    texto: "ES"
+  - nivel: 4
+    texto: "PE-CONS 3658/4/06 REV 4 11"
+  - nivel: 3
+    texto: "ES"
+  - nivel: 3
+    texto: "HAN ADOPTADO LA PRESENTE DIRECTIVA:"
+  - nivel: 4
+    texto: "Artículo 1"
+  - nivel: 4
+    texto: "Artículo 2"
+  - nivel: 4
+    texto: "Artículo 3"
+  - nivel: 4
+    texto: "Artículo 4"
+  - nivel: 4
+    texto: "Artículo 5"
+  - nivel: 4
+    texto: "Artículo 6"
+  - nivel: 4
+    texto: "Artículo 7"
+  - nivel: 4
+    texto: "Artículo 8"
+  - nivel: 4
+    texto: "Artículo 9"
+  - nivel: 4
+    texto: "Artículo 10"
+  - nivel: 4
+    texto: "Artículo 11"
+  - nivel: 4
+    texto: "Artículo 12"
+  - nivel: 4
+    texto: "Artículo 13"
+  - nivel: 4
+    texto: "Artículo 14"
+  - nivel: 4
+    texto: "ANEXO I"
+  - nivel: 4
+    texto: "ANEXO II"
+  - nivel: 5
+    texto: "PARTE A:"
+  - nivel: 5
+    texto: "PARTE B:"
+  - nivel: 5
+    texto: "PARTE C:"
+  - nivel: 4
+    texto: "ANEXO III"
+  - nivel: 6
+    texto: "2.4.5. Interpretación y presentación del estado químico de las aguas subterráneas"
+  - nivel: 6
+    texto: "2.5. Presentación del estado de las aguas subterráneas"
+  - nivel: 4
+    texto: "ANEXO IV"
+  - nivel: 5
+    texto: "PARTE A:"
+  - nivel: 5
+    texto: "PARTE B:"
+documentos: []
+imagenes: 
+  - url_antigua: "https://www.aguasgrancanaria.com/img/logociagc_cian_peq_agua_clara.gif"
+    ruta_nueva: "/imagenes/img/logociagc_cian_peq_agua_clara.gif"
+    alt: null
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/UE.gif"
+    ruta_nueva: "/imagenes/img/ue.gif"
+    alt: ""
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/articulo_4.gif"
+    ruta_nueva: "/imagenes/img/articulo_4.gif"
+    alt: ""
+    enlazada: false
+videos: []
+iframes: []
+enlaces_externos: []
+enlaces_internos: []
+emails: []
+telefonos: []
+tablas: 
+  - archivo: "tablas/servicios/legislacion/europa/directiva_subterranea/tabla-01.json"
+    titulo: null
+    filas: 4
+    columnas: 5
+  - archivo: "tablas/servicios/legislacion/europa/directiva_subterranea/tabla-02.json"
+    titulo: "UNIÓN EUROPEA · EL PARLAMENTO EUROPEO EL CONSEJO"
+    filas: 3
+    columnas: 3
+  - archivo: "tablas/servicios/legislacion/europa/directiva_subterranea/tabla-03.json"
+    titulo: null
+    filas: 3
+    columnas: 2
+referencias_rotas: []
+contenido_oculto_en_origen: []
+---
+
+<!-- tabla 01: tablas/servicios/legislacion/europa/directiva_subterranea/tabla-01.json -->
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Legislación Creada el 08/01/2007 | Título | Directiva de subterráneas |  |  |
+|  | Descripción | DIRECTIVA 2006/118/CE del parlamento europeo y del consejo relativa a la protección de las aguas subterráneas contra la contaminación y el deterioro |  |  |
+|  | Código | Aprobado | Categoría | Ámbito |
+|  | Agua Subt |  | Directiva | Union Europea |
+
+#### Contenido:
+
+##### PE-CONS 3658/4/06 REV 4
+
+## ES
+
+<!-- tabla 02: tablas/servicios/legislacion/europa/directiva_subterranea/tabla-02.json -->
+
+**UNIÓN EUROPEA**
+
+![](/imagenes/img/ue.gif) EL PARLAMENTO EUROPEO EL CONSEJO
+
+|  |  |  |
+| --- | --- | --- |
+| (OR. en) | Estrasburgo, 12 de diciembre de 2006 |  |
+| 2003/0210 (COD) | LEX 750Ccccc | REV 4 |
+| CODEC 1199 | ENV 577 |  |
+
+DIRECTIVA DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+
+RELATIVA A LA PROTECCIÓN DE LAS AGUAS SUBTERRÁNEAS
+
+CONTRA LA CONTAMINACIÓN Y EL DETERIORO
+
+#### PE-CONS 3658/4/06 REV 4 11
+
+### ES
+
+DIRECTIVA 2006/118/CE DEL PARLAMENTO EUROPEO Y DEL CONSEJO de 12 de diciembre de 2006
+
+relativa a la protección de las aguas subterráneas contra la contaminación y el deterioro
+
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA
+
+-   Visto el Tratado constitutivo de la Comunidad Europea, y en particular el apartado 1 de su artículo 175
+-   Vista la propuesta de la Comisión
+-   Visto el dictamen del Comité Económico y Social Europeo DO C 112 de 30.4.2004, p. 40.
+-   Visto el dictamen del Comité de las Regiones DO C 109 de 30.4.2004, p. 29.
+
+De conformidad con el procedimiento establecido en el artículo 251 del Tratado, a la vista del texto conjunto aprobado el 28 de noviembre de 2006 por el Comité de Conciliación Dictamen del Parlamento Europeo de 28 de abril de 2005 (DO C 45 E de 23.2.2006, p. 15), Posición Común del Consejo de 23 de enero de 2006 (DO C 126 E de 30.5.2006, p. 1), Posición del Parlamento Europeo de 13 de junio de 2006 (no publicada aún en el Diario Oficial), Resolución legislativa del Parlamento Europeo de 12 de diciembre de 2006 (no publicada aún en el Diario Oficial) y Decisión del Consejo de 11 de diciembre de 2006.
+
+Considerando lo siguiente
+
+1.  Las aguas subterráneas son un recurso natural valioso que, como tal, debe ser protegido de la contaminación química y del deterioro. Esta circunstancia es especialmente importante para los ecosistemas dependientes de las aguas subterráneas y para la utilización de estas aguas para la obtención de agua destinada al consumo humano.
+2.  Las aguas subterráneas son el recurso hídrico más sensible e importante de la Unión Europea y, en particular, son la fuente principal del suministro público de agua potable.
+3.  Las aguas subterráneas situadas en las masas de agua utilizadas para la extracción de agua potable, o que se pretendan utilizar con esta finalidad en el futuro, deben ser protegidas de modo que se evite el deterioro de la calidad de esas masas de agua, con objeto de reducir el nivel del tratamiento de purificación necesario para la producción de agua potable, de conformidad con los apartados 2 y 3 del artículo 7 de la Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre de 2000, por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas DO L 327 de 22.12.2000, p. 1. Directiva modificada por la Decisión n° 2455/2001/CE (DO L 331 de 15.12.2001, p. 1).
+4.  La Decisión n.° 1600/2002/CE del Parlamento Europeo y del Consejo, de 22 de julio de 2002, por la que se establece el Sexto Programa de Acción Comunitario en Materia de Medio Ambiente incluye entre sus objetivos el de lograr niveles de calidad de las aguas que no den lugar a impactos significativos y a riesgos para la salud humana y el medio ambiente.
+5.  Para proteger el medio ambiente en su conjunto y la salud humana en particular, es necesario evitar, prevenir o reducir la concentración perjudicial de contaminantes nocivos en el agua subterránea.
+6.  La Directiva 2000/60/CE contiene disposiciones generales para la protección y conservación de las aguas subterráneas. Como se establece en el artículo 17 de dicha Directiva, es necesario adoptar medidas destinadas a prevenir y controlar la contaminación de las aguas subterráneas, incluidos criterios para valorar el buen estado químico de las aguas subterráneas y criterios para la determinación de las tendencias significativas o sostenidas al aumento y para la definición de los puntos de partida de las inversiones de tendencia.
+7.  Teniendo en cuenta la necesidad de alcanzar la coherencia de los niveles de protección para las aguas subterráneas, hay que establecer normas de calidad y valores umbrales, y desarrollar metodologías basadas en un enfoque común con el fin de establecer criterios para la evaluación del estado químico de las masas de agua subterránea.
+8.  Deben establecerse, como criterios comunitarios a efectos de la evaluación del estado químico de las masas de agua subterránea, normas de calidad para los nitratos, los productos fitosanitarios y biocidas, y debe garantizarse la coherencia con la:
+    -   Directiva 91/676/CEE del Consejo, de 12 de diciembre de 1991, relativa a la protección de las aguas contra la contaminación producida por nitratos utilizados en la agricultura DO L 375 de 31.12.1991, p. 1. Directiva modificada por el Reglamento (CE) nº 1882/2003 del Parlamento Europeo y del Consejo (DO L 284 de 31.10.2003, p. 1).
+    -   Directiva 91/414/CEE del Consejo, de 15 de julio de 1991, relativa a la comercialización de productos fitosanitarios DO L 230 de 19.8.1991, p. 1. Directiva cuya última modificación la constituye la Directiva 2006/85/CE de la Comisión (DO L 293 de 24.10.2006, p. 3).
+    -   Directiva 98/8/CE del Parlamento Europeo y del Consejo, de 16 de febrero de 1998, relativa a la comercialización de biocidas DO L 123 de 24.4.1998, p. 1. Directiva cuya última modificación la constituye la Directiva 2006/50/CE de la Comisión (DO L 142 de 30.5.2006, p. 6).
+9.  La protección de las aguas subterráneas puede requerir en algunas zonas modificar las prácticas agrícolas y silvícolas, lo que podría entrañar la pérdida de ingresos. La Política Agrícola Común prevé que los mecanismos de financiación para la ejecución de medidas cumplan las normas comunitarias, en particular mediante el Reglamento (CE) n° 1698/2005 del Consejo, de 20 de septiembre de 2005, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural DO L 277 de 21.10.2005. Reglamento modificado por el Reglamento (CE) nº 1463/2006 (DO L 277 de 9.10.2006, p. 1). Por lo que respecta a las medidas de protección de las aguas subterráneas, debe ser responsabilidad de los Estados miembros elegir sus prioridades y proyectos.
+10.  Las disposiciones relativas al estado químico de las aguas subterráneas no se aplican a las situaciones en que se dan niveles naturales elevados de sustancias o iones, o de sus indicadores, contenidos en una masa de aguas subterráneas o en masas asociadas de aguas superficiales, debidos a condiciones hidrogeológicas específicas no incluidas en la definición de «contaminación». Asimismo tampoco se aplican a los cambios, provisionales y limitados en el espacio, de la dirección del flujo y de la composición química, que no se consideran intrusiones
+11.  Deben establecerse criterios para la determinación de las tendencias significativas y sostenidas al aumento de las concentraciones de los contaminantes y para la definición de los puntos de partida de las inversiones de tendencia, teniendo en cuenta la posibilidad de aparición de efectos adversos en los ecosistemas acuáticos asociados o dependientes de los ecosistemas terrestres.
+12.  Los Estados miembros deben utilizar en la medida de lo posible los procedimientos estadísticos existentes, siempre que cumplan las normas internacionales y contribuyan a la comparabilidad de los resultados del seguimiento entre Estados miembros durante largos periodos.
+13.  De acuerdo con lo dispuesto en el tercer guión del apartado 2 del artículo 22 de la Directiva 2000/60/CE, la Directiva 80/68/CEE del Consejo, de 17 de diciembre de 1979, relativa a la protección de las aguas subterráneas contra la contaminación causada por determinadas sustancias peligrosas DO L 20 de 26.1.1980, p. 43. Directiva modificada por la Directiva 91/692/CEE (DO L 377 de 31.12.1991, p. 48). quedará derogada a partir del 22 de diciembre de 2013. Es necesario garantizar la continuidad del régimen de protección establecido en la Directiva 80/68/CEE en relación con las medidas destinadas a impedir o limitar la entrada directa o indirecta de contaminantes en las aguas subterráneas.
+14.  Es necesario establecer una distinción entre sustancias peligrosas , cuya entrada debe impedirse, y otros contaminantes, cuya entrada debe limitarse. Debe utilizarse el Anexo VIII de la Directiva 2000/60/CE, que recoge una lista de los principales contaminantes para el medio acuático, para identificar las sustancias peligrosas y no peligrosas que presentan un riesgo potencial o real de contaminación.
+15.  Entre las medidas para prevenir o limitar las entradas de contaminantes en las masas de agua subterránea utilizadas o que se vayan a utilizar en el futuro para la captación de agua destinada al consumo humano, tal como se indica en el apartado 1 del artículo 7 de la Directiva 2000/60/CE, deben incluirse, de conformidad con el apartado 2 del artículo 7 de la presente Directiva, aquellas medidas que sean necesarias para garantizar que, con arreglo al régimen de depuración de aguas y de acuerdo con la legislación comunitaria, el agua resultante reúna las características establecidas en la Directiva 98/83/CE del Consejo, de 3 de noviembre de 1998, relativa a la calidad de las aguas destinadas al consumo humano DO L 330 de 5.12.1998, p. 32. Directiva modificada por el Reglamento (CE) nº 1882/2003. Dichas medidas puede incluir asimismo, de conformidad con el apartado 3 del artículo 7 de la Directiva 2000/60/CE, el establecimiento por los Estados miembros de perímetros de protección del tamaño que el organismo nacional competente considere necesario para proteger el suministro de agua potable. Tales perímetros de protección pueden abarcar todo el territorio de un Estado miembro.
+16.  Con vistas a garantizar la misma protección de las aguas subterráneas, los Estados miembros que compartan masas de agua subterránea deberán coordinar sus actividades con respecto al establecimiento de valores umbrales y la identificación de las principales sustancias peligrosas.
+17.  Los métodos fiables y comparables de seguimiento son un instrumento importante para la evaluación de la calidad del agua subterránea y también para la elección de las medidas más adecuadas. El apartado 3 del artículos 8 y el artículo 20 de la Directiva 2000/60/CE disponen la adopción de métodos normalizados para el análisis y el seguimiento de la situación del agua y, si procede, para fijar orientaciones de aplicación, incluido el seguimiento.
+18.  En determinadas circunstancias, los Estados miembros deben autorizar la concesión de excepciones a las medidas destinadas a impedir o limitar la entrada de contaminantes en las aguas subterráneas. Toda excepción debe basarse en criterios transparentes y fundamentarse en los planes de gestión de la cuenca hidrográfica.
+19.  Debe analizarse el impacto en el nivel de protección ambiental y en el funcionamiento del mercado interior de los distintos valores umbral de las aguas subterráneas que establecerán los Estados miembros.
+20.  Se deben llevar a cabo investigaciones con el fin de obtener mejores criterios relativos a la calidad y a la protección del ecosistema de las aguas subterráneas. En caso necesario, debe tenerse en cuenta la información adquirida a la hora de aplicar o revisar la presente Directiva. Deben alentarse y financiarse dichas investigaciones, así como la divulgación del conocimiento, experiencia y resultados de la investigación.
+21.  Es necesario instaurar unas medidas transitorias para el periodo comprendido entre la fecha de aplicación de la presente Directiva y la fecha en que sea derogada la Directiva 80/68/CEE.
+22.  La Directiva 2000/60/CE establece el requisito de los controles, incluido el de la autorización previa para el relleno artificial o el aumento de las masas de agua subterránea, siempre que la utilización de la fuente no ponga en peligro la consecución de los objetivos ambientales establecidos para la fuente o para la masa de agua subterránea rellenada o aumentada.
+23.  La Directiva 2000/60/CE incluye en el apartado 2 de su artículo 11 y en la parte B de su Anexo VI sobre el programa de medidas una lista no exhaustiva de medidas complementarias que los Estados miembros pueden incluir en el programa de medidas, entre otras:
+     1.  instrumentos legislativos
+     2.  instrumentos administrativos
+     3.  acuerdos negociados para la protección del medio ambiente.
+24.  Las medidas necesarias para la ejecución de la presente Directiva deben aprobarse con arreglo a la Decisión 1999/468/CE del Consejo, de 28 de junio de 1999, por la que se establecen los procedimientos para el ejercicio de las competencias de ejecución atribuidas a la Comisión DO L 184 de 17.7.1999, p. 23. Decisión modificada por la Decisión 2006/512/CE (DO L 200 de 22.7.2006, p. 11).
+25.  En particular, es preciso seguir el procedimiento de reglamentación con control en lo que se refiere a las medidas de ámbito general planteadas para modificar los elementos no esenciales de la presente Directiva, entre otras cosas mediante la supresión de algunos de dichos elementos o complementando la presente Directiva añadiéndole nuevos elementos no esenciales
+
+### HAN ADOPTADO LA PRESENTE DIRECTIVA:
+
+#### Artículo 1
+
+Objetivo
+
+1.  De conformidad con lo dispuesto en los apartados 1 y 2 del artículo 17 de la Directiva 2000/60/CE, la presente Directiva establece medidas específicas para prevenir y controlar la contaminación de las aguas subterráneas. Entre ellas se incluirán, en particular
+    -   criterios para valorar el buen estado químico de las aguas subterráneas
+    -   criterios para la determinación e inversión de tendencias significativas y sostenidas al aumento y para la definición de los puntos de partida de las inversiones de tendencia.
+2.  Asimismo, la presente Directiva completa las disposiciones contenidas en la Directiva 2000/60/CE destinadas a prevenir o limitar las entradas de contaminantes en las aguas subterráneas y evitar el deterioro del estado de todas las masas de agua subterránea.
+
+#### Artículo 2
+
+Definiciones
+
+A los efectos de la presente Directiva, se aplicarán las siguientes definiciones, junto a las contenidas en el artículo 2 de la Directiva 2000/60/CE:
+
+1.  "norma de calidad de las aguas subterráneas", toda norma de calidad medioambiental, expresada como concentración de un contaminante concreto, un grupo de contaminantes o un indicador de contaminación en las aguas subterráneas, que no debe superarse en aras de la protección de la salud humana y del medio ambiente
+2.  "valor umbral", una norma de calidad de las aguas subterráneas fijada por los Estados miembros con arreglo al artículo 3
+3.  "tendencia significativa y sostenida al aumento", cualquier aumento significativo desde el punto de vista estadístico y medioambiental de la concentración de un contaminante, grupo de contaminantes o indicador de contaminación en las aguas subterráneas para el que se haya determinado la necesidad de una inversión de la tendencia, de conformidad con el artículo 5;
+4.  "entrada de contaminantes en las aguas subterráneas", la introducción directa o indirecta de contaminantes en las aguas subterráneas, como resultado de la actividad humana
+5.  "nivel de referencia", la concentración de una sustancia o el valor de un indicador en una masa de agua subterránea correspondiente a condiciones no sometidas a alteraciones antropogénicas o sometidas a alteraciones mínimas, en relación con condiciones inalteradas
+6.  "nivel básico", el valor medio medido por lo menos durante los años de referencia 2007 y 2008 sobre la base de los programas de control aplicados con arreglo al artículo 8 de la Directiva 2000/60/CE o, en el caso de sustancias identificadas después de los citados años de referencia, durante el primer período para el que se disponga de un período representativo de datos de control.
+
+#### Artículo 3
+
+Criterios para evaluar el estado químico de las aguas subterráneas
+
+1.  A efectos de la evaluación del estado químico de una masa de agua subterránea o un grupo de masas de agua subterránea con arreglo al punto 2.3 del Anexo V de la Directiva 2000/60/CE, los Estados miembros utilizarán los criterios siguientes:
+    -   las normas de calidad de las aguas subterráneas recogidas en el Anexo I
+    -   los valores umbral que establezcan los Estados miembros de conformidad con el procedimiento descrito en la parte A del Anexo II para los contaminantes, grupos de contaminantes e indicadores de contaminación que, dentro del territorio de un Estado miembro, se hayan identificado como elementos que contribuyen a la caracterización de masas o grupos de masas de agua subterránea en riesgo, teniendo en cuenta como mínimo la lista que figura en la parte B del Anexo II.
+        
+        Los valores umbral de las aguas subterráneas aplicables a un buen estado químico se basarán en la protección de la masa de agua subterránea, de conformidad con los puntos 1, 2 y 3 de la parte A del Anexo II, con especial atención a su impacto e interrelación en las aguas de superficie asociadas y en los ecosistemas terrestres directamente dependientes de ellas, así como en los humedales, y tendrán en cuenta, entre otras cosas, los conocimientos en materia de toxicidad para el ser humano y el medio ambiente.
+        
+2.  Los valores umbral podrán establecerse a nivel nacional, a nivel de demarcación hidrográfica, o de la parte de la demarcación hidrográfica internacional correspondiente al territorio de un Estado miembro, o a nivel de masa o grupo de masas de agua subterránea.
+3.  Los Estados miembros velarán por que, en el caso de las masas de agua subterránea compartidas por dos o más Estados miembros y de las masas de agua subterránea en las que el flujo del agua subterránea cruza la frontera de un Estado miembro, el establecimiento de los valores umbral esté supeditado a la coordinación entre los Estados miembros interesados, de conformidad con el apartado 4 del artículo 3 de la Directiva 2000/60/CE.
+4.  Cuando una masa o grupo de masas de agua subterránea se extienda más allá del territorio de la Comunidad, el Estado o los Estados miembros afectados se esforzarán por establecer valores umbrales en coordinación con el Estado o los Estados no miembros de que se trate, con arreglo al apartado 5 del artículo 3 de la Directiva 2000/60/CE.
+5.  Los Estados miembros establecerán por primera vez los valores umbral con arreglo a la letra b) del apartado 1 a más tardar el 22 de diciembre de 2008
+    
+    Todos los valores umbral establecidos se publicarán en los planes hidrológicos de cuenca que han de presentarse de conformidad con el artículo 13 de la Directiva 2000/60/CE, incluido el resumen de la información establecida en la parte C del Anexo II de la presente Directiva.
+    
+6.  Los Estados miembros modificarán la lista de valores umbral cuando nueva información sobre contaminantes, grupos de contaminantes o indicadores de contaminación muestren la necesidad de fijar un nuevo valor umbral para otra sustancia o de modificar un valor umbral existente, o de volver a introducir un valor umbral previamente suprimido de la lista, para proteger la salud pública y el medio ambiente
+    
+    Los valores umbral podrán suprimirse de la lista cuando las masas de agua subterránea dejen de representar un riesgo debido a los contaminantes, grupos de contaminantes e indicadores de contaminación.
+    
+    Toda modificación de la lista de valores umbral deberá comunicarse en el contexto de la revisión periódica de los planes hidrológicos de cuenca
+    
+7.  La Comisión publicará un informe, a más tardar el 22 de diciembre de 2009, sobre la base de la información facilitada por los Estados miembros de conformidad con el apartado 5.
+
+#### Artículo 4
+
+Procedimiento de evaluación del estado químico de las aguas subterráneas
+
+1.  Los Estados miembros seguirán el procedimiento descrito en el apartado 2 para evaluar el estado químico de una masa de agua subterránea. Si procede, los Estados miembros podrán agrupar distintas masas de agua subterránea cuando apliquen este procedimiento, con arreglo al Anexo V de la Directiva 2000/60/CE.
+2.  Se considerará que una masa de agua subterránea o grupo de masas de agua subterránea tiene un buen estado químico cuando:
+    -   de acuerdo con los resultados de seguimiento pertinentes, se demuestre que se cumplen las condiciones fijadas en el cuadro 2.3.2 del Anexo V de la Directiva 2000/60/CE; o
+    -   no se superen los valores de las normas de calidad de las aguas subterráneas recogidas en el Anexo I ni los valores umbral correspondientes establecidos con arreglo al artículo 3 y al Anexo II, en ninguno de los puntos de control en dicha masa de agua subterránea o grupo de masas de agua subterránea; o
+    -   se supere el valor de una norma de calidad de las aguas subterráneas o un valor umbral en uno o más puntos de control, pero una investigación adecuada con arreglo al Anexo III confirme que:
+        1.  sobre la base de la evaluación mencionada en el punto 3 del Anexo III, se considere que la concentración de contaminantes que exceda las normas de calidad de las aguas subterráneas o los valores umbral no presenta un riesgo significativo para el medio ambiente, teniendo en cuenta, cuando proceda, la extensión de toda la masa de agua subterránea afectada
+        2.  se cumplen las demás condiciones de buen estado químico de las aguas subterráneas establecidas en el cuadro 2.3.2 del Anexo V de la Directiva 2000/60/CE, con arreglo al punto 4 del Anexo III de la presente Directiva ![](/imagenes/img/articulo_4.gif)
+        3.  para las masas de agua subterránea determinadas con arreglo al apartado 1 del artículo 7 de la Directiva 2000/60/CE (captación de agua potable), se cumplen los requisitos establecidos en el apartado 3 del artículo 7 de dicha Directiva (evitar el deterioro de su calidad, perímetros de protección), con arreglo al punto 4 del Anexo III de la presente Directiva;
+        4.  la contaminación no ha deteriorado de manera significativa la capacidad de la masa de agua subterránea o de una masa dentro del grupo de masas de agua subterránea para atender los diferentes usos.
+3.  La elección de los lugares de control de las aguas subterráneas deberá cumplir los requisitos establecidos en el punto 2.4 del Anexo V de la Directiva 2000/60/CE, en virtud del cual deberán designarse de modo que proporcionen una apreciación coherente y amplia del estado químico de las aguas subterráneas y que aporten datos de control representativos.
+4.  Los Estados miembros publicarán un resumen de la evaluación del estado químico de las aguas subterráneas en los planes hidrológicos de cuenca de acuerdo con el artículo 13 de la Directiva 2000/60/CE.
+    
+    Dicho resumen, que se elaborará por demarcación hidrográfica o la parte de la demarcación hidrográfica internacional correspondiente al territorio de un Estado miembro, incluirá asimismo una explicación referente a la forma en que se han tenido en cuenta en la evaluación final los excesos respecto a las normas de calidad de las aguas subterráneas o a los valores umbral registrados en los puntos de control.
+    
+5.  Cuando una masa de agua subterránea haya recibido la clasificación de buen estado químico con arreglo a la letra c) del apartado 2, los Estados miembros, de conformidad con el artículo 11 de la Directiva 2000/60/CE, adoptarán las medidas necesarias para proteger los ecosistemas acuáticos, los ecosistemas terrestres y diferentes usos de las aguas subterráneas que dependen de la parte de la masa de agua subterránea representada por el punto o los puntos de control donde se haya excedido el valor de las normas de calidad de las aguas subterráneas o de los valores umbral.
+
+#### Artículo 5
+
+Determinación de las tendencias significativas y sostenidas al aumento y definición de los puntos de partida de las inversiones de tendencia
+
+1.  Los Estados miembros determinarán toda tendencia significativa y sostenida al aumento de las concentraciones de los contaminantes, grupos de contaminantes o indicadores de contaminación detectada en masas de agua subterránea o grupos de masas de agua subterránea en riesgo, y definirán los puntos de partida de las inversiones de tendencia, de conformidad con lo dispuesto en el Anexo IV.
+2.  Los Estados miembros procederán de conformidad con la parte B del Anexo IV a invertir las tendencias que presenten un riesgo significativo para la calidad de los ecosistemas acuáticos o terrestres, la salud humana o los usos legítimos, reales o potenciales, del medio acuático, valiéndose para ello del programa de medidas a que hace referencia el artículo 11 de la Directiva 2000/60/CE con el fin de reducir progresivamente la contaminación y evitar el deterioro de las aguas subterráneas.
+3.  Los Estados miembros definirán el punto de partida de la inversión de tendencia como porcentaje del nivel de las normas de calidad de las aguas subterráneas establecidas en el Anexo I y de los valores umbral establecidos con arreglo al artículo 3, sobre la base de la tendencia identificada y del riesgo medioambiental asociado, de conformidad con el punto 1 de la parte B del Anexo IV.
+4.  Los Estados miembros expondrán de forma resumida, de cuenca presentados con arreglo al artículo 13 de la Directiva 2000/60/CE, lo siguiente:
+    -   la forma en que la evaluación de la tendencia a partir de puntos de control individuales dentro de una masa de agua subterránea o grupo de masas de agua subterránea ha contribuido a determinar, de conformidad con el punto 2.5 del Anexo V de dicha Directiva, que dichas masas están sujetas a una tendencia significativa y sostenida al aumento en las concentraciones de cualquier contaminante o que existe una inversión de dicha tendencia, y
+    -   la justificación de los puntos de partida definidos de conformidad con el apartado 3.
+5.  Cuando sea necesario para evaluar el impacto de penachos de contaminación existentes en masas de agua subterránea que puedan obstaculizar el logro de los objetivos del artículo 4 de la Directiva 2000/60/CE, y en particular los penachos resultantes de fuentes puntuales y de terrenos contaminados, los Estados miembros realizarán evaluaciones de tendencia adicionales para los contaminantes identificados, con el fin de garantizar que los penachos procedentes de sitios contaminados no se expandan, no deterioren el estado químico de la masa de agua subterránea o grupo de masas y no supongan un riesgo para la salud humana y el medio ambiente. Los resultados de dichas evaluaciones se presentarán de forma resumida en los planes hidrológicos de cuenca que han de presentarse de conformidad con el artículo 13 de la Directiva 2000/60/CE.
+
+#### Artículo 6
+
+Medidas para prevenir o limitar las entradas de contaminantes en las aguas subterráneas
+
+1.  Con el fin de lograr el objetivo de prevenir o limitar las entradas de contaminantes en las aguas subterráneas, establecido de conformidad con el inciso i) de la letra b) del apartado 1 del artículo 4 de la Directiva 2000/60/CE, los Estados miembros velarán por que el programa de medidas establecido con arreglo al artículo 11 de dicha Directiva incluya las siguientes medidas:
+    -   todas las medidas necesarias para prevenir las entradas de cualquier sustancia peligrosa en las aguas subterráneas sin perjuicio de lo dispuesto en los apartados 2 y 3. En la identificación de tales sustancias, los Estados miembros tendrán en cuenta las sustancias peligrosas pertenecientes a las familias o grupos de contaminantes enumerados en los puntos 1 a 6 del Anexo VIII de la Directiva 2000/60/CE
+        
+        1.  Compuestos organohalogenados y sustancias que puedan dar origen a compuestos de esta clase en el medioacuático
+        2.  Compuestos organofosforados.
+        3.  Compuestos organoestánnicos.
+        4.  Sustancias y preparados, o productos derivados de ellos, cuyas propiedades cancerígenas, mutágenas o que puedan afectar a la tiroides, esteroidogénica, a la reproducción o a otras funciones endocrinas en el medio acuático o a través del medio acuático estén demostradas.
+        5.  Hidrocarburos persistentes y sustancias orgánicas tóxicas persistentes y bioacumulables.
+        6.  Cianuros.
+        
+        , así como las sustancias pertenecientes a las familias o grupos de contaminantes enumerados en los puntos 7 a 9 de dicho Anexo, cuando se considere que son peligrosas;
+        1.  Metales y sus compuestos.
+        2.  Arsénico y sus compuestos.
+        3.  Biocidas y productos fitosanitarios.
+    -   con respecto a los contaminantes enumerados en el Anexo VIII de la Directiva 2000/60/CE que no se consideren peligrosos
+        
+        1.  Materias en suspensión.
+        2.  Sustancias que contribuyen a la eutrofización (en particular nitratos y fosfatos).
+        3.  Sustancias que ejercen una influencia desfavorable sobre el balance de oxígeno (y computables mediante parámetros tales como DBO o DQO).
+        
+        y a cualquier otro contaminante no peligroso no enumerado en dicho Anexo que, a juicio de los Estados miembros, presente un riesgo real o potencial de contaminación, todas las medidas necesarias para limitar las entradas de los mismos en aguas subterráneas de manera que se garantice que tales entradas no causen deterioro o tendencias significativas y sostenidas al aumento de las concentraciones de contaminantes en las aguas subterráneas. Tales medidas tendrán en cuenta, por lo menos, las mejores prácticas conocidas, incluidas las mejores prácticas ambientales y las mejores técnicas disponibles especificadas en la legislación comunitaria pertinente.
+        
+        Con objeto de establecer las medidas indicadas en las letras a) y b), los Estados miembros podrán, en primer lugar, determinar las circunstancias en las que los contaminantes enumerados en el Anexo VIII de la Directiva 2000/60/CE, y en particular los metales esenciales y sus compuestos a que se refiere el punto 7 de dicho Anexo, deben considerarse peligrosos o no.
+        
+2.  Siempre que sea técnicamente posible, se tendrán en cuenta las entradas de contaminantes procedentes de fuentes de contaminación difusas que tengan un impacto en el estado químico de las aguas subterráneas.
+3.  Sin perjuicio de cualquier requisito más estricto establecido en otros actos de la legislación comunitaria, los Estados miembros podrán eximir de las medidas exigidas de conformidad con el apartado 1 a las entradas que:
+    -   sean resultado de vertidos directos autorizados de conformidad con la letra j) del apartado 3 del artículo 11 de la Directiva 2000/60/CE;
+    -   según las autoridades competentes, sean tan reducidas en cantidad y concentración, que excluyan todo peligro actual o futuro de deterioro de la calidad del agua subterránea receptora
+    -   sean consecuencia de accidentes o circunstancias excepcionales de origen natural imposibles de prever, evitar o paliar
+    -   sean resultado de una recarga artificial o aumento autorizados de conformidad con la letra f) del apartado 3 del artículo 11 de la Directiva 2000/60/CE;
+    -   según las autoridades competentes, no sean técnicamente viables para prevenir o limitar sin la utilización de:
+        1.  medidas que aumentarían los riesgos para la salud humana o la calidad del medio ambiente en su conjunto, o
+        2.  medidas con un coste desproporcionado para eliminar cantidades de contaminantes o para controlar su infiltración en suelos o subsuelos contaminados;
+    -   sean el resultado de las actuaciones en las aguas superficiales con el objeto, entre otros, de paliar los efectos de inundaciones y sequías, así como para la gestión de las aguas y de los cursos de agua, incluidos los de ámbito internacional. Dichas actividades, que incluirán por ejemplo el corte, el dragado, el traslado y el almacenamiento de los sedimentos presentes en las aguas superficiales, se llevarán a cabo con arreglo a normas generales vinculantes, y, cuando sean aplicables, con permisos y autorizaciones concedidos sobre la base de las normas que hayan desarrollado al respecto los Estados miembros, siempre que esas entradas no pongan en peligro la consecución de los objetivos medioambientales que se hayan fijado para las masas de agua correspondientes a tenor de la letra b) del apartado 1 del artículo 4, de la Directiva 2000/60/CE.
+4.  Con el fin de notificar a la Comisión, previa solicitud de la misma, las autoridades competentes de los Estados miembros mantendrán un inventario de las excepciones previstas en el apartado 3.
+
+#### Artículo 7
+
+Disposiciones transitorias
+
+En el período comprendido entre el ...\*DO: Dos años después de la entrada en vigor de la presente Directiva. y el 22 de diciembre de 2013, para todo nuevo procedimiento de autorización a que se refieren los artículos 4 y 5 de la Directiva 80/68/CEE, se tendrán en cuenta las disposiciones de los artículos 3, 4 y 5 de la presente Directiva.
+
+#### Artículo 8
+
+Adaptaciones técnicas
+
+1.  Las partes A y C del Anexo II y los Anexos III y IV podrán modificarse, a la luz del progreso científico y técnico, de acuerdo con el procedimiento de reglamentación con control contemplado en el apartado 2 del artículo 9, atendiendo a los períodos de revisión y actualización de los planes hidrológicos de cuenca a que se refiere el apartado 7 del artículo 13 de la Directiva 2000/60/CE.
+2.  La parte B del Anexo II podrá modificarse de acuerdo con el procedimiento de reglamentación con control contemplado en el apartado 2 del artículo 9, con objeto de añadir nuevos contaminantes o indicadores.
+
+#### Artículo 9
+
+Procedimiento de comité
+
+1.  La Comisión estará asistida por un comité.
+2.  En los casos en que se haga referencia al presente apartado, serán de aplicación los apartados 1 a 4 del artículo 5 bis y el artículo 7 de la Decisión 1999/468/CE, observando lo dispuesto en su artículo 8.
+
+#### Artículo 10
+
+Revisión
+
+Sin perjuicio del artículo 8, la Comisión revisará los Anexos I y II de la presente Directiva a más tardar el \* DO: seis años después de la entrada en vigor de la presente Directiva., y posteriormente cada seis años. Sobre la base de la revisión, la Comisión presentará, si procede, propuestas legislativas, de conformidad con el procedimiento establecido en el artículo 251 del Tratado, para modificar los Anexos I y/o II. En su revisión y al preparar las propuestas, la Comisión tendrá en cuenta toda la información pertinente, en la que se podrán incluir los resultados de los programas de seguimiento ejecutados con arreglo al artículo 8 de la Directiva 2000/60/CE, de los programas comunitarios de investigación y/o de las recomendaciones del Comité científico de los riesgos sanitarios y medioambientales, los Estados miembros, el Parlamento Europeo, la Agencia Europea de Medio Ambiente, las organizaciones empresariales europeas y las organizaciones medioambientales europeas.
+
+#### Artículo 11
+
+Evaluación
+
+El informe de la Comisión contemplado en el apartado 1 del artículo 18 de la Directiva 2000/60/CE incluirá, para las aguas subterráneas, la evaluación del funcionamiento de la presente Directiva en relación con la demás legislación ambiental pertinente, incluida su coherencia con ésta.
+
+#### Artículo 12
+
+Aplicación
+
+Los Estados miembros adoptarán las disposiciones legales, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Directiva antes del ... \* DO: Dos años después de la entrada en vigor de la presente Directiva.. Informarán inmediatamente de ello a la Comisión.
+
+Cuando los Estados miembros adopten dichas disposiciones, éstas incluirán una referencia a la presente Directiva o irán acompañadas de dicha referencia en su publicación oficial. Los Estados miembros establecerán las modalidades de la mencionada referencia.
+
+#### Artículo 13
+
+Entrada en vigor
+
+La presente Directiva entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea
+
+#### Artículo 14
+
+Destinatarios
+
+Los destinatarios de la presente Directiva son los Estados miembros.
+
+Hecho en Estrasburgo, Por el Parlamento Europeo
+
+Por el Consejo y el Presidente
+
+#### ANEXO I
+
+NORMAS DE CALIDAD DE LAS AGUAS SUBTERRÁNEAS
+
+1.  Para evaluar el estado químico de las aguas subterráneas de conformidad con el artículo 4, las normas de calidad mencionadas en el cuadro 2.3.2 del Anexo V de la Directiva 2000/60/CE y establecidas de conformidad con el artículo 17 de dicha Directiva serán las siguientes:
+    
+    <!-- tabla 03: tablas/servicios/legislacion/europa/directiva_subterranea/tabla-03.json -->
+
+|  |  |
+| --- | --- |
+| Contaminante | Normas de calidad |
+| Nitratos | 50 mg/l |
+| Sustancias activas de los plaguicidas, incluidos los metabolitos y los productos de degradación y reacción que sean pertinentes 1 | 0,1 µg/l /// 0,5 µg/l (total)2 |
+
+    
+    1.  Se entiende por «plaguicidas» los productos fitosanitarios y los biocidas definidos en el artículo 2 de la Directiva 91/414/CEE y el artículo 2 de la Directiva 98/8/CE, respectivamente.
+    2.  Se entiende por «total» la suma de todos los plaguicidas concretos detectados y cuantificados en el procedimiento de seguimiento, incluidos los productos de metabolización, los productos de degradación y los productos de reacción.
+2.  El resultado de la aplicación de las normas de calidad para plaguicidas en la manera establecida a efectos de la presente Directiva se entenderá sin perjuicio de los resultados de los procedimientos de evaluación de riesgos que requiere la Directiva 91/414/CEE o la Directiva 98/8/CE.
+3.  Cuando se estime que, dada la situación de una determinada masa de agua subterránea respecto a las normas de calidad, pudieran no cumplirse los objetivos medioambientales que figuran en el artículo 4 de la Directiva 2000/60/CE en aguas superficiales asociadas, o pudiera disminuir de forma sensible la calidad ecológica o química de dichas masas o sobrevenir un daño significativo en los ecosistemas terrestres que dependen directamente de la masa de agua subterránea, se establecerán, de acuerdo con el artículo 3 y con el Anexo II de la presente Directiva, unos valores umbral más estrictos. Los programas y medidas que se requieran en relación con dicho valor umbral se aplicarán asimismo a las actividades contempladas en la Directiva 91/676/CEE.
+
+#### ANEXO II
+
+VALORES UMBRAL DE LOS CONTAMINANTES DE LAS AGUAS SUBTERRÁNEAS E INDICADORES DE CONTAMINACIÓN
+
+##### PARTE A:
+
+DIRECTRICES PARA EL ESTABLECIMIENTO DE VALORES UMBRAL POR PARTE
+
+DE LOS ESTADOS MIEMBROS DE CONFORMIDAD CON EL ARTÍCULO 3
+
+Los Estados miembros establecerán valores umbral para todos los contaminantes e indicadores de contaminación que, con arreglo a la caracterización efectuada de conformidad con el artículo 5 de la Directiva 2000/60/CE, determinan las masas o grupos de masas de agua subterránea en riesgo de no alcanzar un buen estado químico.
+
+Los valores umbral se establecerán de tal manera que, en caso de que los resultados del seguimiento en un punto de control representativo excedan los valores umbral, ello indique el riesgo de que no se estén cumpliendo algunas de las condiciones para el buen estado químico del agua subterránea mencionadas en los incisos ii), iii) y iv) de la letra c) del apartado 2 del artículo 4.
+
+Al establecer los valores umbral, los Estados miembros atenderán a las siguientes directrices:
+
+1.  La determinación de valores umbral debería basarse en:
+    1.  el alcance de las interacciones entre las aguas subterráneas y los ecosistemas acuáticos asociados y los ecosistemas terrestres dependientes;
+    2.  la interferencia con los usos o funciones existentes o futuros de las aguas subterráneas;
+    3.  todos los contaminantes que caracterizan las masas de agua subterránea en riesgo, teniendo en cuenta las listas mínimas recogidas en la Parte B
+    4.  las características hidrogeológicas, incluida la información sobre niveles de referencia y balance de agua.
+2.  La determinación de los valores umbral tendrá también en cuenta los orígenes de los contaminantes, su posible presencia natural, su toxicología y tendencia de dispersión, su persistencia y su potencial de bioacumulación.
+3.  Cuando se produzcan elevados niveles de referencia de sustancias o iones, o de sus indicadores, debidos a motivos hidrogeológicos naturales, a la hora de establecer los valores umbral se tendrán en cuenta esos niveles de referencia de la masa de agua subterránea de que se trate.
+4.  La determinación de los valores umbral debería apoyarse en un procedimiento de control por lo que respecta a los datos recogidos, basado en una evaluación de la calidad de los datos, en consideraciones analíticas, y en niveles de referencia para aquellas sustancias que pueden estar presentes tanto de manera natural como a consecuencia de la actividad humana.
+
+##### PARTE B:
+
+LISTA MÍNIMA DE CONTAMINANTES Y SUS INDICADORES PARA LOS QUE LOS
+
+ESTADOS MIEMBROS DEBEN ESTABLECER VALORES UMBRAL DE ACUERDO CON LO DISPUESTO EN EL ARTÍCULO 3
+
+1.  Sustancias o iones o indicadores presentes de forma natural y/o como resultado de actividades humanas
+    -   Arsénico
+    -   Cadmio
+    -   Plomo
+    -   Mercurio
+    -   Amonio
+    -   Cloruro
+    -   Sulfato
+2.  Sustancias sintéticas artificiales
+    -   Tricloroetileno
+    -   Tetracloroetileno
+3.  Parámetros indicativos de salinización u otras intrusiones Por lo que se refiere a las concentraciones salinas resultantes de actividades humanas, los Estados miembros podrán optar por establecer valores umbral bien para el cloruro y el sulfato, bien para la conductividad.
+
+##### PARTE C:
+
+INFORMACIÓN QUE DEBERÁN FACILITAR LOS ESTADOS MIEMBROS EN RELACIÓN CON LOS CONTAMINANTES PARA LOS QUE SE HAYAN ESTABLECIDO VALORES UMBRAL
+
+Los Estados miembros resumirán en el plan hidrológico de cuenca presentado de conformidad con lo dispuesto en el artículo 13 de la Directiva 2000/60/CE el modo en que se hayan atenido al procedimiento establecido en la parte A.
+
+Cuando resulte factible, los Estados miembros proporcionarán, en particular:
+
+1.  Información sobre el número de masas o grupos de masas de agua subterránea caracterizadas en riesgo, y sobre los contaminantes e indicadores de contaminación que contribuyen a tal clasificación, incluidos las concentraciones o valores observados.
+2.  Información sobre cada una de las masas de agua subterránea caracterizadas en riesgo, y en particular dimensiones de las mismas, relación entre ellas y las aguas superficiales asociadas o los ecosistemas terrestres directamente dependientes y, tratándose de sustancias presentes de forma natural, niveles naturales de referencia.
+3.  Valores umbral, tanto si se aplican a nivel nacional, a nivel de demarcación hidrográfica o de la parte de la demarcación hidrográfica internacional que pertenezca al territorio del Estado miembro, o a nivel de masa o grupos de masas de agua subterránea.
+4.  Relación entre los valores umbral y:
+    -   tratándose de sustancias presentes de forma natural, los niveles de referencia observados
+    -   los objetivos de calidad medioambiental y otras normas de protección del agua vigentes a nivel nacional, comunitario o internacional
+    -   cualquier información relativa a la toxicología, ecotoxicología, persistencia, potencial de bioacumulación y tendencia a la dispersión de los contaminantes.
+
+#### ANEXO III
+
+EVALUACIÓN DEL ESTADO QUÍMICO DE LAS AGUAS SUBTERRÁNEAS
+
+1.  El procedimiento de evaluación destinado a determinar el estado químico de una masa o grupo de masas de agua subterránea deberá llevarse a cabo en todas las masas o grupos de masas de agua subterránea caracterizadas en riesgo; deberán tenerse en cuenta cada uno de los contaminantes que hubiera contribuido, en la masa o grupo de masas de agua subterránea, a la existencia de tal riesgo.
+2.  Al llevar a cabo las investigaciones mencionadas en la letra c) del apartado 2 del artículo 4, los Estados miembros deberán tener en cuenta:
+    -   la información recogida como parte del análisis de las características que ha de llevarse a cabo de acuerdo con lo dispuesto en el artículo 5 de la Directiva 2000/60/CE y en los puntos 2.1, 2.2 y 2.3 de su Anexo II;
+    -   los resultados de la red de seguimiento de las aguas subterráneas obtenidos de conformidad con el punto 2.4 del Anexo V de la Directiva 2000/60/CE;
+    -   cualquier otra información relevante, incluida una comparación de la concentración media anual de los contaminantes pertinentes en un punto de control con las normas de calidad de las aguas subterráneas que se indican en el Anexo I y con los valores umbral establecidos por los Estados miembros con arreglo al artículo 3 y el Anexo II.
+3.  A efectos de determinar si se cumplen las condiciones de buen estado químico de las aguas subterráneas establecidas en los incisos i) y iv) de la letra c) del apartado 2 del artículo 4, los Estados miembros, cuando se estime pertinente y necesario y basándose en los elementos pertinentes añadidos a los resultados del seguimiento, apoyados cuando proceda en estimaciones de concentraciones basadas en un modelo conceptual de la masa o grupo de masas de agua subterránea, evaluarán la extensión de la masa de agua subterránea que tenga una concentración media anual de algún contaminante superior a una norma de calidad de las aguas subterráneas o a un valor umbral.
+4.  A efectos de determinar si se cumplen las condiciones de buen estado químico de las aguas subterráneas establecidas en los incisos ii) y iii) de la letra c) del apartado 2 del artículo 4, cuando se estime pertinente y necesario, y sobre la base de los resultados pertinentes del seguimiento y de un modelo conceptual apropiado de la masa de agua subterránea, los Estados miembros evaluarán:
+    1.  los efectos de los contaminantes en la masa de agua subterránea;
+    2.  las cantidades y concentraciones de los contaminantes transferidos, o que puedan ser transferidos, desde la masa de agua subterránea a las aguas superficiales asociadas o a los ecosistemas terrestres directamente dependientes;
+    3.  la posible incidencia de las cantidades y concentraciones de contaminantes transferidos a las aguas superficiales asociadas y a los ecosistemas terrestres directamente dependientes;
+    4.  la amplitud de la salinización o de otras intrusiones en la masa de agua subterránea
+    5.  el riesgo derivado de los agentes contaminantes en la masa de agua subterránea para la calidad del agua extraída para el consumo humano, o destinada a extraerse, de la masa de agua subterránea.
+5.  Los Estados miembros presentarán el estado químico de una masa o grupo de masas de agua subterránea mediante mapas, de conformidad con los puntos 2.4.5 y 2.5 del Anexo V de la Directiva 2000/60/CE. Además, cuando proceda y sea viable, los Estados miembros indicarán en esos mapas todos los puntos de control en los que se superen las normas de calidad de las aguas subterráneas o los valores umbral.
+
+###### 2.4.5. Interpretación y presentación del estado químico de las aguas subterráneas
+
+Al evaluar el estado, los resultados de cada punto de control en una masa de agua subterránea se globalizarán para la totalidad de la masa. Sin perjuicio de las Directivas correspondientes, para que una masa de agua subterránea alcance un buen estado, en lo referente a los parámetros químicos para los que se han fijado normas de calidad medioambiental en la legislación comunitaria:
+
+-   se calculará el valor promedio de los resultados del control obtenidos en cada punto de la masa o grupo de masas,
+-   de acuerdo con el artículo 17, dichos valores promedio se utilizarán para demostrar la conformidad con el buen estado químico de las aguas subterráneas.
+
+Sin perjuicio de lo establecido en el punto 2.5, los Estados miembros facilitarán un mapa del estado químico de las aguas subterráneas codificado por colores como se indica a continuación:
+
+-   Buen estado: verde
+-   Mal estado: rojo
+
+Los Estados miembros indicarán asimismo en el mapa, mediante puntos negros, las masas de agua subterránea sujetas a una tendencia significativa y continua al aumento en las concentraciones de cualquier contaminante debida a las repercusiones de la actividad humana. La inversión de una tendencia se indicará mediante un punto azul en el mapa.
+
+Dichos mapas se incluirán en el plan hidrológico de cuenca.
+
+###### 2.5. Presentación del estado de las aguas subterráneas
+
+Los Estados miembros facilitarán en el plan hidrológico de cuenca un mapa en el que se muestre, respecto de cada masa o grupo de masas de agua subterránea, el estado cuantitativo y el estado químico de dicha masa o grupo de masas, codificados por colores con arreglo a lo dispuesto en los puntos 2.4.4 y 2.4.5. Los Estados miembros podrán optar por no facilitar mapas independientes en virtud de los puntos 2.4.4 y 2.4.5, pero en ese caso facilitarán asimismo, de conformidad con lo dispuesto con respecto al mapa estipulado en el punto 2.4.5, una indicación de las masas que estén sujetas a una tendencia significativa y continua al aumento en las concentraciones de cualquier contaminante o cualquier inversión de dicha tendencia.
+
+#### ANEXO IV
+
+DETERMINACIÓN E INVERSIÓN DE TENDENCIAS SIGNIFICATIVAS Y SOSTENIDAS AL AUMENTO
+
+##### PARTE A:
+
+DETERMINACIÓN DE TENDENCIAS SIGNIFICATIVAS Y SOSTENIDAS AL AUMENTO
+
+Los Estados miembros determinarán las tendencias significativas y sostenidas al aumento en todas las masas o grupos de masas de agua subterránea que presenten un riesgo con arreglo al Anexo II de la Directiva 2000/60/CE, teniendo en cuenta los siguientes aspectos:
+
+1.  De conformidad con el punto 2.4 del Anexo V de la Directiva 2000/60/CE, el programa de seguimiento deberá concebirse de forma tal que detecte las tendencias significativas y sostenidas al aumento de las concentraciones de los contaminantes que se hubieran determinado con arreglo al artículo 3 de la presente Directiva.
+2.  El procedimiento de determinación de la aparición de tendencias significativas y sostenidas al aumento se llevará a cabo de la siguiente forma:
+    -   se elegirán frecuencias y puntos de control que sean suficientes para:
+        -   proporcionar la información necesaria para garantizar que dichas tendencias al aumento puedan distinguirse de las variaciones naturales con un nivel adecuado de fiabilidad y precisión;
+        -   permitir que dichas tendencias al aumento se determinen con tiempo suficiente para que puedan aplicarse medidas con objeto de impedir, o cuando menos mitigar en la medida de lo posible, cambios adversos en la calidad del agua que sean significativos para el medio ambiente. Esta determinación se llevará a cabo por primera vez en 2009, si es posible, y teniendo en cuenta los datos existentes, en el informe sobre determinación de tendencias del primer plan hidrológico de cuenca establecido en el artículo 13 de la Directiva 2000/60/CE, y después cada seis años como mínimo;
+        -   tener en cuenta las características temporales, físicas y químicas, de la masa de agua subterránea, incluidas las condiciones de flujo y los índices de recarga del agua subterránea, así como el tiempo que ésta tarda en atravesar el suelo o el subsuelo;
+    -   se utilizarán métodos de control y análisis acordes con los principios internacionales de control de la calidad, entre ellos, si procede, las normas CEN o los métodos nacionales normalizados, para garantizar que se proporcionen datos de calidad científica equivalente que puedan compararse;
+    -   la evaluación se basará en un método estadístico, como el análisis de regresión, para analizar las tendencias en series temporales en puntos de control concretos;
+    -   con el fin de evitar sesgos en la determinación de las tendencias, todas las mediciones por debajo del límite de cuantificación se cifrarán en la mitad del valor del límite de cuantificación más alto registrado durante el período, con excepción de la totalidad de los plaguicidas.
+3.  Para la determinación de tendencias significativas y sostenidas al aumento en las concentraciones de sustancias que se produzcan naturalmente y como resultado de actividades humanas se considerarán los niveles básicos y, cuando se disponga de ellos, los datos recabados con anterioridad al comienzo del programa de control, con objeto de informar acerca de la determinación de tendencias en el plan de gestión de la primera cuenca hidrográfica a que hace referencia el artículo 13 de la Directiva 2000/60/CE.
+
+##### PARTE B:
+
+PUNTO DE PARTIDA DE LAS INVERSIONES DE TENDENCIA
+
+De acuerdo con el artículo 5, los Estados miembros invertirán las tendencias significativas y sostenidas al aumento teniendo en cuenta los siguientes requisitos:
+
+1.  El punto de partida para aplicar medidas destinadas a invertir tendencias significativas y sostenidas al aumento será el momento en el cual la concentración del contaminante alcance el 75% de los valores paramétricos de las normas de calidad de las aguas subterráneas establecidas en el Anexo I y de los valores umbral establecidos con arreglo al artículo 3, a menos que:
+    1.  sea necesario un punto de partida anterior para hacer posible que las medidas de inversión impidan del modo más rentable, o al menos mitiguen en la medida de lo posible, cualquier cambio adverso significativo en la calidad del agua subterránea;
+    2.  se justifique un punto de partida distinto si el límite de detección no permite establecer la presencia de una tendencia cifrada en el 75% de los valores paramétricos;
+    3.  la tasa de aumento y la reversibilidad de la tendencia sean tales que, de tomarse un punto de partida posterior para aplicar medidas de inversión de la tendencia, éste seguiría haciendo posible que dichas medidas impidan del modo más rentable, o al menos mitiguen en la medida de lo posible, cualquier cambio adverso significativo desde el punto de vista medioambiental en la calidad del agua subterránea. Este punto de partida posterior no podrá suponer retraso alguno en el cumplimiento de los plazos para el logro de los objetivos medioambientales.
+        
+        Para las actividades incluidas en el ámbito de aplicación de la Directiva 91/676/CEE, el punto de partida para la aplicación de medidas para invertir tendencias significativas y sostenidas se establecerá de conformidad con dicha Directiva y con la Directiva 2000/60/CE, en particular la adhesión a los objetivos medioambientales de protección de las aguas establecidos en su artículo 4.
+        
+2.  Una vez establecido un punto de partida para una masa de agua subterránea en riesgo de conformidad con el punto 2.4.4 del Anexo V de la Directiva 2000/60/CE y con arreglo al punto 1 anterior, aquél no se modificará durante el ciclo de seis años del plan hidrológico de cuenca establecido de conformidad con el artículo 13 de la Directiva 2000/60/CE.
+3.  Deberán demostrarse las inversiones de las tendencias, teniendo en cuenta las disposiciones pertinentes de seguimiento que contiene el punto 2 de la parte A.

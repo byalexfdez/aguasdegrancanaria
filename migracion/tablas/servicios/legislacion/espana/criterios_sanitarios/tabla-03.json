@@ -1,0 +1,31 @@
+{
+  "fuente": "/servicios/legislacion/españa/criterios_sanitarios.php",
+  "indice": 3,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Parámetro",
+      "Valor paramétrico",
+      "Notas"
+    ],
+    [
+      "1. Escherichia coli",
+      "0 UFC en 100 ml",
+      ""
+    ],
+    [
+      "2. Enterococo",
+      "0 UFC en 100 ml",
+      ""
+    ],
+    [
+      "3. Clostridium perfringens (incluidas las esporas)",
+      "0 UFC en 100 ml",
+      "1 y 2"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

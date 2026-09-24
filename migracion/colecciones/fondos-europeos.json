@@ -1,0 +1,676 @@
+[
+  {
+    "ruta": "/fondos_feder.php",
+    "titulo": "FONDOS FEDER",
+    "total": 31,
+    "items": [
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "Nota de prensa",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/Nota_de_Prensa_GAL-82.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/nota_de_prensa_gal-82.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 628032,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "Cartel de la Obra",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/AMP_GUIA_GALDAR_CARTEL_OBRA.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/amp_guia_galdar_cartel_obra.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 277810,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "Nota de X (Twitter)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/AMP%20EDAR%20GUIA%20GALDAR%20TWITTER%20FONDOS%20FEDER.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/amp-edar-guia-galdar-twitter-fondos-feder.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 209852,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "Nota de FACEBOOK",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/AMP%20EDAR%20GUIA%20GALDAR%20FACEBOOK%20FONDOS%20FEDER.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/amp-edar-guia-galdar-facebook-fondos-feder.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 302911,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "Video: A vista de DRON",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/VIDEO%20DRON%20AMPLIACION%20EDAR%20GUIA%20GALDAR.mp4",
+        "ruta_nueva": "/videos/pdfs/fondosfeder/video-dron-ampliacion-edar-guia-galdar.mp4",
+        "tipo": "video",
+        "formato": "mp4",
+        "bytes": 6409148,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "- Foto 1 -",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/AMPLIACION%20EDAR%20GUIA%20GALDAR%20(1).jpeg",
+        "ruta_nueva": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-1.jpeg",
+        "tipo": "imagen",
+        "formato": "jpeg",
+        "bytes": 664484,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "- Foto 2 -",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/AMPLIACION%20EDAR%20GUIA%20GALDAR%20(2).jpeg",
+        "ruta_nueva": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-2.jpeg",
+        "tipo": "imagen",
+        "formato": "jpeg",
+        "bytes": 591417,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "- Foto 3 -",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/AMPLIACION%20EDAR%20GUIA%20GALDAR%20(3).jpeg",
+        "ruta_nueva": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-3.jpeg",
+        "tipo": "imagen",
+        "formato": "jpeg",
+        "bytes": 663790,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "- Foto 4 -",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/AMPLIACION%20EDAR%20GUIA%20GALDAR%20(4).jpeg",
+        "ruta_nueva": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-4.jpeg",
+        "tipo": "imagen",
+        "formato": "jpeg",
+        "bytes": 543882,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "- Foto 5 -",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/AMPLIACION%20EDAR%20GUIA%20GALDAR%20(5).jpeg",
+        "ruta_nueva": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-5.jpeg",
+        "tipo": "imagen",
+        "formato": "jpeg",
+        "bytes": 664888,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "- Foto 6 -",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/AMPLIACION%20EDAR%20GUIA%20GALDAR%20(6).jpeg",
+        "ruta_nueva": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-6.jpeg",
+        "tipo": "imagen",
+        "formato": "jpeg",
+        "bytes": 454675,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "- Foto 7 -",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/AMPLIACION%20EDAR%20GUIA%20GALDAR%20(7).jpeg",
+        "ruta_nueva": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-7.jpeg",
+        "tipo": "imagen",
+        "formato": "jpeg",
+        "bytes": 442376,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "- Foto 8 -",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/AMPLIACION%20EDAR%20GUIA%20GALDAR%20(8).jpeg",
+        "ruta_nueva": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-8.jpeg",
+        "tipo": "imagen",
+        "formato": "jpeg",
+        "bytes": 607969,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Eje 6: Conservar y Proteger el medio ambiente y promover la eficiencia de los recursos.",
+          "Infraestructuras de saneamiento y depuración de aguas (IC.6.b.1.001) AMPLIACIÓN EDAR GUÍA GÁLDAR"
+        ],
+        "titulo": "- Foto 9 -",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/AMPLIACION%20EDAR%20GUIA%20GALDAR%20(9).jpeg",
+        "ruta_nueva": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-9.jpeg",
+        "tipo": "imagen",
+        "formato": "jpeg",
+        "bytes": 530143,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 4: Transporte y Energía, tema prioritario 43, Eficiencia energética, cogeneración y gestión energética",
+          "Mejora Energética de la EDAM Bocabarranco: Exp. 29-14"
+        ],
+        "titulo": "Anuncio de formalización",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/29-14-form.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/29-14-form.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 436282,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 4: Transporte y Energía, tema prioritario 43, Eficiencia energética, cogeneración y gestión energética",
+          "Mejora Energética de la EDAM Bocabarranco: Exp. 29-14"
+        ],
+        "titulo": "Anuncio de adjudicación",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/29-14-adjudic.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/29-14-adjudic.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 446836,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 4: Transporte y Energía, tema prioritario 43, Eficiencia energética, cogeneración y gestión energética",
+          "Mejora Energética de la EDAM Bocabarranco: Exp. 29-14"
+        ],
+        "titulo": "Convocatoria Mesa de Contratación (sobre n° 3): 3 de Noviembre, 9:00 horas",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/29-14-Mesa3.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/29-14-mesa3.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 246447,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 4: Transporte y Energía, tema prioritario 43, Eficiencia energética, cogeneración y gestión energética",
+          "Mejora Energética de la EDAM Bocabarranco: Exp. 29-14"
+        ],
+        "titulo": "Convocatoria Mesa de Contratación (sobre n° 2): 13 de Octubre, 09:30 horas",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/29-14-Mesa.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/29-14-mesa.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 255099,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 4: Transporte y Energía, tema prioritario 43, Eficiencia energética, cogeneración y gestión energética",
+          "Mejora Energética de la EDAM Bocabarranco: Exp. 29-14"
+        ],
+        "titulo": "Visita a las instalaciones: 11 de septiembre de 2014",
+        "etiqueta": null,
+        "anio_en_texto": 2014,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/29-14-visita.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/29-14-visita.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 26055,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 4: Transporte y Energía, tema prioritario 43, Eficiencia energética, cogeneración y gestión energética",
+          "Mejora Energética de la EDAM Bocabarranco: Exp. 29-14"
+        ],
+        "titulo": "Anuncio BOP; Visita instalaciones EDAM Bocabarranco",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/29-14-BOP-Visita.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/29-14-bop-visita.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 41615,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 4: Transporte y Energía, tema prioritario 43, Eficiencia energética, cogeneración y gestión energética",
+          "Mejora Energética de la EDAM Bocabarranco: Exp. 29-14"
+        ],
+        "titulo": "Aclaración dudas del Pliego Administrativo",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/29-14-Aclaraci%C3%B3n-dudas.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/29-14-aclaracion-dudas.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 550388,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 4: Transporte y Energía, tema prioritario 43, Eficiencia energética, cogeneración y gestión energética",
+          "Mejora Energética de la EDAM Bocabarranco: Exp. 29-14"
+        ],
+        "titulo": "Anuncio del BOP",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/29-14-BOP.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/29-14-bop.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 49975,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 4: Transporte y Energía, tema prioritario 43, Eficiencia energética, cogeneración y gestión energética",
+          "Mejora Energética de la EDAM Bocabarranco: Exp. 29-14"
+        ],
+        "titulo": "Pliego administrativo",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/29-14-padmin.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/29-14-padmin.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 15480058,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 4: Transporte y Energía, tema prioritario 43, Eficiencia energética, cogeneración y gestión energética",
+          "Mejora Energética de la EDAM Bocabarranco: Exp. 29-14"
+        ],
+        "titulo": "Proyecto",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/29-14-ptec.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/29-14-ptec.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 7338911,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 4: Transporte y Energía, tema prioritario 43, Eficiencia energética, cogeneración y gestión energética",
+          "Mejora Energética de la EDAM Bocabarranco: Exp. 29-14"
+        ],
+        "titulo": "Planos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/Planos.rar",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/planos.rar",
+        "tipo": "documento",
+        "formato": "rar",
+        "bytes": 987537,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 3: Medio Ambiente, entronco Natural, Recursos hídricos y prevención de riesgos, tema prioritario 45, Gestión y distribución del agua (agua potable)",
+          "Depósito y E.B. IDAM Arucas-Moya,2ª Fase: Exp. 03-08"
+        ],
+        "titulo": "Descargar Anuncio",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/03-08-bop.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/03-08-bop.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 48942,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 3: Medio Ambiente, entronco Natural, Recursos hídricos y prevención de riesgos, tema prioritario 45, Gestión y distribución del agua (agua potable)",
+          "Depósito y E.B. IDAM Arucas-Moya,2ª Fase: Exp. 03-08"
+        ],
+        "titulo": "Descargar pliego administrativo",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/03-08-pcap.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/03-08-pcap.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 62640,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 3: Medio Ambiente, entronco Natural, Recursos hídricos y prevención de riesgos, tema prioritario 45, Gestión y distribución del agua (agua potable)",
+          "Ampliación depósito regulador Lomo IV: Exp 14-07"
+        ],
+        "titulo": "Descargar pliego administrativo",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/14-07-pcap.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/14-07-pcap.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 61259,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 3: Medio Ambiente, entronco Natural, Recursos hídricos y prevención de riesgos, tema prioritario 45, Gestión y distribución del agua (agua potable)",
+          "Ampliación depósito regulador Lomo IV: Exp 14-07"
+        ],
+        "titulo": "Descargar Anuncio",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/14-07-bop.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/14-07-bop.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 10923,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 3: Medio Ambiente, entronco Natural, Recursos hídricos y prevención de riesgos, tema prioritario 45, Gestión y distribución del agua (agua potable)",
+          "Ampliación depósito Lomo Ortega: Exp. 06-08"
+        ],
+        "titulo": "Descargar Anuncio",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/06-08-bop.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/06-08-bop.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 48016,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EJE 3: Medio Ambiente, entronco Natural, Recursos hídricos y prevención de riesgos, tema prioritario 45, Gestión y distribución del agua (agua potable)",
+          "Ampliación depósito Lomo Ortega: Exp. 06-08"
+        ],
+        "titulo": "Descargar pliego administrativo",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/FondosFeder/06-08-pcap.pdf",
+        "ruta_nueva": "/documentos/pdfs/fondosfeder/06-08-pcap.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 62003,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/divulgacion/fondos_feder.php",
+    "titulo": "FONDOS FEDER",
+    "total": 6,
+    "items": [
+      {
+        "grupo": [
+          "FONDOS FEDER ACTUACIONES FINANCIADAS CON FONDOS FEDER"
+        ],
+        "titulo": "Iniciativa Comunitaria INTERREG III B",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://aquamac.itccanarias.org/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "FONDOS FEDER ACTUACIONES FINANCIADAS CON FONDOS FEDER"
+        ],
+        "titulo": "Iniciativa Comunitaria INTERREG III B",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://aquamac.itccanarias.org/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "FONDOS FEDER ACTUACIONES FINANCIADAS CON FONDOS FEDER"
+        ],
+        "titulo": "Espacio Açores-Madeira-Canarias",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.interreg-mac.org/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "FONDOS FEDER ACTUACIONES FINANCIADAS CON FONDOS FEDER"
+        ],
+        "titulo": "Acceder a la página del proyecto",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://aquamac.itccanarias.org/index.php?option=com_content&task=view&id=30&Itemid=62",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CÓMO ACCEDER AL DOCUMENTO COMPLETO:"
+        ],
+        "titulo": "Fondos Europeos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.gobiernodecanarias.org/fondoseuropeos/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CÓMO ACCEDER AL DOCUMENTO COMPLETO:"
+        ],
+        "titulo": "Consejería de Hacienda, Presupuestos y Asustos Europeos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.gobcan.es/hacienda",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/nextgeneration.php",
+    "titulo": "FINANCIADO POR LA UNIÓN EUROPEA",
+    "total": 2,
+    "items": [
+      {
+        "grupo": [
+          "NEXT GENERATION EU"
+        ],
+        "titulo": null,
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/NextGeneration/nota_informativa.pdf",
+        "ruta_nueva": "/documentos/pdfs/nextgeneration/nota_informativa.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 103788,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "NEXT GENERATION EU"
+        ],
+        "titulo": null,
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/NextGeneration/cartel.pdf",
+        "ruta_nueva": "/documentos/pdfs/nextgeneration/cartel.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2115327,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/subvenciones.php",
+    "titulo": "MEMORIA DESCRIPTIVA DE LAS ACCIONES DE COMUNICACIÓN Y PUBLICIDAD REALIZADAS PARA LA INICIATIVA SUBVENCIONADA:",
+    "total": 2,
+    "items": [
+      {
+        "grupo": [
+          "AÑO CONVOCATORIA: 2025 - 27/05/2025 - BOC Nº 104"
+        ],
+        "titulo": null,
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Subvenciones/Suvb_MEMORIA.pdf",
+        "ruta_nueva": "/documentos/pdfs/subvenciones/suvb_memoria.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 256645,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AÑO CONVOCATORIA: 2025 - 27/05/2025 - BOC Nº 104"
+        ],
+        "titulo": null,
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Subvenciones/Suvb_Cartel.pdf",
+        "ruta_nueva": "/documentos/pdfs/subvenciones/suvb_cartel.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 143180,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  }
+]

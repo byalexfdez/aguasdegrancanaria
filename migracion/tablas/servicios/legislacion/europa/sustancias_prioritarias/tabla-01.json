@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/europa/sustancias_prioritarias.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 02/12/2010",
+      "Título",
+      "Lista de sustancias prioritarias",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Decisión no 2455/2001/CE por la que se aprueba la lista de sustancias prioritarias en el ámbito de la política de aguas, y por la que se modifica la Directiva 2000/60/CE",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua",
+      "",
+      "Directiva",
+      "Union Europea"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

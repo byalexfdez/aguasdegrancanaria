@@ -1,0 +1,21 @@
+{
+  "fuente": "/servicios/tarifas.php",
+  "indice": 6,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [],
+  "filas": [
+    [
+      "1.",
+      "Extracción de áridos",
+      "1,20"
+    ],
+    [
+      "2.",
+      "Vertido de inertes",
+      "5,24"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

@@ -1,0 +1,52 @@
+{
+  "fuente": "/planhidro/art47/volumen1.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Memoria",
+      ""
+    ],
+    [
+      "Planos",
+      ""
+    ],
+    [
+      "Anexo 1: Masas de Agua",
+      ""
+    ],
+    [
+      "Participación Pública",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/planhidro/phart47_meminfo.pdf"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/planhidro/phart47_planosinfo.zip"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/planhidro/phart47_anexo.pdf"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/planhidro/phart47_particip.pdf"
+    }
+  ]
+}

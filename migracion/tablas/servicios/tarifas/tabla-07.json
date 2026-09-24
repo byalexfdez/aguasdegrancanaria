@@ -1,0 +1,15 @@
+{
+  "fuente": "/servicios/tarifas.php",
+  "indice": 7,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "TIPO DE PROCEDIMIENTO",
+      "TASA (€)"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

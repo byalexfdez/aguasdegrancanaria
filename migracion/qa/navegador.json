@@ -1,0 +1,72 @@
+{
+  "axe": {
+    "paginas": 18,
+    "criticos": 0,
+    "graves": 0,
+    "detalle": []
+  },
+  "desbordamiento": {
+    "revisadas": 240,
+    "fallos": []
+  },
+  "capturas": [
+    "360-inicio.png",
+    "360-agua-en-gran-canaria-presas-volumenes.png",
+    "360-servicios-normativa-canarias-ley-aguas.png",
+    "360-actualidad-noticias.png",
+    "360-transparencia-presupuestos.png",
+    "768-inicio.png",
+    "768-agua-en-gran-canaria-presas-volumenes.png",
+    "768-servicios-normativa-canarias-ley-aguas.png",
+    "768-actualidad-noticias.png",
+    "768-transparencia-presupuestos.png",
+    "1280-inicio.png",
+    "1280-agua-en-gran-canaria-presas-volumenes.png",
+    "1280-servicios-normativa-canarias-ley-aguas.png",
+    "1280-actualidad-noticias.png",
+    "1280-transparencia-presupuestos.png",
+    "1920-inicio.png",
+    "1920-agua-en-gran-canaria-presas-volumenes.png",
+    "1920-servicios-normativa-canarias-ley-aguas.png",
+    "1920-actualidad-noticias.png",
+    "1920-transparencia-presupuestos.png"
+  ],
+  "lighthouse": [
+    {
+      "url": "/",
+      "rendimiento": 98,
+      "accesibilidad": 100,
+      "buenas": 100,
+      "seo": 100,
+      "lcp": "2.2 s",
+      "cls": "0.018"
+    },
+    {
+      "url": "/agua-en-gran-canaria/presas/",
+      "rendimiento": 97,
+      "accesibilidad": 100,
+      "buenas": 100,
+      "seo": 100,
+      "lcp": "2.3 s",
+      "cls": "0.017"
+    },
+    {
+      "url": "/servicios/normativa/canarias/ley-aguas/",
+      "rendimiento": 98,
+      "accesibilidad": 100,
+      "buenas": 100,
+      "seo": 100,
+      "lcp": "2.0 s",
+      "cls": "0.021"
+    },
+    {
+      "url": "/actualidad/noticias/",
+      "rendimiento": 99,
+      "accesibilidad": 100,
+      "buenas": 100,
+      "seo": 100,
+      "lcp": "2.0 s",
+      "cls": "0"
+    }
+  ]
+}

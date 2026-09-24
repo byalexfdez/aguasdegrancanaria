@@ -1,0 +1,65 @@
+---
+// Mapa interactivo de presas (datos del KMZ publicado por el Consejo: /documentos/presas/presas.kmz).
+import 'leaflet/dist/leaflet.css';
+import fs from 'node:fs';
+import path from 'node:path';
+const presas = JSON.parse(fs.readFileSync(path.resolve('public/datos/presas-mapa.json'), 'utf8')) as any[];
+const grandes = presas.filter((p) => p.tipo === 'grande').length;
+---
+<section class="mt-12" aria-labelledby="t-mapa-presas">
+  <div class="flex flex-wrap items-end justify-between gap-4">
+    <div>
+      <h2 id="t-mapa-presas" class="font-display text-2xl font-bold">Mapa de presas</h2>
+      <p class="mt-1 text-sm text-texto-suave">{presas.length} presas del mapa publicado por el Consejo (KMZ). Pulse una presa para ver sus datos y su ficha.</p>
+    </div>
+    <form id="filtro-presas" class="flex flex-wrap items-end gap-3" aria-label="Filtrar presas">
+      <fieldset class="flex rounded-full bg-superficie-2 p-1 text-sm font-semibold">
+        <legend class="sr-only">Tipo de presa</legend>
+        <label class="cursor-pointer"><input type="radio" name="tipo" value="" checked class="peer sr-only" /><span class="block rounded-full px-3 py-1.5 peer-checked:bg-marca-700 peer-checked:text-white peer-focus-visible:outline-2">Todas ({presas.length})</span></label>
+        <label class="cursor-pointer"><input type="radio" name="tipo" value="grande" class="peer sr-only" /><span class="block rounded-full px-3 py-1.5 peer-checked:bg-marca-700 peer-checked:text-white">Grandes ({grandes})</span></label>
+        <label class="cursor-pointer"><input type="radio" name="tipo" value="pequena" class="peer sr-only" /><span class="block rounded-full px-3 py-1.5 peer-checked:bg-marca-700 peer-checked:text-white">Pequeñas ({presas.length - grandes})</span></label>
+      </fieldset>
+      <label class="grid gap-1 text-sm font-semibold">Buscar presa
+        <input type="search" name="q" class="rounded-xl border border-borde bg-superficie px-3 py-1.5 font-normal" placeholder="Ej.: Soria" list="lista-presas" />
+      </label>
+      <datalist id="lista-presas">{presas.map((p) => <option value={p.nombre} />)}</datalist>
+    </form>
+  </div>
+  <p id="presas-cuenta" class="sr-only" role="status" aria-live="polite"></p>
+  <div id="mapa-presas" class="mt-4 h-[32rem] rounded-[var(--radius-tarjeta)] border border-borde bg-superficie-2 overflow-hidden" role="region" aria-label="Mapa de presas de Gran Canaria"></div>
+  <p class="mt-2 flex flex-wrap gap-4 text-sm text-texto-suave">
+    <span class="inline-flex items-center gap-2"><span class="size-3.5 rounded-full bg-marca-700" aria-hidden="true"></span>Grandes presas</span>
+    <span class="inline-flex items-center gap-2"><span class="size-3 rounded-full bg-turquesa-500" aria-hidden="true"></span>Presas pequeñas</span>
+  </p>
+</section>
+<script>
+  import L from 'leaflet';
+  const el = document.getElementById('mapa-presas');
+  if (el) {
+    const esc = (s: string) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]!));
+    const mapa = L.map(el, { scrollWheelZoom: false }).fitBounds([[27.73, -15.84], [28.19, -15.35]]);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18, attribution: '© colaboradores de <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>' }).addTo(mapa);
+    mapa.on('focus', () => mapa.scrollWheelZoom.enable());
+    const capa = L.layerGroup().addTo(mapa);
+    const form = document.getElementById('filtro-presas') as HTMLFormElement;
+    const cuenta = document.getElementById('presas-cuenta')!;
+    let presas: any[] = [];
+    const fila = (k: string, v: string | null) => (v ? `<tr><th scope="row" class="pr-3 text-left">${k}</th><td>${esc(v)}</td></tr>` : '');
+    const popup = (p: any) => `<p class="font-display font-bold text-base">${esc(p.nombre)}</p><table class="text-sm mt-1"><tbody>${fila('Cuenca', p.cuenca)}${fila('Altura', p.altura)}${fila('Capacidad', p.capacidad)}${fila('Latitud', p.latitud)}${fila('Longitud', p.longitud)}</tbody></table>`
+      + (p.ficha ? `<a class="boton boton-primario mt-2 !text-white" href="${p.ficha}" target="_blank" rel="noopener">Ficha de la presa (PDF)</a>` : p.ficha_antigua ? '<p class="mt-2 text-sm">Ficha no disponible</p>' : '');
+    const pintar = () => {
+      const d = new FormData(form); const tipo = d.get('tipo'); const q = String(d.get('q') ?? '').trim().toLowerCase();
+      capa.clearLayers();
+      const sel = presas.filter((p) => p.lat && (!tipo || p.tipo === tipo) && (!q || p.nombre.toLowerCase().includes(q)));
+      for (const p of sel) {
+        const g = p.tipo === 'grande';
+        const m = L.circleMarker([p.lat, p.lon], { radius: g ? 7 : 5, color: '#fff', weight: 1.5, fillColor: g ? '#16649c' : '#15a8a0', fillOpacity: .95 }).bindPopup(popup(p)).bindTooltip(p.nombre).addTo(capa);
+        if (q && sel.length === 1) { mapa.setView([p.lat, p.lon], 13); m.openPopup(); }
+      }
+      cuenta.textContent = `${sel.length} presas en el mapa.`;
+    };
+    fetch('/datos/presas-mapa.json').then((r) => r.json()).then((d) => { presas = d; pintar(); });
+    form.addEventListener('input', pintar);
+    form.addEventListener('submit', (e) => e.preventDefault());
+  }
+</script>

@@ -1,0 +1,60 @@
+{
+  "fuente": "/servicios/legislacion/españa/construccion_explotacion.php",
+  "indice": 9,
+  "titulo": null,
+  "columnas": 8,
+  "cabeceras": [
+    [
+      "",
+      "% en peso que pasa por cada tamiz",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "filas": [
+    [
+      "Altura de malla (mm.)",
+      "5,00",
+      "2,50",
+      "1,25",
+      "0,60",
+      "0,30",
+      "0,15",
+      "0,08"
+    ],
+    [
+      "Límite superior",
+      "100",
+      "95",
+      "85",
+      "62",
+      "30",
+      "15",
+      "5"
+    ],
+    [
+      "Límite inferior",
+      "95",
+      "75",
+      "55",
+      "30",
+      "12",
+      "4",
+      "0"
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 0,
+      "texto": "",
+      "url": "https://www.aguasgrancanaria.com/icons/ecblank.gif",
+      "imagen": true
+    }
+  ]
+}

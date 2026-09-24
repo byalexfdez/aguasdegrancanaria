@@ -1,0 +1,22 @@
+{
+  "fuente": "/ayudas.php",
+  "indice": 10,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Resumen",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/convenios/convenios_2018.pdf"
+    }
+  ]
+}

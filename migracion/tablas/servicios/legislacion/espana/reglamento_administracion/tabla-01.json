@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/reglamento_administracion.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 17/05/2010",
+      "Título",
+      "Reglamento de la administración pública del agua",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "R.D. 927/88, de 29 de julio, por el que se aprueba el reglamento de la administración pública del agua",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua",
+      "",
+      "Real Decreto",
+      "España"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

@@ -1,0 +1,337 @@
+{
+  "ruta": "/elecciones.php",
+  "titulo": "ELECCIONES",
+  "total": 22,
+  "items": [
+    {
+      "grupo": [
+        "Resultado de las elecciones: Acta"
+      ],
+      "titulo": "Descargar Archivo",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/26_ActaElecciones_10-04-2024_firmada.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/26_actaelecciones_10-04-2024_firmada.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 1528645,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Fecha de celebración de las elecciones y Listas de Compromisarios"
+      ],
+      "titulo": "Descargar Archivo",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/Anuncio%20elecciones%20y%20compromisarios%202024.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/anuncio-elecciones-y-compromisarios-2024.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 356824,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Definitivo) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Anuncio del B.O.P. - 07-07-2023",
+      "etiqueta": "- Aprobación censos definitivos - Plazo de 10 días hábiles para designar compromisarios: hasta el 21-07-2023",
+      "anio_en_texto": 2023,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/BOP_20230707.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/bop_20230707.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 116234,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Definitivo) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Listado de Consorcios y Empresas públicas",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/def_CONSORCIOS_EMPRESAS_PUBLICAS.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/def_consorcios_empresas_publicas.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 143617,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Definitivo) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Listado de Entidades Concesionarias y Titulares de Aprovechamientos",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/def_TITULARES_APROVECHAMIENTOS.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/def_titulares_aprovechamientos.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 208689,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Definitivo) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Listado de Organizaciones Empresariales",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/def_ORGANIZACIONES_EMPRESARIALES.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/def_organizaciones_empresariales.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 136096,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Definitivo) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Listado de Organizaciones Sindicales",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/def_ORGANIZACIONES_SINDICALES.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/def_organizaciones_sindicales.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 139228,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Definitivo) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Listado de Organizaciones de Consumidores y Usuarios de Agua",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/def_ORGANIZACIONES_CONSUMIDORES.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/def_organizaciones_consumidores.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 263612,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Definitivo) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Listado de Organizaciones Agrarias",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/def_ORGANIZACIONES_AGRARIAS.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/def_organizaciones_agrarias.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 135951,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Provisional) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Anuncio del B.O.P. - 12-10-2022",
+      "etiqueta": "- Aprobación censos provisionales - Plazo de 15 días hábiles para formular reclamaciones: hasta el 02-11-2022",
+      "anio_en_texto": 2022,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/AnuncioBOP12102022.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/anunciobop12102022.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 36623,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Provisional) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Listado de Consorcios y Empresas públicas",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/CONSORCIOS_EMPRESAS_PUBLICAS.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/consorcios_empresas_publicas.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 143063,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Provisional) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Listado de Entidades Concesionarias y Titulares de Aprovechamientos",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/TITULARES_APROVECHAMIENTOS.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/titulares_aprovechamientos.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 212008,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Provisional) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Listado de Organizaciones Empresariales",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/ORGANIZACIONES_EMPRESARIALES.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/organizaciones_empresariales.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 139859,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Provisional) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Listado de Organizaciones Sindicales",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/ORGANIZACIONES_SINDICALES.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/organizaciones_sindicales.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 138607,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Provisional) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Listado de Organizaciones de Consumidores y Usuarios de Agua",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/ORGANIZACIONES_CONSUMIDORES.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/organizaciones_consumidores.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 295606,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Censo Electoral (Provisional) de las Entidades que se citan a continuación:"
+      ],
+      "titulo": "Listado de Organizaciones Agrarias",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/ORGANIZACIONES_AGRARIAS.pdf",
+      "ruta_nueva": "/documentos/pdfs/elecciones/organizaciones_agrarias.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 135393,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Modelo de Alegaciones al Censo Electoral"
+      ],
+      "titulo": "Listado de Consorcios y Empresas públicas",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/CensoAlegaciones-CONSORCIOS_EMPRESAS_PUBLICAS.doc",
+      "ruta_nueva": "/documentos/pdfs/elecciones/censoalegaciones-consorcios_empresas_publicas.doc",
+      "tipo": "documento",
+      "formato": "doc",
+      "bytes": 26112,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Modelo de Alegaciones al Censo Electoral"
+      ],
+      "titulo": "Listado de Entidades Concesionarias y Titulares de Aprovechamientos",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/CensoAlegaciones-TITULARES_APROVECHAMIENTOS.doc",
+      "ruta_nueva": "/documentos/pdfs/elecciones/censoalegaciones-titulares_aprovechamientos.doc",
+      "tipo": "documento",
+      "formato": "doc",
+      "bytes": 26624,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Modelo de Alegaciones al Censo Electoral"
+      ],
+      "titulo": "Listado de Organizaciones Empresariales",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/CensoAlegaciones-ORGANIZACIONES_EMPRESARIALES.doc",
+      "ruta_nueva": "/documentos/pdfs/elecciones/censoalegaciones-organizaciones_empresariales.doc",
+      "tipo": "documento",
+      "formato": "doc",
+      "bytes": 26112,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Modelo de Alegaciones al Censo Electoral"
+      ],
+      "titulo": "Listado de Organizaciones Sindicales",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/CensoAlegaciones-ORGANIZACIONES_SINDICALES.doc",
+      "ruta_nueva": "/documentos/pdfs/elecciones/censoalegaciones-organizaciones_sindicales.doc",
+      "tipo": "documento",
+      "formato": "doc",
+      "bytes": 26112,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Modelo de Alegaciones al Censo Electoral"
+      ],
+      "titulo": "Listado de Organizaciones de Consumidores y Usuarios de Agua",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/CensoAlegaciones-ORGANIZACIONES_CONSUMIDORES.doc",
+      "ruta_nueva": "/documentos/pdfs/elecciones/censoalegaciones-organizaciones_consumidores.doc",
+      "tipo": "documento",
+      "formato": "doc",
+      "bytes": 26112,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "Modelo de Alegaciones al Censo Electoral"
+      ],
+      "titulo": "Listado de Organizaciones Agrarias",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Elecciones/CensoAlegaciones-ORGANIZACIONES_AGRARIAS.doc",
+      "ruta_nueva": "/documentos/pdfs/elecciones/censoalegaciones-organizaciones_agrarias.doc",
+      "tipo": "documento",
+      "formato": "doc",
+      "bytes": 25600,
+      "estado_origen": 200,
+      "pagina_interna": null
+    }
+  ]
+}

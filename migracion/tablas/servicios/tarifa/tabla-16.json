@@ -1,0 +1,52 @@
+{
+  "fuente": "/servicios/tarifa.php",
+  "indice": 16,
+  "titulo": "DESCARGA DE DOCUMENTOS",
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Precios públicos del agua (23-03-2004)",
+      ""
+    ],
+    [
+      "Actualización de los precios del agua de Presas (21-12-2009)",
+      ""
+    ],
+    [
+      "Tasas Administrativas (17-05-2007)",
+      ""
+    ],
+    [
+      "Costes de Explotación Depuradora de Jinámar (28-03-2019)",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/servicios/preciosagua.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/servicios/nuevo_precio_presas.pdf"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/servicios/ordenanzasfiscales.pdf"
+    },
+    {
+      "fila": 4,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/servicios/depuradora_jinamar.pdf"
+    }
+  ]
+}

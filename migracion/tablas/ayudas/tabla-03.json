@@ -1,0 +1,32 @@
+{
+  "fuente": "/ayudas.php",
+  "indice": 3,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Anuncio",
+      ""
+    ],
+    [
+      "Resolución",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/auxilios2019.pdf"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/auxilios2019_resolucion.pdf"
+    }
+  ]
+}

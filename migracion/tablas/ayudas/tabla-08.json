@@ -1,0 +1,36 @@
+{
+  "fuente": "/ayudas.php",
+  "indice": 8,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Subvención al agua de riego",
+      ""
+    ],
+    [
+      "Resolución",
+      ""
+    ],
+    [
+      "Concesiones Administrativas: NO",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2020_subvencionn_aguariego.pdf"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2020_resolucion_aguariego.pdf"
+    }
+  ]
+}

@@ -1,0 +1,1329 @@
+{
+  "video_principal": {
+    "titulo": "Central Reversible Chira-Soria",
+    "url_antigua": "https://www.aguasgrancanaria.com/videos/Chira-Soria.mp4",
+    "ruta_nueva": "/videos/videos/chira-soria.mp4",
+    "tipo": "video",
+    "formato": "mp4",
+    "bytes": 33310605,
+    "estado_origen": 200,
+    "pagina_interna": null,
+    "poster": null
+  },
+  "noticia_destacada": {
+    "titulo": "Sesiones de Participación activa de los Instrumentos de Planificación Hidrológica",
+    "contenido_md": "[![](/img/jornada_online.jpg)](/img/jornada_online.jpg)\n\n**Sesiones de Participación activa de los Instrumentos de Planificación Hidrológica**\n\nDurante la jornada del 20 de diciembre de 2021, se celebró en la Casa Palacio del Cabildo de Gran Canaria la presentación de las sesiones divulgativas de los proyectos de Plan Hidrológico (PH) y Plan de Gestión de Riesgos de Inundación (PGRI) de la Demarcación Hidrográfica de Gran Canaria para el periodo 2021-2027, que se enmarcan en el proceso de participación activa de ambos documentos.\n\nEl acto fue presentado por el Consejero del Sector Primario y Soberanía Alimentaria, y Vicepresidente del Consejo Insular de Aguas de Gran Canaria, Don Miguel Hidalgo Sánchez. En su intervención, puso de relieve que, con estos documentos, la Demarcación Hidrográfica de Gran Canaria, se encuentra en disposición de dar cumplimiento a las Directivas Europeas en materia de planificación; para lo cual se ha desarrollado un arduo trabajo desde el Organismo de Cuenca de la Demarcación, el Consejo Insular de Aguas de Gran Canaria, en colaboración con el Gobierno de Canarias y con la empresa Tragsatec, que ha prestado labores de asistencia técnica como medio propio de la Administración.\n\nTambién participó en el acto de presentación el Director General de Ordenación del Territorio y Aguas, Don Víctor Navarro Delgado, que celebró que las labores de coordinación en esta materia, acometidas desde el Gobierno en el marco de la elaboración de los documentos anteriores de PH y PGRI, hayan posibilitado que se hayan recortado muchísimo los plazos de tramitación y se hayan remontado los retrasos acumulados en el pasado, posibilitando que este ciclo, las Demarcaciones Hidrográfica de Canarias estén, por fin, en disposición de aprobar sus instrumentos conforme a la cronología establecida por las Directivas Europeas.\n\nContinuó el acto con una breve presentación del contenido de los documentos, llevada a cabo por el Gerente del Consejo Insular de Aguas de Gran Canaria, Don Carmelo Santana Delgado, y por el Jefe de Sección del Departamento de Planificación del Organismo, Don José Imar Chirivella Guerra, en la que se esbozaron unas breves pinceladas sobre el contenido de ambos planes.\n\nLas sesiones divulgativas, previstas para el día 20 y 21 de diciembre, se estructuraron en 3 sesiones online, destinadas, respectivamente, a Comunidades de Usuarios, a gestores y municipios y a asociaciones y otros grupos de interés. En total, se recibieron 18, 26 y 23 inscripciones de asistencia a las sesiones, aunque el número real de conexiones fue inferior (un total de 27 conexiones registradas).\n\nEn dichas sesiones se llevó a cabo una presentación de los contenidos de los documentos, proponiendo la remisión de observaciones y sugerencias a una dirección de correo expresamente habilitada a tal fin.\n\nDe estas sesiones se hizo eco el perfil institucional del Cabildo de Gran Canaria, en sus redes sociales, así como el periódico La Provincia, en su edición del martes 28 de diciembre de 2021.\n\n[\n\nPresentación\n\n](/pdfs/Inundaciones/presentacion_sesionesdparticipacion.pdf)",
+    "adjuntos": [
+      {
+        "texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/jornada_online.jpg",
+        "ruta_nueva": "/imagenes/img/jornada_online.jpg",
+        "tipo": "imagen",
+        "formato": "jpg",
+        "bytes": 421722,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "texto": "Presentación",
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/presentacion_sesionesdparticipacion.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/presentacion_sesionesdparticipacion.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 5579911,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  "menu_principal": [
+    {
+      "etiqueta": "Infraestructuras y Recursos",
+      "destino": null,
+      "subitems": [
+        {
+          "texto": "Instalaciones Hidráulicas Subterráneas",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/cartografia/CensoInstalaciones/map-censo.html",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/cartografia/CensoInstalaciones/map-censo.html"
+          }
+        },
+        {
+          "texto": "Concurso Hidroeléctrico",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/concurso_hidro.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/concurso_hidro.php"
+          }
+        },
+        {
+          "texto": "Desaladoras",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/agua/desaladoras.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/agua/desaladoras.php"
+          }
+        },
+        {
+          "texto": "Pluviómetros",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/pluviometros.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/pluviometros.php"
+          }
+        },
+        {
+          "texto": "Presas",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/presas/ubicacion_presas.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/presas/ubicacion_presas.php"
+          }
+        }
+      ]
+    },
+    {
+      "etiqueta": "Planes y Programas",
+      "destino": null,
+      "subitems": [
+        {
+          "texto": "Plan de Inundaciones",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/inundaciones.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/inundaciones.php"
+          }
+        },
+        {
+          "texto": "Plan Hidrológico",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/plan_hidro.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/plan_hidro.php"
+          }
+        },
+        {
+          "texto": "Red de Control 2009",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/red_control.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/red_control.php"
+          }
+        },
+        {
+          "texto": "NextGenerationEU",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/nextgeneration.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/nextgeneration.php"
+          }
+        }
+      ]
+    },
+    {
+      "etiqueta": "Mapas",
+      "destino": null,
+      "subitems": [
+        {
+          "texto": "Cartografía",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/cartografia.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/cartografia.php"
+          }
+        },
+        {
+          "texto": "Catálogo Insular de Cauces",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/cartografia/Catalogo_Cauces/index.html",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/cartografia/Catalogo_Cauces/index.html"
+          }
+        }
+      ]
+    },
+    {
+      "etiqueta": "Servicios",
+      "destino": null,
+      "subitems": [
+        {
+          "texto": "Tarifas y Cánones",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/servicios/tarifas.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/servicios/tarifas.php"
+          }
+        },
+        {
+          "texto": "Normativa",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/servicios/legislacion.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/servicios/legislacion.php"
+          }
+        },
+        {
+          "texto": "Descarga de documentos",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/servicios/documento.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/servicios/documento.php"
+          }
+        },
+        {
+          "texto": "Contratación",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/perfil_con.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/perfil_con.php"
+          }
+        },
+        {
+          "texto": "Enlaces",
+          "destino": {
+            "url_antigua": "https://www.aguasgrancanaria.com/servicios/enlaces.php",
+            "ruta_nueva": null,
+            "tipo": "pagina",
+            "formato": null,
+            "bytes": null,
+            "estado_origen": 200,
+            "pagina_interna": "/servicios/enlaces.php"
+          }
+        }
+      ]
+    }
+  ],
+  "lista_buscador": [
+    {
+      "texto": "Presas",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/presas/ubicacion_presas.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/presas/ubicacion_presas.php"
+      }
+    },
+    {
+      "texto": "Registro",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/documento.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/documento.php"
+      }
+    },
+    {
+      "texto": "Tasas",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/tarifa.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/tarifa.php"
+      }
+    },
+    {
+      "texto": "Periodo Medio de Pago a Proveedores",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/info.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/info.php"
+      }
+    },
+    {
+      "texto": "Empleo",
+      "destino": {
+        "url_antigua": "https://consejoinsularaguasgrancanaria.sedelectronica.es/board/9753e838-f59b-11de-b600-00237da12c6a/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      }
+    },
+    {
+      "texto": "Elecciones Consejeros",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/elecciones.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/elecciones.php"
+      }
+    },
+    {
+      "texto": "Económico Financiera",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/economico.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/economico.php"
+      }
+    },
+    {
+      "texto": "Riesgo de Inundaciones",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/inundaciones.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/inundaciones.php"
+      }
+    },
+    {
+      "texto": "Plan Hidrológico",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/plan_hidro.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/plan_hidro.php"
+      }
+    },
+    {
+      "texto": "Cartografía",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/cartografia.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/cartografia.php"
+      }
+    },
+    {
+      "texto": "Directiva marco del agua",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua.php"
+      }
+    },
+    {
+      "texto": "Plan de Inundaciones",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/inundaciones.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/inundaciones.php"
+      }
+    },
+    {
+      "texto": "Red de Control 2009",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/red_control.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/red_control.php"
+      }
+    },
+    {
+      "texto": "Transparencia",
+      "destino": {
+        "url_antigua": "https://transparencia.aguasgrancanaria.com/index",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      }
+    },
+    {
+      "texto": "Volúmenes de presas",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/presas/volumenes.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/presas/volumenes.php"
+      }
+    },
+    {
+      "texto": "Archivo Técnico",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/presas/archivo.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/presas/archivo.php"
+      }
+    },
+    {
+      "texto": "El Consejo",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo.php"
+      }
+    },
+    {
+      "texto": "Noticias",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/noticias.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/noticias.php"
+      }
+    },
+    {
+      "texto": "Anuncios",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/info_public.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/info_public.php"
+      }
+    },
+    {
+      "texto": "Pluviómetros",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/pluviometros.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/pluviometros.php"
+      }
+    },
+    {
+      "texto": "Instalaciones Hidráulicas Subterráneas",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/cartografia/CensoInstalaciones/map-censo.html",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/cartografia/CensoInstalaciones/map-censo.html"
+      }
+    },
+    {
+      "texto": "Inventario Insular de Cauces",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/cartografia/Catalogo_Cauces/index.html",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/cartografia/Catalogo_Cauces/index.html"
+      }
+    },
+    {
+      "texto": "Salto de Chira",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/concurso_hidro.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/concurso_hidro.php"
+      }
+    },
+    {
+      "texto": "Descarga de documentos",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/documento.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/documento.php"
+      }
+    },
+    {
+      "texto": "Tarifas y Cánones",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/tarifas.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/tarifas.php"
+      }
+    },
+    {
+      "texto": "Precios públicos del agua",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/tarifas.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/tarifas.php"
+      }
+    },
+    {
+      "texto": "Normativa",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/legislacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/legislacion.php"
+      }
+    },
+    {
+      "texto": "Sede Electrónica",
+      "destino": {
+        "url_antigua": "https://consejoinsularaguasgrancanaria.sedelectronica.es/info.0",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      }
+    },
+    {
+      "texto": "Perfil del Contratante",
+      "destino": {
+        "url_antigua": "https://community.vortal.biz/sts/Login?SkinName=aguasgrancanaria",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      }
+    },
+    {
+      "texto": "Contratación",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/perfil_con.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/perfil_con.php"
+      }
+    },
+    {
+      "texto": "Presupuestos",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/presupuesto.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/presupuesto.php"
+      }
+    },
+    {
+      "texto": "Obras Públicas",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/obras.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/obras.php"
+      }
+    },
+    {
+      "texto": "Patrimonio",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/patrimonio.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/patrimonio.php"
+      }
+    },
+    {
+      "texto": "Ayudas y subvenciones",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/ayudas.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/ayudas.php"
+      }
+    },
+    {
+      "texto": "Planificación",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/plan_hidro.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/plan_hidro.php"
+      }
+    },
+    {
+      "texto": "Divulgación",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion.php"
+      }
+    }
+  ],
+  "slider": [
+    {
+      "imagen": {
+        "url_antigua": "https://www.aguasgrancanaria.com/img/sliderpresa.webp",
+        "ruta_nueva": "/imagenes/img/sliderpresa.webp",
+        "tipo": "imagen",
+        "formato": "webp",
+        "bytes": 67644,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      "alt": "Presas",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/presas/ubicacion_presas.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/presas/ubicacion_presas.php"
+      },
+      "texto": null
+    },
+    {
+      "imagen": {
+        "url_antigua": "https://www.aguasgrancanaria.com/img/sliderplan.webp",
+        "ruta_nueva": "/imagenes/img/sliderplan.webp",
+        "tipo": "imagen",
+        "formato": "webp",
+        "bytes": 78386,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      "alt": "Plan Hidrológico",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/plan_hidro.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/plan_hidro.php"
+      },
+      "texto": null
+    },
+    {
+      "imagen": {
+        "url_antigua": "https://www.aguasgrancanaria.com/img/sliderdesa.webp",
+        "ruta_nueva": "/imagenes/img/sliderdesa.webp",
+        "tipo": "imagen",
+        "formato": "webp",
+        "bytes": 43924,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      "alt": "Desaladoras",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/agua/desaladoras.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/agua/desaladoras.php"
+      },
+      "texto": null
+    }
+  ],
+  "accesos_rapidos": [
+    {
+      "texto": "El Consejo",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo.php"
+      }
+    },
+    {
+      "texto": "Sede Electrónica",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://consejoinsularaguasgrancanaria.sedelectronica.es/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      }
+    },
+    {
+      "texto": "Economía y Hacienda",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://consejoinsularaguasgrancanaria.sedelectronica.es/e-invoice",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      }
+    },
+    {
+      "texto": "Perfil del Contratante",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://community.vortal.biz/sts/Login?SkinName=aguasgrancanaria",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      }
+    },
+    {
+      "texto": "Noticias",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/noticias.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/noticias.php"
+      }
+    },
+    {
+      "texto": "Anuncios",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/info_public.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/info_public.php"
+      }
+    },
+    {
+      "texto": "Transparencia",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://transparencia.aguasgrancanaria.com/index",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      }
+    },
+    {
+      "texto": "Empleo",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://consejoinsularaguasgrancanaria.sedelectronica.es/board/9753e838-f59b-11de-b600-00237da12c6a/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      }
+    },
+    {
+      "texto": "Presas",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/presas/ubicacion_presas.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/presas/ubicacion_presas.php"
+      }
+    },
+    {
+      "texto": "Plan Hidrológico",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/plan_hidro.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/plan_hidro.php"
+      }
+    },
+    {
+      "texto": "Plan de Inundaciones",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/inundaciones.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/inundaciones.php"
+      }
+    },
+    {
+      "texto": "Subvenciones al sobrecoste",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/subvenciones.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/subvenciones.php"
+      }
+    },
+    {
+      "texto": "Salto de Chira",
+      "icono": {
+        "url_antigua": "https://www.aguasgrancanaria.com/Logo_SDC.png",
+        "ruta_nueva": "/imagenes/logo_sdc.png",
+        "tipo": "imagen",
+        "formato": "png",
+        "bytes": 2741,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/concurso_hidro.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/concurso_hidro.php"
+      }
+    },
+    {
+      "texto": "Descarga de documentos",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/documento.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/documento.php"
+      }
+    },
+    {
+      "texto": "Red de Control 2009",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/red_control.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/red_control.php"
+      }
+    },
+    {
+      "texto": "Cartografía",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/cartografia.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/cartografia.php"
+      }
+    },
+    {
+      "texto": "Pluviómetros",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/pluviometros.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/pluviometros.php"
+      }
+    },
+    {
+      "texto": "Elecciones Consejeros",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/elecciones.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/elecciones.php"
+      }
+    },
+    {
+      "texto": "Fondos FEDER",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/fondos_feder.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/fondos_feder.php"
+      }
+    },
+    {
+      "texto": "Consejos de Ahorro",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/consejos_ahorro.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/consejos_ahorro.php"
+      }
+    },
+    {
+      "texto": "NextGenerationEU",
+      "icono": null,
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/nextgeneration.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/nextgeneration.php"
+      }
+    }
+  ],
+  "tarjeta_volumenes": [
+    {
+      "grupo": null,
+      "texto": "Lecturas del año 2026 (excel)",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Presas/Volumenes/2026.xlsx",
+        "ruta_nueva": "/documentos/pdfs/presas/volumenes/2026.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 78635,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    },
+    {
+      "grupo": "Lecturas del año 2026 (excel) Año 2026",
+      "texto": "Lecturas del año 2025 (excel)",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Presas/Volumenes/2025.xlsx",
+        "ruta_nueva": "/documentos/pdfs/presas/volumenes/2025.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 74797,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    },
+    {
+      "grupo": "Lecturas del año 2025 (excel) Año 2025",
+      "texto": "Más",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/presas/volumenes.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/presas/volumenes.php"
+      }
+    }
+  ],
+  "tarjeta_anuncios": [
+    {
+      "grupo": null,
+      "texto": "Descargar Anuncio",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Anuncios/ANUNCIO_1116-2025%20(0364%20CCR).pdf",
+        "ruta_nueva": "/documentos/pdfs/anuncios/anuncio_1116-2025-0364-ccr.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 221281,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    },
+    {
+      "grupo": "Aprobación de estatutos Descargar Anuncio",
+      "texto": "Descargar Anuncio",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Anuncios/ANUNCIO_968-2023%20(179-SI).pdf",
+        "ruta_nueva": "/documentos/pdfs/anuncios/anuncio_968-2023-179-si.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 198184,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    },
+    {
+      "grupo": "Toma de agua de mar indirecta Descargar Anuncio",
+      "texto": "Más",
+      "destino": {
+        "url_antigua": "https://www.aguasgrancanaria.com/info_public.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/info_public.php"
+      }
+    }
+  ],
+  "youtube": [
+    {
+      "src": "https://www.youtube.com/embed/-LJqCxgZtDg",
+      "titulo": "Salto de Chira"
+    }
+  ],
+  "redes_sociales": [
+    {
+      "red": "Instagram",
+      "url": "https://www.instagram.com/aguasgrancanaria?igsh=dTl5bm9hZHd3ZWR1"
+    },
+    {
+      "red": "Facebook",
+      "url": "https://www.facebook.com/people/Aguas-de-Gran-Canaria/61562404596313/"
+    },
+    {
+      "red": "X",
+      "url": "https://x.com/aguasgrancan/"
+    }
+  ],
+  "pie": {
+    "textos": [
+      "AVDA. JUAN XXIII, 2 1º PLANTA · 35004 LAS PALMAS DE GRAN CANARIA · TELÉFONO: 928 29 34 56",
+      "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:00)"
+    ],
+    "enlaces": [
+      {
+        "texto": "AVISO LEGAL",
+        "destino": {
+          "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/avisos.php",
+          "ruta_nueva": null,
+          "tipo": "pagina",
+          "formato": null,
+          "bytes": null,
+          "estado_origen": 200,
+          "pagina_interna": "/el_consejo/avisos.php"
+        }
+      },
+      {
+        "texto": "ENLACES",
+        "destino": {
+          "url_antigua": "https://www.aguasgrancanaria.com/servicios/enlaces.php",
+          "ruta_nueva": null,
+          "tipo": "pagina",
+          "formato": null,
+          "bytes": null,
+          "estado_origen": 200,
+          "pagina_interna": "/servicios/enlaces.php"
+        }
+      },
+      {
+        "texto": "UBICACIÓN",
+        "destino": {
+          "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/ubicacion.php",
+          "ruta_nueva": null,
+          "tipo": "pagina",
+          "formato": null,
+          "bytes": null,
+          "estado_origen": 200,
+          "pagina_interna": "/el_consejo/ubicacion.php"
+        }
+      },
+      {
+        "texto": "ACCESIBILIDAD",
+        "destino": {
+          "url_antigua": "https://www.aguasgrancanaria.com/accesibilidad.php",
+          "ruta_nueva": null,
+          "tipo": "pagina",
+          "formato": null,
+          "bytes": null,
+          "estado_origen": 200,
+          "pagina_interna": "/accesibilidad.php"
+        }
+      },
+      {
+        "texto": "PRIVACIDAD",
+        "destino": {
+          "url_antigua": "https://www.aguasgrancanaria.com/privacidad.php",
+          "ruta_nueva": null,
+          "tipo": "pagina",
+          "formato": null,
+          "bytes": null,
+          "estado_origen": 200,
+          "pagina_interna": "/privacidad.php"
+        }
+      }
+    ]
+  },
+  "avisos_inactivos": [
+    {
+      "titulo": "30-11-2021: CORTE DEL SUMINISTRO ELÉCTRICO",
+      "subtitulo": null,
+      "enlace_bruto": null,
+      "documento": null,
+      "fecha": "2021-11-30",
+      "activo": false,
+      "nota": "Aviso comentado en la home actual (no visible). Se migra desactivado para poder reactivarlo desde el CMS."
+    },
+    {
+      "titulo": "ALERTA POR LLUVIAS",
+      "subtitulo": null,
+      "enlace_bruto": "noticias.php",
+      "documento": {
+        "url_antigua": "https://www.aguasgrancanaria.com/noticias.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/noticias.php"
+      },
+      "fecha": null,
+      "activo": false,
+      "nota": "Aviso comentado en la home actual (no visible). Se migra desactivado para poder reactivarlo desde el CMS."
+    },
+    {
+      "titulo": "ALERTA POR FENÓMENOS METEOROLÓGICOS ADVERSOS",
+      "subtitulo": null,
+      "enlace_bruto": "xzy('noticias.php'), qwz()",
+      "documento": null,
+      "fecha": null,
+      "activo": false,
+      "nota": "Aviso comentado en la home actual (no visible). Se migra desactivado para poder reactivarlo desde el CMS."
+    },
+    {
+      "titulo": "ALERTA POR LLUVIAS y VIENTO 12 de Diciembre de 2025",
+      "subtitulo": "Haz click aquí para más infomación.",
+      "enlace_bruto": "pdfs/Noticias/2025-12-12_Alerta.pdf",
+      "documento": {
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Noticias/2025-12-12_Alerta.pdf",
+        "ruta_nueva": "/documentos/pdfs/noticias/2025-12-12_alerta.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 332084,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      "fecha": "2025-12-12",
+      "activo": false,
+      "nota": "Aviso comentado en la home actual (no visible). Se migra desactivado para poder reactivarlo desde el CMS."
+    },
+    {
+      "titulo": "Procedimiento de actuación a seguir para llevar a cabo tareas de reparación de infraestructuras afectadas por los efectos de la borrasca Therese 08 de Abril de 2026",
+      "subtitulo": "Descargar Procedimiento - Borrasca Therese (PDF)",
+      "enlace_bruto": "pdfs/Noticias/2026-04-08_Protocolo Borrasca Therese.pdf",
+      "documento": {
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Noticias/2026-04-08_Protocolo%20Borrasca%20Therese.pdf",
+        "ruta_nueva": "/documentos/pdfs/noticias/2026-04-08_protocolo-borrasca-therese.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 117811,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      "fecha": "2026-04-08",
+      "activo": false,
+      "nota": "Aviso comentado en la home actual (no visible). Se migra desactivado para poder reactivarlo desde el CMS."
+    }
+  ],
+  "banners_inactivos": [
+    {
+      "id": "canagua",
+      "titulo": "CAN agua y energía",
+      "contenido_md": "[![](pdfs/Canagua/RRSS_1200X628.jpg)](pdfs/Canagua/Dosier-Canagua-2024.pdf)\n\n**Vuelve la feria de referencia del binomio agua y energía. ¡Participa en el mayor escaparate del sector en el archipiélago canario!**\n\nDel 27 al 29 de noviembre regresa a Infecar la 14ª edición de la Feria Internacional Canagua y Energía, promovida y financiada por el Cabildo de Gran Canaria, a través del Consejo Insular de Aguas de Gran Canaria y el Consejo Insular de la Energía de Gran Canaria.\n\nTras los buenos resultados obtenidos en su última edición, Canagua y Energía amplía su zona expositiva, dando cabida a más empresas expositoras, que además tendrán a su disposición zonas de mentorías y áreas de trabajo entre profesionales. Todo esto complementado con un programa de ponencias de expertos del sector y un espacio para speaker's corner de expositores.\n\nConoce todos los detalles de esta cita en el dosier comercial, planifica la participación de tu empresa en la feria y [reserva tu espacio.](https://canagua.es/expositores)\n\n¡Te esperamos en Canagua y Energía!\n\n[\n\nDosier informativo\n\n](pdfs/Canagua/Dosier-Canagua-2024.pdf)",
+      "enlaces": [
+        {
+          "texto": null,
+          "href": "pdfs/Canagua/Dosier-Canagua-2024.pdf"
+        },
+        {
+          "texto": "reserva tu espacio.",
+          "href": "https://canagua.es/expositores"
+        },
+        {
+          "texto": "Dosier informativo",
+          "href": "pdfs/Canagua/Dosier-Canagua-2024.pdf"
+        }
+      ],
+      "imagenes": [
+        "pdfs/Canagua/RRSS_1200X628.jpg"
+      ],
+      "activo": false,
+      "nota": "Banner/modal comentado en la home actual (no visible)."
+    },
+    {
+      "id": "ecoislas",
+      "titulo": "II Foro Internacional Ecoislas",
+      "contenido_md": "[![](pdfs/ecoislas/ecoislas_600x450.png)](https://foro-ecoislas.es/)\n\nEl Foro Internacional Ecoislas, que está promovido y financiado por el Cabildo de Gran Canaria y organizado por Infecar, Feria de Gran Canaria, es un evento internacional destinado a habilitar un espacio de discusión, propuestas e impulso de medidas encaminadas a potenciar la transición hacia un modelo socioeconómico más verde, más rentable, más autosuficiente y medioambientalmente más sostenible y con un marcado enfoque insular.\n\nEl evento contará con ponentes de ámbito internacional, nacional y local que expondrán buenas prácticas y debatirán sobre las necesidades y soluciones que se aportan a cada uno de los cuatro bloques protagonistas de esta cita: la economía circular y azul; la energía, el agua y la movilidad; la adaptación al cambio climático y la biodiversidad. Aprovecha la oportunidad de disfrutar de un foro de discusión y debate único.\n\n[Consigue ya tu entrada](https://foro-ecoislas.es/visitantes/)\n\n¡Te esperamos los días 30 y 31 de enero en Infecar para construir juntos un futuro más sostenible!",
+      "enlaces": [
+        {
+          "texto": null,
+          "href": "https://foro-ecoislas.es/"
+        },
+        {
+          "texto": "Consigue ya tu entrada",
+          "href": "https://foro-ecoislas.es/visitantes/"
+        }
+      ],
+      "imagenes": [
+        "pdfs/ecoislas/ecoislas_600x450.png"
+      ],
+      "activo": false,
+      "nota": "Banner/modal comentado en la home actual (no visible)."
+    }
+  ]
+}

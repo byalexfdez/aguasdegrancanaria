@@ -1,0 +1,44 @@
+{
+  "fuente": "/perfil_con.php",
+  "indice": 9,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Contratos",
+      ""
+    ],
+    [
+      "Contratos Menores (Relación Trimestral)",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/contratos_2021.xlsx"
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/contratos_2021.ods"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/contratos_menores_2021.xlsx"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/contratos_menores_2021.ods"
+    }
+  ]
+}

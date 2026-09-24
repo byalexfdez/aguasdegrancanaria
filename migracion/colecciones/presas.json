@@ -1,0 +1,1542 @@
+{
+  "fuente_pagina": "/presas/ubicacion_presas.php",
+  "inventarios": [
+    {
+      "id": "presas-asignadas-consejo",
+      "titulo": "PRESAS ASIGNADAS AL Consejo",
+      "columnas": [
+        "PRESA",
+        "ALTURA TOTAL (m)",
+        "VOLUMEN MÁXIMO (m³)"
+      ],
+      "total": 9,
+      "registros": [
+        {
+          "PRESA": "Chira",
+          "ALTURA TOTAL (m)": "32",
+          "VOLUMEN MÁXIMO (m³)": "5.640.000"
+        },
+        {
+          "PRESA": "Ayagaures",
+          "ALTURA TOTAL (m)": "40",
+          "VOLUMEN MÁXIMO (m³)": "1.848.000"
+        },
+        {
+          "PRESA": "Gambuesa",
+          "ALTURA TOTAL (m)": "42",
+          "VOLUMEN MÁXIMO (m³)": "1.348.000"
+        },
+        {
+          "PRESA": "Candelaria",
+          "ALTURA TOTAL (m)": "25",
+          "VOLUMEN MÁXIMO (m³)": "396.000"
+        },
+        {
+          "PRESA": "Fataga",
+          "ALTURA TOTAL (m)": "32",
+          "VOLUMEN MÁXIMO (m³)": "327.000"
+        },
+        {
+          "PRESA": "Vaquero",
+          "ALTURA TOTAL (m)": "35",
+          "VOLUMEN MÁXIMO (m³)": "216.000"
+        },
+        {
+          "PRESA": "El Mulato",
+          "ALTURA TOTAL (m)": "35",
+          "VOLUMEN MÁXIMO (m³)": "750.000"
+        },
+        {
+          "PRESA": "Soria*",
+          "ALTURA TOTAL (m)": "120",
+          "VOLUMEN MÁXIMO (m³)": "15.000.000* (32.300.000)"
+        },
+        {
+          "PRESA": "TOTALES",
+          "ALTURA TOTAL (m)": "",
+          "VOLUMEN MÁXIMO (m³)": "25.525.000*\n(42.825.000)"
+        }
+      ],
+      "notas": [
+        "* Supuesto que Soria no excede de su volumen máximo histórico: 15 hm3"
+      ],
+      "fuente": "/presas/ubicacion_presas.php (tabla 1)"
+    },
+    {
+      "id": "grandes-presas",
+      "titulo": "RELACIÓN DE GRANDES PRESAS",
+      "columnas": [
+        "Nombre",
+        "Cuenca",
+        "Barranco",
+        "Cota Muro m",
+        "Capacidad m³",
+        "Altura m"
+      ],
+      "total": 69,
+      "registros": [
+        {
+          "Nombre": "El Pintor",
+          "Cuenca": "Tenoya-Guiniguada",
+          "Barranco": "Tamaraceite",
+          "Cota Muro m": "305",
+          "Capacidad m³": "471.012",
+          "Altura m": "30"
+        },
+        {
+          "Nombre": "La Umbría",
+          "Cuenca": "Tenoya-Guiniguada",
+          "Barranco": "Castillejos",
+          "Cota Muro m": "571",
+          "Capacidad m³": "623.043",
+          "Altura m": "24"
+        },
+        {
+          "Nombre": "Piletas",
+          "Cuenca": "Tenoya-Guiniguada",
+          "Barranco": "Piletas",
+          "Cota Muro m": "230",
+          "Capacidad m³": "342.000",
+          "Altura m": "24"
+        },
+        {
+          "Nombre": "Tamaraceite",
+          "Cuenca": "Tenoya-Guiniguada",
+          "Barranco": "Tamaraceite",
+          "Cota Muro m": "391",
+          "Capacidad m³": "60.000",
+          "Altura m": "16"
+        },
+        {
+          "Nombre": "Tenoya I",
+          "Cuenca": "Tenoya-Guiniguada",
+          "Barranco": "Los Barranquillos",
+          "Cota Muro m": "246",
+          "Capacidad m³": "98.000",
+          "Altura m": "25"
+        },
+        {
+          "Nombre": "Tenoya II",
+          "Cuenca": "Tenoya-Guiniguada",
+          "Barranco": "Tenoya",
+          "Cota Muro m": "260",
+          "Capacidad m³": "34.000",
+          "Altura m": "25"
+        },
+        {
+          "Nombre": "Ariñes",
+          "Cuenca": "Bco. Guiniguada",
+          "Barranco": "Del Conde",
+          "Cota Muro m": "1.005",
+          "Capacidad m³": "500.000",
+          "Altura m": "42"
+        },
+        {
+          "Nombre": "El Piquillo",
+          "Cuenca": "Bco. Guiniguada",
+          "Barranco": "Del Horno",
+          "Cota Muro m": "804",
+          "Capacidad m³": "72.000",
+          "Altura m": "15.5"
+        },
+        {
+          "Nombre": "Gañarías",
+          "Cuenca": "Bco. Guiniguada",
+          "Barranco": "Antona",
+          "Cota Muro m": "1.100",
+          "Capacidad m³": "138.240",
+          "Altura m": "28"
+        },
+        {
+          "Nombre": "La Lechucilla",
+          "Cuenca": "Bco. Guiniguada",
+          "Barranco": "La Lechucilla",
+          "Cota Muro m": "1.295",
+          "Capacidad m³": "108.908",
+          "Altura m": "38"
+        },
+        {
+          "Nombre": "La Siberia",
+          "Cuenca": "Bco. Guiniguada",
+          "Barranco": "Maipez",
+          "Cota Muro m": "1.335",
+          "Capacidad m³": "175.000",
+          "Altura m": "16"
+        },
+        {
+          "Nombre": "Santa Brigida",
+          "Cuenca": "Bco. Guiniguada",
+          "Barranco": "Guiniguada",
+          "Cota Muro m": "560",
+          "Capacidad m³": "86.000",
+          "Altura m": "20"
+        },
+        {
+          "Nombre": "Satautejo",
+          "Cuenca": "Bco. Guiniguada",
+          "Barranco": "Las Manzaneras",
+          "Cota Muro m": "450",
+          "Capacidad m³": "107.240",
+          "Altura m": "20"
+        },
+        {
+          "Nombre": "Toronjo",
+          "Cuenca": "Bco. Guiniguada",
+          "Barranco": "Toronjo",
+          "Cota Muro m": "729",
+          "Capacidad m³": "48.710",
+          "Altura m": "17"
+        },
+        {
+          "Nombre": "El Sabinal",
+          "Cuenca": "Guiniguada-Telde",
+          "Barranco": "Hoya Parral",
+          "Cota Muro m": "115",
+          "Capacidad m³": "90.200",
+          "Altura m": "20"
+        },
+        {
+          "Nombre": "Salvaindia",
+          "Cuenca": "Bco. Telde",
+          "Barranco": "Hoyas de Manrique",
+          "Cota Muro m": "360",
+          "Capacidad m³": "70.000",
+          "Altura m": "16"
+        },
+        {
+          "Nombre": "Barranco Hondo y Cuevas Blancas",
+          "Cuenca": "Tirajana",
+          "Barranco": "Bco. Hondo",
+          "Cota Muro m": "625",
+          "Capacidad m³": "504.900",
+          "Altura m": "45"
+        },
+        {
+          "Nombre": "Cuevas Blancas",
+          "Cuenca": "Tirajana",
+          "Barranco": "Cuevas Blancas",
+          "Cota Muro m": "1.650",
+          "Capacidad m³": "424.000",
+          "Altura m": "16"
+        },
+        {
+          "Nombre": "Tirajana",
+          "Cuenca": "Tirajana",
+          "Barranco": "Tirajana",
+          "Cota Muro m": "400",
+          "Capacidad m³": "3.105.000",
+          "Altura m": "44"
+        },
+        {
+          "Nombre": "Cabrera",
+          "Cuenca": "Tirajana-Maspalomas",
+          "Barranco": "Los Guinchos",
+          "Cota Muro m": "366",
+          "Capacidad m³": "12.000",
+          "Altura m": "15,15"
+        },
+        {
+          "Nombre": "La monta",
+          "Cuenca": "Tirajana-Maspalomas",
+          "Barranco": "Majadillas",
+          "Cota Muro m": "75",
+          "Capacidad m³": "664.425",
+          "Altura m": "31"
+        },
+        {
+          "Nombre": "Ayagaures",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "Ayagaures",
+          "Cota Muro m": "311",
+          "Capacidad m³": "1.700.000",
+          "Altura m": "40"
+        },
+        {
+          "Nombre": "Chamoriscán",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "Chamoriscán",
+          "Cota Muro m": "260",
+          "Capacidad m³": "1.440.000",
+          "Altura m": "35"
+        },
+        {
+          "Nombre": "Don Bruno",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "El Tosquial",
+          "Cota Muro m": "155",
+          "Capacidad m³": "10.000",
+          "Altura m": "20"
+        },
+        {
+          "Nombre": "Fataga",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "Fataga",
+          "Cota Muro m": "485",
+          "Capacidad m³": "320.000",
+          "Altura m": "44"
+        },
+        {
+          "Nombre": "La Gambuesa",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "Ayagaures",
+          "Cota Muro m": "350",
+          "Capacidad m³": "1.240.000",
+          "Altura m": "42"
+        },
+        {
+          "Nombre": "Lomo Gordo",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "Lomo Gordo",
+          "Cota Muro m": "149",
+          "Capacidad m³": "108.000",
+          "Altura m": "12"
+        },
+        {
+          "Nombre": "Lomo Perera",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "Cañada Honda",
+          "Cota Muro m": "105",
+          "Capacidad m³": "326.880",
+          "Altura m": "15,15"
+        },
+        {
+          "Nombre": "Los Betancores",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "El Negro",
+          "Cota Muro m": "109",
+          "Capacidad m³": "125.000",
+          "Altura m": "14,5"
+        },
+        {
+          "Nombre": "Los Jorges",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "Hoya Fria",
+          "Cota Muro m": "224",
+          "Capacidad m³": "423.985",
+          "Altura m": "15"
+        },
+        {
+          "Nombre": "Chira",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "Chira",
+          "Cota Muro m": "907",
+          "Capacidad m³": "4.030.000",
+          "Altura m": "32"
+        },
+        {
+          "Nombre": "Cueva de las Niñas",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "Majada Alta",
+          "Cota Muro m": "890",
+          "Capacidad m³": "5.180.820",
+          "Altura m": "31"
+        },
+        {
+          "Nombre": "Excusabarajas",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "Excusabarajas",
+          "Cota Muro m": "750",
+          "Capacidad m³": "39.235",
+          "Altura m": "15"
+        },
+        {
+          "Nombre": "Soria",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "Soria",
+          "Cota Muro m": "610",
+          "Capacidad m³": "32.300.000",
+          "Altura m": "35"
+        },
+        {
+          "Nombre": "El Mulato",
+          "Cuenca": "Bco. Mogán",
+          "Barranco": "Vinagreras",
+          "Cota Muro m": "745",
+          "Capacidad m³": "1.068.387",
+          "Altura m": "40"
+        },
+        {
+          "Nombre": "El Caldero de la Niña",
+          "Cuenca": "Bco. La Aldea",
+          "Barranco": "Siberio",
+          "Cota Muro m": "206",
+          "Capacidad m³": "2.030.000",
+          "Altura m": "46"
+        },
+        {
+          "Nombre": "El Parralillo",
+          "Cuenca": "Bco. La Aldea",
+          "Barranco": "Grande",
+          "Cota Muro m": "347",
+          "Capacidad m³": "4.592.000",
+          "Altura m": "57,09"
+        },
+        {
+          "Nombre": "La Candelaria",
+          "Cuenca": "Bco. La Aldea",
+          "Barranco": "Del Merino",
+          "Cota Muro m": "920",
+          "Capacidad m³": "310.000",
+          "Altura m": "26,25"
+        },
+        {
+          "Nombre": "Los Hornos",
+          "Cuenca": "Bco. La Aldea",
+          "Barranco": "Los Hornos",
+          "Cota Muro m": "1.565",
+          "Capacidad m³": "697.000",
+          "Altura m": "27"
+        },
+        {
+          "Nombre": "Siberio",
+          "Cuenca": "Bco. La Aldea",
+          "Barranco": "Siberio",
+          "Cota Muro m": "277",
+          "Capacidad m³": "4.800.000",
+          "Altura m": "27"
+        },
+        {
+          "Nombre": "El Vaquero",
+          "Cuenca": "La Aldea-Agaete",
+          "Barranco": "El Vaquero",
+          "Cota Muro m": "866",
+          "Capacidad m³": "364.041",
+          "Altura m": "40,5"
+        },
+        {
+          "Nombre": "Las Hoyas",
+          "Cuenca": "Bco. Agaete",
+          "Barranco": "Las Hoyas",
+          "Cota Muro m": "903",
+          "Capacidad m³": "1.013.298",
+          "Altura m": "40"
+        },
+        {
+          "Nombre": "Las Tierras de Manuel",
+          "Cuenca": "Bco. Agaete",
+          "Barranco": "Agaete",
+          "Cota Muro m": "484",
+          "Capacidad m³": "86.175",
+          "Altura m": "22"
+        },
+        {
+          "Nombre": "Los Pérez",
+          "Cuenca": "Bco. Agaete",
+          "Barranco": "Hondo",
+          "Cota Muro m": "820",
+          "Capacidad m³": "1.701.986",
+          "Altura m": "45"
+        },
+        {
+          "Nombre": "Lugarejos",
+          "Cuenca": "Bco. Agaete",
+          "Barranco": "La Coruña",
+          "Cota Muro m": "860",
+          "Capacidad m³": "1.186.150",
+          "Altura m": "40"
+        },
+        {
+          "Nombre": "Tamadaba",
+          "Cuenca": "Bco. Agaete",
+          "Barranco": "Los Ancones",
+          "Cota Muro m": "1.030",
+          "Capacidad m³": "88.000",
+          "Altura m": "19"
+        },
+        {
+          "Nombre": "Barranco Hondo-Parrales",
+          "Cuenca": "Agaete-Gáldar",
+          "Barranco": "Hondo",
+          "Cota Muro m": "290",
+          "Capacidad m³": "167.000",
+          "Altura m": "25"
+        },
+        {
+          "Nombre": "El Draguillo",
+          "Cuenca": "Agaete-Gáldar",
+          "Barranco": "Del Draguillo",
+          "Cota Muro m": "85",
+          "Capacidad m³": "292.000",
+          "Altura m": "20"
+        },
+        {
+          "Nombre": "El capitán",
+          "Cuenca": "Bco. Gáldar",
+          "Barranco": "Del Conde",
+          "Cota Muro m": "335",
+          "Capacidad m³": "113.345",
+          "Altura m": "29"
+        },
+        {
+          "Nombre": "El Cardoso",
+          "Cuenca": "Bco. Gáldar",
+          "Barranco": "El Conde",
+          "Cota Muro m": "262",
+          "Capacidad m³": "10.228",
+          "Altura m": "18,75"
+        },
+        {
+          "Nombre": "Las Garzas",
+          "Cuenca": "Bco. Gáldar",
+          "Barranco": "Las Garzas",
+          "Cota Muro m": "260",
+          "Capacidad m³": "612.000",
+          "Altura m": "32"
+        },
+        {
+          "Nombre": "Barranco Hondo",
+          "Cuenca": "Gáldar-Moya",
+          "Barranco": "Hondo",
+          "Cota Muro m": "190",
+          "Capacidad m³": "142.000",
+          "Altura m": "25"
+        },
+        {
+          "Nombre": "El Calabozo",
+          "Cuenca": "Gáldar-Moya",
+          "Barranco": "Calabozo",
+          "Cota Muro m": "421",
+          "Capacidad m³": "300.000",
+          "Altura m": "30"
+        },
+        {
+          "Nombre": "El Hormiguero",
+          "Cuenca": "Gáldar-Moya",
+          "Barranco": "Hormiguero",
+          "Cota Muro m": "225",
+          "Capacidad m³": "45.000",
+          "Altura m": "16"
+        },
+        {
+          "Nombre": "Valerón",
+          "Cuenca": "Gáldar-Moya",
+          "Barranco": "Valerón",
+          "Cota Muro m": "205",
+          "Capacidad m³": "134.188",
+          "Altura m": "25"
+        },
+        {
+          "Nombre": "Los Mondragones",
+          "Cuenca": "Bco. Moya",
+          "Barranco": "El Brezal",
+          "Cota Muro m": "425",
+          "Capacidad m³": "475.000",
+          "Altura m": "36"
+        },
+        {
+          "Nombre": "Cabo Verde",
+          "Cuenca": "Moya-Azuaje",
+          "Barranco": "Lomo Blanco",
+          "Cota Muro m": "195",
+          "Capacidad m³": "40.620",
+          "Altura m": "15"
+        },
+        {
+          "Nombre": "Los Caiderillos",
+          "Cuenca": "Moya-Azuaje",
+          "Barranco": "Calderillos",
+          "Cota Muro m": "270",
+          "Capacidad m³": "37.060",
+          "Altura m": "21"
+        },
+        {
+          "Nombre": "Casas Blancas",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "Rosales",
+          "Cota Muro m": "240",
+          "Capacidad m³": "164.177",
+          "Altura m": "19,4"
+        },
+        {
+          "Nombre": "El Callejón",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "Del Callejón",
+          "Cota Muro m": "410",
+          "Capacidad m³": "186.755",
+          "Altura m": "24"
+        },
+        {
+          "Nombre": "El Cortijo",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "De los Dolores",
+          "Cota Muro m": "290",
+          "Capacidad m³": "56.000",
+          "Altura m": "20"
+        },
+        {
+          "Nombre": "El Palmito",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "Palmito",
+          "Cota Muro m": "225",
+          "Capacidad m³": "250.000",
+          "Altura m": "32"
+        },
+        {
+          "Nombre": "El Pinto I",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "Pinto",
+          "Cota Muro m": "260",
+          "Capacidad m³": "470.000",
+          "Altura m": "27,5"
+        },
+        {
+          "Nombre": "El Pinto II",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "Pinto",
+          "Cota Muro m": "290",
+          "Capacidad m³": "124.416",
+          "Altura m": "32,5"
+        },
+        {
+          "Nombre": "La Vistilla-Los Rosales",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "Rosales",
+          "Cota Muro m": "266",
+          "Capacidad m³": "67.000",
+          "Altura m": "24"
+        },
+        {
+          "Nombre": "Los Dolores-Casablanca",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "Los Dolores",
+          "Cota Muro m": "185",
+          "Capacidad m³": "168.915",
+          "Altura m": "32"
+        },
+        {
+          "Nombre": "Los Jiménez-Arucas",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "Jiménez",
+          "Cota Muro m": "375",
+          "Capacidad m³": "417.000",
+          "Altura m": "40"
+        },
+        {
+          "Nombre": "Lezcano I",
+          "Cuenca": "Bco. Tenoya",
+          "Barranco": "Lezcano",
+          "Cota Muro m": "290",
+          "Capacidad m³": "172.000",
+          "Altura m": "24"
+        },
+        {
+          "Nombre": "Lezcano II",
+          "Cuenca": "Bco. Tenoya",
+          "Barranco": "Lezcano",
+          "Cota Muro m": "317",
+          "Capacidad m³": "600.000",
+          "Altura m": "35"
+        }
+      ],
+      "notas": [],
+      "fuente": "/presas/ubicacion_presas.php (tabla 2)"
+    },
+    {
+      "id": "presas-menores",
+      "titulo": "RELACÓN DE PRESAS CON MENOS DE 15 m DE ALTURA Y MENOS DE 100.000 m³\nDE CAPACIDAD",
+      "columnas": [
+        "Nombre",
+        "Cuenca",
+        "Barranco",
+        "Cota Muro m",
+        "Capacidad m³",
+        "Altura m"
+      ],
+      "total": 96,
+      "registros": [
+        {
+          "Nombre": "El Granadillar",
+          "Cuenca": "Tenoya-Guiniguada",
+          "Barranco": "El Toscón",
+          "Cota Muro m": "387",
+          "Capacidad m³": "640",
+          "Altura m": "6"
+        },
+        {
+          "Nombre": "La Morena",
+          "Cuenca": "Tenoya-Guiniguada",
+          "Barranco": "La Morena",
+          "Cota Muro m": "317",
+          "Capacidad m³": "13.600",
+          "Altura m": "12"
+        },
+        {
+          "Nombre": "Las Vacas",
+          "Cuenca": "Tenoya-Guiniguada",
+          "Barranco": "Las Vacas",
+          "Cota Muro m": "340",
+          "Capacidad m³": "3.200",
+          "Altura m": "6"
+        },
+        {
+          "Nombre": "Los Alamos",
+          "Cuenca": "Tenoya-Guiniguada",
+          "Barranco": "Los Alamos (Jacomar)",
+          "Cota Muro m": "267",
+          "Capacidad m³": "10.000",
+          "Altura m": "12"
+        },
+        {
+          "Nombre": "Los Caideros I",
+          "Cuenca": "Tenoya-Guiniguada",
+          "Barranco": "Los Caideros",
+          "Cota Muro m": "617",
+          "Capacidad m³": "2.667",
+          "Altura m": "4"
+        },
+        {
+          "Nombre": "Cueva Grande",
+          "Cuenca": "Bco. Guiniguada",
+          "Barranco": "Cueva Grande",
+          "Cota Muro m": "1.273",
+          "Capacidad m³": "35.322",
+          "Altura m": "13"
+        },
+        {
+          "Nombre": "Cueva Grande",
+          "Cuenca": "Bco. Guiniguada",
+          "Barranco": "Cueva Grande",
+          "Cota Muro m": "1.273",
+          "Capacidad m³": "35.322",
+          "Altura m": "13"
+        },
+        {
+          "Nombre": "Las Mesas",
+          "Cuenca": "Bco. Guiniguada",
+          "Barranco": "Las Mesas",
+          "Cota Muro m": "1.302",
+          "Capacidad m³": "2.800",
+          "Altura m": "7"
+        },
+        {
+          "Nombre": "Los Massiéu",
+          "Cuenca": "Bco. Guiniguada",
+          "Barranco": "El Roque",
+          "Cota Muro m": "523",
+          "Capacidad m³": "29.260",
+          "Altura m": "12"
+        },
+        {
+          "Nombre": "Cuevas Blancas I",
+          "Cuenca": "Guiniguada-Telde",
+          "Barranco": "",
+          "Cota Muro m": "405",
+          "Capacidad m³": "660",
+          "Altura m": "9"
+        },
+        {
+          "Nombre": "Cuevas Blancas II",
+          "Cuenca": "Guiniguada-Telde",
+          "Barranco": "",
+          "Cota Muro m": "373",
+          "Capacidad m³": "480",
+          "Altura m": "8"
+        },
+        {
+          "Nombre": "Los Picachos",
+          "Cuenca": "Guiniguada-Telde",
+          "Barranco": "",
+          "Cota Muro m": "646",
+          "Capacidad m³": "4.500",
+          "Altura m": "7,5"
+        },
+        {
+          "Nombre": "El Mayorazgo",
+          "Cuenca": "Bco. Telde",
+          "Barranco": "",
+          "Cota Muro m": "146",
+          "Capacidad m³": "6.533",
+          "Altura m": "7"
+        },
+        {
+          "Nombre": "Hoyas de Manrique",
+          "Cuenca": "Bco. Telde",
+          "Barranco": "Hoyas de Manrique",
+          "Cota Muro m": "330",
+          "Capacidad m³": "6.333",
+          "Altura m": "10"
+        },
+        {
+          "Nombre": "Cañadas de los Majanos",
+          "Cuenca": "Telde-Guayadeque",
+          "Barranco": "Los Majanos",
+          "Cota Muro m": "349",
+          "Capacidad m³": "12.533",
+          "Altura m": "8"
+        },
+        {
+          "Nombre": "El Malfú",
+          "Cuenca": "Telde-Guayadeque",
+          "Barranco": "Malfú",
+          "Cota Muro m": "198",
+          "Capacidad m³": "24.000",
+          "Altura m": "10"
+        },
+        {
+          "Nombre": "La Juradilla",
+          "Cuenca": "Telde-Guayadeque",
+          "Barranco": "El Negro",
+          "Cota Muro m": "93",
+          "Capacidad m³": "37.800",
+          "Altura m": "10"
+        },
+        {
+          "Nombre": "La Barrera I",
+          "Cuenca": "Tirajana",
+          "Barranco": "",
+          "Cota Muro m": "558",
+          "Capacidad m³": "1.633",
+          "Altura m": "7"
+        },
+        {
+          "Nombre": "La Barrera III",
+          "Cuenca": "Tirajana",
+          "Barranco": "",
+          "Cota Muro m": "525",
+          "Capacidad m³": "113",
+          "Altura m": "1,7"
+        },
+        {
+          "Nombre": "El Canario",
+          "Cuenca": "Tirajana-Maspalomas",
+          "Barranco": "Cañada de Pajaritos",
+          "Cota Muro m": "123",
+          "Capacidad m³": "9.718",
+          "Altura m": "6,78"
+        },
+        {
+          "Nombre": "El Salinero",
+          "Cuenca": "Tirajana-Maspalomas",
+          "Barranco": "Toledo",
+          "Cota Muro m": "66",
+          "Capacidad m³": "8.190",
+          "Altura m": "7"
+        },
+        {
+          "Nombre": "Las Palmas",
+          "Cuenca": "Tirajana-Maspalomas",
+          "Barranco": "Las Palmas",
+          "Cota Muro m": "668",
+          "Capacidad m³": "2.400",
+          "Altura m": "5,5"
+        },
+        {
+          "Nombre": "Los Guinchos",
+          "Cuenca": "Tirajana-Maspalomas",
+          "Barranco": "Los Guinchos",
+          "Cota Muro m": "424",
+          "Capacidad m³": "920",
+          "Altura m": "4,6"
+        },
+        {
+          "Nombre": "Quintana",
+          "Cuenca": "Tirajana-Maspalomas",
+          "Barranco": "De las Yeguas",
+          "Cota Muro m": "224",
+          "Capacidad m³": "720",
+          "Altura m": "8"
+        },
+        {
+          "Nombre": "Bonny",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "",
+          "Cota Muro m": "91",
+          "Capacidad m³": "1.900",
+          "Altura m": "3"
+        },
+        {
+          "Nombre": "Curbelo",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "del Negro",
+          "Cota Muro m": "179",
+          "Capacidad m³": "32.580",
+          "Altura m": "10"
+        },
+        {
+          "Nombre": "El Tosquial de los Gatos",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "El Tosquial",
+          "Cota Muro m": "122",
+          "Capacidad m³": "100",
+          "Altura m": "3"
+        },
+        {
+          "Nombre": "La Lumbre",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "La Lumbre",
+          "Cota Muro m": "401",
+          "Capacidad m³": "29.400",
+          "Altura m": "9"
+        },
+        {
+          "Nombre": "La Negra",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "La Negra",
+          "Cota Muro m": "416",
+          "Capacidad m³": "51.567",
+          "Altura m": "13"
+        },
+        {
+          "Nombre": "Los Caideros II",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "Los Caideros",
+          "Cota Muro m": "802",
+          "Capacidad m³": "800",
+          "Altura m": "12"
+        },
+        {
+          "Nombre": "Los Vicentillos I",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "Los Vicentillos",
+          "Cota Muro m": "319",
+          "Capacidad m³": "12.348",
+          "Altura m": "10"
+        },
+        {
+          "Nombre": "Los Vicentillos II",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "Los Vicentillos",
+          "Cota Muro m": "423",
+          "Capacidad m³": "817",
+          "Altura m": "3,5"
+        },
+        {
+          "Nombre": "Los Vicentillos III",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "Los Vicentillos",
+          "Cota Muro m": "438",
+          "Capacidad m³": "133",
+          "Altura m": "4"
+        },
+        {
+          "Nombre": "Montaña la Uva",
+          "Cuenca": "Bco. Maspalomas",
+          "Barranco": "Ayaguares",
+          "Cota Muro m": "284",
+          "Capacidad m³": "1.073",
+          "Altura m": "7"
+        },
+        {
+          "Nombre": "Mister Pilcher",
+          "Cuenca": "Maspalomas-Arguineguín",
+          "Barranco": "",
+          "Cota Muro m": "233",
+          "Capacidad m³": "17.600",
+          "Altura m": "11"
+        },
+        {
+          "Nombre": "Punta del Lomo Galeón",
+          "Cuenca": "Maspalomas-Arguineguín",
+          "Barranco": "Punta del Lomo Galeón",
+          "Cota Muro m": "255",
+          "Capacidad m³": "487",
+          "Altura m": "3"
+        },
+        {
+          "Nombre": "Cho Flores I",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "De la Plata",
+          "Cota Muro m": "1.504",
+          "Capacidad m³": "168",
+          "Altura m": "3,6"
+        },
+        {
+          "Nombre": "Cho Flores II",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "De la Plata",
+          "Cota Muro m": "1.480",
+          "Capacidad m³": "874",
+          "Altura m": "5,7"
+        },
+        {
+          "Nombre": "Bernardino",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "Bernardino",
+          "Cota Muro m": "1.012",
+          "Capacidad m³": "15.634",
+          "Altura m": "10"
+        },
+        {
+          "Nombre": "Cañada de la Vaca",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "Cañada de la Vaca",
+          "Cota Muro m": "924",
+          "Capacidad m³": "433",
+          "Altura m": "3,25"
+        },
+        {
+          "Nombre": "Cañada del Cerrojo",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "Cañada del Cerrojo",
+          "Cota Muro m": "898",
+          "Capacidad m³": "3.710",
+          "Altura m": "4,2"
+        },
+        {
+          "Nombre": "Cañada Honda",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "Cañada Honda",
+          "Cota Muro m": "894",
+          "Capacidad m³": "6.417",
+          "Altura m": "7"
+        },
+        {
+          "Nombre": "Don Paco",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "",
+          "Cota Muro m": "455",
+          "Capacidad m³": "178",
+          "Altura m": "4,45"
+        },
+        {
+          "Nombre": "La Data",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "de Gonzalo",
+          "Cota Muro m": "921",
+          "Capacidad m³": "23.587",
+          "Altura m": "11,6"
+        },
+        {
+          "Nombre": "La Garguja",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "La Garguja",
+          "Cota Muro m": "945",
+          "Capacidad m³": "1.440",
+          "Altura m": "3"
+        },
+        {
+          "Nombre": "La Palmita",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "La Palmita",
+          "Cota Muro m": "893",
+          "Capacidad m³": "432",
+          "Altura m": "3,5"
+        },
+        {
+          "Nombre": "Lomo de la Palma I",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "Lomo de la Palma",
+          "Cota Muro m": "923",
+          "Capacidad m³": "2.190",
+          "Altura m": "3"
+        },
+        {
+          "Nombre": "Pino de la Jarra",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "Cañada del Pino de la Jarra",
+          "Cota Muro m": "487",
+          "Capacidad m³": "4.288",
+          "Altura m": "4,15"
+        },
+        {
+          "Nombre": "Salto del Perro I",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "Andres",
+          "Cota Muro m": "901",
+          "Capacidad m³": "60.750",
+          "Altura m": "12"
+        },
+        {
+          "Nombre": "Salto del Perro II",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "Andres",
+          "Cota Muro m": "888",
+          "Capacidad m³": "324",
+          "Altura m": "2,5"
+        },
+        {
+          "Nombre": "Salto del Perro III",
+          "Cuenca": "Bco. Arguineguín",
+          "Barranco": "de Andres",
+          "Cota Muro m": "882",
+          "Capacidad m³": "108",
+          "Altura m": "3"
+        },
+        {
+          "Nombre": "Cañada de la Presa",
+          "Cuenca": "Arguineguín-Mogáan",
+          "Barranco": "Cañada de la Presa",
+          "Cota Muro m": "232",
+          "Capacidad m³": "15.947",
+          "Altura m": "9,2"
+        },
+        {
+          "Nombre": "Charco del Embudo",
+          "Cuenca": "Arguineguín-Mogáan",
+          "Barranco": "Tauro",
+          "Cota Muro m": "427",
+          "Capacidad m³": "27.560",
+          "Altura m": "13"
+        },
+        {
+          "Nombre": "Corral del Lechugal",
+          "Cuenca": "Arguineguín-Mogáan",
+          "Barranco": "Corral del Lechugal",
+          "Cota Muro m": "83",
+          "Capacidad m³": "1.875",
+          "Altura m": "7,5"
+        },
+        {
+          "Nombre": "El Niño",
+          "Cuenca": "Arguineguín-Mogáan",
+          "Barranco": "El Niño",
+          "Cota Muro m": "88",
+          "Capacidad m³": "1.200",
+          "Altura m": "3"
+        },
+        {
+          "Nombre": "Las Eneas",
+          "Cuenca": "Arguineguín-Mogáan",
+          "Barranco": "Tauro",
+          "Cota Muro m": "223",
+          "Capacidad m³": "1.167",
+          "Altura m": "7"
+        },
+        {
+          "Nombre": "Tauro I",
+          "Cuenca": "Arguineguín-Mogáan",
+          "Barranco": "Tauro",
+          "Cota Muro m": "68",
+          "Capacidad m³": "2.450",
+          "Altura m": "3,5"
+        },
+        {
+          "Nombre": "Tauro II",
+          "Cuenca": "Arguineguín-Mogáan",
+          "Barranco": "Tauro",
+          "Cota Muro m": "72",
+          "Capacidad m³": "1.200",
+          "Altura m": "4"
+        },
+        {
+          "Nombre": "Toscon del Embudo",
+          "Cuenca": "Arguineguín-Mogáan",
+          "Barranco": "Tauro",
+          "Cota Muro m": "479",
+          "Capacidad m³": "480",
+          "Altura m": "4"
+        },
+        {
+          "Nombre": "El Ferruge",
+          "Cuenca": "Bco. Mogán",
+          "Barranco": "Vinagreras (El Mulato)",
+          "Cota Muro m": "913",
+          "Capacidad m³": "2.733",
+          "Altura m": "5"
+        },
+        {
+          "Nombre": "Tabaibales",
+          "Cuenca": "Bco. Veneguera",
+          "Barranco": "Tabaibales",
+          "Cota Muro m": "346",
+          "Capacidad m³": "2.470",
+          "Altura m": "5.7"
+        },
+        {
+          "Nombre": "Cañada de Tia Flora",
+          "Cuenca": "Bco. La Aldea",
+          "Barranco": "Cañada de Tia Flora",
+          "Cota Muro m": "100",
+          "Capacidad m³": "900",
+          "Altura m": "4,5"
+        },
+        {
+          "Nombre": "Don Armando",
+          "Cuenca": "Bco. La Aldea",
+          "Barranco": "",
+          "Cota Muro m": "63",
+          "Capacidad m³": "1.577",
+          "Altura m": "11"
+        },
+        {
+          "Nombre": "Los Velázquez",
+          "Cuenca": "Bco. La Aldea",
+          "Barranco": "",
+          "Cota Muro m": "38",
+          "Capacidad m³": "25.300",
+          "Altura m": "11,5"
+        },
+        {
+          "Nombre": "Pajonales I",
+          "Cuenca": "Bco. La Aldeo",
+          "Barranco": "Pajonales",
+          "Cota Muro m": "1.087",
+          "Capacidad m³": "4.137",
+          "Altura m": "7,3"
+        },
+        {
+          "Nombre": "Pajonales II",
+          "Cuenca": "Bco. La Aldea",
+          "Barranco": "Pajonales",
+          "Cota Muro m": "1.112",
+          "Capacidad m³": "548",
+          "Altura m": "5"
+        },
+        {
+          "Nombre": "Pajonales III",
+          "Cuenca": "Bco. La Aldea",
+          "Barranco": "Pajonales",
+          "Cota Muro m": "1.132",
+          "Capacidad m³": "607",
+          "Altura m": "13"
+        },
+        {
+          "Nombre": "Cañada de la Sabina",
+          "Cuenca": "La Aldea-Agaete",
+          "Barranco": "Cañada Hoyas de las Sabinas",
+          "Cota Muro m": "47",
+          "Capacidad m³": "197",
+          "Altura m": "5"
+        },
+        {
+          "Nombre": "Hoya de Ojeda",
+          "Cuenca": "La Aldea-Agaete",
+          "Barranco": "Hoyas Tejeda",
+          "Cota Muro m": "600",
+          "Capacidad m³": "640",
+          "Altura m": "4"
+        },
+        {
+          "Nombre": "La Laja",
+          "Cuenca": "La Aldea-Agaete",
+          "Barranco": "Maria",
+          "Cota Muro m": "1070",
+          "Capacidad m³": "1609",
+          "Altura m": "7,1"
+        },
+        {
+          "Nombre": "Los Rajones",
+          "Cuenca": "La Aldea-Agaete",
+          "Barranco": "Los Ancones",
+          "Cota Muro m": "1.133",
+          "Capacidad m³": "6.600",
+          "Altura m": "11"
+        },
+        {
+          "Nombre": "El Boticario",
+          "Cuenca": "Agaete-Gáldar",
+          "Barranco": "El Boticario",
+          "Cota Muro m": "68",
+          "Capacidad m³": "10.500",
+          "Altura m": "12"
+        },
+        {
+          "Nombre": "El Goteo",
+          "Cuenca": "Agaete-Gáldar",
+          "Barranco": "El Goteo",
+          "Cota Muro m": "119",
+          "Capacidad m³": "320",
+          "Altura m": "3"
+        },
+        {
+          "Nombre": "Ábalos",
+          "Cuenca": "Bco. Gáldar",
+          "Barranco": "Bco. de las Garzas",
+          "Cota Muro m": "455",
+          "Capacidad m³": "148.000",
+          "Altura m": "10"
+        },
+        {
+          "Nombre": "Cueva de Meña",
+          "Cuenca": "Bco. Gáldar",
+          "Barranco": "Cueva de Meña",
+          "Cota Muro m": "496",
+          "Capacidad m³": "10.733",
+          "Altura m": "11,5"
+        },
+        {
+          "Nombre": "El Capellán",
+          "Cuenca": "Bco. Gáldar",
+          "Barranco": "Silos",
+          "Cota Muro m": "193",
+          "Capacidad m³": "14.261",
+          "Altura m": "7"
+        },
+        {
+          "Nombre": "Grimon",
+          "Cuenca": "Bco. Gáldar",
+          "Barranco": "La Sabina",
+          "Cota Muro m": "59",
+          "Capacidad m³": "45.600",
+          "Altura m": "9,5"
+        },
+        {
+          "Nombre": "Las Garzas II",
+          "Cuenca": "Bco. Gáldar",
+          "Barranco": "Las Garzas",
+          "Cota Muro m": "229",
+          "Capacidad m³": "4.200",
+          "Altura m": "7"
+        },
+        {
+          "Nombre": "Los Roques",
+          "Cuenca": "Bco. Gáldar",
+          "Barranco": "Jediondo",
+          "Cota Muro m": "208",
+          "Capacidad m³": "11.433",
+          "Altura m": "10"
+        },
+        {
+          "Nombre": "Barranco de Moreno",
+          "Cuenca": "Gáldar-Moya",
+          "Barranco": "Del Moreno",
+          "Cota Muro m": "107",
+          "Capacidad m³": "1.100",
+          "Altura m": "3"
+        },
+        {
+          "Nombre": "El Rio II",
+          "Cuenca": "Gáldar-Moya",
+          "Barranco": "del Rio",
+          "Cota Muro m": "40",
+          "Capacidad m³": "3.300",
+          "Altura m": "4,5"
+        },
+        {
+          "Nombre": "Lomo de los Martínez",
+          "Cuenca": "Gáldar-Moya",
+          "Barranco": "",
+          "Cota Muro m": "125",
+          "Capacidad m³": "700",
+          "Altura m": "3,5"
+        },
+        {
+          "Nombre": "Porrilla",
+          "Cuenca": "Gáldar-Moya",
+          "Barranco": "Las Fornillas",
+          "Cota Muro m": "318",
+          "Capacidad m³": "14.667",
+          "Altura m": "11"
+        },
+        {
+          "Nombre": "Tierras Viejas",
+          "Cuenca": "Gáldar-Moya",
+          "Barranco": "",
+          "Cota Muro m": "657",
+          "Capacidad m³": "400",
+          "Altura m": "3"
+        },
+        {
+          "Nombre": "La Jurada",
+          "Cuenca": "Bco. Moya",
+          "Barranco": "La Jurada",
+          "Cota Muro m": "635",
+          "Capacidad m³": "28.800",
+          "Altura m": "9"
+        },
+        {
+          "Nombre": "Los Mondragones II",
+          "Cuenca": "Bco. Moya",
+          "Barranco": "Los Mondragones",
+          "Cota Muro m": "292",
+          "Capacidad m³": "7.500",
+          "Altura m": "9"
+        },
+        {
+          "Nombre": "Los Verdugos",
+          "Cuenca": "Bco. Moya",
+          "Barranco": "Lomo de Vergara",
+          "Cota Muro m": "304",
+          "Capacidad m³": "23.833",
+          "Altura m": "13"
+        },
+        {
+          "Nombre": "Lomo de Don Julian",
+          "Cuenca": "Bco. Moya",
+          "Barranco": "",
+          "Cota Muro m": "542",
+          "Capacidad m³": "1.467",
+          "Altura m": "4"
+        },
+        {
+          "Nombre": "El Moreto",
+          "Cuenca": "Moya-Azuaje",
+          "Barranco": "Moreto",
+          "Cota Muro m": "376",
+          "Capacidad m³": "11.458",
+          "Altura m": "6,25"
+        },
+        {
+          "Nombre": "La Cañada",
+          "Cuenca": "Moya-Azuaje",
+          "Barranco": "La Cañada",
+          "Cota Muro m": "267",
+          "Capacidad m³": "8.667",
+          "Altura m": "10"
+        },
+        {
+          "Nombre": "Trujillo",
+          "Cuenca": "Moya-Azuaje",
+          "Barranco": "Trujillo",
+          "Cota Muro m": "393",
+          "Capacidad m³": "199.100",
+          "Altura m": "11"
+        },
+        {
+          "Nombre": "Doña Amalia",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "Don Victor",
+          "Cota Muro m": "116",
+          "Capacidad m³": "23.433",
+          "Altura m": "10"
+        },
+        {
+          "Nombre": "El Albercón",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "El Pinto",
+          "Cota Muro m": "422",
+          "Capacidad m³": "11.800",
+          "Altura m": "12"
+        },
+        {
+          "Nombre": "Los Barranquillos",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "Los Barranquillos",
+          "Cota Muro m": "568",
+          "Capacidad m³": "5.200",
+          "Altura m": "6"
+        },
+        {
+          "Nombre": "Quintanilla",
+          "Cuenca": "Azuaje-Tenoya",
+          "Barranco": "Los Dolores, Casas Blancas",
+          "Cota Muro m": "71",
+          "Capacidad m³": "50.000",
+          "Altura m": "13,65"
+        },
+        {
+          "Nombre": "Presa Mareta de Justinito",
+          "Cuenca": "Azuaje",
+          "Barranco": "Azuaje",
+          "Cota Muro m": "513",
+          "Capacidad m³": "400",
+          "Altura m": "6"
+        }
+      ],
+      "notas": [],
+      "fuente": "/presas/ubicacion_presas.php (tabla 3)"
+    }
+  ],
+  "archivo_tecnico": [
+    {
+      "grupo": [
+        "ARCHIVO TÉCNICO"
+      ],
+      "titulo": "COMPROBACIÓN NUMÉRICA PRESA DE AYAGAURES",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Presas/Archivo/COMPROBACI%C3%93N%20NUM%C3%89RICA%20PRESA%20DE%20AYAGAURES.pdf",
+      "ruta_nueva": "/documentos/pdfs/presas/archivo/comprobacion-numerica-presa-de-ayagaures.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 34192254,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "ARCHIVO TÉCNICO"
+      ],
+      "titulo": "COMPROBACIÓN NUMÉRICA PRESA DE CHIRA",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Presas/Archivo/COMPROBACI%C3%93N%20NUM%C3%89RICA%20PRESA%20DE%20CHIRA.pdf",
+      "ruta_nueva": "/documentos/pdfs/presas/archivo/comprobacion-numerica-presa-de-chira.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 3724064,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "ARCHIVO TÉCNICO"
+      ],
+      "titulo": "COMPROBACIÓN NUMÉRICA PRESA DE FATAGA",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Presas/Archivo/COMPROBACI%C3%93N%20NUM%C3%89RICA%20PRESA%20DE%20FATAGA.pdf",
+      "ruta_nueva": "/documentos/pdfs/presas/archivo/comprobacion-numerica-presa-de-fataga.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 28578098,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "ARCHIVO TÉCNICO"
+      ],
+      "titulo": "COMPROBACIÓN NUMÉRICA PRESA DE SORIA",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Presas/Archivo/COMPROBACI%C3%93N%20NUM%C3%89RICA%20PRESA%20DE%20SORIA.pdf",
+      "ruta_nueva": "/documentos/pdfs/presas/archivo/comprobacion-numerica-presa-de-soria.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 4332473,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "ARCHIVO TÉCNICO"
+      ],
+      "titulo": "COMPROBACIÓN NUMÉRICA PRESA EL MULATO",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Presas/Archivo/COMPROBACI%C3%93N%20NUM%C3%89RICA%20PRESA%20EL%20MULATO.pdf",
+      "ruta_nueva": "/documentos/pdfs/presas/archivo/comprobacion-numerica-presa-el-mulato.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 24866100,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "ARCHIVO TÉCNICO"
+      ],
+      "titulo": "COMPROBACIÓN NUMÉRICA PRESA EL VAQUERO",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Presas/Archivo/COMPROBACI%C3%93N%20NUM%C3%89RICA%20PRESA%20EL%20VAQUERO.pdf",
+      "ruta_nueva": "/documentos/pdfs/presas/archivo/comprobacion-numerica-presa-el-vaquero.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 28017869,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "ARCHIVO TÉCNICO"
+      ],
+      "titulo": "COMPROBACIÓN NUMÉRICA PRESA LA CANDELARIA",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Presas/Archivo/COMPROBACI%C3%93N%20NUM%C3%89RICA%20PRESA%20LA%20CANDELARIA.pdf",
+      "ruta_nueva": "/documentos/pdfs/presas/archivo/comprobacion-numerica-presa-la-candelaria.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 26298693,
+      "estado_origen": 200,
+      "pagina_interna": null
+    },
+    {
+      "grupo": [
+        "ARCHIVO TÉCNICO"
+      ],
+      "titulo": "COMPROBACIÓN NUMÉRICA PRESA LA GAMBUESA",
+      "etiqueta": null,
+      "anio_en_texto": null,
+      "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Presas/Archivo/COMPROBACI%C3%93N%20NUM%C3%89RICA%20PRESA%20LA%20GAMBUESA.pdf",
+      "ruta_nueva": "/documentos/pdfs/presas/archivo/comprobacion-numerica-presa-la-gambuesa.pdf",
+      "tipo": "documento",
+      "formato": "pdf",
+      "bytes": 37698932,
+      "estado_origen": 200,
+      "pagina_interna": null
+    }
+  ]
+}

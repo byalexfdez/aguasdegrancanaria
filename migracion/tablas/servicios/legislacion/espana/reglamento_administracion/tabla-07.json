@@ -1,0 +1,40 @@
+{
+  "fuente": "/servicios/legislacion/españa/reglamento_administracion.php",
+  "indice": 7,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [
+    [
+      "",
+      "Dureza del agua (mg/l CaCO3)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "filas": [
+    [
+      "",
+      "10",
+      "50",
+      "100",
+      "500"
+    ],
+    [
+      "Aguas salmonícolas (mg/l Zn)",
+      "0,03",
+      "0,2",
+      "0,3",
+      "0,5"
+    ],
+    [
+      "Aguas ciprinícolas (mg/l Zn)",
+      "0,3",
+      "0,7",
+      "1,0",
+      "2,0"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

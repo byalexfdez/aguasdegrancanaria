@@ -1,0 +1,39 @@
+{
+  "fuente": "/empleados.php",
+  "indice": 2,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Año 2022",
+      ""
+    ],
+    [
+      "Liberados sindicales (11/05/2022)",
+      "No hay actualmente"
+    ],
+    [
+      "Autorizaciones de compatibilidad (11/05/2022)",
+      "No hay actualmente"
+    ],
+    [
+      "Aportaciones a planes de pensiones o seguros colectivos (01/05/2022)",
+      "No hay actualmente"
+    ],
+    [
+      "Gastos de representación asignados (11/05/2022)",
+      "No hay actualmente"
+    ],
+    [
+      "Indemnizaciones percibidas por ocasión del abandono del cargo (11/05/2022)",
+      "No hay actualmente"
+    ],
+    [
+      "Viajes, manutención, alojamiento y asistencia a órganos colegiados o sociales (11/05/2022)",
+      "No hay actualmente"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

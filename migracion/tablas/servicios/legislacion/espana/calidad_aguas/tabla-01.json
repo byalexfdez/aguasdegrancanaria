@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/calidad_aguas.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 20/03/2001",
+      "Título",
+      "Calidad de las aguas de baño",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "R.D. por el que se establecen normas de calidad de las aguas de baño.",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Costas",
+      "",
+      "Real Decreto",
+      "España"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

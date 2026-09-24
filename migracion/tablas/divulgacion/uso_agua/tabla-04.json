@@ -1,0 +1,36 @@
+{
+  "fuente": "/divulgacion/uso_agua.php",
+  "indice": 4,
+  "titulo": "PLAZAS TURÍSTICAS",
+  "columnas": 2,
+  "cabeceras": [
+    [
+      "Municipio",
+      "N° camas"
+    ]
+  ],
+  "filas": [
+    [
+      "Las Palmas de G.C.",
+      "12.634"
+    ],
+    [
+      "Mogán",
+      "27.682"
+    ],
+    [
+      "San Bartolomé de Tirajana",
+      "85.280"
+    ],
+    [
+      "Otros",
+      "858"
+    ],
+    [
+      "TOTAL",
+      "126.454"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

@@ -1,0 +1,119 @@
+# Gestor de contenidos (Decap CMS) · Consejo Insular de Aguas de Gran Canaria
+# Backend: repositorio Git en GitHub (ver README, apartado 4).
+backend:
+  name: github            # alternativas: gitlab, gitea, git-gateway
+  repo: byalexfdez/aguasdegrancanaria
+  branch: main
+# Edición en local sin Git remoto: `npx decap-server` + npm run dev → http://localhost:4321/admin/
+local_backend: true
+locale: es
+publish_mode: editorial_workflow   # borrador → en revisión → listo para publicar
+site_url: https://www.aguasgrancanaria.com
+display_url: https://www.aguasgrancanaria.com
+logo_url: /imagenes/img/logo11.jpg
+media_folder: public/imagenes/cms
+public_folder: /imagenes/cms
+slug:
+  encoding: ascii
+  clean_accents: true
+
+collections:
+  - name: noticias
+    label: Noticias
+    label_singular: Noticia
+    folder: src/content/noticias
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields:
+      fields: [fecha, titulo]
+      default: { field: fecha, direction: descending }
+    summary: "{{fecha | date('DD/MM/YYYY')}} · {{titulo}}"
+    fields:
+      - { name: titulo, label: Titular, widget: string }
+      - { name: fecha, label: Fecha, widget: datetime, format: YYYY-MM-DD, date_format: DD/MM/YYYY, time_format: false, required: false }
+      - { name: imagen, label: Imagen, widget: image, required: false }
+      - { name: imagen_alt, label: "Texto alternativo de la imagen (qué se ve en ella)", widget: string, required: false, default: "" }
+      - label: Fuente (si la noticia procede de un medio)
+        name: fuente
+        widget: object
+        required: false
+        fields:
+          - { name: texto, label: "Texto (p. ej. «Noticia de Canarias7»)", widget: string }
+          - { name: url, label: Enlace, widget: string }
+      - label: Documentos adjuntos
+        name: adjuntos
+        widget: list
+        required: false
+        fields:
+          - { name: texto, label: Texto del enlace, widget: string }
+          - { name: url, label: Archivo, widget: file, media_folder: /public/datos/adjuntos, public_folder: /datos/adjuntos }
+      - { name: destacada, label: Destacar en portada, widget: boolean, default: false, required: false }
+      - { name: body, label: Texto de la noticia, widget: markdown }
+
+  - name: anuncios
+    label: Anuncios oficiales
+    label_singular: Anuncio
+    folder: src/content/anuncios
+    create: true
+    slug: "{{year}}{{month}}{{day}}-{{slug}}"
+    summary: "{{titulo}} · Exp. {{expediente}}"
+    fields:
+      - { name: titulo, label: "Tipo de anuncio (p. ej. «Concesión Administrativa»)", widget: string }
+      - { name: expediente, label: Nº de expediente, widget: string, required: false }
+      - { name: fecha, label: Fecha de publicación, widget: datetime, format: YYYY-MM-DD, date_format: DD/MM/YYYY, time_format: false, required: false }
+      - label: Documentos
+        name: adjuntos
+        widget: list
+        fields:
+          - { name: texto, label: "Texto del enlace (p. ej. «Descargar Anuncio»)", widget: string }
+          - { name: url, label: Archivo PDF, widget: file, media_folder: /public/datos/anuncios, public_folder: /datos/anuncios }
+          - { name: formato, label: Formato, widget: select, options: [pdf, xlsx, ods, doc, docx, zip], default: pdf }
+      - { name: destacado, label: Mostrar en portada, widget: boolean, default: false, required: false }
+      - { name: body, label: Texto del anuncio, widget: markdown }
+
+  - name: avisos
+    label: Avisos y alertas
+    label_singular: Aviso
+    folder: src/content/avisos
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{titulo}} · activo: {{activo}}"
+    fields:
+      - { name: titulo, label: Título del aviso, widget: string }
+      - { name: subtitulo, label: Texto del enlace, widget: string, required: false }
+      - { name: fecha, label: Fecha, widget: datetime, format: YYYY-MM-DD, date_format: DD/MM/YYYY, time_format: false, required: false }
+      - { name: nivel, label: Nivel, widget: select, options: [{ label: "Alerta (rojo)", value: alerta }, { label: "Aviso (naranja)", value: aviso }, { label: "Información (azul)", value: informacion }], default: alerta }
+      - { name: activo, label: "Activo (se muestra bajo la cabecera de todas las páginas)", widget: boolean, default: true }
+      - { name: enlace, label: Enlace o documento, widget: file, required: false, media_folder: /public/datos/avisos, public_folder: /datos/avisos }
+      - { name: body, label: Texto (opcional), widget: markdown, required: false }
+
+  - name: volumenes
+    label: Volúmenes de presas (Excel)
+    files:
+      - name: instrucciones
+        label: "Cómo actualizar el panel de embalses"
+        file: public/datos/volumenes/LEEME.md
+        fields:
+          - { name: body, label: Instrucciones, widget: markdown }
+    media_folder: /public/datos/volumenes
+    public_folder: /datos/volumenes
+
+  - name: paginas
+    label: Páginas (contenido migrado)
+    label_singular: Página
+    folder: src/content/paginas
+    nested: { depth: 6 }
+    create: false
+    delete: false
+    summary: "{{url}} · {{titulo}}"
+    fields:
+      - { name: titulo, label: Título, widget: string }
+      - { name: antetitulo, label: Antetítulo, widget: string, required: false }
+      - { name: entradilla, label: Entradilla, widget: text, required: false }
+      - { name: descripcion, label: "Descripción para buscadores (máx. 160 caracteres)", widget: text }
+      - { name: ultima_actualizacion, label: Última actualización, widget: datetime, format: YYYY-MM-DD, date_format: DD/MM/YYYY, time_format: false, required: false }
+      - { name: url, label: "URL (no modificar)", widget: hidden }
+      - { name: nodo, label: Nodo, widget: hidden }
+      - { name: seccion, label: Sección, widget: hidden }
+      - { name: plantilla, label: Plantilla, widget: hidden }
+      - { name: body, label: Contenido, widget: markdown }

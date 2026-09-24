@@ -1,0 +1,32 @@
+{
+  "fuente": "/servicios/legislacion/españa/dominio_publico_nacional.php",
+  "indice": 9,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [
+    [
+      "Volumen Hm3",
+      "Coeficientes de minoración (1)"
+    ]
+  ],
+  "filas": [
+    [
+      "Menor de 100",
+      "0,02000"
+    ],
+    [
+      "100 a 250",
+      "0,01166"
+    ],
+    [
+      "250 a 1.000",
+      "0,00566"
+    ],
+    [
+      "Superior a 1.000",
+      "0,00125"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

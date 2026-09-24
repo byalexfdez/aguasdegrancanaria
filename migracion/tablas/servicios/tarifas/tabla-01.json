@@ -1,0 +1,47 @@
+{
+  "fuente": "/servicios/tarifas.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "TIPO DE APROVECHAMIENTO",
+      "ZONAS BAJAS\nCota <300 *",
+      "ZONAS MEDIANAS\nCota >300"
+    ]
+  ],
+  "filas": [
+    [
+      "Agua Presas",
+      "15,00",
+      "15,00"
+    ],
+    [
+      "Terciarios Propios",
+      "15,00",
+      "15,00"
+    ],
+    [
+      "Otros Terciarios",
+      "17,50",
+      "17,50"
+    ],
+    [
+      "Agua Depurada <1500 us/cm",
+      "12,00",
+      "9,50"
+    ],
+    [
+      "1500 us/cm < A.D. >2300 us/cm",
+      "9,00",
+      "7,20"
+    ],
+    [
+      "Agua Depurada> 2300 us/cm",
+      "6,00",
+      "4,80"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

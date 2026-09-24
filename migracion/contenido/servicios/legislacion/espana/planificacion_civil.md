@@ -1,0 +1,321 @@
+---
+titulo: "Directriz B. de Planificacion P. Civil ante el Riesgo de Inundaciones. RESOLUCIÓN de 31 de"
+titulo_html: null
+ruta_antigua: "/servicios/legislacion/españa/planificacion_civil.php"
+url_antigua: "https://www.aguasgrancanaria.com/servicios/legislacion/espa%C3%B1a/planificacion_civil.php"
+seccion: "Servicios › Normativa"
+origen: "inventario"
+ultima_actualizacion: null
+ultima_actualizacion_texto: null
+encabezados: 
+  - nivel: 4
+    texto: "Contenido:"
+documentos: []
+imagenes: 
+  - url_antigua: "https://www.aguasgrancanaria.com/img/logociagc_cian_peq_agua_clara.gif"
+    ruta_nueva: "/imagenes/img/logociagc_cian_peq_agua_clara.gif"
+    alt: null
+    enlazada: false
+videos: []
+iframes: []
+enlaces_externos: []
+enlaces_internos: []
+emails: []
+telefonos: []
+tablas: 
+  - archivo: "tablas/servicios/legislacion/espana/planificacion_civil/tabla-01.json"
+    titulo: null
+    filas: 4
+    columnas: 5
+referencias_rotas: []
+contenido_oculto_en_origen: []
+---
+
+<!-- tabla 01: tablas/servicios/legislacion/espana/planificacion_civil/tabla-01.json -->
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Legislación Creada el 22/05/2008 | Título | Directriz B. de Planificacion P. Civil ante el Riesgo de Inundaciones |  |  |
+|  | Descripción | RESOLUCIoN de 31 de enero de 1995, de la Secretaria de Estado de Interior, por la que se dispone la publicacion del acuerdo del Consejo de Ministros por el que se aprueba la Directriz Basica de Planificacion de Protección Civil ante el Riesgo de Inundaciones. |  |  |
+|  | Código | Aprobado | Categoría | Ámbito |
+|  | agua Inund |  | Resolución | España |
+
+  
+
+#### Contenido:
+
+  
+
+  
+
+Resolución de 31 de enero de 1995, de la Secretaria de Estado de Interior, por la que se dispone la publicacion del acuerdo del Consejo de Ministros por el que se aprueba la Directriz Basica de Planificacion de Protección Civil ante el Riesgo de Inundaciones.  
+(BOE de 14 de febrero de 1995)
+
+  
+El Consejo de Ministros aprobó, en su reunión del día 9 de diciembre de 1994, a propuesta del Ministro de Justicia e Interior y previo informe de la Comisión Nacional de Protección Civil, el Acuerdo por el que se aprueba la Directriz Básica de Planificación de Protección Civil ante el Riesgo de Inundaciones.
+
+A fin de favorecer su conocimiento y aplicación, se publican, como anexos a esta Resolución, el Acuerdo del Consejo de Ministros de 9 de diciembre de 1994 y la Directriz Básica de Planificación de Protección Civil ante el Riesgo de Inundaciones.
+
+  
+
+ACUERDO DEL CONSEJO DE MINISTROS POR EL QUE SE APRUEBA LA DIRECTRIZ BÁSICA DE PLANIFICACIÓN DE PROTECCIÓN CIVIL ANTE EL RIESGO DE INUNDACIONES
+
+  
+
+Por Real Decreto 407/1992, de 24 de abril, se aprobó la Norma Básica de Protección Civil, prevista en el artículo 8 de la Ley 2/1985, de 21 de enero, sobre Protección Civil.
+
+En la citada Norma Básica se dispone que serán objeto de Planes Especiales, entre otras, las emergencias por inundaciones y que estos Planes serán elaborados de acuerdo con la correspondiente Directriz Básica, la cual habrá de ser aprobada por el Gobierno y deberá establecer los requisitos mínimos sobre fundamentos, estructuras, organización, criterios operativos, medidas de intervención e instrumentos de coordinación que deben cumplir dichos Planes.
+
+En su virtud, previo informe de la Comisión Nacional de Protección Civil, a propuesta del Ministro de Justicia e Interior y previa deliberación, el Consejo de Ministros en su reunión del 9 de diciembre de 1994,
+
+  
+A C U E R D A
+
+  
+**Primero .-** Se aprueba la Directriz Básica de Planificación de Protección Civil ante el Riesgo de Inundaciones que se acompaña como anexo del presente Acuerdo.
+
+**Segundo .-** Los análisis de riesgos y la zonificación territorial que queden especificados en los Planes Especiales elaborados, aprobados y homologados, conforme a lo dispuesto en la citada Directriz, serán tenidos en cuenta por los órganos competentes en el proceso de planificación del territorio y de los usos del suelo.
+
+**DIRECTRIZ BÁSICA DE PLANIFICACIÓN DE PROTECCIÓN CIVIL ANTE EL RIESGO DE INUNDACIONES**
+
+1\. FUNDAMENTOS
+
+1.1 OBJETO DE LA DIRECTRIZ
+
+Las inundaciones constituyen en nuestro país el fenómeno natural que con mayor frecuencia se manifiesta dando lugar a situaciones de grave riesgo colectivo o catástrofe, a las que se refiere la Ley 2/1985, de 21 de enero, de Protección Civil.
+
+Los efectos destructivos que las inundaciones originan en extensas áreas del territorio, hacen que, ante esa eventualidad, para la protección de personas y bienes, resulte necesario el empleo coordinado de medios y recursos pertenecientes a las distintas Administraciones públicas, así como, a menudo, de particulares.
+
+Estas características configuran el riesgo de inundaciones como uno de los fundamentales a tener en cuenta desde la óptica de la planificación de protección civil. Así ha sido considerado en la Norma Básica de Protección Civil, aprobada por Real Decreto 407/1992, de 24 de abril, la cual determina en su apartado 6 que este riesgo será objeto de Planes Especiales en aquellos ámbitos territoriales que lo requieran. La misma Norma Básica señala, en su apartado 7.2, que los Planes Especiales se elaborarán de acuerdo con las Directrices Básicas relativas a cada riesgo.
+
+El objeto de la presente Directriz Básica de Planificación de Protección Civil ante el Riesgo de Inundaciones, es establecer los requisitos mínimos que deben cumplir los correspondientes Planes Especiales de Protección Civil, en cuanto a fundamentos, estructura, organización y criterios operativos y de respuesta, para ser homologados e implantados en su correspondiente ámbito territorial, con la finalidad de prever un diseño o modelo nacional mínimo que haga posible, en su caso, una coordinación y actuación de los distintos servicios y Administraciones implicadas.
+
+1.2 MARCO LEGAL
+
+Para situar el marco legal y reglamentario de esta Directriz, cabe señalar las disposiciones siguientes:
+
+Ley 2/1985, de 21 de enero, sobre Protección Civil.
+
+Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local.
+
+Ley 29/1985, de 2 de agosto, de Aguas.
+
+Real Decreto Legislativo de 18 de abril de 1986, que aprueba el texto refundido de las disposiciones legales en materia de Régimen Local.
+
+Real Decreto 1378/1985, de 1 de agosto, sobre medidas provisionales para la actuación en situaciones de emergencia en los casos de grave riesgo, catástrofe o calamidad pública.
+
+Real Decreto 849/1986, de 11 de abril, por el que se aprueba el Reglamento del Dominio Público Hidráulico, que desarrolla los títulos Preliminar I, IV, V, VI y VII de la Ley 29/1985, de 2 de agosto, de Aguas.
+
+Real Decreto 927/1988, de 29 de julio, por el que se aprueba el Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, en desarrollo de los Títulos II y III de la Ley de Aguas.
+
+Real Decreto 407/1992, de 24 de abril, por el que se aprueba la Norma Básica de Protección Civil.
+
+Planes Territoriales homologados, de Comunidades Autónomas y de Ámbito Local.
+
+1.3 DEFINICIONES
+
+A los efectos de la presente directriz se consideran las siguientes definiciones:
+
+Avenida: Aumento inusual del caudal de agua en un cauce que puede o no producir desbordamiento e inundaciones.
+
+Cartografía oficial: La realizada con sujeción a las prescripciones de la Ley 7/1986, de Ordenamiento de la Cartografía, por las Administraciones públicas o bajo su dirección y control.
+
+Elementos en riesgo: Población, edificaciones, obras de ingeniería civil, actividades económicas, servicios públicos, elementos medio ambientales y otros usos del territorio que se encuentren en peligro en un área determinada.
+
+Inundaciones: Sumersión temporal de terrenos normalmente secos, como consecuencia de la aportación inusual y más o menos repentina de una cantidad de agua superior a la que es habitual en una zona determinada.
+
+Movilización: Conjunto de operaciones o tareas para la puesta en actividad de medios, recursos y servicios que hayan de intervenir en emergencias por inundaciones.
+
+Peligrosidad: Probabilidad de ocurrencia de una inundación, dentro de un período de tiempo determinado y en un área dada.
+
+Período estadístico de retorno: Inverso de la probabilidad de que en un año se presente una avenida superior a un valor dado.
+
+Riesgo: Número esperado de víctimas, daños materiales y desorganización de la actividad económica, subsiguientes a una inundación.
+
+Vulnerabilidad: Grado de probabilidad de pérdida de un elemento en riesgo dado, expresado en una escala de 0 (sin daño) a 1 (pérdida total), que resulta de una inundación de características determinadas.
+
+**2\. ELEMENTOS BASICOS PARA LA PLANIFICACION DE PROTECCION CIVIL ANTE EL RIESGO DE INUNDACIONES**
+
+2.1 TIPOLOGÍA DE LAS INUNDACIONES OBJETO DE LA DIRECTRIZ
+
+A los efectos de la presente Directriz se considerarán todas aquellas inundaciones que representen un riesgo para la población y los bienes, produzcan daños en infraestructuras básicas o interrumpan servicios esenciales para la comunidad, y que puedan ser encuadradas en alguno de los tipos siguientes:
+
+a) Inundaciones por precipitación «in situ».
+
+b) Inundaciones por escorrentía, avenida o desbordamiento de cauces, provocada o potenciada por:
+
+Precipitaciones.
+
+Deshielo o fusión de nieve.
+
+Obstrucción de cauces naturales o artificiales.
+
+Invasión de cauces, aterramientos o dificultad de avenamiento.
+
+Acción de las mareas.
+
+c) Inundaciones por rotura o la operación incorrecta de obras de infraestructura hidráulica.
+
+2.2 ANALISIS DE RIESGOS Y ZONIFICACION TERRITORIAL
+
+*2.2.1 Análisis de las zonas de inundaciones potenciales o afectadas por fenómenos asociados* .
+
+El análisis de las zonas inundables tendrá por finalidad la identificación y clasificación de las áreas inundables del territorio a que cada Plan se refiera con arreglo a los criterios siguientes:
+
+a) Zona de inundación frecuente: Zonas inundables para avenidas de período de retorno de cincuenta años.
+
+b) Zonas de inundación ocasional: Zonas inundables para avenidas de período de retorno entre cincuenta y cien años.
+
+c) Zonas de inundación excepcional: Zonas inundables para avenidas de período de retorno entre cien y quinientos años.
+
+La zonificación territorial realizada a los efectos previstos en la presente Directriz, se revisará teniendo en cuenta la delimitación de zonas que, al objeto de la aplicación del artículo 14 del Reglamento del Dominio Público Hidráulico, se derive del desarrollo de los Planes Hidrológicos de Cuenca.
+
+Por su posible influencia en la generación de daños a personas, edificaciones o infraestructuras, el análisis deberá completarse con la catalogación de puntos conflictivos y la localización de las áreas potencialmente afectadas por fenómenos geológicos asociados a precipitaciones o avenidas.
+
+Se considerarán puntos conflictivos aquellos en los que, a consecuencia de las modificaciones ejercidas por el hombre en el medio natural o debido a la propia geomorfología del terreno, pueden producirse situaciones que agraven de forma substancial los riesgos o los efectos de la inundación. Se tendrán especialmente en cuenta los puntos de los cauces por los que, en caso de avenida, han de discurrir caudales desproporcionados a su capacidad, y aquellos tramos de las vías de comunicación que puedan verse afectados por las aguas.
+
+En cuanto se refiere a fenómenos geológicos asociados, habrán de tenerse en consideración, al menos, los riesgos de generación de movimientos de ladera o de aceleración de los movimientos ya existentes, con la identificación de las áreas afectadas.
+
+*2.2.2 Análisis de riesgos por inundaciones*
+
+El análisis de riesgos por inundaciones tendrá por objetivo la clasificación de las zonas inundables en función del riesgo y la estimación, en la medida de lo posible, de las afecciones y daños que puedan producirse por la ocurrencia de las inundaciones en el ámbito territorial de la planificación, con la finalidad de prever diversos escenarios de estrategias de intervención en casos de emergencia.
+
+En el análisis de riesgos por inundaciones se considerarán como mínimo, además de la población potencialmente afectada, todos aquellos elementos (edificios, instalaciones, infraestructuras y elementos naturales o medio ambientales), situados en zonas de peligro que, de resultar alcanzados por la inundación o por los efectos de fenómenos geológicos asociados, pueda producir víctimas, interrumpir un servicio imprescindible para la comunidad o dificultar gravemente las actuaciones de emergencia.
+
+En la estimación de la vulnerabilidad de estos elementos se tendrán en cuenta sus características, las zonas de peligro en que se encuentran ubicados y, siempre que sea posible, las magnitudes hidráulicas que definen el comportamiento de la avenida de que se trate, principalmente: Calado de las aguas, velocidad de éstas, caudal sólido asociado y duración de la inundación.
+
+Las zonas inundables se clasificarán por razón del riesgo en la forma siguiente:
+
+*Zonas A, de riesgo alto* . Son aquellas zonas en las que las avenidas de cincuenta, cien o quinientos años producirán graves daños a núcleos de población importante. También se considerarán zonas de riesgo máximo aquellas en las que las avenidas de cincuenta años producirían impactos a viviendas aisladas, o daños importantes a instalaciones comerciales o industriales y/o a los servicios básicos.
+
+Dentro de estas zonas, y a efectos de emergencia para las poblaciones, se establecerán las siguientes subzonas:
+
+Zonas A-1. Zonas de riesgo alto frecuente. Son aquellas zonas en las que la avenida de cincuenta años producirán graves daños a núcleos urbanos.
+
+Zonas A-2. Zonas de riesgo alto ocasional. Son aquellas zonas en las que la avenida de cien años producirían graves daños a núcleos urbanos.
+
+Zonas A-3. Zonas de riesgo alto excepcional. Son aquellas zonas en las que la avenida de quinientos años produciría graves daños a núcleos urbanos.
+
+Zonas B de riesgo significativo. Son aquellas zonas, no coincidentes con las zonas A, en las que la avenida de los cien años produciría impactos en viviendas aisladas, y las avenidas de período de retorno igual o superior a los cien años, daños significativos a instalaciones comerciales, industriales y/o servicios básicos.
+
+Zonas C de riesgo bajo. Son aquellas, no coincidentes con las zonas A ni con las zonas B, en las que la avenida de los quinientos años produciría impactos en viviendas aisladas, y las avenidas consideradas en los mapas de inundación, daños pequeños a instalaciones comerciales, industriales y/o servicios básicos.
+
+Considerando la situación de los núcleos de población y las vías de comunicación en relación con las zonas inundables, se identificarán las áreas de posibles evacuaciones, las áreas que puedan quedar aisladas, los puntos de control de accesos, los itinerarios alternativos y los posibles núcleos de recepción y albergue de personas evacuadas.
+
+2.3 SISTEMAS DE PREVISION DEL PELIGRO DE INUNDACIONES
+
+Para la puesta en disposición preventiva de los servicios y recursos que hayan de intervenir en las emergencias por inundaciones y para posibilitar el que la población adopte las oportunas medidas de autoprotección, la planificación de protección civil deberá incluir sistemas de previsión y alerta, fundamentados en informaciones meteorológicas e hidrológicas.
+
+*2.3.1 Predicción y vigilancia meteorológica.*
+
+El objeto de la predicción meteorológica, a los efectos de la presente Directriz, será el proporcionar información, con anticipación suficiente, sobre la posibilidad de fenómenos atmosféricos adversos, relacionados con el riesgo de inundaciones, para que de acuerdo con los criterios que se especifiquen, se adopten las medidas preventivas a que haya lugar para la protección de personas y bienes, y el aviso a la población de las áreas potencialmente afectadas.
+
+En la medida que los conocimientos científicos y los recursos tecnológicos lo hagan posible, las predicciones meteorológicas proporcionarán información sobre:
+
+Génesis del fenómeno.
+
+Localización.
+
+Extensión.
+
+Duración.
+
+Intensidad.
+
+*2.3.2 Previsión e información hidrológica*
+
+El objeto de las previsiones hidrológicas será el proporcionar, ante la concurrencia de fenómenos capaces de generar avenidas, la información necesaria sobre la situación hidrológica de la zona que puede generar dicha avenida y de la que puede verse afectada por la misma, así como la evolución de dicha situación hidrológica, con objeto de que puedan adoptarse medidas adecuadas de protección de personas y bienes, y alertar a la población que pueda resultar afectada.
+
+En la medida de lo posible, dicha información contemplará los siguientes aspectos:
+
+Precipitaciones registradas en los puntos de control.
+
+Secuencia de niveles en puntos de control y en embalses. Previsión de la secuencia anterior en función de las previsiones meteorológicas.
+
+Previsión de zonas inundables.
+
+2.4 MEDIDAS PARA LA PROTECCION DE PERSONAS Y BIENES
+
+En la planificación de protección civil ante el riesgo de inundaciones habrán de contemplarse, de acuerdo con las especificidades funcionales correspondientes a cada nivel de planificación, las actuaciones necesarias para la protección de personas y bienes en caso de emergencia, y fundamentalmente las siguientes:
+
+a) Avisos e información a la población.
+
+b) Control de accesos y mantenimiento del orden en las áreas afectadas.
+
+c) Salvamento y rescate de personas.
+
+d) Alejamiento de la población de las zonas de peligro y refugios en lugares de seguridad. Evacuación y albergue.
+
+e) Abastecimiento y control sanitario de alimentos y agua.
+
+f) Asistencia sanitaria.
+
+g) Asistencia social.
+
+h) Levantamiento de diques provisionales y otros obstáculos que eviten o dificulten el paso de las aguas.
+
+j) Reparación de urgencia de los daños ocasionados en diques o en otras obras de protección y, en su caso, en elementos naturales o medio ambientales.
+
+k) Eliminación de obstáculos y obstrucciones en puntos críticos de los cauces o apertura de vías alternativas de desagües.
+
+l) Limpieza y saneamiento de las áreas afectadas.
+
+m) Restablecimiento de los servicios básicos de la comunidad.
+
+2.5 DEFINICION DE FASES Y SITUACIONES PARA LA GESTION DE EMERGENCIAS
+
+En los Planes de Protección Civil ante el Riesgo de Inundaciones se distinguirán las fases y situaciones siguientes:
+
+A) Fase de pre-emergencia.
+
+Fase caracterizada por la existencia de información sobre la posibilidad de ocurrencia de sucesos capaces de dar lugar a inundaciones.
+
+Esta fase se iniciará, por lo general, a partir de notificaciones sobre predicciones meteorológicas de precipitaciones intensas u otras causas de las contempladas en el apartado 2.1 de la Directriz que puedan ocasionar riesgo de inundaciones y se prolongará con el seguimiento de los sucesos que posteriormente se desarrollen, hasta que del análisis de su evolución se concluya que la inundación es inminente, o bien determine la vuelta a la normalidad.
+
+El objetivo general de esta fase es la alerta de las autoridades y servicios implicados en el plan correspondiente, así como la información a la población potencialmente afectada.
+
+B) Fase de emergencia.
+
+Esta fase tendrá su inicio cuando del análisis de los parámetros meteorológicos e hidrológicos se concluya que la inundación es inminente o se dispongan de informaciones relativas a que ésta ya ha comenzado, y se prolongará durante todo el desarrollo de la inundación, hasta que se hayan puesto en práctica todas las medidas necesarias de protección de personas y bienes y se hayan restablecido los servicios básicos en la zona afectada.
+
+En esta fase se distinguirán las siguientes situaciones:
+
+Situación 0: Los datos meteorológicos e hidrológicos permiten prever la inminencia de inundaciones en el ámbito del Plan, con peligro para personas y bienes.
+
+Situación 1: Se han producido inundaciones en zonas localizadas, cuya atención puede quedar asegurada mediante el empleo de los medios y recursos disponibles en las zonas afectadas.
+
+Situación 2: Se han producido inundaciones que superan la capacidad de atención de los medios y recursos locales o aun sin producirse esta última circunstancia, los datos pluviométricos e hidrológicos y las predicciones meteorológicas, permiten prever una extensión o agravación significativa de aquéllas.
+
+Situación 3: Emergencias que, habiéndose considerado que está en juego el interés nacional, así sean declaradas por el Ministro de Justicia e Interior.
+
+C) Fase de normalización.
+
+Fase consecutiva a la de emergencia que se prolongará hasta el restablecimiento de las condiciones mínimas imprescindibles para un retorno a la normalidad en las zonas afectadas por la inundación. Durante esta fase se realizarán las primeras tareas de rehabilitación en dichas zonas, consistentes fundamentalmente en la inspección del estado de edificios, la limpieza de viviendas y vías urbanas, la reparación de los daños más relevantes, etc.
+
+**3\. ESTRUCTURA GENERAL DE LA PLANIFICACIÓN DE PROTECCIÓN CIVIL ANTE EL RIESGO DE INUNDACIONES**
+
+3.1 CARACTERISTICAS BASICAS
+
+Para asegurar una respuesta eficaz de las Administraciones públicas ante situaciones de emergencia derivadas del riesgo de inundaciones, se requiere que los Planes elaborados al efecto, se conciban como parte de una estructura capaz de hacer frente de forma ágil y coordinada a los distintos supuestos que puedan presentarse.
+
+Para ello, resulta necesario que en la planificación a los distintos niveles se establezcan los órganos y procedimientos que hagan posible su integración en un conjunto plenamente operativo y susceptible de una rápida aplicación, así como el prever las relaciones funcionales precisas entre las organizaciones de los planes de distinto nivel, al objeto facilitar la coordinación y asistencia mutua entre los mismos, en aquellos casos en que resulte necesario.
+
+A los efectos de la presente Directriz se considerarán los siguientes niveles de planificación: Estatal y de Comunidad Autónoma.
+
+Formarán parte asimismo de esta estructura general los Planes de Emergencia de Presas, a elaborar por los titulares de las mismas. Dichos Planes quedarán integrados en los correspondientes Planes de Comunidades Autónomas y, en caso de emergencia de interés nacional, en el Plan Estatal.
+
+Quedarán asimismo integrados en el Plan de Comunidad Autónoma los Planes de Actuación de Ámbito Local que hayan de elaborarse en el ámbito territorial de aquél.
+
+3.2 ORGANOS INTEGRADOS DE COORDINACIÓN ENTRE EL PLAN ESTATAL Y LOS PLANES DE COMUNIDADES AUTÓNOMAS
+
+Cuando en una emergencia por inundaciones lo solicite la Comunidad Autónoma afectada y, en todo caso, cuando la emergencia sea declarada de interés nacional, las funciones de dirección y coordinación serán ejercidas dentro de un Comité de Dirección, a través del Centro de Coordinación Operativa que corresponda, quedando constituido a estos efectos como Centro de Coordinación Operativa Integrado (CECOPI).
+
+El Comité de Dirección estará formado por un representante del Ministerio de Justicia e Interior y un representante de la Comunidad Autónoma correspondiente, y contará para el desempeño de sus funciones con la asistencia de un Comité Asesor y un Gabinete de Información.
+
+En el Comité Asesor se integrarán representantes de los órganos de las diferentes Administraciones, así como los técnicos y expertos que en cada caso considere necesario el Comité de Dirección.
+
+Corresponderá al representante designado por la Comunidad Autónoma en el Comité de Dirección, el ejercicio de las funciones de dirección que, para hacer frente a la situación de emergencia le sean asignadas en el Plan de Comunidad Autónoma.
+
+El representante del Ministerio de Justicia e Interior dirigirá las actuaciones del conjunto de las Administraciones públicas cuando la emergencia sea declarada de interés nacional, de conformidad con lo establecido en el apartado 9 de la Norma Básica de Protección Civil. A estos efectos habrá de preverse la posibilidad de que ante aquellas emergencias que lo requieran el Comité de Dirección sea de ámbito provincial.
+
+Aun en aquellas circunstancias que no exijan la constitución del CECOPI, los procedimientos que se establezcan en los Planes de Comunidades Autónomas y en el Plan Estatal, deberán asegurar la máxima fluidez informativa entre las organizaciones de ambos niveles, tanto sobre previsiones de riesgo, como sobre el acaecimiento de sucesos que pueda incidir en la activación de los Planes y de las operaciones de emergencia.

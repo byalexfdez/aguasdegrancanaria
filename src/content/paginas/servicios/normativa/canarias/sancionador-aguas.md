@@ -1,0 +1,190 @@
+---
+titulo: "Reglamento Sancionador en Materia de Aguas: Decreto 276/1993, de 8 de Octubre de 1993. Reg"
+url: /servicios/normativa/canarias/sancionador-aguas/
+nodo: norma-canarias-sancionador-aguas
+seccion: servicios
+plantilla: normativa
+ruta_antigua: /servicios/legislacion/canarias/sancionador_aguas.php
+contenido_oculto_en_origen: 0
+norma:
+  ambito: Canarias
+  titulo: Reglamento Sancionador en Materia de Aguas
+  titulo_en_listado: "Reglamento Sancionador en Materia de Aguas: Decreto 276/1993, de 8 de Octubre de 1993. Reglamento Sancionador en materia de aguas"
+  descripcion: DECRETO 276/1993, de 8 de Octubre de 1993.Reglamento Sancionador en materia de aguas
+  codigo: Agua
+  categoria: Decreto
+  ambito_ficha: Canarias
+  creada: 19/03/2001
+  estado: null
+  numero: 276/1993
+  fecha: 1993-10-08
+  enlaces_oficiales: []
+descripcion: La Ley Territorial 12/1990, de 26 de julio (LCAN 1990\\116), de Aguas, establece en su Título VIII el régimen sancionador aplicable a las infracciones…
+---
+
+<!-- tabla 01: tablas/servicios/legislacion/canarias/sancionador_aguas/tabla-01.json -->
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Legislación Creada el 19/03/2001 | Título | Reglamento Sancionador en Materia de Aguas |  |  |
+|  | Descripción | DECRETO 276/1993, de 8 de Octubre de 1993.Reglamento Sancionador en materia de aguas |  |  |
+|  | Código | Aprobado | Categoría | Ámbito |
+|  | Agua |  | Decreto | Canarias |
+
+## Contenido:
+
+<strong>DECRETO 276/1993 (Canarias), de 8 de Octubre de 1993.Reglamento Sancionador en materia de aguas (BO Canarias núm. 157, de 13 de Diciembre de 1993)</strong>
+
+<strong>TEXTO:</strong>
+
+EXPOSICION DE MOTIVOS
+
+La Ley Territorial 12/1990, de 26 de julio (LCAN 1990\\116), de Aguas, establece en su Título VIII el régimen sancionador aplicable a las infracciones administrativas que se cometan en materia de Derecho Hidráulico. Como órgano ejecutor de sus determinaciones, el Gobierno ha recibido del legislador la tarea de calificar las infracciones según los tipos y criterios que le vienen dados y de regular el procedimiento aplicable. A tal fin van dirigidos los preceptos que integran el presente Reglamento.
+El Derecho sancionador es aquí contemplado como un instrumento indispensable de ordenación de las aguas. Sobre sus aspectos represivos predomina su papel garantizador de derechos. Toda conducta antijurídica es un fraude a los cumplidores del Ordenamiento Jurídico, y la sanción que merece el que lo transgrede no debe verse como la simple aplicación mecánica de unos preceptos, sino que ello comporta la defensa de la colectividad, de su derecho al futuro, y de su decisión inquebrantable de salvaguardar ese bien escaso que constituye el agua.
+Es importante destacar el papel educativo que se quiere dar a este Reglamento sancionador. Para ello se ha pretendido detallar de manera clara y precisa cuáles son las conductas tipificadas como antijurídicas y qué sanciones conllevan aparejadas. Asimismo se han de destacar los mecanismos arbitrados para la restitución del dominio público hidráulico al estado anterior a la transgresión, al igual que las restantes medidas, tanto cautelares como complementarias de la sanción, que contribuyen a garantizar el equilibrio del ciclo hidrológico, aun y a pesar de las posibles actuaciones incontroladas de los infractores.
+
+CAPITULO I.-Disposiciones generales.
+
+<strong>Artículo 1.º</strong> El presente Reglamento tiene por objeto desarrollar el Título VIII de la Ley Territorial 12/1990, de 26 de julio, de Aguas, mediante la calificación de las infracciones, graduación de las sanciones y regulación del procedimiento por el que se materialice su aplicación.
+<strong>Art. 2.º</strong> Competencias de los distintos Organismos que intervienen por razón de la materia.
+1\. Los Consejos Insulares de Aguas, asumirán, en su ámbito territorial respectivo, las siguientes competencias:
+a) Recibir y comprobar las denuncias formuladas por particulares y las realizadas de oficio, así como tramitar los correspondientes expedientes sancionadores.
+b) Inspeccionar, de oficio, a través de sus propios servicios, el cumplimiento de los deberes y obligaciones que la legislación hidráulica impone.
+c) Realizar información reservada para el esclarecimiento de las posibles contravenciones a la normativa de aguas.
+d) Evaluar los daños producidos al dominio público hidráulico, y determinar las indemnizaciones que corresponda satisfacer por tal concepto.
+e) Resolver los expedientes en que se hayan cometido infracciones leves y menos graves.
+f) Trasladar a la Consejería del Gobierno competente en materia hidráulica, con propuesta motivada de resolución, los expedientes instruidos por la comisión de faltas muy graves y graves para su resolución o elevación a la decisión del Gobierno de Canarias.
+g) Exigir y cobrar el importe de las multas, velar por el cumplimiento de las obligaciones ordenadas en las resoluciones sancionadoras, cobrar el importe de las indemnizaciones impuestas, así como la de proceder a la ejecución subsidiaria en el supuesto de incumplimiento de los infractores.
+h) Tramitar y resolver los recursos administrativos que se presenten contra sus decisiones.
+2\. La Consejería competente en materia de aguas del Gobierno de Canarias, asumirá las siguientes competencias:
+a) Imponer sanciones por infracciones graves.
+b) Ordenar a los servicios técnicos de la Consejería la emisión de estudios o informes sobre conductas presuntamente infractoras. Esta acción puede realizarse tanto en apoyo de un Consejo Insular de Aguas como por moción de los propios servicios técnicos, de oficio por el propio Consejero, o por orden del Gobierno. De ella se dará inmediato traslado a los Consejos Insulares afectados.
+3\. Al Gobierno de Canarias, le corresponden las siguientes competencias:
+a) Imponer las sanciones derivadas de las infracciones muy graves.
+b) Desempeñar la inspección y supervisión de la actividad sancionadora de los Consejos Insulares de Aguas, compeliéndoles al cumplimiento de los principios y prescripciones de la Ley de Aguas y de sus Reglamentos.
+
+CAPITULO II.-Infracciones y sanciones.
+
+<strong>Art. 3.º</strong> Serán sancionables como infracciones las acciones y comisiones tipificadas en el presente capítulo cometidas aun a título de simple inobservancia.
+<strong>Art. 4.º</strong> Constituirán infracciones administrativas leves:
+1\. Las acciones u omisiones que causen daño al dominio público hidráulico, siempre que la valoración de los daños no supere las 50.000 pesetas.
+2\. El incumplimiento de las condiciones impuestas en las concesiones y autorizaciones administrativas a que se refiere la Ley Territorial 12/1990, de 26 de julio, de Aguas, en los supuestos en que no diese lugar a la caducidad o revocación de las mismas.
+3\. La ejecución, sin la debida autorización administrativa, de obras, siembras, plantaciones, talas y podas en los cauces públicos o en las zonas sujetas legalmente a algún tipo de limitación en su uso, cuando no se deriven perjuicios para el dominio público hidráulico, o de producirse, su valoración no supere las 50.000 pesetas.
+4\. La invasión o la ocupación de los cauces o la extracción de áridos en los mismos sin la correspondiente autorización, cuando no se deriven daños para el dominio hidráulico o, de producirse éstos, la valoración no supere las 50.000 pesetas.
+5\. El daño a las obras hidráulicas o instalaciones y la sustracción y daño a los materiales acopiados para su construcción, conservación y limpieza, en los supuestos que la valoración de tales daños o de lo sustraído, no supere las 50.000 pesetas.
+6\. La desobediencia a las órdenes o requerimientos hechos por los funcionarios de los servicios del Consejo Insular de Aguas en el ejercicio de las funciones que tienen conferidas por la legislación vigente.
+7\. La alteración perjudicial de los sistemas de recepción, condensación o infiltración del agua atmosférica, la realización de obras no autorizadas que varíen el curso de las aguas pluviales ocasionales en terrenos privados, o la contaminación que revista toxicidad, siempre que ello afecte a caudales de agua que acumulados sean inferiores a la cantidad de 1.000 metros cúbicos, o que los perjuicios ocasionados al dominio público hidráulico sean inferiores a las 50.000 pesetas.
+8\. Actuar sin título administrativo cuando éste es exigible según la legislación vigente. Esta infracción pasará a ser menos grave, grave o muy grave, cuando la conducta quede tipificada en los artículos siguientes.
+9\. La utilización del agua para fines distintos de los previstos en el título habilitante; los consumos abusivos u ostentosos en circunstancias de escasez; el uso del agua en forma que se dificulte o impida su posterior reutilización, si estuviera prevista, todo ello siempre que no concurran circunstancias agravantes.
+10\. El incumplimiento de cualquier prohibición establecida en la Ley de Aguas o en sus reglamentos, o la omisión de los actos a que obligan, siempre que no estén consideradas como infracciones, menos graves, graves o muy graves.
+<strong>Art. 5.º</strong> Son infracciones menos graves:
+1\. Las acciones u omisiones que causen daños a los bienes del dominio público hidráulico, siempre que la valoración de aquéllos estuviera comprendida entre las 50.001 y las 500.000 pesetas.
+2\. El falseamiento de los datos que se aporten al Catálogo o al Registro de Aguas.
+3\. El abuso de una posición de dominio en el mercado de aguas privadas, ocasionando una elevación artificial de los precios de venta del agua en perjuicio de los demás usuarios; toda conducta intencional dirigida a obtener un lucro ilegítimo, al margen o con distorsión de la ordenación y planificación del sistema hidráulico establecida en la Ley Territorial 12/1990, en cuanto no reciba la calificación de grave o muy grave.
+4\. El incumplimiento de las condiciones impuestas en las concesiones y autorizaciones administrativas, en los supuestos a que diera lugar la declaración de caducidad o revocación de las mismas.
+5\. La derivación de las aguas de sus cauces y el alumbramiento de aguas subterráneas sin la correspondiente concesión o autorización cuando sea precisa, así como la realización de trabajos o mantenimiento de cualquier medio que hagan presumir la continuación de la captación abusiva de las mismas, siempre que, en estos dos últimos supuestos, exista requerimiento previo del Consejo Insular de Aguas en contrario.
+6\. La ejecución sin la debida autorización administrativa, de trabajos, obras, siembras, talas, podas y plantaciones en los cauces públicos o en las zonas sujetas legalmente a algún tipo de limitación de su uso, en los supuestos en que, de producirse daños al dominio público hidráulico, su valoración estuviera comprendida entre las 50.001 y las 500.000 pesetas.
+7\. La invasión o la ocupación de los cauces, o la extracción de áridos en los mismos sin la correspondiente autorización, cuando se produjeran como consecuencia de ello daños para el dominio público hidráulico y su valoración estuviera entre las 50.001 y las 500.000 pesetas.
+8\. Los daños a las obras hidráulicas o instalaciones y la sustracción y daños a los materiales acopiados para su construcción, conservación y limpieza, en los supuestos en que la valoración de tales daños o de los bienes sustraídos estuviera comprendida entre las 50.001 y las 500.000 pesetas.
+9\. La alteración perjudicial de los sistemas de recepción, condensación o infiltración del agua atmosférica, la realización de obras no autorizadas que varíen el curso de las aguas pluviales ocasionales en terrenos privados, o la contaminación derivada de vertidos que puedan deteriorar la calidad del agua o las condiciones de desagüe del cauce receptor, así como la introducción de elementos extraños en cauces, canales, conducciones o balsas de agua de cualquier tipo, susceptibles de producir contaminación al agua afectada, o la pérdida de caudales, siempre que los daños derivados para el dominio público hidráulico estén comprendidos entre 50.001 y 500.000 pesetas, o que el caudal afectado rebase los 1.000 metros cúbicos.
+<strong>Art. 6.º</strong> Son infracciones graves:
+1\. Se considerarán infracciones graves las enumeradas en los artículos anteriores, cuando de los actos u omisiones en ellos previstos se deriven daños para el dominio público hidráulico, cuya valoración oscile entre las 500.001 y los 5.000.000 de pesetas.
+2\. La introducción por medio de elementos tóxicos o peligrosos que originen o produzcan contaminación en las aguas o acuíferos en contravención de las normas de regulación de los vertidos, siempre que dicha conducta exceda del límite previsto en el apartado 9 del artículo precedente.
+3\. La desobediencia a las órdenes directas de la Administración Hidráulica en situaciones de emergencia.
+4\. La manipulación fraudulenta de los aparatos de medida instalados.
+5\. La falsedad en los datos en los que se apoye una petición de auxilios económicos para obras hidráulicas.
+6\. El ocultamiento de datos exigibles y requeridos por la Administración hidráulica, la no instalación de los aparatos obligatorios de medida, previo requerimiento administrativo; la desobediencia a la orden de reducción de extracciones de un aprovechamiento de aguas subterráneas en zona sobreexplotada o en casos de emergencia; la resistencia a la acción inspectora de la Administración hidráulica cuando se llegue a impedir el cumplimiento de sus fines.
+7\. La rotura de precintos, así como cualquier otro incumplimiento de las medidas cautelares acordadas durante la tramitación de los expedientes sancionadores.
+8\. La vulneración de las condiciones de concesión de los auxilios a obras hidráulicas. La reincidencia será calificada como falta muy grave.
+<strong>Art. 7.º</strong> Son infracciones muy graves todas aquellas conductas calificadas como graves en el artículo anterior, siempre que el perjuicio causado al dominio público hidráulico sea superior a los 5.000.000 de pesetas o en las que concurran las circunstancias agravantes previstas en el artículo siguiente.
+<strong>Art. 8.º</strong> Son circunstancias agravantes que elevan en un grado la calificación de la infracción:
+1\. La reiteración, así como la reincidencia, por comisión en el término de un año de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme.
+2\. La comisión de la infracción en aquellas partes del sistema hidráulico calificadas de servicio público.
+3\. La puesta en peligro de personas, viviendas, núcleos de población o infraestructuras colectivas.
+4\. La destrucción o deterioro irreversible de partes significativas del sistema hidráulico de las islas.
+5\. La actuación intencional en perjuicio de terceros o del dominio público hidráulico, cuando se persiga un lucro personal ilegítimo.
+<strong>Art. 9.º</strong> Las sanciones a imponer serán las de multa pecuniaria, en las siguientes cuantías:
+1\. Las infracciones leves: multa de hasta 100.000 pesetas.
+2\. Infracciones menos graves: multa de 100.001 a 1.000.000 de pesetas.
+3\. Infracciones graves: multa de 1.000.001 a 10.000.000 de pesetas.
+4\. Infracciones muy graves: multa de 10.000.001 a 50.000.000 de pesetas.
+<strong>Art. 10.</strong> Las sanciones serán impuestas dentro del primer, segundo o último tercio de cada uno de los tramos definidos en el artículo anterior, en función de la malicia, participación y beneficio ilícitamente obtenido por el infractor. Cuando estas circunstancias hayan sido determinantes de la elevación del grado de calificación de la infracción, la sanción se impondrá en su cuantía mínima. Los cómplices y encubridores podrán ser sancionados con multas que oscilarán entre el tercio y los dos tercios de las que correspondan a los autores de la infracción, con el límite de las sanciones previstas para las infracciones menos graves.
+<strong>Art. 11.</strong> Con independencia de las sanciones que les sean impuestas, los infractores podrán ser obligados a reparar los daños y perjuicios ocasionados al dominio público hidráulico, así como a reponer las cosas a su estado primitivo.
+En el supuesto de la infracción prevista en el apartado 8 del artículo 6 de este Reglamento, se impondrá asimismo a los infractores la devolución de los auxilios obtenidos para la realización de las obras, con los intereses legales correspondientes.
+
+CAPITULO III.-Procedimiento.
+
+<strong>Art. 12.</strong> No podrá imponerse sanción alguna sin que previamente haya sido dictada la oportuna resolución en el curso del correspondiente expediente administrativo.
+<strong>Art. 13.</strong> El procedimiento sancionador se iniciará por el Consejo Insular de Aguas, bien de oficio, a petición de cualquier otra Administración, o en virtud de denuncia de particulares.
+<strong>Art. 14.</strong> 1. Las denuncias deberán ser formuladas:
+A) Obligatoriamente.
+a) Por los funcionarios y personal en general de todas las Administraciones hidráulicas del archipiélago.
+b) Por los vigilantes y miembros de control de medio ambiente, gestión de abastecimiento de aguas, alcantarillado y demás relacionados con el sistema hidráulico en cualesquiera de sus áreas, comprendiendo tanto la Administración autonómica como la local.
+c) Por los policías y autoridades locales.
+d) Por los concesionarios de aguas y del servicio público del transporte del agua.
+e) Por las comunidades de usuarios de aguas y de regantes.
+B) Potestativamente, por cualquier persona física o jurídica, tanto pública como privada.
+2\. Las denuncias efectuadas por los agentes de la autoridad en el ejercicio de sus atribuciones, que hayan sido ratificadas por los mismos, tendrán valor probatorio, sin perjuicio de las pruebas que en defensa de sus respectivos derechos o intereses puedan señalar o aportar los administrados.
+<strong>Art. 15.</strong> Las denuncias podrán formularse por cualquier medio, incluida la comunicación verbal o telefónica, dejando constancia de la identidad y domicilio del denunciante. No obstante, y con carácter previo de la incoación del correspondiente expediente, se deberá acreditar la identidad y domicilio del mismo. Las formuladas por particulares y asociaciones deberán venir acompañadas de los testimonios e indicios de prueba que corroboren los hechos denunciados y, a ser posible, requerirán la asistencia de algún agente público que compruebe los mismos sobre el terreno.
+<strong>Art. 16.</strong> Cuando actúen funcionarios destinados en servicios de vigilancia o policías locales, entregarán, si es posible, copia del parte de denuncia al infractor; si ello no fuere viable, lo harán constar así, y lo cursarán directamente al Consejo Insular.
+<strong>Art. 17.</strong> Los Consejos Insulares podrán realizar una información reservada:
+1\. Cuando sea necesario proceder a una evaluación provisional de los daños, a fin de calificar la infracción cometida.
+2\. Cuando existan dudas sobre la identidad de los responsables o sea necesario precisar extremos de ineludible conocimiento para el inicio del expediente.
+3\. Cuando aparezcan circunstancias de peligrosidad para la salud o seguridad de las personas, amenazas para el sistema hidráulico o atentados contra el medio ambiente, que hagan conveniente la adopción inmediata de medidas cautelares, las cuales, en tal caso, se añadirán al acuerdo de iniciación del expediente.
+<strong>Art. 18.</strong> Las notificaciones, tanto las referidas a la información reservada, como las demás a que diera lugar el expediente, se practicarán en la forma y con las garantías previstas en la Ley reguladora del procedimiento administrativo común.
+<strong>Art. 19.</strong> La decisión de incoar el expediente y su tramitación corresponde al Consejo Insular de Aguas. El acuerdo por el que se ordena la incoación del expediente será notificado al interesado junto con el Pliego de Cargos, al objeto de que pueda cursar el correspondiente Pliego de Descargos en el plazo de diez días, formulando las alegaciones y precisiones que estime conveniente en defensa de sus derechos.
+<strong>Art. 20.</strong> En el Pliego de Cargos se especificarán con suficiente claridad los hechos imputados y su tipificación, los posibles preceptos infringidos, la valoración de los daños, las circunstancias agravantes concurrentes, la eventual sanción, la autoridad a quien corresponda imponerla, así como la norma que le atribuya tal competencia.
+<strong>Art. 21.</strong> 1. Una vez iniciado el procedimiento, el Consejo Insular podrá adoptar, motivadamente, cuantas medidas cautelares estime oportunas para garantizar la eficacia de la resolución que concluya el expediente.
+2\. En los supuestos en los que por motivos de urgencia se requiera una intervención directa e inmediata para evitar que continúen los efectos perjudiciales derivados de la transgresión, el Consejo Insular podrá realizar cuantas actuaciones considere precisas a fin de lograr su erradicación y restitución del orden perturbado. Una vez depurada la responsabilidad del infractor, se le girará el correspondiente presupuesto detallado de gastos, pudiendo acudirse, en caso de impago, a los mecanismos que para la ejecución subsidiaria de los actos prevé la normativa reguladora del procedimiento administrativo común.
+<strong>Art. 22.</strong> 1. El Consejo Insular ordenará realizar, de oficio o a instancia de parte, la práctica de cuantas pruebas puedan llegar a conducir al esclarecimiento de los hechos y a determinar las responsabilidades susceptibles de sanción. Si lo considerase necesario podrá recabar, además, el auxilio a los servicios técnicos de la Consejería competente en materia de aguas del Gobierno de Canarias, así como solicitar informe facultativo de otros Organismos públicos, o pedir información a aquellos particulares que en virtud de la Ley de Aguas estén obligados a prestarla.
+2\. Se habrá de comunicar a los interesados, con suficiente antelación, el inicio de las actuaciones necesarias para la práctica de las pruebas que hayan sido admitidas. En dicha notificación se habrá de indicar el lugar, fecha y hora de su realización, advirtiéndose a los mismos la posibilidad de concurrir asistidos por técnicos o asesores.
+3\. Si como consecuencia de lo solicitado por los interesados se procede a la práctica de una prueba cuya realización implique gastos que no deba soportar el Consejo Insular, éste podrá exigir el anticipo de su abono, a reserva de la liquidación definitiva tras su culminación.
+<strong>Art. 23.</strong> Ningún titular de derechos hidráulicos podrá negar a los representantes legítimos de la Administración el acceso a los lugares, obras e instalaciones de captación, transporte, almacenamiento, desagüe o vertido de agua que sea necesario inspeccionar para la comprobación de una posible infracción, así como para hacer efectivas las resoluciones dictadas como consecuencia de un procedimiento sancionador. Asimismo están obligados a aportar la información sobre las características técnicas y legales de su aprovechamiento en el momento en que se le demande o, de no tenerla disponible, en el plazo de diez días a partir del requerimiento.
+<strong>Art. 24.</strong> La valoración de los beneficios ilícitamente obtenidos por los infractores y de los daños al dominio público y al sistema hidráulico insular, se realizará por el Consejo Insular de Aguas, mediante la ponderación del menoscabo de los bienes afectados por la infracción y del lucro obtenido con motivo de la misma.
+<strong>Art. 25.</strong> A los efectos mencionados en el artículo anterior se procederá como sigue:
+a) Los beneficios obtenidos así como el menoscabo de los bienes afectados por la infracción se computarán aplicando valores medios de mercado.
+b) El deterioro de la calidad del agua se valorará por el coste del tratamiento de depuración o aislamiento que debiera haberse aplicado al vertido o depósito de que se trate.
+c) El daño a los acuíferos, a los sistemas de recepción, infiltración o condensación de aguas superficiales y demás difícilmente cuantificables, se valorará por estimaciones técnicas, con audiencia del interesado.
+<strong>Art. 26.</strong> A la vista de los Pliegos de Cargo y Descargo presentados o, una vez transcurrido el plazo sin que este último se haya realizado, así como a la vista de la prueba practicada, se formulará propuesta motivada de resolución, en la que se hará constar, como mínimo:
+1\. Hechos, autor o autores.
+2\. Normas infringidas.
+3\. Daños producidos al dominio público hidráulico o, en su caso, beneficio ilícitamente obtenido.
+4\. Tipificación de la infracción, sanción que se propone y órgano competente para imponerla.
+5\. Medidas complementarias a la sanción que sean procedentes.
+6\. Circunstancias concurrentes, coautoría, complicidad, encubrimiento y responsabilidad de estos últimos.
+7\. Cuantos elementos de juicio sean necesarios para el adecuado entendimiento y aplicación de la sanción propuesta.
+<strong>Art. 27.</strong> El contenido íntegro de la propuesta de resolución se notificará al interesado para que en el plazo de diez días pueda efectuar las alegaciones que convengan a su derecho. Una vez presentadas tales alegaciones o transcurrido el plazo para ello, se elevará la propuesta al órgano competente del Consejo Insular, el cual dictará la resolución que consistirá en:
+\-Imposición de aquellas sanciones y obligaciones complementarias para las que sea competente o, en su caso, elevación de la propuesta al organismo que corresponda en virtud de la cuantía de la sanción.
+\-Declaración de inexistencia de infracción con el sobreseimiento y archivo del expediente.
+<strong>Art. 28.</strong> 1. La exigencia de reponer las cosas a su primitivo estado obligará al infractor a destruir o demoler toda clase de instalaciones u obras ilegales y a ejecutar cuantos trabajos sean precisos para tal fin, de acuerdo con los planos, forma y condiciones que fije el Consejo Insular.
+2\. Cuando las cosas no puedan ser repuestas a su estado anterior y, en todo caso, cuando como consecuencia de una infracción prevista en el presente reglamento subsistan daños para el dominio público, el infractor vendrá obligado, además de al pago de la multa correspondiente, a indemnizar los daños y perjuicios ocasionados. Dicha indemnización, será determinada según lo previsto en el artículo 25.
+3\. La obligación de restituir el beneficio ilícitamente obtenido se extiende a todos los provechos, ya sean de índole económica o no, derivados directa e indirectamente de la transgresión cometida.
+<strong>Art. 29.</strong> La resolución será notificada a quienes se hayan personado en el expediente, conforme estipula la Ley reguladora del procedimiento administrativo común, conteniendo expresión de si es o no definitiva en vía administrativa, los recursos que contra la misma cabe interponer, órgano ante el que hayan de presentarse y plazo para su formulación.
+<strong>Art. 30.</strong> 1. Junto a la notificación de la resolución sancionadora, se apercibirá al infractor para el cumplimiento de la obligación expresada, estableciendo el modo de llevarla a cabo, así como otorgándole un plazo para el inicio de los trabajos, el cual será adecuado a las labores preparatorias que sean necesarias.
+2\. Si transcurrido este plazo el interesado permanece inactivo, el Consejo Insular procederá a la imposición de multas coercitivas, cuya cuantía no podrá superar el diez por ciento de la que corresponda a la sanción máxima aplicable a la infracción cometida. Dichas multas coercitivas podrán ser reiteradas cada vez que transcurra nuevamente el plazo fijado para el cumplimiento de lo ordenado.
+<strong>Art. 31.</strong> 1. Sin perjuicio de lo previsto en el artículo anterior en relación con las multas coercitivas, el Consejo Insular podrá optar, cuando lo estime conveniente, por el empleo de los restantes medios de ejecución forzosa previstos en la Ley reguladora del procedimiento administrativo común.
+2\. El importe de la sanción, de las multas coercitivas, de los gastos de la ejecución subsidiaria, de la indemnización compensatoria de los daños del dominio público o sistema hidráulico insular, así como de la restitución del beneficio ilícitamente obtenido podrá ser exigido utilizando apremio administrativo sobre el patrimonio.
+<strong>Art. 32.</strong> Todo tipo de pagos se realizará por cualquiera de los medios admitidos en derecho, en los que quede constancia de su recepción por el Consejo Insular, cuantía y causa que lo motiva. Los abonos destinados a la ejecución subsidiaria quedarán afectados a tal finalidad y, los restantes, a las acciones de protección o mejora del sistema hidráulico insular.
+<strong>Art. 33.</strong> Contra los actos dictados por los órganos de la Administración Hidráulica podrán interponerse los recursos previstos en la Ley 30/1992, de 26 de noviembre (RCL 1992\\2512, 2775 y RCL 1993\\246), del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+<strong>Art. 34.</strong> 1. La potestad para sancionar las infracciones previstas en este Reglamento prescribirá a los tres años en las transgresiones muy graves; dos años en las graves; un año en las menos graves y seis meses en las leves. La obligación de reponer las cosas a su estado primitivo o de reparar los daños causados al dominio público prescribirá a los quince años, sin perjuicio de las acciones de recuperación posesoria previstas en la legislación de patrimonio. Las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves y menos graves a los dos años y las impuestas por faltas leves al año. El día inicial del cómputo es aquel en el que la resolución haya adquirido firmeza.
+2\. El plazo de prescripción de las infracciones empezará a contarse desde el día en que éstas se hubieran cometido. Cuando la infracción fuera continuada, el inicio del cómputo del plazo prescriptivo comenzará a partir del último acto con el que la infracción se consuma.
+3\. La iniciación de información reservada para el esclarecimiento de una presunta contravención, así como la incoación del correspondiente expediente sancionador con conocimiento del interesado, en ambos casos, interrumpirá el plazo de prescripción.
+<strong>Art. 35.</strong> 1. En los supuestos en que las infracciones pudieran ser constitutivas de delito o falta, el Consejo Insular instructor de las actuaciones o, en su caso, el órgano resolutorio, pasará el tanto de culpa a la jurisdicción competente y se abstendrá de proseguir el procedimiento sancionador mientras la autoridad judicial no se haya pronunciado. La sanción de la autoridad judicial excluirá la imposición de multa administrativa. De no haberse estimado la existencia de delito o falta, la Administración podrá continuar el expediente sancionador en base a los hechos que los tribunales hayan considerado probados.
+2\. La responsabilidad administrativa derivada de una contravención a la normativa de aguas es independiente de la responsabilidad civil que pudiera originarse como consecuencia de los mismos hechos.
+
+Disposiciones adicionales.
+
+<strong>1.ª</strong> Las competencias de instrucción y decisión de expedientes sancionadores que correspondan a los Consejos Insulares vendrán atribuidas a los órganos que al efecto se determinen en sus Estatutos, sin que en ningún caso pueda existir una coincidencia entre ambos. A falta de concreción al respecto se entenderá que la instrucción viene encomendada al Gerente y la potestad decisoria al Presidente.
+<strong>2.ª</strong> En todo lo no regulado en el presente Reglamento será de aplicación el derecho supletorio previsto en la Disposición Adicional Tercera de la Ley Territorial 12/1990, de 26 de julio, de Aguas.
+
+Disposición transitoria.
+
+A los expedientes que estén pendientes de tramitación a la entrada en vigor del presente Reglamento, les será de aplicación aquel régimen legal que sea menos restrictivo para los derechos individuales, conservándose en todo momento cuantos trámites se hayan realizado a efectos de no paralizar la actuación administrativa.
+
+Disposición derogatoria.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan, contradigan o sean incompatibles al contenido de este Reglamento.
+
+Disposición final.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de Canarias».

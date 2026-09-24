@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/europa/directiva_subterranea.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 08/01/2007",
+      "Título",
+      "Directiva de subterráneas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "DIRECTIVA 2006/118/CE del parlamento europeo y del consejo relativa a la protección de las aguas subterráneas contra la contaminación y el deterioro",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua Subt",
+      "",
+      "Directiva",
+      "Union Europea"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

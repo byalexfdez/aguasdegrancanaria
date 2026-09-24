@@ -1,0 +1,48 @@
+---
+// Anuncios oficiales (colección editable desde el CMS). Filtro por tipo y búsqueda por expediente.
+import { getCollection, render } from 'astro:content';
+import Icono from '../Icono.astro';
+import VistaPrevia from '../VistaPrevia.astro';
+import { fechaLarga, fechaISO } from '../../lib/formato';
+const anuncios = (await getCollection('anuncios')).sort((a, b) => (b.data.fecha?.getTime() ?? 0) - (a.data.fecha?.getTime() ?? 0) || (a.data.orden_origen ?? 0) - (b.data.orden_origen ?? 0));
+const conHtml = await Promise.all(anuncios.map(async (a) => ({ a, Content: (await render(a)).Content })));
+const tipos = [...new Set(anuncios.map((a) => a.data.titulo))].sort((a, b) => a.localeCompare(b, 'es'));
+const st = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+---
+<form class="tarjeta p-4 grid gap-3 md:grid-cols-[1.5fr_1fr] items-end" id="filtro-anuncios" aria-label="Filtrar anuncios">
+  <label class="grid gap-1 text-sm font-semibold">Buscar por expediente, lugar o municipio
+    <input type="search" name="q" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal" placeholder="Ej.: 968/2025, Mogán, Tirajana…" />
+  </label>
+  <label class="grid gap-1 text-sm font-semibold">Tipo de anuncio
+    <select name="t" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal"><option value="">Todos</option>{tipos.map((t) => <option>{t}</option>)}</select>
+  </label>
+</form>
+<p class="mt-4 text-sm text-texto-suave" role="status" aria-live="polite" id="anuncios-cuenta">{anuncios.length} anuncios</p>
+<ol class="mt-4 grid gap-4" id="anuncios-lista">
+  {conHtml.map(({ a, Content }) => (
+    <li data-q={st(`${a.data.titulo} ${a.data.expediente ?? ''} ${a.body ?? ''}`)} data-t={a.data.titulo}>
+      <article class="tarjeta p-6 grid gap-3">
+        <div class="flex flex-wrap items-center gap-2">
+          <span class="chip !bg-calido-100 !text-calido-700"><Icono nombre="megafono" tam={14} /> {a.data.titulo}</span>
+          {a.data.expediente && <span class="chip">Expediente {a.data.expediente}</span>}
+          {a.data.fecha && <time class="chip" datetime={fechaISO(a.data.fecha)}>{fechaLarga(a.data.fecha)}</time>}
+        </div>
+        <div class="prosa !max-w-none text-[.98rem]"><Content /></div>
+        {a.data.adjuntos.length > 0 && (
+          <ul class="flex flex-wrap gap-2">{a.data.adjuntos.map((d) => <li class="flex flex-wrap items-center gap-2"><a href={d.url} class="doc-link" data-formato={d.formato ?? ''}>{d.texto ?? 'Descargar'}</a><VistaPrevia src={d.url} titulo={`${a.data.titulo}${a.data.expediente ? ' · Exp. ' + a.data.expediente : ''}`} /></li>)}</ul>
+        )}
+      </article>
+    </li>
+  ))}
+</ol>
+<script>
+  const f = document.getElementById('filtro-anuncios') as HTMLFormElement;
+  const items = [...document.querySelectorAll<HTMLElement>('#anuncios-lista > li')];
+  const c = document.getElementById('anuncios-cuenta')!;
+  const st = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  f?.addEventListener('input', () => {
+    const d = new FormData(f); const q = st(String(d.get('q') ?? '').trim()); const t = d.get('t');
+    let n = 0; for (const li of items) { const ok = (!q || li.dataset.q!.includes(q)) && (!t || li.dataset.t === t); li.hidden = !ok; if (ok) n++; }
+    c.textContent = `${n} ${n === 1 ? 'anuncio' : 'anuncios'}`;
+  });
+</script>

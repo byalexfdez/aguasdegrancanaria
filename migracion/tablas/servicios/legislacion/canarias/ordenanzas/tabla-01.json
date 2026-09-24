@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/canarias/ordenanzas.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 30/03/2001",
+      "Título",
+      "Plan Hidrológico. Ordenanzas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Decreto 82/1999, de 6 de mayo, por el que se aprueba el PHIGC",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua PHGC",
+      "",
+      "Decreto",
+      "Canarias"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

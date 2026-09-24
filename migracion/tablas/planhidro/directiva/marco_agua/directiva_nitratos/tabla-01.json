@@ -1,0 +1,35 @@
+{
+  "fuente": "/planhidro/directiva/marco_agua/directiva_nitratos.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 4,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Directiva Marco del Agua Creado el 24/04/2007",
+      "Título",
+      "Informe directiva de nitratos",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Informe de la Comisión sobre la aplicación de la directiva de nitratos",
+      ""
+    ],
+    [
+      "",
+      "Tipo",
+      "Ambito",
+      "Tema"
+    ],
+    [
+      "",
+      "Informe",
+      "Unión Europea",
+      "Subterrraneas"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

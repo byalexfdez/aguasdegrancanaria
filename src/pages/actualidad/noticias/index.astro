@@ -1,0 +1,8 @@
+---
+import { getEntry } from 'astro:content';
+import ListadoNoticias from '../../../components/ListadoNoticias.astro';
+import { noticiasOrdenadas, POR_PAGINA } from '../../../lib/noticias';
+const todas = await noticiasOrdenadas();
+const entrada = await getEntry('paginas', 'actualidad/noticias');
+---
+<ListadoNoticias noticias={todas.slice(0, POR_PAGINA)} pagina={1} total={Math.ceil(todas.length / POR_PAGINA)} entrada={entrada} />

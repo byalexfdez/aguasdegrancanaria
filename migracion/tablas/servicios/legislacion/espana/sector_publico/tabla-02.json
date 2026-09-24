@@ -1,0 +1,32 @@
+{
+  "fuente": "/servicios/legislacion/españa/sector_publico.php",
+  "indice": 2,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [],
+  "filas": [],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 0,
+      "texto": "",
+      "url": "https://www.aguasgrancanaria.com/icons/ecblank.gif",
+      "imagen": true
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "https://www.aguasgrancanaria.com/icons/ecblank.gif",
+      "imagen": true
+    },
+    {
+      "fila": 0,
+      "columna": 2,
+      "texto": "",
+      "url": "https://www.aguasgrancanaria.com/icons/ecblank.gif",
+      "imagen": true
+    }
+  ]
+}

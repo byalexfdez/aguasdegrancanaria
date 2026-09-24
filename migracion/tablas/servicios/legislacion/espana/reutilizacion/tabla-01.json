@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/reutilizacion.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 17/05/2010",
+      "Título",
+      "Reutilización de las aguas depuradas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "R.D. 1620/2007, de 7 de diciembre, por el que se establece el régimen jurídico de la reutilización de las aguas depuradas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua Regen",
+      "",
+      "Real Decreto",
+      "España"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

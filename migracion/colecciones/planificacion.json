@@ -1,0 +1,3377 @@
+[
+  {
+    "ruta": "/plan_hidro.php",
+    "titulo": "PLAN HIDROLÓGICO",
+    "total": 39,
+    "items": [
+      {
+        "grupo": [
+          "DOCUMENTOS INICIALES DEL PLAN HIDROLÓGICO DE LA DEMARCACIÓN HIDROGRÁFICA DE GRAN CANARIA"
+        ],
+        "titulo": "Anuncio del BOC",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/boc-a-2025-028-537.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/boc-a-2025-028-537.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 184313,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DOCUMENTOS INICIALES DEL PLAN HIDROLÓGICO DE LA DEMARCACIÓN HIDROGRÁFICA DE GRAN CANARIA"
+        ],
+        "titulo": "Memoria - Diciembre 2024",
+        "etiqueta": null,
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_DDII_Memoria_V02_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_ddii_memoria_v02_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 9116103,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DOCUMENTOS INICIALES DEL PLAN HIDROLÓGICO DE LA DEMARCACIÓN HIDROGRÁFICA DE GRAN CANARIA"
+        ],
+        "titulo": "Anexo I: Autoridades Competentes",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_DDII_Anexo1_Aut_Competentes_v02_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_ddii_anexo1_aut_competentes_v02_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1173386,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DOCUMENTOS INICIALES DEL PLAN HIDROLÓGICO DE LA DEMARCACIÓN HIDROGRÁFICA DE GRAN CANARIA"
+        ],
+        "titulo": "Anexo II: Fichas Caracterización Masas Agua Subterránea",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_DDII_Anexo2_Fichas_Caracterizacion_Adicional_V02_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_ddii_anexo2_fichas_caracterizacion_adicional_v02_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 6316536,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DOCUMENTOS INICIALES DEL PLAN HIDROLÓGICO DE LA DEMARCACIÓN HIDROGRÁFICA DE GRAN CANARIA"
+        ],
+        "titulo": "Anexo III: Unidades de Demanda",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_DDII_Anexo3_UUDD-02_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_ddii_anexo3_uudd-02_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 3487355,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DOCUMENTOS INICIALES DEL PLAN HIDROLÓGICO DE LA DEMARCACIÓN HIDROGRÁFICA DE GRAN CANARIA"
+        ],
+        "titulo": "DD.II Consolidados PHGC4",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/DD.II%20CONSOLIDADOS%20PHGC4.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/dd.ii-consolidados-phgc4.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 98698031,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "ESQUEMA DE TEMAS IMPORTANTES"
+        ],
+        "titulo": "Anuncio del BOC",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/boc-a-2025-150-2773.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/boc-a-2025-150-2773.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 178943,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "ESQUEMA DE TEMAS IMPORTANTES"
+        ],
+        "titulo": "Memoria EpTI - Julio 2025",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_EpTI_Memoria-Anexo_03_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_epti_memoria-anexo_03_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4087006,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "ESQUEMA DE TEMAS IMPORTANTES"
+        ],
+        "titulo": "ETI Consolidado PHGC4",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/20260909_Anexo%201.%20ETI_DHGC.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/20260909_anexo-1.-eti_dhgc.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 12541073,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "ESTUDIO DE ADAPTACIÓN A LOS RIESGOS DEL CAMBIO CLIMÁTICO"
+        ],
+        "titulo": "Memoria - Marzo 2026",
+        "etiqueta": null,
+        "anio_en_texto": 2026,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_EACC_Memoria_V03_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_eacc_memoria_v03_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 21926845,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "TERCER CICLO DE PLANIFICACIÓN 2021-2027",
+          "PROYECTO DE PLAN HIDROLÓGICO INSULAR DE LA DEMARCACIÓN HIDROGRÁFICA DE GRAN CANARIA"
+        ],
+        "titulo": "Anuncio del BOC: Decreto de aprobación definitiva",
+        "etiqueta": null,
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/Decreto_370.2023.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/decreto_370.2023.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 37425993,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "TERCER CICLO DE PLANIFICACIÓN 2021-2027"
+      },
+      {
+        "grupo": [
+          "TERCER CICLO DE PLANIFICACIÓN 2021-2027",
+          "PROYECTO DE PLAN HIDROLÓGICO INSULAR DE LA DEMARCACIÓN HIDROGRÁFICA DE GRAN CANARIA"
+        ],
+        "titulo": "Memoria - Marzo 2023",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_PH_PP-Memoria-completa.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_ph_pp-memoria-completa.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 134733234,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "TERCER CICLO DE PLANIFICACIÓN 2021-2027"
+      },
+      {
+        "grupo": [
+          "TERCER CICLO DE PLANIFICACIÓN 2021-2027",
+          "PROYECTO DE PLAN HIDROLÓGICO INSULAR DE LA DEMARCACIÓN HIDROGRÁFICA DE GRAN CANARIA"
+        ],
+        "titulo": "Normativa - Marzo 2023",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120-Normativa_3er_ciclo_Completa-AP.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120-normativa_3er_ciclo_completa-ap.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 35768248,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "TERCER CICLO DE PLANIFICACIÓN 2021-2027"
+      },
+      {
+        "grupo": [
+          "TERCER CICLO DE PLANIFICACIÓN 2021-2027",
+          "PROYECTO DE PLAN HIDROLÓGICO INSULAR DE LA DEMARCACIÓN HIDROGRÁFICA DE GRAN CANARIA"
+        ],
+        "titulo": "Estudio Ambiental Estratégico - Enero 2023",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_EsAE_PH_PGRI_Memoria_Fdo.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_esae_ph_pgri_memoria_fdo.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 58327362,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "TERCER CICLO DE PLANIFICACIÓN 2021-2027"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO"
+        ],
+        "titulo": "Aprobación Definitiva (25/01/2019)",
+        "etiqueta": null,
+        "anio_en_texto": 2019,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/BOC_20190121.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/boc_20190121.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1527912,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO"
+        ],
+        "titulo": "Declaración ambiental estratégica (06/02/2019)",
+        "etiqueta": null,
+        "anio_en_texto": 2019,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/DeclaracionAmbientalEstrategica.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/declaracionambientalestrategica.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 861431,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO"
+        ],
+        "titulo": "Normativa - Enero 2019",
+        "etiqueta": null,
+        "anio_en_texto": 2019,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_NormativaV2_firmado.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_normativav2_firmado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1532492,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO"
+        ],
+        "titulo": "Anexo 1. Caracterización de las masas de agua",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_PH_Anexo1_firmado.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_ph_anexo1_firmado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 5881152,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO"
+        ],
+        "titulo": "Anexo 2. Planos del plan y del estudio ambiental estratégico",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_PH_Anexo2_firmado.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_ph_anexo2_firmado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 249563901,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO"
+        ],
+        "titulo": "Anexo 3. Documento de participación pública y consulta",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_PH_Anexo3_firmado.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_ph_anexo3_firmado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1358360,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO"
+        ],
+        "titulo": "Anexo 4. Actualización del plan hidrológico",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_PH_Anexo4_firmado.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_ph_anexo4_firmado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1685985,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO"
+        ],
+        "titulo": "Demarcación hidrogáfica ES120 Gran Canaria",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120_PLAN_GC_firmado.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120_plan_gc_firmado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 22102163,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO"
+        ],
+        "titulo": "Resumen de la integración",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/Resumen_INTEGRACION_ASPECTOS_AMB_DOC_ALCANCE_firmado.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/resumen_integracion_aspectos_amb_doc_alcance_firmado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 890556,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO"
+        ],
+        "titulo": "Estudio ambiental estratégico - Enero 2019",
+        "etiqueta": null,
+        "anio_en_texto": 2019,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/ES120%20EAE%20PHGC_firmado.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/es120-eae-phgc_firmado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 18536289,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO",
+          "EAE PROPUESTA DE PROYECTO PHI GRAN CANARIA SEGUNDO CICLO"
+        ],
+        "titulo": "Consulta Pública (16/01/2018)",
+        "etiqueta": null,
+        "anio_en_texto": 2018,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/BOC-16-01-18.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/boc-16-01-18.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 234702,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO",
+          "EAE PROPUESTA DE PROYECTO PHI GRAN CANARIA SEGUNDO CICLO"
+        ],
+        "titulo": "Documento Inicial de la Evaluación Ambiental Estratégica - Diciembre 2017",
+        "etiqueta": null,
+        "anio_en_texto": 2017,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/DocumentoInicial.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/documentoinicial.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1956043,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO",
+          "EAE PROPUESTA DE PROYECTO PHI GRAN CANARIA SEGUNDO CICLO"
+        ],
+        "titulo": "Esquema de Temas Importantes - Diciembre 2017",
+        "etiqueta": null,
+        "anio_en_texto": 2017,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/EsquemaTemasImportantes.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/esquematemasimportantes.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 3426881,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO",
+          "EAE PROPUESTA DE PROYECTO PHI GRAN CANARIA SEGUNDO CICLO"
+        ],
+        "titulo": "Aprobación Fase Previa",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/OrdenConjuntafirmada221.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/ordenconjuntafirmada221.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 175702,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO",
+          "DOCUMENTOS INICIALES: SEGUNDO CICLO DEL PLAN HIDROLÓGICO (2015-2021)"
+        ],
+        "titulo": "Esquema provisional de temas importantes - Mayo 2016",
+        "etiqueta": null,
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/EPTI_rev02.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/epti_rev02.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 3567873,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO",
+          "DOCUMENTOS INICIALES: SEGUNDO CICLO DEL PLAN HIDROLÓGICO (2015-2021)"
+        ],
+        "titulo": "Documentos iniciales de la planificación hidrológica",
+        "etiqueta": null,
+        "anio_en_texto": 2015,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/PHGC-DOC-INICIALES-rev01.3.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/phgc-doc-iniciales-rev01.3.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 7926063,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)",
+          "APROBACIÓN DEFINITIVA PLAN HIDROLÓGICO SEGUNDO CICLO",
+          "DOCUMENTOS INICIALES: SEGUNDO CICLO DEL PLAN HIDROLÓGICO (2015-2021)"
+        ],
+        "titulo": "Consulta Pública (08/08/2016)",
+        "etiqueta": null,
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/BOC-8-8-16.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/boc-8-8-16.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 241803,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "SEGUNDO CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)",
+          "PLAN HIDROLÓGICO CONFORME EL ART.47 DE LA TRLOTENC"
+        ],
+        "titulo": "VOLUMEN I: Documento de información",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/art47/volumen1.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/art47/volumen1.php",
+        "ciclo": "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)",
+          "PLAN HIDROLÓGICO CONFORME EL ART.47 DE LA TRLOTENC"
+        ],
+        "titulo": "VOLUMEN II: Documento de Ordenación",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/art47/volumen2.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/art47/volumen2.php",
+        "ciclo": "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)",
+          "PLAN HIDROLÓGICO CONFORME EL ART.47 DE LA TRLOTENC"
+        ],
+        "titulo": "Normativa",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/art47/normativa.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/art47/normativa.php",
+        "ciclo": "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)",
+          "PLAN HIDROLÓGICO CONFORME EL ART.47 DE LA TRLOTENC"
+        ],
+        "titulo": "Aprobación Normas Transitorias (01/04/2015)",
+        "etiqueta": null,
+        "anio_en_texto": 2015,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/boc-a-2015-063-1482.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/boc-a-2015-063-1482.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2370529,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)",
+          "PLAN HIDROLÓGICO CONFORME EL ART.47 DE LA TRLOTENC",
+          "DIRECTIVA MARCO DE AGUAS"
+        ],
+        "titulo": "Conceptos básicos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/conceptos_basicos.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/conceptos_basicos.php",
+        "ciclo": "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)",
+          "PLAN HIDROLÓGICO CONFORME EL ART.47 DE LA TRLOTENC",
+          "DIRECTIVA MARCO DE AGUAS"
+        ],
+        "titulo": "Antecedentes de planificación",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/antecedentes_planificacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/antecedentes_planificacion.php",
+        "ciclo": "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)",
+          "PLAN HIDROLÓGICO CONFORME EL ART.47 DE LA TRLOTENC",
+          "DIRECTIVA MARCO DE AGUAS"
+        ],
+        "titulo": "Marco normativo y guías de referencia",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua.php",
+        "ciclo": "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)"
+      },
+      {
+        "grupo": [
+          "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)",
+          "PLAN HIDROLÓGICO CONFORME EL ART.47 DE LA TRLOTENC",
+          "DIRECTIVA MARCO DE AGUAS"
+        ],
+        "titulo": "Enlaces externos de la Directiva Marco de Aguas",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/enlaces_externos.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/enlaces_externos.php",
+        "ciclo": "PRIMER CICLO DE PLANIFICACIÓN (APROBADO)"
+      }
+    ]
+  },
+  {
+    "ruta": "/inundaciones.php",
+    "titulo": "PLAN DE INUNDACIONES",
+    "total": 13,
+    "items": [
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+        ],
+        "titulo": null,
+        "etiqueta": "Anuncio del BOC",
+        "anio_en_texto": 2027,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/boc-a-2025-003-66_7%20de%20enero%20de%202025.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/boc-a-2025-003-66_7-de-enero-de-2025.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 183543,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+      },
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+        ],
+        "titulo": null,
+        "etiqueta": "Memoria - Noviembre 2024",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/ES120_EPRI_Memoria-02_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/es120_epri_memoria-02_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4495705,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+      },
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+        ],
+        "titulo": null,
+        "etiqueta": "Anexo 1 - Planos",
+        "anio_en_texto": 2027,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/ES120_EPRI_Anexo1_planos-02_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/es120_epri_anexo1_planos-02_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 68596540,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+      },
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+        ],
+        "titulo": null,
+        "etiqueta": "Anexo 2 - Fichas",
+        "anio_en_texto": 2027,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/ES120_EPRI_Anexo2_fichas-02_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/es120_epri_anexo2_fichas-02_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 19277700,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+      },
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+        ],
+        "titulo": null,
+        "etiqueta": "Memoria - Junio 2025",
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/ES120_EPRI_Memoria-04_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/es120_epri_memoria-04_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4463259,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+      },
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+        ],
+        "titulo": null,
+        "etiqueta": "Anexo 2 - Fichas",
+        "anio_en_texto": 2027,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/ES120_EPRI_Anexo2_fichas-02_00-c.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/es120_epri_anexo2_fichas-02_00-c.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 19277700,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+      },
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+        ],
+        "titulo": null,
+        "etiqueta": "Anexo 3 - Resumen participación pública",
+        "anio_en_texto": 2027,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/ES120_EPRI_Anexo3_Part_P%C3%BAblica-02_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/es120_epri_anexo3_part_publica-02_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 445190,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+      },
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+        ],
+        "titulo": null,
+        "etiqueta": "Anexo 3 - Resumen participación pública y apéndice",
+        "anio_en_texto": 2027,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/EPRI_Anexo3_Part_P%C3%BAblica_y_Ap%C3%A9ndice-02_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/epri_anexo3_part_publica_y_apendice-02_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 3646323,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+      },
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+        ],
+        "titulo": null,
+        "etiqueta": "Anuncio del BOC",
+        "anio_en_texto": 2027,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/20250730_250728%20boc-a-2025-150-2772.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/20250730_250728-boc-a-2025-150-2772.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 175139,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+      },
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+        ],
+        "titulo": null,
+        "etiqueta": "Memoria - Julio 2025",
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/ES120_MPRI_Anexos-03_00.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/es120_mpri_anexos-03_00.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 201237140,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+      },
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)",
+          "MPRI CONSOLIDADO PGRIGC3"
+        ],
+        "titulo": null,
+        "etiqueta": "MPRI CONSOLIDADO PGRIGC3",
+        "anio_en_texto": 2027,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/MPRI%20CONSOLIDADO%20PGRIGC3.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/mpri-consolidado-pgrigc3.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 243332640,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2027-2033)"
+      },
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2021-2027)"
+        ],
+        "titulo": null,
+        "etiqueta": "Memoria - Marzo 2023",
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/ES120_PGRI-Memoria_Completa_AP.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/es120_pgri-memoria_completa_ap.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 12996466,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2021-2027)"
+      },
+      {
+        "grupo": [
+          "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2021-2027)"
+        ],
+        "titulo": null,
+        "etiqueta": "Estudio Ambiental Estratégio - Enero 2023",
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Inundaciones/ES120_EsAE_PH_PGRI_Memoria_Fdo.pdf",
+        "ruta_nueva": "/documentos/pdfs/inundaciones/es120_esae_ph_pgri_memoria_fdo.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 58327362,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": "PLAN DE GESTIÓN DE RIESGOS DE INUNDACIÓN (Ciclo 2021-2027)"
+      }
+    ]
+  },
+  {
+    "ruta": "/red_control.php",
+    "titulo": "MONITORIZACIÓN DEL ACUÍFERO DE GRAN CANARIA",
+    "total": 5,
+    "items": [
+      {
+        "grupo": [
+          "CAMPAÑA DEL 2009 - INFORME DE SÍNTESIS DE RESULTADOS",
+          "MEDIANÍAS SUR"
+        ],
+        "titulo": "Ver red de control y resultados en Google Earth",
+        "etiqueta": null,
+        "anio_en_texto": 2009,
+        "url_antigua": "https://www.aguasgrancanaria.com/programas/reddecontrol.rar",
+        "ruta_nueva": "/documentos/programas/reddecontrol.rar",
+        "tipo": "documento",
+        "formato": "rar",
+        "bytes": 63603,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CAMPAÑA DEL 2009 - INFORME DE SÍNTESIS DE RESULTADOS",
+          "INTERPRETACIÓN E INFORME FINAL",
+          "Interpretación de los resultados obtenidos",
+          "Estado cuantitativo y modelo conceptual"
+        ],
+        "titulo": "Evolución de los niveles de agua",
+        "etiqueta": null,
+        "anio_en_texto": 2009,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/RedControl/CotaAgua2009.pdf",
+        "ruta_nueva": "/documentos/pdfs/redcontrol/cotaagua2009.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 293203,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CAMPAÑA DEL 2009 - INFORME DE SÍNTESIS DE RESULTADOS",
+          "INTERPRETACIÓN E INFORME FINAL",
+          "Interpretación de los resultados obtenidos",
+          "Estado cuantitativo y modelo conceptual"
+        ],
+        "titulo": "Evolución de los niveles medios por décadas",
+        "etiqueta": null,
+        "anio_en_texto": 2009,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/RedControl/PiezometriaporDecada.pdf",
+        "ruta_nueva": "/documentos/pdfs/redcontrol/piezometriapordecada.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 62871,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CAMPAÑA DEL 2009 - INFORME DE SÍNTESIS DE RESULTADOS",
+          "INTERPRETACIÓN E INFORME FINAL",
+          "Interpretación de los resultados obtenidos",
+          "Estado cuantitativo y modelo conceptual"
+        ],
+        "titulo": "Profundidades del nivel freático",
+        "etiqueta": null,
+        "anio_en_texto": 2009,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/RedControl/ProfundidadAgua2009.pdf",
+        "ruta_nueva": "/documentos/pdfs/redcontrol/profundidadagua2009.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 294236,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CAMPAÑA DEL 2009 - INFORME DE SÍNTESIS DE RESULTADOS",
+          "INTERPRETACIÓN E INFORME FINAL",
+          "Interpretación de los resultados obtenidos",
+          "Estado cuantitativo y modelo conceptual",
+          "OTROS CONTAMINANTES"
+        ],
+        "titulo": "Análisis químicos",
+        "etiqueta": null,
+        "anio_en_texto": 2009,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/RedControl/analisis_quimicos.pdf",
+        "ruta_nueva": "/documentos/pdfs/redcontrol/analisis_quimicos.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 3886547,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/art47/volumen1.php",
+    "titulo": "PLAN HIDROLÓGICO",
+    "total": 4,
+    "items": [
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO VOLUMEN 1: DOCUMENTOS DE INFORMACIÓN CONFORME ART. 47 TRLONTEC"
+        ],
+        "titulo": null,
+        "etiqueta": "Memoria",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/PHart47_MemInfo.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/phart47_meminfo.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 33691228,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO VOLUMEN 1: DOCUMENTOS DE INFORMACIÓN CONFORME ART. 47 TRLONTEC"
+        ],
+        "titulo": null,
+        "etiqueta": "Planos",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/PHart47_PlanosInfo.zip",
+        "ruta_nueva": "/documentos/pdfs/planhidro/phart47_planosinfo.zip",
+        "tipo": "documento",
+        "formato": "zip",
+        "bytes": 378388092,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO VOLUMEN 1: DOCUMENTOS DE INFORMACIÓN CONFORME ART. 47 TRLONTEC"
+        ],
+        "titulo": null,
+        "etiqueta": "Anexo 1: Masas de Agua",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/PHart47_Anexo.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/phart47_anexo.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 64004444,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO VOLUMEN 1: DOCUMENTOS DE INFORMACIÓN CONFORME ART. 47 TRLONTEC"
+        ],
+        "titulo": null,
+        "etiqueta": "Participación Pública",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/PHart47_Particip.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/phart47_particip.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 549134,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/art47/volumen2.php",
+    "titulo": "PLAN HIDROLÓGICO",
+    "total": 2,
+    "items": [
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO VOLUMEN 2: DOCUMENTOS DE ORDENACIÓN CONFORME ART. 47 TRLONTEC"
+        ],
+        "titulo": null,
+        "etiqueta": "Memoria",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/PHart47_MemOrd.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/phart47_memord.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 5510547,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO VOLUMEN 2: DOCUMENTOS DE ORDENACIÓN CONFORME ART. 47 TRLONTEC"
+        ],
+        "titulo": null,
+        "etiqueta": "Anexo n°1: Balances",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/PHart47_Balance.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/phart47_balance.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 6226279,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/art47/normativa.php",
+    "titulo": "PLAN HIDROLÓGICO",
+    "total": 5,
+    "items": [
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO NORMATIVA CONFORME ART. 47 TRLONTEC"
+        ],
+        "titulo": null,
+        "etiqueta": "Articulado - Normativo",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/Norm_Artic.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/norm_artic.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2342169,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO NORMATIVA CONFORME ART. 47 TRLONTEC"
+        ],
+        "titulo": null,
+        "etiqueta": "Programa de Medidas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/Norm_Medidas.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/norm_medidas.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 10895147,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO NORMATIVA CONFORME ART. 47 TRLONTEC"
+        ],
+        "titulo": null,
+        "etiqueta": "Adenda de Documentación Complementaria",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/Norm_Adenda.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/norm_adenda.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 259575,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO NORMATIVA CONFORME ART. 47 TRLONTEC"
+        ],
+        "titulo": null,
+        "etiqueta": "Anexos",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/Norm_Anexos.zip",
+        "ruta_nueva": "/documentos/pdfs/planhidro/norm_anexos.zip",
+        "tipo": "documento",
+        "formato": "zip",
+        "bytes": 10067309,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO NORMATIVA CONFORME ART. 47 TRLONTEC"
+        ],
+        "titulo": null,
+        "etiqueta": "Planos",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/Norm_Planos.zip",
+        "ruta_nueva": "/documentos/pdfs/planhidro/norm_planos.zip",
+        "tipo": "documento",
+        "formato": "zip",
+        "bytes": 200283583,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/antecedentes_planificacion.php",
+    "titulo": "PLAN HIDROLÓGICO",
+    "total": 0,
+    "items": []
+  },
+  {
+    "ruta": "/planhidro/directiva/conceptos_basicos.php",
+    "titulo": "PLAN HIDROLÓGICO",
+    "total": 2,
+    "items": [
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO CONCEPTOS BÁSICOS DE LA DMA"
+        ],
+        "titulo": "Documento completo (532 Kb)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/PlanHidro/Directiva_2000.60.CE.pdf",
+        "ruta_nueva": "/documentos/pdfs/planhidro/directiva_2000.60.ce.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 917031,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PLAN HIDROLÓGICO CONCEPTOS BÁSICOS DE LA DMA"
+        ],
+        "titulo": "Página WEB de la Comisión Europea",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://circa.europa.eu/Public/irc/env/wfd/library",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/enlaces_externos.php",
+    "titulo": "PLAN HIDROLÓGICO",
+    "total": 21,
+    "items": [
+      {
+        "grupo": [
+          "PÁGINAS OFICIALES DE LA UE"
+        ],
+        "titulo": "Páginas de la Comisión Europea en materia de política comunitaria de aguas",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://europa.eu.int/comm/environment/water/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PÁGINAS OFICIALES DE LA UE"
+        ],
+        "titulo": "Actividades de la Unión Europea en materia de Medio Ambiente",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://europa.eu.int/pol/env/index_es.htm",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PÁGINAS OFICIALES DE LA UE"
+        ],
+        "titulo": "Foro sobre la DMA: CIRCA('Implementing the Water Framework Directive')",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://forum.europa.eu.int/Public/irc/env/wfd/library?l=/framework_directive&vm=detailed&sb=Title",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PÁGINAS OFICIALES DE LA UE"
+        ],
+        "titulo": "European Environment Agency",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.eea.eu.int/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PÁGINAS OFICIALES ESTATALES"
+        ],
+        "titulo": "Ministerio del Medio Ambiente (MMA)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.magrama.gob.es/es",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PÁGINAS OFICIALES ESTATALES"
+        ],
+        "titulo": "Sistema Español de Información sobre el Agua (HISPAGUA)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://hispagua.cedex.es/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PÁGINAS OFICIALES ESTATALES"
+        ],
+        "titulo": "Instituto Geológico y Minero de España (IGME)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://info.igme.es/catalogo/default.aspx",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PÁGINAS OFICIALES ESTATALES"
+        ],
+        "titulo": "Instituto Nacional de Estadística (INE)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.ine.es/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "PÁGINAS OFICIALES ESTATALES"
+        ],
+        "titulo": "Centro de Estudios y Experimentación de Obras Públicas (CEDEX)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.cedex.es/CEDEX/lang_castellano/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CUENCAS PILOTO"
+        ],
+        "titulo": "Demarcación Hidrográfica del Júcar",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.chj.es/es-es/Organismo/Paginas/Organismo.aspx",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CUENCAS PILOTO"
+        ],
+        "titulo": "Demarcación Hidrográfica Adour-Garonne",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://dce.eau-adour-garonne.fr/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CUENCAS PILOTO"
+        ],
+        "titulo": "Demarcación Hidrográfica Rhine-Meuse",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.eau2015-rhin-meuse.fr/fr/directive/districts.php",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CUENCAS PILOTO"
+        ],
+        "titulo": "Demarcación Hidrográfica Rhone-Mediterranee et Corse",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.ecologique-solidaire.gouv.fr/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CUENCAS PILOTO"
+        ],
+        "titulo": "Demarcaciones en el Reino Unido",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.defra.gov.uk/environment/water/wfd/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CUENCAS PILOTO"
+        ],
+        "titulo": "Demarcaciones en Escocia",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.sepa.org.uk/wfd/index.htm",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CUENCAS PILOTO"
+        ],
+        "titulo": "Demarcaciones en Irlanda",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.wfdireland.ie/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CUENCAS PILOTO"
+        ],
+        "titulo": "Cuenca piloto del Júcar (España)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.chj.es/es-es/Organismo/Paginas/Organismo.aspx",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CUENCAS PILOTO"
+        ],
+        "titulo": "Cuenca piloto del Tevere (Italia)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.abtevere.it/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CUENCAS PILOTO"
+        ],
+        "titulo": "Cuenca piloto del Odens (Dinamarca)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.odenseprbuk.fyns-amt.dk/wm125969",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CUENCAS PILOTO"
+        ],
+        "titulo": "Cuenca piloto del Ribble (Reino Unido)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.environment-agency.gov.uk/business/444217/444663/517208/517212/518064/518081/?version=1&lang=_e",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "CUENCAS PILOTO"
+        ],
+        "titulo": "Cuenca piloto del Pinios (Grecia)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://www.minenv.gr/pinios_river.html",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 25,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Informe sobre participación pública según la DMA",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/participacion_publica_DMA.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/participacion_publica_DMA.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Instrucción de planificación hidrológica - Documento borrador versión 10.0 septiembre de 2007",
+        "etiqueta": null,
+        "anio_en_texto": 2007,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/planifiacion_hidrologica.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/planifiacion_hidrologica.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "La Unión Europea apuesta por las zonas costeras - Real Decreto por el que se aprueba el Reglamento de la PLanificación Hidrológica",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/zonas_costeras.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/zonas_costeras.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Reglamento de la Planificación Hidrológica - Real Decreto por el que se aprueba el Reglamento de la Planificación Hidrológica",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/reglamento.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/reglamento.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Cumplimiento sobre los artículos V y VI de la DMA - Síntesis de la información remitida por España para dar cumplimiento a los artículos 5 y 6 de la DMA, en materia de aguas subterráneas",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/cumplimiento_V_VI.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/cumplimiento_V_VI.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "El agua es esencial para la vida - Artículo sobre la Directiva Marco de Agua",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/agua_esencial.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/agua_esencial.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Directiva Marco del Agua - Directiva marco del Agua 2000/60/CE",
+        "etiqueta": null,
+        "anio_en_texto": 2000,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/directiva_marco_agua_CE.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/directiva_marco_agua_CE.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Evaluación de los riesgos de las aguas subterráneas - Informe técnico sobre la evaluación de riesgos de las aguas subterraneas publicadas y discutidas en el taller del 28 de Enero de 2004",
+        "etiqueta": null,
+        "anio_en_texto": 2004,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/riesgos_aguas_subterraneas.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/riesgos_aguas_subterraneas.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Reglamento de la Planificación Hidrolólogica - Real Decreto por el que se aprueba el Reglamento de la PLanificación Hidrolólogica",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/reglamento_planificacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/reglamento_planificacion.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "1° Informe sobre la Red de Control - Informe en el que se establecen los puntos que constituirán la red de control consagrada a la caracterización de las masas de agua en Gran Canaria",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/informe_red_control.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/informe_red_control.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Economía y el Medio Ambiente. El reto de Implantar la DMA - 1° Documento-Guía de la Estrategia de Implantación Común para la Directiva Marco de Agua",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/economia_medio_ambiente.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/economia_medio_ambiente.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Informe directiva de nitratos - Informe de la Comisión sobre aplicación de la directiva de nitratos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/directiva_nitratos.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/directiva_nitratos.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Participación pública en relación a la DMA - ° Documento-Guía de la Estrategia de Implantación Común para la Directiva Marco de Agua",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/participacion_publica_DMA_8.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/participacion_publica_DMA_8.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Elementos de buena práctica en la gestión integrada de cuencas hidrográficas - Un documento de consulta para la aplicación de la Directiva marco del agua de la UE",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/cuencas_hidrograficas.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/cuencas_hidrograficas.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Caracterización de las masas de agua subterráneas - Informe técnico sobre la caracterización de las masas de agua subterráneas, elaborado y corregido a partir de la publicación del 13 de octubre del 2003",
+        "etiqueta": null,
+        "anio_en_texto": 2003,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/caracterizacion_masas_agua.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/caracterizacion_masas_agua.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Trabajos de la Directiva Marco en Canarias - Presentación de la Dirección General de aguas en Lanzarote. diciembre 2006",
+        "etiqueta": null,
+        "anio_en_texto": 2006,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/trabajos_directiva_marco.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/trabajos_directiva_marco.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Calendario y programa de trabajo Gran Canaria - Informe de Prointec de diciembre de 2006",
+        "etiqueta": null,
+        "anio_en_texto": 2006,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/calendario_programa_trabajo.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/calendario_programa_trabajo.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Procesos de planificación - 11° Documento-Guí de la estrategia de Implantación Común para la Directiva Marco de Agua",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/procesos_planificacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/procesos_planificacion.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Informe sobre articulos V y VI de la DMA - Síntesis del informe sobre los articulos V y VI de la Directiva Marco de Aguas para Gran Canaria",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/informe_V_VI.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/informe_V_VI.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "El nuevo ciclo de planificación hidrológica en España - Jornadas en Madrid, 27-30 de marzo de 2007 sobre la elaboración de los Planes Hidrológicos",
+        "etiqueta": null,
+        "anio_en_texto": 2007,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/ciclo_planificacion_hidrologica.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/ciclo_planificacion_hidrologica.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Instrucción de Planificación Hidrológica - Borrador de la instrucción de la Planificación Hidrológica",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/planhidro/directiva/marco_agua/instruccion_planificacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/planhidro/directiva/marco_agua/instruccion_planificacion.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "AVISO LEGAL |",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/avisos.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/avisos.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "ENLACES",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/enlaces.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/enlaces.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "| UBICACIÓN |",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/ubicacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/ubicacion.php",
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "ACCESIBILIDAD",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/accesibilidad.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/accesibilidad.php",
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/agua_esencial.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "DMA utilicela racionalmente",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/dma_utilicela_racionalmente.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/dma_utilicela_racionalmente.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 222757,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/calendario_programa_trabajo.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Calendario programa GC",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Calendario_programa_GC.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/calendario_programa_gc.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4340150,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/caracterizacion_masas_agua.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "gw_characterisation",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/gw_characterisation.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/gw_characterisation.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1731271,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/ciclo_planificacion_hidrologica.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 55,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Vicent Frey-Colloque-Madrid-mars07",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Vincent_Frey-Colloque-Madrid-mars07.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/vincent_frey-colloque-madrid-mars07.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2047271,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Victor Arqued-WISE - Aplicación a España",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/V%C3%ADctor_Arqued-WISE-Aplicaci%C3%B3n_a_Espana.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/victor_arqued-wise-aplicacion_a_espana.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1582801,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Teodoro Estrela Monreal-reglamento-instruccion3",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Teodoro_Estrela_Monreal-reglamento-instruccion3.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/teodoro_estrela_monreal-reglamento-instruccion3.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 39864,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Teodoro Estrela Monreal-DMA Colegio Caminos 2007 medidas2",
+        "etiqueta": null,
+        "anio_en_texto": 2007,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Teodoro_Estrela_Monreal-DMA_Colegio_Caminos_2007_medidas2.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/teodoro_estrela_monreal-dma_colegio_caminos_2007_medidas2.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 94591,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Teodoro Estrela Monreal-demarcaciones-CAC4",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Teodoro_Estrela_Monreal-demarcaciones-CAC4.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/teodoro_estrela_monreal-demarcaciones-cac4.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 6674924,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "sec_2007_0362_en",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/sec_2007_0362_en.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/sec_2007_0362_en.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 880683,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "RDDEM_A05118-05120",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/RDDEM_A05118-05120.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/rddem_a05118-05120.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 104560,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "RDCAC_A05120-05122",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/RDCAC_A05120-05122.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/rdcac_a05120-05122.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 94888,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "RD_RPH_CNA",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/RD_RPH_CNA_(1).pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/rd_rph_cna_-1.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 455230,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "programasmedidas2",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/programasmedidas2.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/programasmedidas2.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 33472,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Miguel Ángel Bordas-Sistema de Información del Agua v4",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Miguel_Angel_Bordas-Sistema_de_Informacion_del_Agua_v4.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/miguel_angel_bordas-sistema_de_informacion_del_agua_v4.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4432384,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Mario Urrea-ICCP_rev1_impr",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Mario_Urrea-ICCP_rev1_impr.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/mario_urrea-iccp_rev1_impr.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 3685895,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Manuel Varela-Planificación_marzo2007",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Manuel_Varela-Planificaci%C3%B3n_marzo2007.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/manuel_varela-planificacion_marzo2007.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 308477,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Manuel Omedas-caminos 2007",
+        "etiqueta": null,
+        "anio_en_texto": 2007,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Manuel_Omedas-caminos_2007.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/manuel_omedas-caminos_2007.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2591578,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Manuel Menéndez-presenmenendezobjmeddmared",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Manuel_Menendez-presenmenendezobjmeddmared.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/manuel_menendez-presenmenendezobjmeddmared.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 300290,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Luis Garrote",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Luis_Garrote.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/luis_garrote.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 209659,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Juan José Durán-caracterizacion mas.jjdv.28marzo2007",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Juan_Jose_Duran-caracterizacion_mas.jjdv.28marzo2007.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/juan_jose_duran-caracterizacion_mas.jjdv.28marzo2007.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 5900556,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Josefina Maestu-CaracteconICCP2007",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Josefina_Maestu-CaracteconICCP2007.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/josefina_maestu-caracteconiccp2007.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1285046,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Josefina Maestu-ACE_aplicacion_a_PdMREV2",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Josefina_Maestu-ACE_aplicacion_a_PdMREV2.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/josefina_maestu-ace_aplicacion_a_pdmrev2.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 850808,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Josefina Maestu-ACE EU",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Josefina_Maestu-ACE_EU.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/josefina_maestu-ace_eu.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 542145,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "José Luis Osuna-PRESENTACIÓN AGUA MADRID",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Jose_Luis_Osuna-PRESENTACION_AGUA_MADRID.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/jose_luis_osuna-presentacion_agua_madrid.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 59961,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "José Dolz-NUEVO CICLO PLANIFICACION HIDROLOGICA MMA 03-07",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Jose_Dolz-NUEVO_CICLO_PLANIFICACION_HIDROLOGICA_MMA_03-07.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/jose_dolz-nuevo_ciclo_planificacion_hidrologica_mma_03-07.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 74345,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Jorge Rodriguez-Jornadas_planificacion_27Marzo2007",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Jorge_Rodriguez-Jornadas_planificacion_27Marzo2007.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/jorge_rodriguez-jornadas_planificacion_27marzo2007.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 3252245,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Joaquín Andreu-Sistemas Soporte Decisión",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Joaquin_Andreu-Sistemas_Soporte_Decision.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/joaquin_andreu-sistemas_soporte_decision.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1421430,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Joan Corominas-PLAN HIDROLOGICO CUENCAS INTERNAS ANDALUZAS_reducida",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Joan_Corominas-PLAN_HIDROLOGICO_CUENCAS_INTERNAS_ANDALUZAS_reducida.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/joan_corominas-plan_hidrologico_cuencas_internas_andaluzas_reducida.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1707744,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Javier Ruza-Sistemas de clasificacion del estado ecologico",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Javier_Ruza-Sistemas_de_clasificacion_del_estado_ecologico.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/javier_ruza-sistemas_de_clasificacion_del_estado_ecologico.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 5600523,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Javier Ruza-Resultados referencia provisionales",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Javier_Ruza-Resultados_referencia_provisionales.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/javier_ruza-resultados_referencia_provisionales.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 25451,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Javier Ferrer Polo-Modelos_presiones_16",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Javier_Ferrer_Polo-Modelos_presiones_16.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/javier_ferrer_polo-modelos_presiones_16.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 3090113,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Javier Ferrer Polo-Instruccion_QEco_def",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Javier_Ferrer_Polo-Instruccion_QEco_def.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/javier_ferrer_polo-instruccion_qeco_def.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 939309,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Javier Cachón-Presentación 28-03-07",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Javier_Cachon-Presentacion_28-03-07.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/javier_cachon-presentacion_28-03-07.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 3335534,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Javier Álvarez-InventarioRecursosHídricos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Javier_Alvarez-InventarioRecursosHidricos.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/javier_alvarez-inventariorecursoshidricos.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1744039,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "IPH v51 4ColCamfinalB",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/IPH_v51_4ColCamfinalB.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/iph_v51_4colcamfinalb.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2978613,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "index",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/index.txt",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/index.txt",
+        "tipo": "documento",
+        "formato": "txt",
+        "bytes": 12412,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Ignacio del Río Marrero-Elaboración y aprobación de ph",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Ignacio_del_Rio_Marrero-Elaboracion_y_aprobacion_de_ph.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/ignacio_del_rio_marrero-elaboracion_y_aprobacion_de_ph.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 245891,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Ignacio del Río Marrero-DMAColCam07MasasSuperf",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Ignacio_del_Rio_Marrero-DMAColCam07MasasSuperf.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/ignacio_del_rio_marrero-dmacolcam07masassuperf.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 747846,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Guido Schmidt WWF",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Guido_Schmidt_WWF.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/guido_schmidt_wwf.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 619792,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Giovanni Bidoglio- Planificacion hidrologica final1",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Giovanni_Bidoglio-Planificacion_hidrologica_final1.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/giovanni_bidoglio-planificacion_hidrologica_final1.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 3751975,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Genaro Borras-06239_00_0022_Jornada CICCP Director_30.03.07",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Genaro_Borras-06239_00_0022_Jornada_CICCP_Director_30.03.07.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/genaro_borras-06239_00_0022_jornada_ciccp_director_30.03.07.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 393174,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Francisco Martín-administraciones competentes",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Francisco_Martin-administraciones_competentes.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/francisco_martin-administraciones_competentes.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 896904,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Ficha Condiciones de Referencia",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Ficha_Condiciones_de_Referencia.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/ficha_condiciones_de_referencia.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 37314,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Fernando Octavio de Toledo-Los Planes en Cuencas Transfronterizas de España y Portugal",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Fernando_Octavio_de_Toledo-Los_Planes_en_Cuencas_Transfronterizas_de_Espana_y_Portugal.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/fernando_octavio_de_toledo-los_planes_en_cuencas_transfronterizas_de_espana_y_portugal.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1112530,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Fernando Esteban-EAE2007_ParaImpresión",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Fernando_Esteban-EAE2007_ParaImpresion.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/fernando_esteban-eae2007_paraimpresion.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 254703,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Federico Estrada-RPH 2.0",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Federico_Estrada-RPH_2.0.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/federico_estrada-rph_2.0.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 96950,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Federico Estrada-IPH 4.0",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Federico_Estrada-IPH_4.0.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/federico_estrada-iph_4.0.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 192901,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Federico Estrada-Asignaciones y reservas 2.0",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Federico_Estrada-Asignaciones_y_reservas_2.0.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/federico_estrada-asignaciones_y_reservas_2.0.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 438621,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Enrique Cabrera-Madrid 28_03_2007",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Enrique_Cabrera-Madrid_28_03_2007.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/enrique_cabrera-madrid_28_03_2007.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 218095,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Desplegable Jornadas Planificación HMarzo07v",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/DesplegableJornadasPlanificacionHMarzo07v.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/desplegablejornadasplanificacionhmarzo07v.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 398365,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Cristina Danés-Inventario de presiones",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Cristina_Danes-Inventario_de_presiones.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/cristina_danes-inventario_de_presiones.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1969580,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "2-Medina-Jornadas-Planificacion-Modelos-aguas transicion",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/2-Medina-Jornadas-Planificacion-Modelos-aguas_transicion.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/2-medina-jornadas-planificacion-modelos-aguas_transicion.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4397681,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Clemente Prieto-Presentación Iberdrola",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Clemente_Prieto-Presentacion_Iberdrola.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/clemente_prieto-presentacion_iberdrola.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 44907,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Antoni Munne- v2.04225_04_026_Jornadas Madrid (28_3_07)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Antoni_Munne-v2.04225_04_026_Jornadas_Madrid_(28_3_07).pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/antoni_munne-v2.04225_04_026_jornadas_madrid_-28_3_07.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4016206,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Alberto Garrido-Mesa redonda. Necesidades Tecnológicas y Científicas (A Garrido)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Alberto_Garrido-Mesa_redonda.Necesidades_Tecnologicas_y_Cientificas_(A_Garrido).pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/alberto_garrido-mesa_redonda.necesidades_tecnologicas_y_cientificas_-a_garrido.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 40979,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Agustín Argüelles-cal_prog_ciccp3",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Agustin_Arguelles-cal_prog_ciccp3.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/agustin_arguelles-cal_prog_ciccp3.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 329046,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Adérito Mendes-El nuevo ciclo de planificación hidrológica",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Aderito_Mendes-El_nuevo_ciclo_de_planificacion_hidrologica.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/aderito_mendes-el_nuevo_ciclo_de_planificacion_hidrologica.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1776493,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "com_2007_0128_en",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/com_2007_0128_en.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/com_2007_0128_en.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 268927,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/cuencas_hidrograficas.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Aplicación directiva europea agua completo",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Aplicacion_directiva_europea_agua_completo.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/aplicacion_directiva_europea_agua_completo.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 539676,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/cumplimiento_V_VI.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "MEMORIA.",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/MEMORIA.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/memoria.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4254714,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/directiva_marco_agua_CE.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "directiva marco",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/directiva_marco.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/directiva_marco.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 917031,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/directiva_nitratos.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 2,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Staff Working Doc",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Staff_Working_Doc_(annexes).doc",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/staff_working_doc_-annexes.doc",
+        "tipo": "documento",
+        "formato": "doc",
+        "bytes": 4144640,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Informe 2003 ES",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": 2003,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Informe2003-ES.doc",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/informe2003-es.doc",
+        "tipo": "documento",
+        "formato": "doc",
+        "bytes": 131072,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/economia_medio_ambiente.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "GuidanceNo1-Economics-WATECO-WG2.6",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/GuidanceNo1-Economics-WATECO-WG2.6.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/guidanceno1-economics-wateco-wg2.6.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 7175920,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/informe_red_control.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Informe sobre la Red de Control",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/1_Informe_sobre_Red_de_Control.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/1_informe_sobre_red_de_control.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 153624,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/informe_V_VI.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "2007-02-26 Informe sobre Artículo V y VI de la DMA",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": 2007,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/2007-02-26_Informe_sobre_Art%C3%ADculo_V_y_VI_de_la_DMA.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/2007-02-26_informe_sobre_articulo_v_y_vi_de_la_dma.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 242472,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/instruccion_planificacion.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Instrucción de Planificación Hidrológica",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Instruccion_de_Planificacion_Hidrologica.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/instruccion_de_planificacion_hidrologica.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2978613,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/participacion_publica_DMA_8.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "GuidanceNo8-PublicparticipationWG2.9",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/GuidanceNo8-PublicparticipationWG2.9.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/guidanceno8-publicparticipationwg2.9.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 3481752,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/participacion_publica_DMA.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "2007-02-23 Informe sobre Participación Pública según la DMA",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": 2007,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/2007-02-23_Informe_sobre_Participaci%C3%B3n_P%C3%BAblica_seg%C3%BAn_la_DMA.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/2007-02-23_informe_sobre_participacion_publica_segun_la_dma.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 26528,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/planifiacion_hidrologica.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "IPH v10.0a",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/IPH_v10.0a.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/iph_v10.0a.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4304959,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/procesos_planificacion.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "GuidanceNo11-PlanningProcessWG2.9",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/GuidanceNo11-PlanningProcessWG2.9.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/guidanceno11-planningprocesswg2.9.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 5092971,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/reglamento_planificacion.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "RD_RPH_CNA",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/RD_RPH_CNA.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/rd_rph_cna.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 455230,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/reglamento.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Reglamento de la Planificación Hidrológica",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Reglamento_de_la_Planificaci%C3%B3n_Hidrol%C3%B3gica.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/reglamento_de_la_planificacion_hidrologica.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 455230,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/riesgos_aguas_subterraneas.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "gw_risk_assessment",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/gw_risk_assessment.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/gw_risk_assessment.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2115021,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/trabajos_directiva_marco.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 3,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "Presentación celeste DMA1",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/Presentacion_celesteDMA1.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/presentacion_celestedma1.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1269095,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "DMA canarias 05-06v2",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/DMA_canarias05-06v2_a_PDF.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/dma_canarias05-06v2_a_pdf.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4083169,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      },
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "PH 2007-2009",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": 2007,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/PH_2007-2009.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/ph_2007-2009.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 973397,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  },
+  {
+    "ruta": "/planhidro/directiva/marco_agua/zonas_costeras.php",
+    "titulo": "DIRECTIVA MARCO DEL AGUA",
+    "total": 1,
+    "items": [
+      {
+        "grupo": [
+          "DIRECTIVA MARCO DEL AGUA"
+        ],
+        "titulo": "2000Brochure_es",
+        "etiqueta": "Contenido:",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Marco_Agua/2000brochure_es.pdf",
+        "ruta_nueva": "/documentos/pdfs/marco_agua/2000brochure_es.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 460775,
+        "estado_origen": 200,
+        "pagina_interna": null,
+        "ciclo": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+---
+titulo: Tabla 3.- Desaladoras de agua salobre
+url: /divulgacion/plan-hidrologico-1988/recursos-no-naturales/tabla-3-desaladoras-de-agua-salobre/
+nodo: p88t-tabla-3-desaladoras-de-agua-salobre
+seccion: divulgacion
+plantilla: pagina
+ruta_antigua: /divulgacion/recu_no/tabla3.html
+titulo_original: Documento sin título
+contenido_oculto_en_origen: 0
+descripcion: Tabla 3.- Desaladoras de agua salobre · Consejo Insular de Aguas de Gran Canaria
+---
+
+<!-- tabla 01: tablas/divulgacion/recu_no/tabla3/tabla-01.json -->
+
+<strong>PLANTAS DESALADORAS DE AGUA SALOBRE</strong>
+
+| Planta | Emplazamiento | Sistema | m3/día |
+| --- | --- | --- | --- |
+| Costa Tamadaba, S.L. | Guayedra | O.I. | 160 |
+| Jose Luis Melián Rosario | Agaete | O.I. | 864 |
+| SAT. López Marrero | Gáldar | O.I. | 350 |
+| Juan Quesada | Gáldar | O.I. | 384 |
+| Lorenzo Pérez | Gáldar | O.I. | 800 |
+| Costa Guanche | Gáldar | O.I. | 2.400 |
+| SAT. López Mederos | Gáldar | O.I. | 600 |
+| Hermanos Suárez Ojeda | Gáldar | O.I. | 400 |
+| Hdros. Pedro Suárez Cárdenes | Gáldar | O.I. | 600 |
+| Pedro Suárez | Gáldar | O.I. | 600 |
+| Nicolás Rodríguez | Gáldar | O.I. | 400 |
+| Hermanos Pérez | Gáldar | O.I. | 850 |
+| Félix Santiago | Gáldar | O.I. | 1.200 |
+| Ricardo Henríquez | Gáldar | O.I. | 550 |
+| Cdad. Reg. Faro de Sardina | Gáldar | O.I. | 800 |
+| Felix Santiago Melián | Gáldar | O.I. | 2.100 |
+| José Quintana Rivero | Bco. San Andrés | O.I. | 760 |
+| Cdad. Aguas Pozo Los Lentiscos | Firgas | E.D.R. | 720 |
+| Lorenzo Pérez Marrero | Arucas | O.I. | 600 |
+| Cdad. El Porrón | Bañaderos | E.D.R. | 1.200 |
+| Juan Fco. Rosario del Rosario | Bañaderos | O.I. | 400 |
+| Cdad. Reg. Hoya del Cano | Arucas | O.I. | 200 |
+| Hermanos Peñate | Las Palmas de G.C. | O.I. | 300 |
+| Rodrigo Vega Torres | Las Palmas de G.C. | O.I. | 270 |
+| Hros. Francisco Vega Suárez | Las Palmas de G.C. | O.I. | 270 |
+| Jose Peña Suárez | Las Palmas de G.C. | O.I. | 600 |
+| Transportes Aguas Naranjo, S.A. | Jinámar | O.I. | 1.300 |
+| Manuel Naranjo Blanco | Las Remudas | O.I. | 1.300 |
+| Jose Medina Bethencourt | Mar Pequeña | O.I. | 640 |
+| Alcampo | Telde | O.I. | 50 |
+| Manrique de Lara S.A. | Telde | O.I. | 1.000 |
+| Juan Suárez | Telde | O.I. | 300 |
+| Jose Peña Déniz | Telde | O.I. | 750 |
+| Hermanos Guerra-Brito | Telde | O.I. | 250 |
+| Plátanos Insulares, S.L. | Finca del Goro | O.I. | 830 |
+| José Toledo Rodríguez | Ingenio | O.I. | 200 |
+| SAT. Cruce de Arinaga | Agüimes | O.I. | 625 |
+| SAT. Cienfuegos | Bco. de Balos | O.I. | 830 |
+| Jose Ojeda Sánchez | Agüimes | O.I. | 400 |
+| Cooperativa Roque Aguayro | Agüimes | O.I. | 400 |
+| Polígono de Arinaga | Agüimes | E.D.R. | 650 |
+| Hermanos Peñate | Vecindario | O.I. | 850 |
+| Cooperativa Yeoward | Vecindario | O.I. | 900 |
+| Cdad. Agrícola El Cruce | Santa Lucía | O.I. | 750 |
+| Cdad. de Aguas Las Hespérides | Santa Lucía | O.I. | 400 |
+| Eléctrica Maspalomas | Castillo del Romeral | O.I. | 555 |
+| Juliano Bonny Gómez, S.A. | San Bartolomé | O.I. | 2.500 |
+| Elmasa I | San Agustín | E.D.R. | 20.000 |
+| COPAISAN | S. Nicolás de Tolentino | O.I. | 1.400 |
+| Hermanos del Río |  | O.I. | 850 |
+| SAT. Nicolases |  | O.I. | 850 |
+| SAT. Caracas |  | O.I. | 830 |
+
+O.I.: Osmosis Inversa
+
+E.D.R.: Electro-diálisis Reversiva

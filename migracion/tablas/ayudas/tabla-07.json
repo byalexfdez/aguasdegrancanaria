@@ -1,0 +1,36 @@
+{
+  "fuente": "/ayudas.php",
+  "indice": 7,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Plan estratégico de subvenciones",
+      ""
+    ],
+    [
+      "Subvención al agua de riego",
+      ""
+    ],
+    [
+      "Concesiones Administrativas: NO",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2021_plan_subvenciones.pdf"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2021_subvencion_aguariego.pdf"
+    }
+  ]
+}

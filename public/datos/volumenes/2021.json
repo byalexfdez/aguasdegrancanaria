@@ -1,0 +1,747 @@
+{
+ "anio": 2021,
+ "fichero": "/documentos/pdfs/presas/volumenes/20211031.pdf",
+ "hoja": "PDF",
+ "origen": "pdf",
+ "titulo": "VOLÚMENES DE PRESAS DE GRAN CANARIA (lecturas de septiembre y octubre de 2021)",
+ "presas": [
+  {
+   "presa": "CHIRA",
+   "grupo": "Cabildo",
+   "altura_maxima_m": 32.0,
+   "volumen_maximo_m3": 5640000.0,
+   "meses": [
+    {
+     "mes": "enero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "febrero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "marzo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "abril",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "mayo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "junio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "julio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "agosto",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "septiembre",
+     "altura_m": 16.67,
+     "volumen_m3": 1121605.0,
+     "variacion_m3": -63607.0,
+     "porcentaje": 0.2
+    },
+    {
+     "mes": "octubre",
+     "altura_m": 16.34,
+     "volumen_m3": 1066485.0,
+     "variacion_m3": -55120.0,
+     "porcentaje": 0.19
+    },
+    {
+     "mes": "noviembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "diciembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    }
+   ]
+  },
+  {
+   "presa": "AYAGAURES",
+   "grupo": "Cabildo",
+   "altura_maxima_m": 40.0,
+   "volumen_maximo_m3": 1848000.0,
+   "meses": [
+    {
+     "mes": "enero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "febrero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "marzo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "abril",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "mayo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "junio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "julio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "agosto",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "septiembre",
+     "altura_m": 27.6,
+     "volumen_m3": 650658.0,
+     "variacion_m3": -24921.0,
+     "porcentaje": 0.35
+    },
+    {
+     "mes": "octubre",
+     "altura_m": 27.2,
+     "volumen_m3": 624220.0,
+     "variacion_m3": -26438.0,
+     "porcentaje": 0.34
+    },
+    {
+     "mes": "noviembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "diciembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    }
+   ]
+  },
+  {
+   "presa": "GAMBUESA",
+   "grupo": "Cabildo",
+   "altura_maxima_m": 42.0,
+   "volumen_maximo_m3": 1348000.0,
+   "meses": [
+    {
+     "mes": "enero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "febrero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "marzo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "abril",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "mayo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "junio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "julio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "agosto",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "septiembre",
+     "altura_m": 28.7,
+     "volumen_m3": 484819.0,
+     "variacion_m3": -4199.0,
+     "porcentaje": 0.36
+    },
+    {
+     "mes": "octubre",
+     "altura_m": 28.5,
+     "volumen_m3": 475569.0,
+     "variacion_m3": -9250.0,
+     "porcentaje": 0.35
+    },
+    {
+     "mes": "noviembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "diciembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    }
+   ]
+  },
+  {
+   "presa": "CANDELARIA",
+   "grupo": "Cabildo",
+   "altura_maxima_m": 25.0,
+   "volumen_maximo_m3": 396000.0,
+   "meses": [
+    {
+     "mes": "enero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "febrero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "marzo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "abril",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "mayo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "junio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "julio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "agosto",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "septiembre",
+     "altura_m": 17.35,
+     "volumen_m3": 126744.0,
+     "variacion_m3": -10731.0,
+     "porcentaje": 0.32
+    },
+    {
+     "mes": "octubre",
+     "altura_m": 16.8,
+     "volumen_m3": 114496.0,
+     "variacion_m3": -12248.0,
+     "porcentaje": 0.29
+    },
+    {
+     "mes": "noviembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "diciembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    }
+   ]
+  },
+  {
+   "presa": "FATAGA",
+   "grupo": "Cabildo",
+   "altura_maxima_m": 32.0,
+   "volumen_maximo_m3": 327000.0,
+   "meses": [
+    {
+     "mes": "enero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "febrero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "marzo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "abril",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "mayo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "junio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "julio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "agosto",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "septiembre",
+     "altura_m": 14.6,
+     "volumen_m3": 33874.0,
+     "variacion_m3": -14405.0,
+     "porcentaje": 0.1
+    },
+    {
+     "mes": "octubre",
+     "altura_m": 12.12,
+     "volumen_m3": 19209.0,
+     "variacion_m3": -14665.0,
+     "porcentaje": 0.06
+    },
+    {
+     "mes": "noviembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "diciembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    }
+   ]
+  },
+  {
+   "presa": "VAQUERO",
+   "grupo": "Cabildo",
+   "altura_maxima_m": 35.0,
+   "volumen_maximo_m3": 267000.0,
+   "meses": [
+    {
+     "mes": "enero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "febrero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "marzo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "abril",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "mayo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "junio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "julio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "agosto",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "septiembre",
+     "altura_m": 29.8,
+     "volumen_m3": 167827.0,
+     "variacion_m3": -12439.0,
+     "porcentaje": 0.63
+    },
+    {
+     "mes": "octubre",
+     "altura_m": 29.0,
+     "volumen_m3": 155064.0,
+     "variacion_m3": -12763.0,
+     "porcentaje": 0.58
+    },
+    {
+     "mes": "noviembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "diciembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    }
+   ]
+  },
+  {
+   "presa": "EL MULATO",
+   "grupo": "Cabildo",
+   "altura_maxima_m": 35.0,
+   "volumen_maximo_m3": 759000.0,
+   "meses": [
+    {
+     "mes": "enero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "febrero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "marzo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "abril",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "mayo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "junio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "julio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "agosto",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "septiembre",
+     "altura_m": 29.79,
+     "volumen_m3": 435391.0,
+     "variacion_m3": -16787.0,
+     "porcentaje": 0.57
+    },
+    {
+     "mes": "octubre",
+     "altura_m": 29.49,
+     "volumen_m3": 420021.0,
+     "variacion_m3": -15370.0,
+     "porcentaje": 0.55
+    },
+    {
+     "mes": "noviembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "diciembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    }
+   ]
+  },
+  {
+   "presa": "SORIA",
+   "grupo": "Otras grandes  presas",
+   "altura_maxima_m": 120.0,
+   "volumen_maximo_m3": 12924960.0,
+   "meses": [
+    {
+     "mes": "enero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "febrero",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "marzo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "abril",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "mayo",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "junio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "julio",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "agosto",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "septiembre",
+     "altura_m": 40.89,
+     "volumen_m3": 757544.0,
+     "variacion_m3": -93640.0,
+     "porcentaje": 0.06
+    },
+    {
+     "mes": "octubre",
+     "altura_m": 39.77,
+     "volumen_m3": 682290.0,
+     "variacion_m3": -75254.0,
+     "porcentaje": 0.05
+    },
+    {
+     "mes": "noviembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    },
+    {
+     "mes": "diciembre",
+     "altura_m": null,
+     "volumen_m3": null,
+     "variacion_m3": null,
+     "porcentaje": null
+    }
+   ]
+  }
+ ],
+ "totales": [],
+ "notas": []
+}

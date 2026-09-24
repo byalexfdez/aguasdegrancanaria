@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/criterios_sanitarios.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 01/07/2003",
+      "Título",
+      "Criterios sanitarios de la calidad del agua de consumo humano.",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Real Decreto 140/2003, de 7 de febrero: criterios sanitarios que deben cumplir las aguas de consumo humano y las instalaciones que permiten su suministro desde la captación hasta el grifo del consumidor y el control de éstas, garantizando su salubridad, calidad y limpieza",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua Abasto",
+      "",
+      "Real Decreto",
+      "España"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

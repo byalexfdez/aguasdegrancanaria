@@ -1,0 +1,32 @@
+{
+  "fuente": "/servicios/legislacion/españa/criterios_sanitarios.php",
+  "indice": 14,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [
+    [
+      "Capacidad del depósito en m³",
+      "Número mínimo de muestras al año"
+    ]
+  ],
+  "filas": [
+    [
+      "< 1.000",
+      "A criterio de la autoridad sanitaria"
+    ],
+    [
+      "> 1.000 - < 10.000",
+      "1"
+    ],
+    [
+      "> 10.000 - < 100.000",
+      "2"
+    ],
+    [
+      "> 100.000",
+      "6"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

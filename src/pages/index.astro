@@ -1,0 +1,236 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Icono from '../components/Icono.astro';
+import TarjetaNoticia from '../components/TarjetaNoticia.astro';
+import { perfiles, nodo } from '../lib/navegacion';
+import { ultimaLectura } from '../lib/volumenes';
+import { numero } from '../lib/formato';
+import portada from '../data/portada.json';
+import censo from '../data/censo-resumen.json';
+
+const noticias = (await getCollection('noticias')).sort((a, b) => (b.data.fecha?.getTime() ?? 0) - (a.data.fecha?.getTime() ?? 0) || (a.data.orden_origen ?? 0) - (b.data.orden_origen ?? 0));
+const anuncios = (await getCollection('anuncios')).sort((a, b) => (a.data.orden_origen ?? 0) - (b.data.orden_origen ?? 0)).slice(0, 4);
+const lectura = ultimaLectura();
+
+// Accesos rápidos de la portada actual (mismos textos y destinos).
+const accesos = [
+  { t: 'El Consejo', u: '/el-consejo/', i: 'institucion' },
+  { t: 'Sede Electrónica', u: 'https://consejoinsularaguasgrancanaria.sedelectronica.es', i: 'edificio' },
+  { t: 'Economía y Hacienda', u: 'https://consejoinsularaguasgrancanaria.sedelectronica.es/e-invoice', i: 'euro' },
+  { t: 'Perfil del Contratante', u: 'https://community.vortal.biz/sts/Login?SkinName=aguasgrancanaria', i: 'maletin' },
+  { t: 'Noticias', u: '/actualidad/noticias/', i: 'noticias' },
+  { t: 'Anuncios', u: '/actualidad/anuncios/', i: 'megafono' },
+  { t: 'Transparencia', u: '/transparencia/', i: 'balanza' },
+  { t: 'Empleo', u: 'https://consejoinsularaguasgrancanaria.sedelectronica.es/board/9753e838-f59b-11de-b600-00237da12c6a/', i: 'personas' },
+];
+
+// Cifras: todas proceden de textos o datos publicados en la web actual (se enlaza la fuente).
+const cifras = [
+  { n: 69, d: 0, pre: '', suf: '', t: 'grandes presas en la isla', fuente: '/agua-en-gran-canaria/presas/' },
+  { n: 42.8, d: 1, pre: '', suf: ' hm³', t: 'de aguas superficiales que el Cabildo puede almacenar en sus presas', fuente: '/agua-en-gran-canaria/presas/' },
+  { n: 235, d: 0, pre: '', suf: '', t: 'puntos de observación en la red pluviométrica', fuente: '/agua-en-gran-canaria/pluviometros/' },
+  { n: 800, d: 0, pre: '≈ ', suf: '', t: 'concesiones de aprovechamientos de agua superficiales', fuente: '/agua-en-gran-canaria/presas/' },
+  { n: censo.total, d: 0, pre: '', suf: '', t: 'instalaciones hidráulicas subterráneas en el censo insular', fuente: '/agua-en-gran-canaria/instalaciones-hidraulicas-subterraneas/' },
+];
+
+const PERFIL_ICONO: Record<string, string> = { ciudadania: 'comunidad', regantes: 'tractor', empresas: 'maletin', administracion: 'prensa' };
+const destacados = [
+  { t: 'Presas', u: '/agua-en-gran-canaria/presas/', img: '/imagenes/img/sliderpresa.webp' },
+  { t: 'Plan Hidrológico', u: '/planificacion/plan-hidrologico/', img: '/imagenes/img/sliderplan.webp' },
+  { t: 'Desaladoras', u: '/agua-en-gran-canaria/desaladoras/', img: '/imagenes/img/sliderdesa.webp' },
+];
+const ext = (u: string) => /^https?:/.test(u);
+const video = portada.video;
+const yt = portada.youtube[0];
+const redes = portada.redes as { red: string; url: string }[];
+const ICONO_RED: Record<string, string> = { Instagram: 'instagram', Facebook: 'facebook', X: 'x' };
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase();
+---
+<Base titulo="Inicio" url="/" descripcion="Consejo Insular de Aguas de Gran Canaria: presas y estado de los embalses, planificación hidrológica, normativa, trámites, transparencia y actualidad del agua en Gran Canaria.">
+  <!-- HERO -->
+  <section class="relative isolate overflow-hidden bg-atlantico-950 text-white" aria-labelledby="titulo-portada">
+    <img src="/imagenes/img/chira-aerrea-canarias7.webp" srcset="/imagenes/img/chira-aerrea-canarias7-640.webp 640w, /imagenes/img/chira-aerrea-canarias7-960.webp 960w, /imagenes/img/chira-aerrea-canarias7.webp 1200w" sizes="100vw" alt="" width="1200" height="840" fetchpriority="high" decoding="async" class="absolute inset-0 -z-20 h-full w-full object-cover" />
+    {video && <video id="video-portada" class="absolute inset-0 -z-10 h-full w-full object-cover" src={video.url} preload="none" muted playsinline loop hidden aria-label={video.titulo}></video>}
+    <div class="absolute inset-0 -z-10 bg-gradient-to-r from-atlantico-950/95 via-atlantico-950/75 to-atlantico-950/25" aria-hidden="true"></div>
+    <div class="absolute inset-0 -z-10 ondas-fondo opacity-30 mix-blend-screen" aria-hidden="true"></div>
+    <div class="contenedor pt-16 pb-32 md:pt-24 md:pb-44">
+      <p class="antetitulo !text-turquesa-300">Consejo Insular de Aguas de Gran Canaria</p>
+      <h1 id="titulo-portada" class="mt-4 max-w-3xl text-[clamp(2.4rem,1.4rem+4.2vw,4.6rem)] font-bold leading-[1.02]">
+        El agua de Gran Canaria, <span class="text-turquesa-300">en datos</span> y <span class="text-marca-300">en paisaje</span>
+      </h1>
+      <form action="/buscar/" method="get" role="search" class="mt-10 max-w-2xl">
+        <label for="q-portada" class="sr-only">Buscar en la web del Consejo</label>
+        <div class="flex items-center gap-2 rounded-full bg-white p-1.5 pl-5 shadow-[var(--shadow-elevada)]">
+          <Icono nombre="buscar" tam={20} clase="text-basalto-500 shrink-0" />
+          <input id="q-portada" name="q" type="search" placeholder="Buscar trámites, documentos, normativa…" class="min-w-0 flex-1 bg-transparent py-2.5 text-basalto-900 placeholder:text-basalto-500 outline-none" autocomplete="off" />
+          <button class="boton boton-primario">Buscar</button>
+        </div>
+      </form>
+      {video && (
+        <button type="button" class="mt-8 inline-flex items-center gap-3 rounded-full bg-white/10 py-2 pl-2 pr-5 text-sm font-semibold text-white backdrop-blur hover:bg-white/20" data-video-control aria-controls="video-portada" aria-pressed="false" data-etq-play={`Ver vídeo: ${video.titulo}`}>
+          <span class="grid place-items-center size-10 rounded-full bg-white text-atlantico-900"><Icono nombre="play" tam={18} clase="i-play" /><Icono nombre="pausa" tam={18} clase="i-pausa hidden" /></span>
+          <span data-etq>Ver vídeo: {video.titulo}</span>
+        </button>
+      )}
+    </div>
+    <svg class="absolute bottom-0 left-0 w-full h-10 md:h-16 text-fondo" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true"><path fill="currentColor" d="M0 40c160-20 320-30 480-22s320 36 480 34 320-30 480-38v50H0z" /></svg>
+  </section>
+
+  <!-- ACCESOS RÁPIDOS -->
+  <section class="contenedor -mt-16 md:-mt-24 relative z-10" aria-labelledby="t-accesos">
+    <h2 id="t-accesos" class="sr-only">Accesos rápidos</h2>
+    <ul class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-3">
+      {accesos.map((a, i) => (
+        <li class="revelar" style={`transition-delay:${i * 50}ms`}>
+          <a href={a.u} class="tarjeta tarjeta-enlace group flex h-full flex-col items-center gap-3 p-4 text-center no-underline text-texto" {...(ext(a.u) ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>
+            <span class="grid place-items-center size-12 rounded-2xl bg-marca-50 text-marca-700 group-hover:bg-marca-700 group-hover:text-white transition-colors dark:bg-marca-900 dark:text-marca-200"><Icono nombre={a.i} /></span>
+            <span class="text-sm font-semibold leading-tight">{a.t}{ext(a.u) && <span class="sr-only"> (abre en una ventana nueva)</span>}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <!-- CIFRAS -->
+  <section class="contenedor mt-20 md:mt-28" aria-labelledby="t-cifras">
+    <div class="max-w-2xl">
+      <p class="antetitulo">Gran Canaria en cifras</p>
+      <h2 id="t-cifras" class="mt-2 text-3xl md:text-4xl font-bold text-atlantico-900 dark:text-white">Una isla que ha aprendido a guardar cada gota</h2>
+    </div>
+    <dl class="mt-10 grid gap-px overflow-hidden rounded-[var(--radius-tarjeta)] border border-borde bg-borde sm:grid-cols-2 lg:grid-cols-5">
+      {cifras.map((c) => (
+        <div class="flex flex-col gap-2 bg-superficie p-6">
+          <dt class="order-2 text-sm text-texto-suave">{c.t} <a href={c.fuente} class="text-xs whitespace-nowrap">Ver fuente</a></dt>
+          <dd class="order-1 font-display text-4xl font-bold text-marca-700 dark:text-marca-300 tabular-nums">{c.pre}<span data-contador={c.n} data-decimales={c.d}>{numero(c.n, c.d)}</span>{c.suf}</dd>
+        </div>
+      ))}
+    </dl>
+  </section>
+
+  <!-- EMBALSES -->
+  {lectura && (
+    <section class="mt-20 md:mt-28 bg-atlantico-900 text-white relative isolate overflow-hidden" aria-labelledby="t-embalses">
+      <div class="absolute inset-0 -z-10 ondas-fondo opacity-50" aria-hidden="true"></div>
+      <div class="contenedor py-16 md:py-20 grid gap-12 lg:grid-cols-[1fr_1.4fr] items-center">
+        <div>
+          <p class="antetitulo !text-turquesa-300">Estado de los embalses</p>
+          <h2 id="t-embalses" class="mt-2 text-3xl md:text-4xl font-bold">Presas gestionadas por el Consejo</h2>
+          <p class="mt-4 text-white/80">Lecturas de fin de mes · {cap(lectura.mes)} de {lectura.anio}</p>
+          {lectura.porcentajeTotal != null && (
+            <p class="mt-8 flex items-end gap-3">
+              <span class="font-display text-7xl font-bold leading-none tabular-nums"><span data-contador={(lectura.porcentajeTotal * 100).toFixed(1)} data-decimales="1">{numero(lectura.porcentajeTotal * 100, 1)}</span><span class="text-4xl"> %</span></span>
+              <span class="pb-2 text-sm text-white/75 max-w-[16ch]">embalsado respecto al volumen máximo</span>
+            </p>
+          )}
+          {lectura.volumenTotal != null && <p class="mt-3 text-white/80">{numero(lectura.volumenTotal)} m³ · volumen teórico total</p>}
+          <a href="/agua-en-gran-canaria/presas/volumenes/" class="boton boton-claro mt-8">Ver el panel de embalses <Icono nombre="flecha" tam={18} /></a>
+        </div>
+        <ul class="grid gap-3" aria-label={`Porcentaje embalsado por presa, ${lectura.mes} de ${lectura.anio}`}>
+          {lectura.presas.map((p) => (
+            <li class="grid grid-cols-[7.5rem_1fr_4.5rem] items-center gap-3 text-sm">
+              <span class="font-semibold truncate">{cap(p.presa)}</span>
+              <span class="h-3 rounded-full bg-white/10 overflow-hidden" aria-hidden="true"><span class="block h-full rounded-full bg-gradient-to-r from-turquesa-500 to-marca-400" style={`width:${Math.max(0, Math.min(100, (p.porcentaje ?? 0) * 100))}%`}></span></span>
+              <span class="text-right tabular-nums">{p.porcentaje == null ? '—' : `${numero(p.porcentaje * 100, 1)} %`}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+  <!-- PERFILES -->
+  <section class="contenedor mt-20 md:mt-28" aria-labelledby="t-perfiles">
+    <div class="max-w-2xl">
+      <p class="antetitulo">¿Qué necesitas?</p>
+      <h2 id="t-perfiles" class="mt-2 text-3xl md:text-4xl font-bold text-atlantico-900 dark:text-white">Encuentra lo que buscas según quién eres</h2>
+    </div>
+    <div class="mt-10 grid gap-5 md:grid-cols-2 xl:grid-cols-4">
+      {perfiles.map((p, i) => (
+        <div class="tarjeta p-6 flex flex-col revelar" style={`transition-delay:${i * 80}ms`}>
+          <span class="grid place-items-center size-12 rounded-2xl bg-turquesa-100 text-turquesa-700 dark:bg-turquesa-700 dark:text-white"><Icono nombre={PERFIL_ICONO[p.id]} /></span>
+          <h3 class="mt-4 font-display text-xl font-bold text-atlantico-900 dark:text-white">{p.titulo}</h3>
+          <p class="mt-1 text-sm text-texto-suave">{p.entradilla}</p>
+          <ul class="mt-4 grid gap-1 border-t border-borde pt-4">
+            {p.enlaces.map((id) => { const n = nodo(id)!; return (
+              <li><a href={n.url} class="group flex items-center justify-between gap-2 rounded-lg py-1.5 no-underline font-medium hover:text-marca-800" {...(n.externo ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>{n.titulo}<Icono nombre={n.externo ? 'externo' : 'derecha'} tam={16} clase="shrink-0 opacity-60 group-hover:opacity-100" /></a></li>
+            ); })}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- ACTUALIDAD -->
+  <section class="contenedor mt-20 md:mt-28" aria-labelledby="t-actualidad">
+    <div class="flex flex-wrap items-end justify-between gap-4">
+      <div>
+        <p class="antetitulo">Actualidad</p>
+        <h2 id="t-actualidad" class="mt-2 text-3xl md:text-4xl font-bold text-atlantico-900 dark:text-white">Noticias del agua en Gran Canaria</h2>
+      </div>
+      <a href="/actualidad/noticias/" class="boton boton-borde">Todas las noticias <Icono nombre="flecha" tam={18} /></a>
+    </div>
+    <div class="mt-10 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+      <TarjetaNoticia noticia={noticias[0]} destacada />
+      {noticias.slice(1, 4).map((n) => <TarjetaNoticia noticia={n} />)}
+      <aside class="tarjeta p-6 flex flex-col md:col-span-2 lg:col-span-2" aria-labelledby="t-anuncios">
+        <div class="flex items-center justify-between gap-3">
+          <h3 id="t-anuncios" class="font-display text-xl font-bold text-atlantico-900 dark:text-white flex items-center gap-2"><Icono nombre="megafono" clase="text-calido-700" /> Anuncios</h3>
+          <a href="/actualidad/anuncios/" class="text-sm font-semibold">Ver todos los anuncios</a>
+        </div>
+        <ul class="mt-4 grid gap-x-8 md:grid-cols-2 divide-y md:divide-y-0 divide-borde">
+          {anuncios.map((a) => (
+            <li class="py-3 md:border-t md:border-borde">
+              <p class="font-semibold leading-snug">{a.data.titulo}</p>
+              {a.data.expediente && <p class="text-sm text-texto-suave">Expediente {a.data.expediente}</p>}
+              {a.data.adjuntos[0] && <a href={a.data.adjuntos[0].url} class="mt-1 inline-flex items-center gap-1 text-sm font-semibold"><Icono nombre="descargar" tam={15} /> {a.data.adjuntos[0].texto ?? 'Descargar'}</a>}
+            </li>
+          ))}
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+  <!-- DESTACADOS (slider de la portada actual) -->
+  <section class="contenedor mt-20 md:mt-28" aria-labelledby="t-destacados">
+    <h2 id="t-destacados" class="sr-only">Destacados</h2>
+    <ul class="grid gap-5 md:grid-cols-3">
+      {destacados.map((d) => (
+        <li>
+          <a href={d.u} class="group block overflow-hidden rounded-[var(--radius-tarjeta)] shadow-[var(--shadow-tarjeta)] no-underline">
+            <img src={d.img} alt={d.t} width="1955" height="543" loading="lazy" decoding="async" class="aspect-[1955/543] w-full object-cover transition-transform duration-700 group-hover:scale-105" />
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <!-- SALTO DE CHIRA + REDES -->
+  <section class="contenedor mt-20 md:mt-28 grid gap-8 lg:grid-cols-[1.4fr_1fr] items-center" aria-labelledby="t-chira">
+    {yt && (
+      <div class="fachada rounded-[var(--radius-tarjeta)] aspect-video" data-src={yt.src} data-titulo={yt.titulo ?? 'Salto de Chira'}>
+        <div>
+          <Icono nombre="youtube" tam={48} clase="mx-auto text-white/90" />
+          <p class="mt-3 mx-auto">Este vídeo se sirve desde YouTube, que puede instalar cookies propias.</p>
+          <button type="button" class="boton boton-claro mt-4" data-cargar>Cargar vídeo</button>
+        </div>
+      </div>
+    )}
+    <div>
+      <div class="flex items-center gap-5">
+        <img src="/imagenes/logo_sdc.png" alt="Salto de Chira" width="91" height="132" loading="lazy" class="h-20 w-auto shrink-0" />
+        <div>
+          <p class="antetitulo">Salto de Chira</p>
+          <h2 id="t-chira" class="mt-2 text-3xl font-bold text-atlantico-900 dark:text-white">Central Reversible Chira-Soria</h2>
+        </div>
+      </div>
+      <a href="/agua-en-gran-canaria/salto-de-chira/" class="boton boton-primario mt-6">Concurso hidroeléctrico <Icono nombre="flecha" tam={18} /></a>
+      <h3 class="mt-12 font-display font-bold text-lg">Redes sociales</h3>
+      <ul class="mt-3 flex gap-3">
+        {redes.map((r) => (
+          <li><a href={r.url} target="_blank" rel="noopener noreferrer" class="grid place-items-center size-12 rounded-full bg-marca-50 text-marca-800 hover:bg-marca-700 hover:text-white dark:bg-marca-900 dark:text-white" aria-label={`${r.red} (abre en una ventana nueva)`}><Icono nombre={ICONO_RED[r.red] ?? 'externo'} /></a></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+</Base>

@@ -1,0 +1,444 @@
+[
+  {
+    "url": "/agua-en-gran-canaria/presas/",
+    "hallazgos": [
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "MÁXIMO(m³)Chira325.640.000Ayagaures401.848.000Gambuesa421.34",
+          "UmbríaTenoya-GuiniguadaCastillejos571623.04324PiletasTenoya-"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/divulgacion/plan-hidrologico-1988/el-uso-del-agua/",
+    "hallazgos": [
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "197519771983198619901996SPA-15MAC-21IRYDAACHAACHAACHAPlatane",
+          "Inv.6787699621.1241.222847,20Frutales6395611.1661.2721.2931."
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/divulgacion/plan-hidrologico-1988/principios-directrices-y-previsiones/",
+    "hallazgos": [
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "I/hab/día200220062012<10.00017519020010.00050.00020021522550",
+          "1996200220062012Urbana4355,562,568Turística11,51416,519Indus"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/tabla-1-estaciones-depuradoras/",
+    "hallazgos": [
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "RiscoAgaete600600SardinaGáldar2002002.000Guía-GáldarGáldar3.",
+          "PalmasGuía5030500MoyaMoya5007305.000FontanalesMoya7575750Bañ"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/divulgacion/plan-hidrologico-1988/recursos-superficiales/tabla-1-grandes-presas/",
+    "hallazgos": [
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "PintorTamaraceiteTamaraceite471.00025PiletasTamaraceitePilet",
+          "Brígida86.00031SatautejoGuiniguadaSatuejo123.80032ToronjoGui"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/divulgacion/plan-hidrologico-1988/recursos-superficiales/tabla-2-obras-de-almacenamiento/",
+    "hallazgos": [
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "ºHm3NºTenoya-Guiniguada3,35911,504Guiniguada0,94711,127Guini",
+          "Aldea-Agaete0,0320,361Agaete0,0004,505Agaete-Moya0,261931,71"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/el-consejo/juntas-y-sesiones/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 6
+      },
+      {
+        "tipo": "tabla-una-columna",
+        "filas": 34
+      },
+      {
+        "tipo": "tabla-una-columna",
+        "filas": 15
+      }
+    ]
+  },
+  {
+    "url": "/planificacion/red-de-control-2009/",
+    "hallazgos": [
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "químicoES70GC001NOROESTE41214ES70GC002NORTE479ES70GC003NORES"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/planificacion/riesgo-de-inundacion/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      }
+    ]
+  },
+  {
+    "url": "/servicios/contratacion/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-columna",
+        "filas": 5
+      },
+      {
+        "tipo": "tabla-una-columna",
+        "filas": 6
+      },
+      {
+        "tipo": "tabla-una-columna",
+        "filas": 5
+      },
+      {
+        "tipo": "tabla-una-columna",
+        "filas": 5
+      },
+      {
+        "tipo": "tabla-una-columna",
+        "filas": 5
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/canarias/buenas-practicas/",
+    "hallazgos": [
+      {
+        "tipo": "parrafo-en-mayusculas",
+        "n": 3,
+        "ej": "8. CAPACIDAD Y DISEÑO DE LOS TANQUES DE ALMACENAMIENTO DE ESTIÉRCOL, Y MEDIDAS P"
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/canarias/convenio-colaboracion/",
+    "hallazgos": [
+      {
+        "tipo": "parrafo-en-mayusculas",
+        "n": 1,
+        "ej": "CONVENIO DE COLABORACIÓN ENTRE EL MINISTERIO DE MEDIO AMBIENTE Y EL GOBIERNO DE\n"
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/canarias/derogado/",
+    "hallazgos": [
+      {
+        "tipo": "parrafo-en-mayusculas",
+        "n": 1,
+        "ej": "ANEXO II. PLANES, PROYECTOS Y ACTIVIDADES SUJETAS A EVALUACION DETALLADA DE IMPA"
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/canarias/instalaciones-suministros/",
+    "hallazgos": [
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "............................................................",
+          "............................................................"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/canarias/nitratos/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-columna",
+        "filas": 2
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/canarias/suelos-contaminados/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/canarias/tramitacion/",
+    "hallazgos": [
+      {
+        "tipo": "parrafo-en-mayusculas",
+        "n": 1,
+        "ej": "DOCUMENTOS QUE SE DEBEN APORTAR PARA SOLICITAR LAS CONCESIONES DE OCUPACION EN E"
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/aguas-urbanas/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/contratos/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 3
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/contratos-administraciones/",
+    "hallazgos": [
+      {
+        "tipo": "parrafo-en-mayusculas",
+        "n": 1,
+        "ej": "CAPÍTULO II. DE LA ADQUISICIÓN DE EQUIPOS Y SISTEMAS PARA EL TRATAMIENTO DE LA I"
+      },
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 3
+      },
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 3
+      },
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "15.000.000t>-1,01,62,22,83,4£1,01,62,22,83,4-V³15.000.000t>-",
+          "quinquenio>-1.500.0004.500.0007.500.00010.500.00013.500.000£"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/contratos-sector-publico/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      },
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 3
+      },
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 3
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/criterios-sanitarios/",
+    "hallazgos": [
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "de:Benzo(b)fluorantenoµg/lBenzo(ghi)perilenoµg/lBenzo(k)fluo",
+          "31/12/2003µg/lBromodiclorometanoµg/lBromoformoµg/lCloroformo"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/dominio-publico-nacional/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 3
+      },
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "CAS(1)Sustancia7439-97-6Mercurio7440-43-9Cadmio608-73-1Hexac",
+          "Isodrín118-74-1Hexaclorobenceno87-68-3Hexaclorobutadieno67-6"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/ley-aguas/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 3
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/nitratos/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-columna",
+        "filas": 2
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/planificacion-civil/",
+    "hallazgos": [
+      {
+        "tipo": "parrafo-en-mayusculas",
+        "n": 1,
+        "ej": "ACUERDO DEL CONSEJO DE MINISTROS POR EL QUE SE APRUEBA LA DIRECTRIZ BÁSICA DE PL"
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/reglamento-administracion/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 3
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/reutilizacion/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/sector-publico/",
+    "hallazgos": [
+      {
+        "tipo": "parrafo-en-mayusculas",
+        "n": 2,
+        "ej": "ANEXO II. MODELOS DE ANUNCIOS DE LICITACION Y ADJUDICACION DE LOS CONTRATOS PARA"
+      },
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 3
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/espana/tratamiento-aguas/",
+    "hallazgos": [
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "217-28329-40441-53554-67668-81782-95896-1109111-12510126-140"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/union-europea/aguas-residuales/",
+    "hallazgos": [
+      {
+        "tipo": "palabra-muy-larga",
+        "ej": [
+          "conformes4-718-16217-28329-40441-53554-67668-81782-95896-110"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/servicios/normativa/union-europea/directiva-subterranea/",
+    "hallazgos": [
+      {
+        "tipo": "parrafo-en-mayusculas",
+        "n": 1,
+        "ej": "INFORMACIÓN QUE DEBERÁN FACILITAR LOS ESTADOS MIEMBROS EN RELACIÓN CON LOS CONTA"
+      }
+    ]
+  },
+  {
+    "url": "/servicios/tarifas-canones-y-precios-publicos/",
+    "hallazgos": [
+      {
+        "tipo": "parrafo-en-mayusculas",
+        "n": 4,
+        "ej": "ORDENANZA FISCAL REGULADORA DE LA TASA ADMINISTRATIVA POR EL APROVECHAMIENTO, CO"
+      },
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      },
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      },
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      },
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      },
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      }
+    ]
+  },
+  {
+    "url": "/transparencia/ayudas-y-subvenciones/",
+    "hallazgos": [
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      },
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      }
+    ]
+  },
+  {
+    "url": "/transparencia/presupuestos/",
+    "hallazgos": [
+      {
+        "tipo": "markdown-sin-convertir",
+        "ej": [
+          "** NO DISPONIBLE 17/03/2025)Excel ODSArrendamiento de Bienes Inmuebles  (**"
+        ]
+      },
+      {
+        "tipo": "tabla-una-fila",
+        "cols": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "fuente": "/servicios/legislacion/españa/tratamiento_aguas.php",
+  "indice": 3,
+  "titulo": null,
+  "columnas": 4,
+  "cabeceras": [
+    [
+      "Parámetros",
+      "Concentración",
+      "Porcentaje mínimo de reducción (1)",
+      "Método de medida de referencia"
+    ],
+    [
+      "Fósforo total.",
+      "2 mg/l P (de 10000 a 100000 h-e).\n1 mg/I P (más de 100.000 h-e).",
+      "80",
+      "Espectrofotometría de absorción molecular."
+    ]
+  ],
+  "filas": [
+    [
+      "Nitrógeno total (2).",
+      "15 mg/l N (de 10000 a 100000 h-e).\n10 mg/l N (más de 100000 h-e) (3).",
+      "70-80",
+      "Espectrofotometría de absorción molecular."
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

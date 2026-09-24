@@ -1,0 +1,83 @@
+---
+import '@fontsource-variable/sora';
+import '@fontsource-variable/public-sans';
+import '../styles/global.css';
+import Cabecera from '../components/Cabecera.astro';
+import Pie from '../components/Pie.astro';
+import AvisoActivo from '../components/AvisoActivo.astro';
+
+interface Props {
+  titulo: string;
+  descripcion: string;
+  url?: string;
+  imagen?: string;
+  tipo?: 'website' | 'article';
+  jsonld?: Record<string, unknown>[];
+  sinBuscador?: boolean;
+}
+const { titulo, descripcion, imagen = '/imagenes/img/presas-gran-canaria.webp', tipo = 'website', jsonld = [], sinBuscador = false } = Astro.props;
+const url = Astro.props.url ?? Astro.url.pathname;
+const NOMBRE = 'Consejo Insular de Aguas de Gran Canaria';
+const tituloCompleto = url === '/' ? NOMBRE : `${titulo} · ${NOMBRE}`;
+const canonica = new URL(url, Astro.site).href;
+const organizacion = {
+  '@context': 'https://schema.org',
+  '@type': 'GovernmentOrganization',
+  name: NOMBRE,
+  url: Astro.site?.href,
+  logo: new URL('/imagenes/img/logo11.jpg', Astro.site).href,
+  telephone: '+34 928 29 34 56',
+  address: { '@type': 'PostalAddress', streetAddress: 'Avda. Juan XXIII, 2, 1ª planta', postalCode: '35004', addressLocality: 'Las Palmas de Gran Canaria', addressRegion: 'Las Palmas', addressCountry: 'ES' },
+  sameAs: ['https://www.instagram.com/aguasgrancanaria', 'https://www.facebook.com/people/Aguas-de-Gran-Canaria/61562404596313/', 'https://x.com/aguasgrancan/'],
+};
+---
+<!doctype html>
+<html lang="es" data-tema="claro">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{tituloCompleto}</title>
+    <meta name="description" content={descripcion} />
+    <link rel="canonical" href={canonica} />
+    <link rel="icon" href="/favicon.gif" type="image/gif" />
+    <link rel="preload" href="/marca/curvas-nivel.svg" as="image" type="image/svg+xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta name="theme-color" content="#0a2440" />
+    <meta property="og:type" content={tipo} />
+    <meta property="og:site_name" content={NOMBRE} />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:title" content={titulo} />
+    <meta property="og:description" content={descripcion} />
+    <meta property="og:url" content={canonica} />
+    <meta property="og:image" content={new URL(imagen, Astro.site).href} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script is:inline>
+      try { const t = localStorage.getItem('tema'); if (t === 'oscuro' || t === 'claro') document.documentElement.dataset.tema = t; } catch (e) {}
+    </script>
+    {[organizacion, ...jsonld].map((j) => <script type="application/ld+json" set:html={JSON.stringify(j)} />)}
+    <slot name="head" />
+  </head>
+  <body class="min-h-dvh flex flex-col antialiased">
+    <Cabecera url={url} />
+    <AvisoActivo />
+    <main id="contenido" tabindex="-1" class="flex-1 outline-none" style="view-transition-name: contenido" data-pagefind-body={sinBuscador ? undefined : ''}>
+      <slot />
+    </main>
+    <Pie />
+    <dialog id="visor" class="visor" aria-labelledby="visor-titulo">
+      <div class="visor-cabecera">
+        <h2 id="visor-titulo" class="font-display font-bold text-base truncate mr-auto"></h2>
+        <a data-visor-abrir href="#" target="_blank" rel="noopener" class="boton-visor">Abrir en otra pestaña<span class="sr-only"> (abre en una ventana nueva)</span></a>
+        <a data-visor-descargar href="#" download class="boton-visor">Descargar</a>
+        <button type="button" data-visor-cerrar class="grid place-items-center size-10 rounded-full hover:bg-superficie-2" aria-label="Cerrar visor">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12" /></svg>
+        </button>
+      </div>
+      <div class="visor-cuerpo" data-visor-cuerpo></div>
+      <p class="visor-pie" data-visor-pie aria-live="polite"></p>
+    </dialog>
+    <script>
+      import '../scripts/ui';
+    </script>
+  </body>
+</html>

@@ -1,0 +1,37 @@
+{
+  "fuente": "/servicios/tarifa.php",
+  "indice": 14,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "",
+      "",
+      "EUROS/m³"
+    ]
+  ],
+  "filas": [
+    [
+      "1.",
+      "Plantación en cauce público",
+      "0.06"
+    ],
+    [
+      "2.",
+      "Pista de acceso en cauce público",
+      "0.03"
+    ],
+    [
+      "3.",
+      "Pasarela sobre cauce público",
+      "0.06"
+    ],
+    [
+      "4.",
+      "Extracción de áridos en cauce público",
+      "0.42"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

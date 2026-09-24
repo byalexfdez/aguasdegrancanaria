@@ -1,0 +1,36 @@
+{
+  "fuente": "/servicios/legislacion/españa/tratamiento_aguas.php",
+  "indice": 2,
+  "titulo": null,
+  "columnas": 4,
+  "cabeceras": [
+    [
+      "Parámetros",
+      "Concentración",
+      "Porcentaje mínimo de reducción (1)",
+      "Método de medida de referencia"
+    ],
+    [
+      "Demanda bioquímica de oxígeno (DBO 5 a 20 ºC) sin nitrificación (2).",
+      "25 mg/l 02",
+      "70-90\n40 de conformidad con el apartado 3 del artículo 5 R.D.L. (3).",
+      "Muestra homogeneizada, sin filtrar ni decantar. Determinación antes y después de cinco díasde incubación a 20 ºC ± 1 ºC, en completa oscuridad.Aplicación de un inhibidor de la nitrificación."
+    ],
+    [
+      "Demanda química de oxígeno (DQO).",
+      "125 mg/l 02",
+      "75",
+      "Muestra homogeneizada, sin filtrar ni decantar. Dicromato potásico."
+    ]
+  ],
+  "filas": [
+    [
+      "Total de sólidos en suspensión.",
+      "35 mg/l (4)\n35 de conformidad con el apartado 3 del art. 5 R.D.L. (más de 10.000 h-e) (3).\n60 de conformidad con el apartado 3 del art. 5 R.D.L. (de 2.000 a 10.000 h-e (3).",
+      "90 (4)\n90 de conformidad con el apartado 3 del art. 5 R.D.L. (más de 10.000 h-e) (3).\n70 de conformidad con el apartado 3 del art. 5 R.D.L. (de 2.000 a 10.000 h-e) (3).",
+      "Filtración de una muestra representativa a través de una membrana de filtración de 0,45 micras. Secado a 105 ºC y pesaje.\nCentrifugación de una muestra representativa (durante cinco minutos como mínimo, con una aceleración media de 2.800 a 3.200 g), secado a 105 ºC y pesaje."
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

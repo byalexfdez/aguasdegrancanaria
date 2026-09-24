@@ -1,0 +1,25 @@
+---
+// Órganos de Gobierno: accesos a cada órgano (cargos y nombres tal cual) + contenido completo.
+import Icono from '../Icono.astro';
+import organos from '../../data/organos.json';
+const { entrada, headings = [] } = Astro.props;
+const norm = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, ' ').trim();
+const ancla = (t?: string) => (t ? headings.find((h: any) => norm(h.text) === norm(t))?.slug : undefined);
+const cap = (s: string) => s.charAt(0) + s.slice(1).toLowerCase();
+---
+<ul class="grid gap-4 sm:grid-cols-2 xl:grid-cols-5 mb-12">
+  {(organos as any[]).filter((o) => o.boton).map((o) => {
+    const slug = ancla(o.encabezados[0]);
+    return (
+      <li>
+        <a href={slug ? `#${slug}` : '#'} class="tarjeta tarjeta-enlace group flex h-full flex-col gap-2 p-5 no-underline text-texto">
+          <Icono nombre={/JUNTA/.test(o.boton) ? 'comunidad' : 'institucion'} clase="text-marca-700 dark:text-marca-300" />
+          <span class="antetitulo">{cap(o.boton)}</span>
+          {/^(D\.|Dª|Dña)/.test(o.encabezados[1] ?? '') && <span class="font-display font-bold leading-snug text-atlantico-900 dark:text-white">{o.encabezados[1]}</span>}
+          {!/^(D\.|Dª|Dña)/.test(o.encabezados[1] ?? '') && o.encabezados[0] && !/^(D\.|Dª)/.test(o.encabezados[0]) && o.encabezados[0].length < 60 && <span class="font-display font-bold leading-snug text-atlantico-900 dark:text-white">{o.encabezados[0]}</span>}
+        </a>
+      </li>
+    );
+  })}
+</ul>
+<article class="prosa"><slot /></article>

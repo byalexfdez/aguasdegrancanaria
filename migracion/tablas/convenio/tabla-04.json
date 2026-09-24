@@ -1,0 +1,46 @@
+{
+  "fuente": "/convenio.php",
+  "indice": 4,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Encomiendas de Gestión",
+      ""
+    ],
+    [
+      "Convenios",
+      ""
+    ],
+    [
+      "Subcontrataciones: NO",
+      ""
+    ],
+    [
+      "Modificaciones: NO",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2021-encomiendas.xlsx"
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2021-encomiendas.ods"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2021_no_convenios.pdf"
+    }
+  ]
+}

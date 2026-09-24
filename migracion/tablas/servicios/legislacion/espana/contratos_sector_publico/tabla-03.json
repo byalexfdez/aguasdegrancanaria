@@ -1,0 +1,25 @@
+{
+  "fuente": "/servicios/legislacion/españa/contratos_sector_publico.php",
+  "indice": 3,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 0,
+      "texto": "",
+      "url": "https://www.aguasgrancanaria.com/icons/ecblank.gif",
+      "imagen": true
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "https://www.aguasgrancanaria.com/icons/ecblank.gif",
+      "imagen": true
+    }
+  ]
+}

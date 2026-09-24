@@ -1,0 +1,32 @@
+{
+  "fuente": "/presupuesto.php",
+  "indice": 4,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Completo",
+      ""
+    ],
+    [
+      "Resumen",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/presupuesto_completo_-2022.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/presupuesto_2022.pdf"
+    }
+  ]
+}

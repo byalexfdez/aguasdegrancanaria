@@ -1,0 +1,38 @@
+{
+  "fuente": "/patrimonio.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Lista de Vehículos",
+      ""
+    ],
+    [
+      "Inmuebles Urbanos, Rústicos y Embalses",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/vehiculos.pdf"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/patrimonio.xlsx"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/patrimonio.ods"
+    }
+  ]
+}

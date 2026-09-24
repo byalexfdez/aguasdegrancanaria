@@ -1,0 +1,134 @@
+{
+  "fuente": "/obras.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Obras 2024",
+      ""
+    ],
+    [
+      "Obras 2023",
+      ""
+    ],
+    [
+      "Obras 2022",
+      ""
+    ],
+    [
+      "Obras 2021",
+      ""
+    ],
+    [
+      "Obras 2020",
+      ""
+    ],
+    [
+      "Obras 2019",
+      ""
+    ],
+    [
+      "Obras 2018",
+      ""
+    ],
+    [
+      "Obras 2017",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2024.xlsx"
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2024.ods"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2023.xlsx"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2023.ods"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2022.xlsx"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2022.ods"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2021.xlsx"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2021.ods"
+    },
+    {
+      "fila": 4,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2020.xlsx"
+    },
+    {
+      "fila": 4,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2020.ods"
+    },
+    {
+      "fila": 5,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2019.xlsx"
+    },
+    {
+      "fila": 5,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2019.ods"
+    },
+    {
+      "fila": 6,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2018.xlsx"
+    },
+    {
+      "fila": 6,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2018.ods"
+    },
+    {
+      "fila": 7,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/obras_2017.pdf"
+    }
+  ]
+}

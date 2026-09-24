@@ -1,0 +1,21 @@
+{
+  "fuente": "/servicios/tarifa.php",
+  "indice": 6,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [],
+  "filas": [
+    [
+      "",
+      "",
+      "EUROS"
+    ],
+    [
+      "1.",
+      "Inscripción o modificación de la inscripción\nen el Registro Insular de Aguas.",
+      "16.70"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

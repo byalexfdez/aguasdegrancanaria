@@ -1,0 +1,62 @@
+{
+  "fuente": "/servicios/legislacion/españa/contratos_administraciones.php",
+  "indice": 13,
+  "titulo": null,
+  "columnas": 8,
+  "cabeceras": [
+    [
+      "Años de experiencia",
+      ">",
+      "-",
+      "2",
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    [
+      "",
+      "£",
+      "2",
+      "5",
+      "10",
+      "15",
+      "20",
+      "-"
+    ]
+  ],
+  "filas": [
+    [
+      "Importe de trabajos de servicios\nejecutados en el ultimo trienio",
+      ">",
+      "-",
+      "150.000",
+      "450.000",
+      "750.000",
+      "1.050.000",
+      "1.350.000"
+    ],
+    [
+      "",
+      "£",
+      "1.500.000",
+      "450.000",
+      "750.000",
+      "1.050.000",
+      "1.350.000",
+      "-"
+    ],
+    [
+      "E=",
+      "",
+      "0",
+      "0,2",
+      "0,4",
+      "0,6",
+      "0,8",
+      "1"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

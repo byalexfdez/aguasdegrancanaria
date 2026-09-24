@@ -1,0 +1,52 @@
+---
+import Icono from './Icono.astro';
+import { secciones, legales, nodo } from '../lib/navegacion';
+import portada from '../data/portada.json';
+const redes = portada.redes as { red: string; url: string }[];
+const iconoRed: Record<string, string> = { Instagram: 'instagram', Facebook: 'facebook', X: 'x' };
+const enlacesLegales = [...legales.filter((l) => l.id !== 'mapa-web'), nodo('enlaces'), nodo('ubicacion'), nodo('mapa-web')].filter(Boolean) as { titulo: string; url: string }[];
+---
+<footer class="relative mt-24 bg-atlantico-950 text-white/85 overflow-hidden" aria-labelledby="pie-titulo">
+  <svg class="absolute -top-px left-0 w-full h-12 text-fondo" viewBox="0 0 1440 48" preserveAspectRatio="none" aria-hidden="true">
+    <path fill="currentColor" d="M0 0h1440v18c-120 14-240 22-360 16S840 12 720 18 480 40 360 38 120 22 0 26z" />
+  </svg>
+  <div class="absolute inset-0 opacity-40 ondas-fondo pointer-events-none" aria-hidden="true"></div>
+  <h2 id="pie-titulo" class="sr-only">Información del Consejo</h2>
+  <div class="relative contenedor pt-20 pb-10 grid gap-12 lg:grid-cols-[1.2fr_2fr]">
+    <div>
+      <a href="/" class="inline-block rounded-xl bg-white p-3 no-underline" aria-label="Consejo Insular de Aguas de Gran Canaria · Inicio">
+        <picture><source srcset="/imagenes/img/logo11-300.webp" type="image/webp" /><img src="/imagenes/img/logo11.jpg" alt="Consejo Insular de Aguas de Gran Canaria" width="600" height="200" class="h-14 w-auto" loading="lazy" /></picture>
+      </a>
+      <address class="not-italic mt-6 grid gap-3 text-[.95rem]">
+        <p class="flex gap-3"><Icono nombre="ubicacion" tam={20} clase="shrink-0 text-turquesa-300 mt-0.5" /><span>Avda. Juan XXIII, 2, 1ª planta<br />35004 Las Palmas de Gran Canaria</span></p>
+        <p class="flex gap-3"><Icono nombre="telefono" tam={20} clase="shrink-0 text-turquesa-300 mt-0.5" /><span>Teléfono: <a href="tel:+34928293456" class="text-white hover:text-marca-300">928 29 34 56</a></span></p>
+        <p class="flex gap-3"><Icono nombre="reloj" tam={20} clase="shrink-0 text-turquesa-300 mt-0.5" /><span>Horario de registro de entrada: 9:00 – 14:00<br /><span class="text-white/70">Julio, agosto y septiembre: 8:30 – 13:00</span></span></p>
+      </address>
+      <ul class="mt-6 flex gap-2" aria-label="Redes sociales">
+        {redes.map((r) => (
+          <li><a href={r.url} target="_blank" rel="noopener noreferrer" class="grid place-items-center size-11 rounded-full bg-white/10 text-white hover:bg-white/20" aria-label={`${r.red} (abre en una ventana nueva)`}><Icono nombre={iconoRed[r.red] ?? 'externo'} tam={20} /></a></li>
+        ))}
+      </ul>
+    </div>
+    <nav aria-label="Secciones" class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      {secciones.map((s) => (
+        <div>
+          <a href={s.url} class="font-display font-bold text-white no-underline hover:text-marca-300">{s.titulo}</a>
+          <ul class="mt-2 grid gap-1 text-[.9rem]">
+            {(s.hijos ?? []).filter((h) => !h.oculto_en_menu).slice(0, 5).map((h) => (
+              <li><a href={h.url} class="text-white/75 no-underline hover:text-white hover:underline" {...(h.externo ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>{h.titulo}</a></li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </nav>
+  </div>
+  <div class="relative border-t border-white/10">
+    <div class="contenedor py-6 flex flex-col md:flex-row gap-4 md:items-center justify-between text-[.85rem]">
+      <p class="text-white/70">© Consejo Insular de Aguas de Gran Canaria</p>
+      <ul class="flex flex-wrap gap-x-5 gap-y-2">
+        {enlacesLegales.map((l) => <li><a href={l.url} class="text-white/85 no-underline hover:text-white hover:underline">{l.titulo}</a></li>)}
+      </ul>
+    </div>
+  </div>
+</footer>

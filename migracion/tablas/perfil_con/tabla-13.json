@@ -1,0 +1,44 @@
+{
+  "fuente": "/perfil_con.php",
+  "indice": 13,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Contratos",
+      ""
+    ],
+    [
+      "Contratos Menores",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/contratosabiertos_2019.xlsx"
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/contratosabiertos_2019.ods"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/contratos_2019.xlsx"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/contratos_2019.ods"
+    }
+  ]
+}

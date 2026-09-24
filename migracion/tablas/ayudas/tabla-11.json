@@ -1,0 +1,22 @@
+{
+  "fuente": "/ayudas.php",
+  "indice": 11,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Concesión de subvención directa a INFECAR",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/convenios/decreto.pdf"
+    }
+  ]
+}

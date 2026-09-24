@@ -1,0 +1,56 @@
+{
+  "total": 4965,
+  "tipos": {
+    "mixed_well": 3544,
+    "gallery": 410,
+    "well": 819,
+    "exploration": 150,
+    "other": 39,
+    "boring": 3
+  },
+  "estados": {
+    "in_operation": 666,
+    "abandoned": 890,
+    "unknown": 2327,
+    "not_constructed": 1082
+  },
+  "etiquetas": {
+    "municipio": {
+      "agaete": "Agaete",
+      "aguimes": "Agüimes",
+      "la_aldea_de_san_nicolas": "La Aldea de San Nicolás",
+      "artenara": "Artenara",
+      "arucas": "Arucas",
+      "firgas": "Firgas",
+      "galdar": "Gáldar",
+      "ingenio": "Ingenio",
+      "mogan": "Mogán",
+      "moya": "Moya",
+      "las_palmas_de_gran_canaria": "Las Palmas de Gran Canaria",
+      "san_bartolome_de_tirajana": "San Bartolomé de Tirajana",
+      "santa_brigida": "Santa Brígida",
+      "santa_lucia_de_tirajana": "Santa Lucía de Tirajana",
+      "santa_maria_de_guia": "Santa María de Guía",
+      "tejeda": "Tejeda",
+      "telde": "Telde",
+      "teror": "Teror",
+      "valleseco": "Valleseco",
+      "valsequillo": "Valsequillo",
+      "vega_de_san_mateo": "Vega de San Mateo"
+    },
+    "tipo": {
+      "well": "Pozo",
+      "mixed_well": "Obra mixta",
+      "exploration": "Sondeo",
+      "gallery": "Galería",
+      "boring": "Cata",
+      "other": "Otros"
+    },
+    "estado": {
+      "unknown": "Se desconoce",
+      "in_operation": "En funcionamiento",
+      "abandoned": "Abandonado",
+      "not_constructed": "No construido"
+    }
+  }
+}

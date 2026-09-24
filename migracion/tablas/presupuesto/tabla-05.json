@@ -1,0 +1,68 @@
+{
+  "fuente": "/presupuesto.php",
+  "indice": 5,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Completo",
+      ""
+    ],
+    [
+      "Resumen",
+      ""
+    ],
+    [
+      "Detallado",
+      ""
+    ],
+    [
+      "Liquidación del Presupuesto",
+      ""
+    ],
+    [
+      "Rendición de Cuentas (Pendiente)",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/presupuesto_completo_-2021.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/presupuesto_2021.pdf"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/presupuesto_2021.xlsx"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/presupuesto_2021.ods"
+    },
+    {
+      "fila": 4,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/liquidacion_presupuesto_2021.pdf"
+    },
+    {
+      "fila": 5,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rendicioncuentapendiente2021.pdf"
+    }
+  ]
+}

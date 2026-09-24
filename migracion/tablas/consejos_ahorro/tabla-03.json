@@ -1,0 +1,80 @@
+{
+  "fuente": "/consejos_ahorro.php",
+  "indice": 3,
+  "titulo": null,
+  "columnas": 7,
+  "cabeceras": [],
+  "filas": [
+    [
+      "EN EL JARDÍN...",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "¿Qué hacer?, ¿Cuánto ahorraríamos?",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Riega a las horas del día en que haga menos calor. Se reducirá\nla evapotranspiración (el agua que se evapora de forma natural) y se\naprovechará el 40% más del agua utilizada.",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Utiliza plantas con pocas necesidades hídricas como\ncáctus, cardones, tabaibas, etc, que necesitan la mitad\nde agua que otras.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Recoge el agua de lluvia para regar las plantas de tu casa.",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "notas": [
+    "Hay muchos sistemas de ahorro de agua, pero todos empiezan por ti.\nCon poco esfuerzo de tu parte, puedes ahorrar varios litros de agua\ncada día, y muchos al mes. Siguiendo nuestras recomendaciones\ntus facturas se reducirán y contribuirás a preservar el agua."
+  ],
+  "enlaces": [
+    {
+      "fila": 2,
+      "columna": 0,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-12.svg",
+      "imagen": true
+    },
+    {
+      "fila": 3,
+      "columna": 2,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-13.svg",
+      "imagen": true
+    },
+    {
+      "fila": 4,
+      "columna": 0,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-14.svg",
+      "imagen": true
+    }
+  ]
+}

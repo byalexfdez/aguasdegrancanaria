@@ -1,0 +1,14 @@
+﻿Parámetro;Unidad;Valor máximo;Métodos de análisis e inspección
+1. Coliformes totales;/100 ml;10.000;Recuento NMP o filtración y cultivo con identificación de colonias
+2. Coliformes fecales;/100 ml;2.000;Recuento NMP o filtración y cultivo con identificación de colonias
+3. Estreptococos fecales;/100 ml;(100);Método de Litsky NMP o filtración y cultivo
+4. Salmonellas;/1 l;0;Filtración, inoculación, identificación
+5. Enterovirus;PFu/10 ml;0;Concentración y confirmación
+6. pH;u;6 a 9;Electrotecnia con calibración en los pH 7 y 9
+7. Color;-;Sin cambios anormales;Inspección visual o fotometría escala Pt-CO
+8. Aceites minerales;mg/l;Sin película visible ni olor;Inspección visual y olfativa o residuo seco
+9. Sustancias tensoactivas;mg/l laurilsulfato;Sin espuma persistente (0,3);Inspección visual. Espectrofotometría con azul de metileno
+10. Fenoles;mg/l C6H5OH;Sin olor específico 0,05;Inspección olfativa. Expectrofotometría método (4 A A P)
+11. Transparencia;m;1;Disco de Secchi
+12. Oxigeno disuelto;% saturado;(80-120);Método de Winkler o electrométrico
+13. Residuos de alquitrán y flotantes;-;(Inexistencia);Inspección visual

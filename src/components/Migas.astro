@@ -1,0 +1,17 @@
+---
+import Icono from './Icono.astro';
+interface Props { items: { titulo: string; url: string }[]; claro?: boolean }
+const { items, claro = false } = Astro.props;
+---
+<nav aria-label="Migas de pan" class="text-sm">
+  <ol class="flex flex-wrap items-center gap-x-1.5 gap-y-1">
+    {items.map((m, i) => (
+      <li class="inline-flex items-center gap-1.5">
+        {i > 0 && <Icono nombre="derecha" tam={14} clase={claro ? 'text-white/50' : 'text-texto-suave'} />}
+        {i < items.length - 1
+          ? <a href={m.url} class:list={['no-underline hover:underline', claro ? 'text-white/85 hover:text-white' : 'text-texto-suave']}>{i === 0 ? <><Icono nombre="inicio" tam={15} clase="inline -mt-0.5" /><span class="sr-only">{m.titulo}</span></> : m.titulo}</a>
+          : <span aria-current="page" class:list={['font-semibold', claro ? 'text-white' : 'text-texto']}>{m.titulo}</span>}
+      </li>
+    ))}
+  </ol>
+</nav>

@@ -1,0 +1,28 @@
+{
+  "fuente": "/el_consejo/ubicacion.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [
+    [
+      "Dirección",
+      "Avda. Juan XXIII, nº 2, 1º 35004 Las Palmas de Gran Canaria"
+    ]
+  ],
+  "filas": [
+    [
+      "Teléfono",
+      "928 293 456"
+    ],
+    [
+      "Fax",
+      "928 293 785"
+    ],
+    [
+      "Correo Electrónico",
+      "ciagc@aguasgrancanaria.com"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

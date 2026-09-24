@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/canarias/sancionador_aguas.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 19/03/2001",
+      "Título",
+      "Reglamento Sancionador en Materia de Aguas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "DECRETO 276/1993, de 8 de Octubre de 1993.Reglamento Sancionador en materia de aguas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua",
+      "",
+      "Decreto",
+      "Canarias"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

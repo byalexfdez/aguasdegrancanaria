@@ -1,0 +1,528 @@
+---
+titulo: Ley de contratos del Sector Público. RD que lo desarrolla parcialmente RD 817/2009, de 8 d
+url: /servicios/normativa/espana/sector-publico/
+nodo: norma-españa-sector-publico
+seccion: servicios
+plantilla: normativa
+ruta_antigua: /servicios/legislacion/españa/sector_publico.php
+contenido_oculto_en_origen: 0
+norma:
+  ambito: España
+  titulo: Ley de contratos del Sector Público. RD que lo desarrolla parcialmente
+  titulo_en_listado: Ley de contratos del Sector Público. RD que lo desarrolla parcialmente RD 817/2009, de 8 de mayo, por el que se desarrolla parcialmente la Ley 30/07, de 30 de octubre, de DE CONTRATOS DEL SECTOR PUBLICO
+  descripcion: RD 817/2009, de 8 de mayo, por el que se desarrolla parcialmente la Ley 30/07, de 30 de octubre, de DE CONTRATOS DEL SECTOR PUBLICO
+  codigo: Contr
+  categoria: Real Decreto
+  ambito_ficha: España
+  creada: 17/05/2010
+  estado: null
+  numero: 817/2009
+  fecha: null
+  enlaces_oficiales: []
+descripcion: La aprobación de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, ha supuesto la incorporación al Derecho Español de importantes…
+---
+
+<!-- tabla 01: tablas/servicios/legislacion/espana/sector_publico/tabla-01.json -->
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Legislación Creada el 17/05/2010 | Título | Ley de contratos del Sector Público. RD que lo desarrolla parcialmente |  |  |
+|  | Descripción | RD 817/2009, de 8 de mayo, por el que se desarrolla parcialmente la Ley 30/07, de 30 de octubre, de DE CONTRATOS DEL SECTOR PUBLICO |  |  |
+|  | Código | Aprobado | Categoría | Ámbito |
+|  | Contr |  | Real Decreto | España |
+
+## Contenido:
+
+<strong>RD 817/2009, de 8 de mayo, por el que se desarrolla parcialmente la Ley 30/07, de 30 de octubre, de DE CONTRATOS DEL SECTOR PUBLICO.</strong>
+
+La aprobación de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, ha supuesto la incorporación al Derecho Español de importantes novedades en el ámbito de la Contratación Pública. Buena parte de ellas proceden del Derecho Comunitario Europeo, tanto de las Directivas que establecen las normas de armonización de las legislaciones de los Estados miembros con respecto a los procedimientos de adjudicación de los contratos públicos, como de otras iniciativas legislativas o políticas de los órganos de la Unión Europea o incluso de la propia práctica de las legislaciones vigentes en los diferentes Estados europeos.
+
+La introducción de estas novedades, así como las modificaciones de la legislación vigente en el momento de promulgarse la nueva Ley 30/2007, de 30 de octubre, determinan la necesidad de adaptar las normas reglamentarias en vigor al nuevo régimen legal. Buena parte de las nuevas instituciones que se incorporan a nuestro derecho de la contratación pública y de las reformas del derecho vigente que incorpora la Ley pueden ser objeto de desarrollo reglamentario sin necesidad de forzar los plazos exigidos por la elaboración de una norma de tanta complejidad técnica como lo es el Reglamento de desarrollo de la Ley de Contratos del Sector Público.
+
+Tal es el caso de la mayoría de las nuevas figuras procedimentales recogidas en el texto legal, cuya implementación en nuestro Ordenamiento Jurídico o bien no requiere de una especial regulación reglamentaria dada su extensa regulación en la Ley de Contratos del Sector Público, bien su aplicación inmediata no es una exigencia ineludible de la actividad contractual de los distintos poderes de adjudicación, por lo que es recomendable que el desarrollo de las mismas se lleve a cabo mediante la aprobación de una norma reglamentaria completa. Lo mismo puede decirse con respecto a algunas de las modificaciones que la nueva Ley introduce con respecto a la normativa anteriormente vigente.
+
+Ello no obstante, hay materias, entre las reguladas por la Ley 30/2007, de 30 de octubre, cuyo desarrollo reglamentario es claramente aconsejable llevarlo a efecto del modo más inmediato posible con el doble objetivo de posibilitar la puesta en práctica de tales modificaciones y al mismo tiempo permitir el cumplimiento de los objetivos propuestos a través de ellas.
+
+Buen ejemplo de esto es lo que hace referencia a los fines de reducción de la carga administrativa que pesa sobre los órganos de contratación y sobre los propios licitadores en el momento de participar en los procedimientos de adjudicación. Éste es uno de los fines que se propone de modo expreso en la Ley de Contratos del Sector Público, tal como pone de manifiesto en su Exposición de Motivos al decir «obligadamente, la nueva Ley 30/2007, de 30 de octubre, viene también a efectuar una revisión general de la regulación de la gestión contractual, a fin de avanzar en su simplificación y racionalización, y disminuir los costes y cargas que recaen sobre la entidad contratante y los contratistas particulares».
+
+La Ley 30/2007, de 30 de octubre, trata de lograr esta finalidad a través de diferentes mecanismos; de ellos, los principales se refieren al sistema de clasificación de contratistas, a los modos de acreditación de los requisitos de aptitud y a los procedimientos de adjudicación, en este último caso elevando los límites cuantitativos a partir de los cuales es obligado acudir a los procedimientos ordinarios de adjudicación.
+
+Junto a estas reformas, la Ley 30/2007, de 30 de octubre, contiene algunos preceptos cuya regulación reglamentaria es conveniente efectuar también con la máxima celeridad posible, habida cuenta de la inmediatez de su aplicación en las licitaciones a convocar, así como de las dudas que puede ésta plantear en razón de la novedad que su aplicación supone para la práctica contractual de los organismos públicos.
+
+Como consecuencia de todo ello, el real decreto regula determinados aspectos de la clasificación de las empresas contratistas, el Registro Oficial de Licitadores y Empresas Clasificadas, la valoración de los criterios de apreciación subjetiva, especialmente cuando deba hacerse a través del comité de expertos u organismo independiente a que se refiere el [artículo 134.2](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo134.htm) de la Ley de Contratos del Sector Público, las Mesas de Contratación a constituir en el ámbito de las Administraciones Públicas y las comunicaciones al Registro Oficial de Contratos.
+
+En su virtud, a propuesta de la Vicepresidenta Segunda del Gobierno y Ministra de Economía y Hacienda, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 8 de mayo de 2009,
+
+DISPONGO:
+
+<strong>CAPÍTULO I. CLASIFICACION DE EMPRESAS</strong>
+<strong>Sección 1.ª Solvencia económico-financiera para la clasificación de empresas.</strong>
+<strong>Artículo 1. Criterios técnicos de solvencia económica y financiera.</strong>
+
+1\. La determinación de la solvencia económica y financiera a efectos de la clasificación se efectuará de la siguiente manera:
+
+-   a) La de las sociedades como empresas contratistas de obras o como empresas de servicios exigirá que el importe de su patrimonio neto, según el balance de las cuentas anuales aprobadas y presentadas en el Registro Mercantil correspondientes al último ejercicio finalizado, y, en su defecto, de las correspondientes al último ejercicio cuyo período de presentación haya finalizado, supere el importe mínimo establecido en la legislación mercantil para no incurrir en causa de disolución.
+-   b) La determinación de la solvencia económica y financiera de los empresarios que sean personas físicas para su clasificación como empresas contratistas de obras o como empresas de servicios se efectuará con los mismos criterios que para las sociedades, sustituyéndose el criterio de determinación del importe mínimo de su patrimonio neto por el de que éste no sea inferior a la mitad de la cifra establecida por la legislación mercantil como importe mínimo del capital social para las sociedades de responsabilidad limitada, pudiendo sustituirse los datos de sus cuentas anuales presentadas en el Registro Mercantil por las que figuren en su Libro de Inventarios y Cuentas Anuales, debidamente legalizado, cuando el empresario no esté inscrito en dicho Registro Mercantil y no esté obligado a ello.
+-   c) La solvencia económica y financiera de los profesionales que no tengan la condición de empresarios, a los efectos de su clasificación como empresas de servicios en aquellos subgrupos cuyo contenido se ciña al ejercicio de una actividad profesional regulada, se acreditará mediante la disposición de un seguro de indemnización por riesgos profesionales cuya cobertura sea de importe no inferior a la anualidad media de los contratos a los que cada categoría de clasificación permite acceder, o al importe al que por razón de su profesión o actividad esté legalmente obligado, si es superior.
+-   d) La determinación de la solvencia económica y financiera de las entidades no mercantiles que soliciten su clasificación como empresas contratistas de obras o como empresas de servicios se efectuará con los mismos criterios que para las sociedades, sustituyéndose el criterio de determinación del importe mínimo de su patrimonio neto por el de que éste no sea inferior a la mitad de la cifra establecida por la legislación mercantil como importe mínimo del capital social para las sociedades de responsabilidad limitada, o al importe mínimo exigido en sus Estatutos o en la normativa aplicable a la entidad, si alguno de ellos fuese superior. Las referencias al Registro Mercantil se entenderán realizadas al registro público que legalmente les corresponda.
+
+2\. En todo caso, las entidades obligadas a auditar sus cuentas, así como las que por cualquier circunstancia las hayan sometido a auditoria, deberán incluir con sus cuentas el correspondiente informe de auditoría, cuyos resultados y manifestaciones serán tenidos en cuenta para la interpretación de las mismas a los efectos de clasificación de la entidad o revisión de la misma.
+
+3\. Sin perjuicio de la obligación de remisión de cuentas o libros de contabilidad a que las empresas clasificadas o que solicitan clasificación están sometidas como condición para obtener o mantener su clasificación, los órganos competentes para la tramitación de los expedientes de clasificación podrán, en todo momento, recabar de los correspondientes registros públicos la información relativa a dichas cuentas anuales que resulte necesaria para la comprobación del cumplimiento de los requisitos de clasificación en materia de solvencia económica y financiera de las empresas clasificadas o que soliciten clasificación.
+
+<strong>Artículo 2. Justificación del mantenimiento de la solvencia económica y financiera de las empresas clasificadas.</strong>
+
+1\. De conformidad con lo dispuesto en el apartado 2 del [artículo 59](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo59.htm) de la Ley 30/2007, de 30 de octubre, y a los efectos de acreditar el mantenimiento de la solvencia económica y financiera, los empresarios personas jurídicas deberán presentar, con carácter anual, una declaración responsable, según el modelo que, a tal efecto, apruebe la Junta Consultiva de Contratación Administrativa, y en la que constarán, al menos, los siguientes datos, relativos a las cuentas anuales correspondientes al último ejercicio cuyo período de presentación haya finalizado:
+
+-   Denominación e identificación de la entidad clasificada.
+-   Nombre, identificación y fecha de nombramiento del Administrador que firma la declaración.
+-   Fechas de cierre, de aprobación y de presentación en el Registro Mercantil o en el registro oficial que corresponda de las cuentas objeto de la declaración.
+-   Identificación del Registro Mercantil o registro oficial que corresponda, en el que se ha efectuado la presentación de las cuentas para su inscripción.
+-   Importes del capital social, del patrimonio neto, del resultado del ejercicio y del total activo de la entidad que figuran en dichas cuentas.
+-   En su caso, mención relativa a su inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas del Estado, o en el de la Comunidad Autónoma que otorgó la clasificación cuyo mantenimiento se pretende.
+
+2\. Los empresarios individuales que se encuentren inscritos como tales en el Registro Mercantil deberán cumplimentar la misma declaración y satisfacer los mismos requisitos referidos en el apartado 1 de este artículo. Los que no figuren inscritos en el Registro Mercantil deberán presentar ante el órgano competente para la tramitación de los expedientes de clasificación su Libro de Inventarios y Cuentas Anuales legalizado por el Registro Mercantil, en los mismos plazos señalados para la presentación de la declaración responsable de las personas jurídicas a la que se hace referencia en el apartado 1.
+
+3\. Los profesionales que no tengan la condición de empresarios deberán presentar una declaración responsable, según el modelo que, a tal efecto, apruebe la Junta Consultiva de Contratación Administrativa, de que la póliza de seguro de indemnización por riesgos profesionales continúa vigente, haciendo constar sus datos básicos y el importe de la cobertura.
+
+4\. La declaración se formulará ante el órgano competente para la tramitación de los expedientes de clasificación antes del día 1 de septiembre de cada año, cuando el ejercicio contable coincida con el año natural, o antes del inicio del noveno mes posterior a la fecha de cierre del ejercicio, en el caso de que el mismo no coincida con el año natural.
+
+Dicho órgano verificará la exactitud y veracidad de los datos aportados, pudiendo requerir a la empresa la aportación de las cuentas anuales o documentos originales completos, o recabarlos de los correspondientes registros públicos.
+
+5\. Cumplimentada la declaración a que se refiere el apartado anterior y verificada la exactitud y veracidad de los datos declarados, los empresarios que acrediten el mantenimiento de la solvencia económica y financiera requerida para la obtención de clasificación en los subgrupos y con las categorías ostentadas mantendrán dichas clasificaciones en los términos en que fueron acordadas.
+
+<strong>Artículo 3. Comprobación de los datos de solvencia económica y financiera de las empresas clasificadas.</strong>
+
+Los órganos competentes para la tramitación de los expedientes de clasificación podrán requerir, en cualquier momento, a los empresarios clasificados la presentación de sus cuentas anuales, o, en su caso, de sus Libros de Inventarios y Cuentas Anuales debidamente legalizados o de la documentación acreditativa de su seguro de indemnización por riesgos profesionales, al objeto de verificar el mantenimiento de su solvencia económica y financiera. La no aportación en tiempo y forma de los documentos requeridos será equivalente a la no acreditación de su solvencia económica y financiera y dará lugar a la iniciación de expediente de revisión de clasificación.
+
+<strong>Sección 2.ª Revisión de clasificaciones.</strong>
+<strong>Artículo 4. Revisión de oficio de clasificaciones por causas relativas a la solvencia económica y financiera.</strong>
+
+1\. El órgano competente para la tramitación de los expedientes de clasificación iniciará expediente de revisión de clasificaciones otorgadas en los siguientes supuestos:
+
+-   a) Cuando una empresa clasificada no haya presentado en el plazo establecido la declaración a que hace referencia el [artículo 2](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo2.htm).
+-   b) Cuando habiéndola aportado no quede acreditada la presentación de sus cuentas en el Registro Mercantil o registro oficial correspondiente, o la del seguro de indemnización por riesgos profesionales a que se refiere el apartado 3 del [artículo 1](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo1.htm).
+-   c) Si los documentos mencionados en los dos supuestos anteriores ponen de manifiesto una solvencia económica y financiera insuficiente de acuerdo con los requisitos mínimos exigidos en dicho artículo.
+
+2\. En el caso de que durante la tramitación del expediente la empresa acredite su solvencia en los términos exigidos en el apartado 1 del [artículo 1](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo1.htm), pero su patrimonio neto no alcance los umbrales exigidos para la obtención de alguna de las categorías que ostenta, la Comisión de Clasificación acordará la revisión de sus clasificaciones, reduciendo sus categorías a las máximas correspondientes al patrimonio neto acreditado por la empresa según lo establecido en los citados artículos, sin que haya lugar al examen o revisión de los factores relativos a su solvencia técnica o profesional.
+
+Las mismas reglas serán de aplicación a los profesionales a los que se refiere el apartado 3 del [artículo 1](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo1.htm), sustituyéndose las cuentas anuales por la póliza de seguro de indemnización por riesgos profesionales a que se refiere dicho apartado.
+
+3\. Del mismo modo se procederá en el caso de que el empresario no presente la documentación a que hace referencia el [artículo 3](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo3.htm), concretando el requerimiento a que se refiere el apartado 3 del [artículo siguiente](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo5.htm) a los documentos necesarios para acreditar su solvencia económica y financiera.
+
+4\. El órgano competente para la tramitación de los expedientes de clasificación podrá iniciar de oficio expediente de revisión de las clasificaciones acordadas en cuanto tenga conocimiento de la existencia de circunstancias que puedan disminuir las condiciones de solvencia que sirvieron de base a la clasificación concedida. A este efecto, los órganos de contratación deberán informar a la Junta de estas circunstancias si tuvieren conocimiento de las mismas.
+
+5\. En todo caso, el empresario está obligado a poner en conocimiento del órgano competente en materia de clasificación cualquier variación en las circunstancias que hubiesen sido tenidas en cuenta para concederla que pueda dar lugar a una revisión de la misma. La omisión de esta comunicación hará incurrir al empresario en la prohibición de contratar prevista en la letra e) del apartado 1 del [artículo 49](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo49.htm) de la Ley 30/2007, de 30 de octubre.
+
+<strong>Artículo 5. Expedientes de revisión de clasificaciones por causas relativas a la solvencia económica y financiera.</strong>
+
+Los expedientes de revisión de clasificación por causas relativas a la solvencia económica y financiera se tramitarán de acuerdo con el procedimiento para la obtención de clasificación previsto en el [artículo 47](http://www.carreteros.org/legislaciona/contratos/reglamento/articulos/articulo47.htm) del Reglamento General de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto 1098/2001, de 12 de octubre, con las siguientes particularidades:
+
+-   1\. Los expedientes de revisión de clasificación abarcarán a la totalidad de los subgrupos en los que figuren con clasificación en vigor, tanto de obras como de servicios.
+-   2\. Los expedientes de revisión iniciados de oficio por causa de disminución de la solvencia económica y financiera podrán tramitarse teniendo en cuenta, además de los que ya obren en el expediente, los datos adicionales que el órgano instructor considere necesario incorporar.
+-   3\. A este efecto, cuando una empresa clasificada no haya presentado en el plazo establecido la declaración a que hace referencia el [artículo 2](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo2.htm), o cuando habiéndola aportado no quede acreditada la presentación de sus cuentas en el Registro Mercantil o registro oficial correspondiente, con carácter previo a la iniciación del expediente el órgano competente para la tramitación de los expedientes de clasificación formulará requerimiento a fin de que la aporte en un plazo de diez días junto con las cuentas presentadas y el justificante de su presentación en dicho registro, con apercibimiento de que transcurrido el plazo sin cumplimentar dicho requerimiento, se iniciará expediente de revisión de clasificación.
+    Idéntico requerimiento se practicará cuando el empresario que desarrolle una actividad profesional no presentara la declaración exigida por el [artículo 2](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo2.htm) o ésta no acreditara todas las menciones exigidas en el mismo.
+-   4\. En los expedientes de revisión iniciados de oficio se dará, con carácter previo a la propuesta de resolución del procedimiento, audiencia por plazo de quince días al empresario cuya clasificación se revisa y a cualesquiera otros interesados en el procedimiento, a fin de que puedan formular las alegaciones y presentar las pruebas que estimen pertinentes para la defensa de sus derechos.
+
+<strong>Artículo 6. Informes y propuestas de resolución.</strong>
+
+Para la elaboración de las propuestas de resolución de los expedientes de clasificación y revisión de clasificaciones que lo precisen se podrá solicitar informe de los Departamentos ministeriales, organismos y entidades que se considere conveniente. Una vez tramitado el expediente, el órgano competente para la tramitación de los expedientes de clasificación elaborará propuesta de resolución, que someterá a la decisión de la Comisión de Clasificación correspondiente. En el caso de que un expediente afecte a clasificaciones de obras y de servicios de una misma empresa, la resolución deberá ser adoptada conjuntamente por ambas Comisiones de Clasificación.
+
+<strong>Artículo 7. Recursos.</strong>
+
+Los acuerdos relativos a la clasificación de las empresas adoptados por las Comisiones de Clasificación de la Junta Consultiva de Contratación Administrativa del Estado podrán ser objeto de recurso de alzada ante el Ministro de Economía y Hacienda. Los adoptados por los órganos competentes de las comunidades autónomas podrán ser objeto de recurso de alzada ante el respectivo órgano superior jerárquico.
+
+La tramitación de dichos recursos se efectuará de acuerdo con lo dispuesto en los artículos 114 y 115 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+<strong>CAPÍTULO II. EL REGISTRO OFICIAL DE LICITADORES Y EMPRESAS CLASIFICADAS DEL ESTADO</strong>
+<strong>Sección 1.ª Normas generales</strong>
+<strong>Artículo 8. Régimen organizativo.</strong>
+
+1\. El Registro Oficial de Licitadores y Empresas Clasificadas del Estado depende del Ministerio de Economía y Hacienda, a través de la Dirección General del Patrimonio del Estado.
+
+2\. El Registro Oficial Licitadores y Empresas Clasificadas del Estado estará a cargo de la Subdirección General de Clasificación de Contratistas y Registro de Contratos como órgano de apoyo técnico de la Junta Consultiva de Contratación Administrativa del Estado.
+
+3\. El Registro tendrá carácter electrónico, haciéndose constar en formato electrónico los datos que hayan de acceder a él, así como, en su caso, la digitalización de los documentos en soporte papel en que consten, debiendo adoptarse, en este proceso, las medidas necesarias para evitar la alteración de los mismos, así como su manipulación una vez que se hayan incorporado a él.
+
+<strong>Artículo 9. Clases de inscripciones.</strong>
+
+1\. Las inscripciones que se practiquen en el Registro podrán ser voluntarias u obligatorias.
+
+2\. Será obligatoria la inscripción de la Clasificación de las empresas contratistas y la de las prohibiciones de contratar en los casos especificados en el [artículo 50.4](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo50.htm) de la Ley de Contratos del Sector Público.
+
+3\. En todos los casos no previstos en el apartado anterior la inscripción será voluntaria.
+
+<strong>Sección 2.ª Inscripciones obligatorias</strong>
+<strong>Artículo 10. Inscripción de la clasificación.</strong>
+
+En el Registro Oficial de Licitadores y Empresas Clasificadas del Estado se inscribirá obligatoriamente:
+
+-   a) La clasificación otorgada a cada empresario.
+-   b) Las modificaciones de la clasificación tanto si suponen el reconocimiento de nuevos grupos o subgrupos como si implican reducción de éstos. Igualmente se harán constar las modificaciones que consistan en el aumento o reducción de las categorías en que la empresa estuviese clasificada.
+-   c) La revocación de las clasificaciones reconocidas.
+
+<strong>Artículo 11. Práctica de la inscripción de la clasificación.</strong>
+
+La inscripción de la clasificación de cada empresa, así como la constancia de cada una de las modificaciones que experimente se hará de oficio por la Junta Consultiva de Contratación Administrativa, como trámite de ejecución de la resolución dictada en el expediente tramitado a tal efecto.
+
+A tal fin, cuando, con respecto a la empresa de cuya clasificación se trate, no constasen inscritas en el Registro Oficial de Licitadores y Empresas Clasificadas del Estado las circunstancias a que se refieren los apartados a) y c) del [artículo 15.2](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo15.htm), se inscribirán éstas de oficio, tomando como base los documentos adecuados para ello y que se hubiesen aportado al procedimiento de clasificación.
+
+<strong>Artículo 12. Inscripción de las prohibiciones de contratar.</strong>
+
+Se inscribirán también en el Registro Oficial de Licitadores y Empresas Clasificadas del Estado las prohibiciones de contratar, referenciadas en el [artículo 50.4](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo50.htm) de la Ley de Contratos del Sector Público, con expresión de la fecha en que se acordaron, la causa legal que las motiva, su duración y la extensión de sus efectos.
+
+<strong>Artículo 13. Práctica de la inscripción.</strong>
+
+1\. Las inscripciones a que se refiere el [artículo anterior](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo12.htm) se practicarán de oficio por la Junta Consultiva de Contratación Administrativa, de la siguiente forma:
+
+-   a) En los casos en que la prohibición se acuerde por resolución judicial que se pronuncie también sobre su alcance y duración, la inscripción se practicará con base en el testimonio de la resolución que se haya remitido al Registro Oficial de Licitadores y Empresas Clasificadas del Estado.
+-   b) En aquellos casos en que la prohibición, así como su duración y alcance, o éstos dos últimos sólo, se acuerden en virtud de resolución del Ministro de Economía y Hacienda o del órgano competente de otra administración pública, en la misma resolución se ordenará la inscripción en el Registro, que se practicará, sin más trámites.
+
+2\. Practicada la inscripción de la prohibición, se dará traslado de la misma a todos los Registros Oficiales de Licitadores establecidos por las comunidades autónomas a fin de que puedan hacerla constar en él.
+
+<strong>Artículo 14. Efectos de la inscripción de las prohibiciones de contratar.</strong>
+
+No producirán efectos, hasta su constancia en el Registro Oficial de Licitadores y Empresas Clasificadas del Estado, las prohibiciones de contratar acordadas en los siguientes supuestos:
+
+-   a) Aquellas que se acuerden mediante resolución administrativa, o por resolución de esta misma naturaleza se establezca su duración y alcance, respecto de las personas que hayan sido condenadas en virtud de sentencia firme por delitos de asociación ilícita, corrupción en transacciones económicas internacionales, tráfico de influencias, cohecho, fraudes y exacciones ilegales, delitos contra la Hacienda Pública y la Seguridad Social, delitos contra los derechos de los trabajadores, malversación y receptación y conductas afines, delitos relativos a la protección del medio ambiente, o a pena de inhabilitación especial para el ejercicio de profesión, oficio, industria o comercio a que se refiere el apartado a) del [artículo 49.1](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo49.htm) de la Ley de Contratos del Sector Público.
+-   b) Las que se adopten respecto de empresarios por haber sido sancionados con carácter firme, de conformidad con el [artículo 49.1.c)](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo49.htm) de la Ley 30/2007, de 30 de octubre, por infracción grave en materia de disciplina del mercado, en materia profesional o en materia de integración laboral y de igualdad de oportunidades y no discriminación de las personas con discapacidad o por infracción muy grave en materia social, incluidas las infracciones en materia de prevención de riesgos laborales, de acuerdo con lo dispuesto en el Texto Refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, o en materia medioambiental, de acuerdo con lo establecido en las siguientes disposiciones: Real Decreto Legislativo 1/2008, de 11 de enero, por el que se aprueba el Texto Refundido de la Ley de Evaluación de Impacto Ambiental de Proyectos; en la Ley 22/1988, de 28 de julio, de Costas; la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad; en la Ley 11/1997, de 24 de abril, de Envases y Residuos de Envases; en la Ley 10/1998, de 21 de abril, de Residuos; en el Texto Refundido de la Ley de Aguas, aprobado por Real Decreto Legislativo 1/2001, de 20 de junio, y en la Ley 16/2002, de 1 de julio, de Prevención y Control Integrados de la Contaminación.
+-   c) Las acordadas, a tenor de lo establecido en el [artículo 49.1.e)](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo49.htm) de la Ley 30/2207, de 30 de octubre, por haber incurrido el empresario en falsedad al efectuar la declaración responsable de no estar incurso en prohibición de contratar o al facilitar cualesquiera otros datos relativos a su capacidad y solvencia, o haber incumplido, por causa que le sea imputable, la obligación de comunicar cualquier variación en las circunstancias que hubiesen sido tenidas en cuenta para conceder la clasificación y que pueda dar lugar a una revisión de la misma, así como las que afecten a los datos reflejados en el Registro Oficial de Licitadores y la superveniencia de cualquier circunstancia que determine la concurrencia de una prohibición de contratar.
+-   d) Las acordadas, en virtud de lo dispuesto en el [artículo 49.2](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo49.htm) de la Ley de Contratos del Sector Público, en los siguientes casos:
+
+    -   1.º Con respecto a los empresarios que hubiesen dado lugar, por causa de la que hubiesen sido declarados culpables, a la resolución firme de cualquier contrato celebrado con una administración pública.
+    -   2.º Cuando el empresario licitador haya infringido una prohibición para contratar con cualquiera de las administraciones públicas.
+    -   3.º Siempre que se trate de licitadores afectados por una prohibición de contratar impuesta en virtud de sanción administrativa, con arreglo a lo previsto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, o en la Ley 58/2003, de 17 de diciembre, General Tributaria.
+    -   4.º Cuando el licitador afectado hubiese retirado indebidamente su proposición o candidatura en un procedimiento de adjudicación, o hubiese imposibilitado la adjudicación definitiva del contrato a su favor por no presentar la documentación justificativa del cumplimiento de los requisitos a que se refiere el [artículo 135.4](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo135.htm) de la Ley 30/2007, de 30 de octubre, o no constituir la garantía que, en su caso, sea procedente dentro del plazo señalado mediando dolo, culpa o negligencia.
+    -   5.º En aquellos casos en que el empresario hubiera incumplido las condiciones especiales de ejecución del contrato establecidas de acuerdo con lo señalado en el [artículo 102](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo102.htm) de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, cuando dicho incumplimiento hubiese sido definido en los pliegos o en el contrato como infracción grave de conformidad con las disposiciones de desarrollo de esta Ley, y concurra dolo, culpa o negligencia en el empresario.
+
+<strong>Sección 3.ª Inscripciones voluntarias</strong>
+<strong>Artículo 15. Actos inscribibles voluntariamente.</strong>
+
+1\. Podrán solicitar su inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas del Estado tanto las personas físicas que tengan la condición de empresarios o profesionales como las jurídicas, nacionales o extranjeras.
+
+2\. Sin perjuicio de la constancia registral de los actos a que se refiere la Sección anterior, las personas indicadas en el apartado anterior podrán solicitar la inscripción de los siguientes actos:
+
+-   a) Los correspondientes a su personalidad y capacidad de obrar, en el caso de personas jurídicas.
+-   b) Los relativos a la extensión de las facultades de los representantes o apoderados con capacidad para actuar en su nombre y obligarla contractualmente.
+-   c) Los referentes a las autorizaciones o habilitaciones profesionales y a los demás requisitos que resulten necesarios para actuar en su sector de actividad.
+-   d) Los datos relativos a la solvencia económica y financiera que se especifican en el [artículo siguiente](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo16.htm), que se reflejarán de forma independiente si el empresario carece de clasificación.
+
+<strong>Artículo 16. Circunstancias de las inscripciones voluntarias.</strong>
+
+1\. La inscripción de los datos correspondientes a la personalidad y capacidad de obrar del empresario persona jurídica deberá contener las siguientes circunstancias, referidas al momento en que se efectúa la solicitud de inscripción:
+
+-   1.º Denominación o razón social del empresario.
+-   2.º Nacionalidad.
+-   3.º Registro Mercantil o Registro oficial en que están inscritos.
+-   4.º Tipo de entidad y forma jurídica.
+-   5.º Domicilio Social.
+-   6.º Objeto Social.
+-   7.º Códigos de identificación del empresario. En el caso de empresarios españoles, se incluirá, en todo caso, el número de identificación fiscal como código de identificación. En el caso de empresarios extranjeros, se incluirá el número de identificación fiscal que les sea asignado por la Administración General del Estado en virtud de lo previsto en la disposición adicional sexta de la Ley 58/2003, de 17 de diciembre, General Tributaria, y en sus disposiciones de desarrollo reglamentario, así como el código oficialmente asignado o aceptado para su identificación de acuerdo con la normativa de aplicación en su país de residencia.
+-   8.º Administradores u Órganos de Administración.
+
+2\. La inscripción de empresarios individuales deberá contener las siguientes circunstancias, referidas al momento en que se efectúa la solicitud de inscripción:
+
+-   1.º Nombre del empresario.
+-   2.º Nacionalidad.
+-   3.º País de establecimiento, si fuera distinto del de su nacionalidad.
+-   4.º Registro Mercantil en que está inscrito, en su caso.
+-   5.º Domicilio.
+-   6.º Códigos de identificación del empresario. En el caso de empresarios españoles, se incluirá, en todo caso, el número de identificación fiscal como código de identificación. En el caso de empresarios extranjeros se incluirá el número de identificación fiscal que les sea asignado por la Administración General del Estado en virtud de lo previsto en la disposición adicional sexta de la Ley 58/2003, de 17 de diciembre, General Tributaria, y en sus disposiciones de desarrollo reglamentario, así como el código oficialmente asignado o aceptado para su identificación de acuerdo con la normativa de aplicación en su país de residencia, y, en su defecto, su número de pasaporte. En el caso de empresarios extranjeros residentes en España se incluirá su Número de Identidad de Extranjero (NIE) como código de identificación de los mismos.
+
+3\. Podrán hacerse constar, asimismo, las facultades de los órganos de administración de la persona jurídica cuando no vengan determinadas legalmente, así como los datos de identificación de las personas que los ejerzan, con indicación de la duración del cargo, su carácter solidario o mancomunado cuando los ejerzan varios y las limitaciones cuantitativas, territoriales o de otra índole que puedan afectarles.
+
+4\. La inscripción de los poderes otorgados por el empresario, tanto si es empresario individual como persona jurídica, y las delegaciones hechas por los órganos de administración de la persona jurídica en favor de alguno de sus miembros tendrán por objeto hacer constar, además de los datos de identificación del apoderado, las facultades que tenga otorgadas relativas a la contratación, así como el carácter solidario o mancomunado del poder cuando sean varios los apoderados y las limitaciones cuantitativas, territoriales o de otra índole que puedan afectarle.
+
+5\. La inscripción de los datos relativos a la solvencia económica y financiera del empresario podrá reflejar, entre otras, las siguientes circunstancias:
+
+-   a) Cifras de las últimas cuentas anuales de la entidad, aprobadas y presentadas en el Registro Mercantil o en el Registro oficial que corresponda. En el caso de empresarios individuales no inscritos en el Registro Mercantil se podrán inscribir las que figuren en su Libro de Inventarios y Cuentas Anuales debidamente legalizado.
+-   b) Cifra del volumen global de negocios, referido como máximo a los tres últimos ejercicios disponibles en función de la fecha de creación o de inicio de las actividades del empresario. Transcurridos tres años sin que los datos a que se refiere este apartado se hubieran actualizado, podrá cancelarse de oficio y sin más trámites el asiento que los contenga.
+-   c) Póliza o Certificado del Seguro de indemnización por riesgos profesionales, cuando se trate de profesionales que no tengan la condición de empresarios, con expresión de la entidad aseguradora, de los riesgos cubiertos, del límite o límites de responsabilidad de la aseguradora y de la fecha de vencimiento del seguro.
+
+<strong>Artículo 17. Práctica de las inscripciones voluntarias.</strong>
+
+1\. La inscripción, cuando sea voluntaria, se solicitará mediante escrito dirigido a la Junta Consultiva de Contratación Administrativa, en el modelo que, a tal efecto, se establezca, en el que se expresarán todas las circunstancias que se quieran hacer constar en el Registro acompañándose los justificantes que las acrediten.
+
+2\. A efectos de lo dispuesto en el apartado anterior, las empresas que soliciten la inscripción deberán acompañar, en función de las circunstancias cuya inscripción soliciten, la siguiente documentación:
+
+-   1.º Cuando se trate de Sociedades Anónimas o de Responsabilidad Limitada, la escritura de constitución y las escrituras de modificación que se hubiesen otorgado con posterioridad y reflejen de modo actualizado las circunstancias cuya inscripción soliciten.
+-   2.º Si se trata de otras personas jurídicas, los documentos constitutivos y los que contengan los estatutos por que se rijan, así como las modificaciones que de los mismos se hubiesen efectuado que reflejen de modo actualizado las circunstancias cuya inscripción soliciten.
+-   3.º Las personas físicas aportarán el Documento Nacional de Identidad o, en el supuesto de extranjeros, la documentación equivalente que acredite la identidad, nacionalidad y domicilio del interesado, junto con el resto de la documentación acreditativa de su capacidad de obrar, que sea necesaria según las circunstancias, en particular la de naturaleza tributaria y la que acredite el alta en el Régimen correspondiente de la Seguridad Social.
+-   4.º Los nombramientos de los administradores, las delegaciones de facultades y los poderes otorgados para contratar con los entes que formen parte del Sector Público.
+-   5.º Las cuentas anuales de su último ejercicio, aprobadas y presentadas en el Registro Mercantil o en el Registro oficial que corresponda. En el caso de empresarios individuales no inscritos en el Registro Mercantil ni obligados a ello, los libros de contabilidad debidamente diligenciados.
+
+3\. En todo caso, para la inscripción de los actos previstos en las letras b) y siguientes del [artículo 15.2](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo15.htm), será preciso que, previa o simultáneamente, se haya practicado la inscripción de los datos correspondientes a su personalidad y capacidad de obrar.
+
+4\. Todos los documentos que se aporten o sus copias deberán ser legalmente aptos para acreditar los extremos contenidos en ellos. Cuando los documentos deban estar inscritos, con arreglo a las disposiciones en vigor, en el Registro Mercantil o en cualquier otro registro oficial deberá acreditarse, igualmente, esta circunstancia.
+
+5\. Los títulos y documentos referentes a las autorizaciones o habilitaciones profesionales y a los demás requisitos que resulten necesarios para actuar en un sector de actividad de que dispongan las empresas se inscribirán mediante la aportación del documento original o copia autorizada del mismo.
+
+6\. Los datos relativos a la personalidad y a la capacidad de obrar de las empresas extranjeras de origen comunitario, así como la designación de los cargos que ejerzan su administración y el otorgamiento de poderes se inscribirán mediante los documentos que acrediten de modo fehaciente su inscripción en el registro procedente, de acuerdo con la legislación del Estado donde están establecidos.
+
+Cuando no sea posible acreditarlos en la forma anteriormente indicada, se podrá inscribir una declaración responsable o un certificado expedido, de conformidad con la legislación interna del país de origen o de la legislación comunitaria, que reúna los requisitos exigidos por las normas que regulan el carácter fehaciente en España de los documentos expedidos en países extranjeros.
+
+En los casos en que la inscripción se solicite por una empresa extranjera no comunitaria deberá ésta aportar la documentación acreditativa de su personalidad y capacidad de obrar, de la designación de los cargos que ejerzan su administración o de los poderes que tengan otorgados, de conformidad con la legislación de sus países de origen, acompañada de certificación expedida por la oficina consular correspondiente en la que se haga constar la adecuación de la documentación presentada al derecho interno del país en cuestión.
+
+7\. Si la inscripción solicitada no se practicara en el plazo de tres meses a contar desde su solicitud o desde que se hubiese cumplimentado la totalidad de los requisitos necesarios para practicarla, el solicitante podrá considerarla denegada a los efectos previstos en el artículo 43 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+<strong>Artículo 18. Obligaciones de los empresarios inscritos.</strong>
+
+1\. Al objeto de garantizar la veracidad, exactitud, relevancia y actualidad de la información inscrita en el Registro, los empresarios inscritos con carácter voluntario tienen las siguientes obligaciones en relación con sus inscripciones registrales:
+
+-   a) Proporcionar información veraz, exacta y actualizada, en los modelos y formatos establecidos al efecto, tanto para su inscripción inicial como empresarios como para la de las circunstancias cuya inscripción soliciten.
+-   b) Aportar los documentos acreditativos de los datos y circunstancias cuya inscripción soliciten.
+-   c) Mantener actualizada la información obrante en el Registro relativa a sus circunstancias objeto de inscripción, notificando las modificaciones de las mismas junto con los justificantes que las acreditan.
+-   d) Mantener actualizada la información relativa a su solvencia económica o financiera mediante la presentación de una declaración con el contenido y en los términos previstos en el [artículo 2.1](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo2.htm) de este real decreto, cuando hubiese promovido y obtenido la inscripción de las circunstancias relativas a la mencionada solvencia.
+
+2\. La comunicación al Registro de información incorrecta, inexacta o desactualizada, así como la falta de comunicación de las modificaciones o actualizaciones producidas en la información inscrita en el Registro relativa a un empresario podrá dar lugar a la cancelación de los asientos registrales afectados.
+
+3\. El Ministerio de Economía y Hacienda velará por la veracidad y exactitud de los datos e inscripciones del Registro. A tal fin podrá recabar tanto de los empresarios inscritos como de los registros públicos la información necesaria para su verificación, y podrá rectificar o cancelar de oficio los asientos registrales cuando quede acreditada su falta de correspondencia con la realidad.
+
+<strong>Artículo 19. Efectos de la inscripción en el Registro.</strong>
+
+1\. La inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas del Estado acreditará frente a todos los órganos de contratación del sector público, a tenor de lo en él reflejado y salvo prueba en contrario, las condiciones de aptitud del empresario en cuanto a su personalidad y capacidad de obrar, representación, habilitación profesional o empresarial, solvencia económica y financiera, y clasificación, así como la concurrencia o no concurrencia de las prohibiciones de contratar que deban constar en el mismo.
+
+2\. El contenido del Registro Oficial de Licitadores y Empresas Clasificadas del Estado es público, pudiendo acceder a él todos aquellos que tengan interés legítimo en conocer sus pronunciamientos, en la forma prevista en el artículo 37 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3\. En todo caso, los datos de carácter personal que obren en el Registro estarán sujetos a las limitaciones para su difusión, así como a la tutela y protección de los derechos de los interesados que establece la Ley Orgánica 15/1999, de 13 diciembre, de Protección de Datos de Carácter Personal.
+
+<strong>Artículo 20. Certificaciones relativas a las inscripciones.</strong>
+
+1\. La inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas del Estado permitirá sustituir la presentación de las documentaciones a que se refiere el [artículo 130.1](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo130.htm) de la Ley 30/2007, 30 de octubre, mediante una certificación expedida por él, acompañada de una declaración responsable formulada por el licitador en la que se manifieste que las circunstancias reflejadas en el certificado no han experimentado variación. En todo caso, los órganos y mesas de contratación podrán comprobar que los datos y circunstancias que figuren en la certificación siguen siendo coincidentes con los que recoja el Registro Oficial de Licitadores y Empresas Clasificadas.
+
+2\. La certificación que expida el Registro Oficial de Licitadores y Empresas clasificadas del Estado deberá contener todos los datos que obren en él de conformidad con lo establecido en los artículos [10](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo10.htm), [12](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo12.htm), [15](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo15.htm) y [16](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo16.htm).
+
+3\. El certificado mencionado en el apartado anterior podrá ser expedido electrónicamente, si en los pliegos o en el anuncio del contrato no se dispone lo contrario. Cuando los pliegos o el anuncio del contrato lo prevean, la incorporación del certificado al procedimiento podrá efectuarse de oficio por el órgano de contratación o por aquél al que corresponda el examen de las proposiciones, solicitándolo directamente al Registro Oficial de Licitadores y Empresas Clasificadas, sin perjuicio de que los licitadores deban presentar, en todo caso, la declaración responsable indicada en el apartado 1 anterior.
+
+<strong>CAPÍTULO III. LAS MESAS DE CONTRATACION</strong>
+<strong>Artículo 21. Composición de las mesas de contratación.</strong>
+
+1\. Los órganos de contratación de las administraciones públicas estarán asistidos en los procedimientos de adjudicación abierto, restringido y negociado con publicidad por una mesa de contratación que será competente para la valoración de las ofertas.
+
+2\. Las mesas de contratación estarán compuestas por un Presidente, un Secretario y, al menos, cuatro vocales, todos ellos designados por el órgano de contratación. Entre los vocales deberá figurar obligatoriamente un funcionario de los que tengan encomendado el asesoramiento jurídico del órgano de contratación y un Interventor o, a falta de cualquiera de éstos, quien tenga atribuidas las funciones correspondientes al asesoramiento jurídico o al control económico-presupuestario del órgano.
+
+3\. El Secretario deberá ser un funcionario que preste sus servicios en el órgano de contratación. Cuando no sea posible designar un funcionario, se hará la designación entre los de otro tipo de personal que dependan del órgano de contratación.
+
+4\. La designación de los miembros de la mesa de contratación podrá hacerse con carácter permanente o de manera específica para la adjudicación de cada contrato.
+
+Su composición se publicará en el perfil de contratante del órgano de contratación correspondiente con una antelación mínima de siete días con respecto a la reunión que deba celebrar para la calificación de la documentación referida en el [artículo 130.1](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo130.htm) de la Ley 30/2007, de 30 de octubre.
+
+Si es una mesa permanente, o se le atribuyen funciones para una pluralidad de contratos, su composición deberá publicarse además en el «Boletín Oficial del Estado», en el de la Comunidad Autónoma o en el de la Provincia, según se trate de la Administración General del Estado, de la Autonómica o de la Local.
+
+5\. A las reuniones de la mesa podrán incorporarse los funcionarios o asesores especializados que resulten necesarios, según la naturaleza de los asuntos a tratar, los cuales actuarán con voz pero sin voto.
+
+6\. Todos los miembros de la mesa tendrán voz y voto, excepción hecha del secretario que sólo tendrá voz.
+
+7\. Para la válida constitución de la mesa deberán estar presentes la mayoría absoluta de sus miembros, y, en todo caso, el Presidente, el Secretario y los dos vocales que tengan atribuidas las funciones correspondientes al asesoramiento jurídico y al control económico-presupuestario del órgano.
+
+8\. Las disposiciones contenidas en los apartados anteriores serán aplicables, igualmente, a las mesas de contratación que se constituyan para intervenir en procedimientos de adjudicación en que no sea preceptiva su constitución.
+
+<strong>Artículo 22. Funciones de las mesas de contratación.</strong>
+
+1\. Sin perjuicio de las restantes funciones que le atribuyan la Ley de Contratos del Sector Público y sus disposiciones complementarias, la mesa de contratación desempeñará las siguientes funciones en los procedimientos abiertos de licitación:
+
+-   a) Calificará las documentaciones de carácter general acreditativas de la personalidad jurídica, capacidad de obrar, apoderamiento y solvencia económica financiera, técnica y profesional de los licitadores y demás requisitos a que se refiere el [artículo 130.1](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo130.htm) de la Ley de Contratos del Sector Público, así como la garantía provisional en los casos en que se haya exigido, comunicando a los interesados los defectos y omisiones subsanables que aprecie en la documentación. A tal fin se reunirá con la antelación suficiente, previa citación de todos sus miembros.
+-   b) Determinará los licitadores que deban ser excluidos del procedimiento por no acreditar el cumplimiento de los requisitos establecidos en el pliego de cláusulas administrativas particulares.
+-   c) Abrirá las proposiciones presentadas dando a conocer su contenido en acto público, salvo en el supuesto contemplado en el [artículo 182.4](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo182.htm) de la Ley de Contratos del Sector Público.
+-   d) Cuando el procedimiento de valoración se articule en varias fases, determinará los licitadores que hayan de quedar excluidos por no superar el umbral mínimo de puntuación exigido al licitador para continuar en el proceso selectivo.
+-   e) Valorará las distintas proposiciones, en los términos previstos en los artículos [134](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo134.htm) y [135](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo135.htm) de la Ley 30/2007, de 30 de octubre, clasificándolas en orden decreciente de valoración, a cuyo efecto podrá solicitar los informes técnicos que considere precisos de conformidad con lo previsto en el [artículo 144.1](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo144.htm) de la Ley de Contratos del Sector Público.
+-   f) Cuando entienda que alguna de las proposiciones podría ser calificada como anormal o desproporcionada, tramitará el procedimiento previsto al efecto por el [artículo 136.3](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo136.htm) de la Ley de Contratos del Sector Público, y en vista de su resultado propondrá al órgano de contratación su aceptación o rechazo, de conformidad con lo previsto en el apartado 4 del mismo artículo.
+-   g) Fuera del caso previsto en la letra anterior propondrá al órgano de contratación la adjudicación provisional a favor del licitador que hubiese presentado la proposición que contuviese la oferta económicamente más ventajosa según proceda de conformidad con el pliego de cláusulas administrativas particulares que rija la licitación. Tratándose de la adjudicación de los acuerdos marco, propondrá la adjudicación a favor de los licitadores que hayan presentado las ofertas económicamente más ventajosas. En aquellos casos en que, de conformidad con los criterios que figuren en el pliego, no resultase admisible ninguna de las ofertas presentadas propondrá que se declare desierta la licitación. De igual modo, si durante su intervención apreciase que se ha cometido alguna infracción de las normas de preparación o reguladoras del procedimiento de adjudicación del contrato, podrá exponerlo justificadamente al órgano de contratación, proponiéndole que se declare el desistimiento.
+
+2\. En el procedimiento restringido, la mesa de contratación examinará la documentación administrativa en los mismos términos previstos en el apartado anterior. La selección de los solicitantes corresponderá al órgano de contratación, quien podrá, sin embargo, delegar en la mesa esta función haciéndolo constar en el pliego de cláusulas administrativas particulares. Una vez hecha la selección de candidatos y presentadas las proposiciones, corresponderán a la mesa de contratación las mismas funciones establecidas en los apartados c), d), e), f) y g) del párrafo anterior.
+
+3\. En el procedimiento negociado, la mesa, en los casos en que intervenga, calificará la documentación general acreditativa del cumplimiento de los requisitos previos a que se refiere el [artículo 130.1](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo130.htm) de la Ley de Contratos del Sector Público y, una vez concluida la fase de negociación, valorará las ofertas de los licitadores, a cuyo efecto podrá pedir los informes técnicos que considere precisos, y propondrá al órgano de contratación la adjudicación provisional.
+
+<strong>Artículo 23. Mesa de diálogo competitivo.</strong>
+
+1\. La mesa especial constituida para las licitaciones que se lleven a cabo por el procedimiento de diálogo competitivo por los órganos de contratación de la Administración General del Estado estará compuesta por los mismos miembros a que se refiere el [artículo 21](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo21.htm), a los que se incorporarán, como miembros con voz y voto, personas con competencia técnica en la materia a que se refiera el contrato que haya de ser objeto de licitación, designadas por el órgano de contratación. El número de estos miembros no deberá ser inferior a tres ni representar menos de la tercera parte de los miembros de la mesa.
+
+2\. La mesa de diálogo competitivo ejercerá las siguientes funciones:
+
+-   1.ª Con carácter previo a la iniciación de cualquier expediente de contrato de colaboración entre el sector público y el privado, la elaboración del documento de evaluación previa en que se ponga de manifiesto que:
+
+    -   a) La Administración, por causa de la complejidad del contrato, no está en condiciones de definir, con carácter previo a la licitación, los medios técnicos necesarios para alcanzar los objetivos proyectados o de establecer los mecanismos jurídicos y financieros para llevar a cabo el contrato;
+    -   b) Se efectúe un análisis comparativo con formas alternativas de contratación que justifiquen en términos de obtención de mayor valor por precio, de coste global, de eficacia o de imputación de riesgos, los motivos de carácter jurídico, económico, administrativo y financiero que recomienden la adopción de esta fórmula de contratación. El expediente de contratación en el caso a que se refiere este número se iniciará con la designación de los miembros con competencia en la materia sobre que verse el contrato para formar parte de la mesa y el documento de evaluación elaborado por ésta.
+
+-   2.ª En la fase de selección de candidatos, la mesa de diálogo competitivo examinará la documentación administrativa en los mismos términos previstos en el [artículo 22.2](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo22.htm) para el procedimiento restringido.
+-   3.ª Durante el diálogo con los licitadores, los miembros de la mesa con competencia técnica en la materia sobre la que versa el contrato podrán asistir al órgano de contratación, a petición de éste.
+-   4.ª Si el procedimiento se articula en varias fases, la mesa determinará el número de soluciones susceptibles de ser examinadas en la siguiente fase, tomando como fundamento el acuerdo que el órgano de contratación haya adoptado en tal sentido mediante la aplicación de los criterios indicados en el anuncio de licitación o en el documento descriptivo.
+-   5.ª Una vez determinada la solución o soluciones que hayan de ser adoptadas para la última fase del proceso de licitación por el órgano de contratación, propondrá que se declare el fin del diálogo, salvo aquellos casos en que tuviera delegada la facultad para declararlo por sí misma.
+-   6.ª Valorará las distintas proposiciones, en los términos previstos en la Ley 30/2007, de 30 de octubre, clasificándolas en orden decreciente de valoración.
+-   7.ª Podrá requerir al licitador cuya oferta se considere económicamente más ventajosa para que aclare determinados aspectos de la misma o ratifique los compromisos que en ella figuran, siempre que con ello no se modifiquen elementos sustanciales de la oferta o de la licitación, se falsee la competencia, o se produzca un efecto discriminatorio.
+-   8.ª Propondrá al órgano de contratación la adjudicación provisional a favor de aquel de los licitadores que hubiese presentado la proposición que contuviese la oferta económicamente más ventajosa según proceda de conformidad con el pliego de condiciones que rija la licitación.
+
+<strong>Artículo 24. Mesa de contratación del sistema estatal de contratación centralizada.</strong>
+
+La mesa de contratación del sistema estatal de contratación centralizada estará presidida por el Director General del Patrimonio del Estado, siendo Vicepresidente el Subdirector General de Compras. Formarán parte de ella como Vocales: un representante del Ministerio de la Presidencia, otro del Ministerio de Economía y Hacienda y otro del Ministerio de Industria, Turismo y Comercio, el Abogado del Estado que tenga encomendado el asesoramiento jurídico de la Dirección General del Patrimonio del Estado, el Interventor Delegado de la Intervención General de la Administración del Estado en el Ministerio de Economía y Hacienda y dos funcionarios de la citada Dirección General nombrados por la Directora General del Patrimonio del Estado. Actuará de Secretario un funcionario de la Subdirección General de Compras.
+
+A las reuniones de la mesa podrán incorporarse los funcionarios o asesores especializados que resulten necesarios, según la naturaleza de los asuntos a tratar, los cuales actuarán con voz pero sin voto.
+
+En función del orden del día a tratar en cada sesión, se incorporarán a la reunión de la mesa representantes de los Departamentos Ministeriales u Organismos interesados quienes actuarán con voz y voto.
+
+<strong>CAPÍTULO IV. APLICACION DE CRITERIOS DE ADJUDICACION QUE DEPENDAN DE UN JUICIO DE VALOR</strong>
+<strong>Artículo 25. Órgano competente para la valoración.</strong>
+
+En los procedimientos de adjudicación, abierto o restringido, celebrados por los órganos de las administraciones públicas, la valoración de los criterios cuya cuantificación dependa de un juicio de valor corresponderá, en los casos en que proceda por tener atribuida una ponderación mayor que la correspondiente a los criterios evaluables de forma automática, bien a un comité formado por expertos bien a un organismo técnico especializado.
+
+En los restantes supuestos, la valoración se efectuará por la mesa de contratación, si interviene, o por el órgano de contratación en el caso contrario.
+
+<strong>Artículo 26. Presentación de la documentación relativa a los criterios de adjudicación ponderables en función de un juicio de valor.</strong>
+
+La documentación relativa a los criterios cuya ponderación dependa de un juicio de valor debe presentarse, en todo caso, en sobre independiente del resto de la proposición con objeto de evitar el conocimiento de esta última antes de que se haya efectuado la valoración de aquéllos.
+
+<strong>Artículo 27. Apertura de los sobres.</strong>
+
+1\. A estos efectos, la apertura de tales documentaciones se llevara a cabo en un acto de carácter público, cuya celebración deberá tener lugar en un plazo no superior a siete días a contar desde la apertura de la documentación administrativa a que se refiere el [artículo 130.1](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo130.htm) de la Ley de Contratos del Sector Público.
+
+A estos efectos, siempre que resulte precisa la subsanación de errores u omisiones en la documentación mencionada en el párrafo anterior, la mesa concederá para efectuarla un plazo inferior al indicado al objeto de que el acto de apertura pueda celebrarse dentro de él.
+
+2\. En este acto sólo se abrirá el sobre correspondiente a los criterios no cuantificables automáticamente entregándose al órgano encargado de su valoración la documentación contenida en el mismo; asimismo, se dejará constancia documental de todo lo actuado.
+
+<strong>Artículo 28. Composición del comité de expertos.</strong>
+
+1\. Cuando la evaluación deba efectuarse por un comité formado por expertos, éstos deberán ser como mínimo tres.
+
+2\. Siempre que sea posible, los miembros del citado comité habrán de ser personal al servicio del departamento ministerial u organismo contratante. En ningún caso podrán estar integrados en el órgano que proponga la celebración del contrato.
+
+3\. Todos los miembros del comité contarán con la cualificación profesional adecuada en razón de la materia sobre la que verse la valoración.
+
+<strong>Artículo 29. Designación de los órganos que deban efectuar la valoración.</strong>
+
+1\. La designación de los miembros del comité de expertos a que se refieren los artículos anteriores podrá hacerse directamente en el pliego de cláusulas administrativas particulares o bien establecer en ellos el procedimiento para efectuarla.
+
+2\. En los casos en que la valoración deba hacerse por un organismo técnico especializado, la designación de éste deberá figurar igualmente en el pliego de cláusulas administrativas particulares y publicarse en el perfil de contratante.
+
+3\. En ambos casos, la designación deberá hacerse y publicarse en el perfil de contratante con carácter previo a la apertura de la documentación mencionada en el [artículo 27](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo27.htm).
+
+<strong>Artículo 30. Práctica de la valoración.</strong>
+
+1\. En los pliegos de cláusulas administrativas particulares deberá constar la identificación del criterio o los criterios concretos que deban someterse a valoración por el comité de expertos o por el organismo especializado, el plazo en que éstos deberán efectuar la valoración y los límites máximo y mínimo en que ésta deberá ser cuantificada.
+
+2\. En todo caso, la valoración de los criterios cuantificables de forma automática se efectuará siempre con posterioridad a la de aquellos cuya cuantificación dependa de un juicio de valor.
+
+3\. La ponderación asignada a los criterios dependientes de un juicio de valor se dará a conocer en el acto público de apertura del resto de la documentación que integre la proposición, salvo que en los pliegos de cláusulas administrativas particulares se disponga otra cosa en cuanto al acto en que deba hacerse pública.
+
+<strong>CAPÍTULO V. COMUNICACIONES AL REGISTRO DE CONTRATOS DEL SECTOR PUBLICO</strong>
+<strong>Artículo 31. Contenido de las comunicaciones al Registro de Contratos del Sector Público.</strong>
+
+1\. Las comunicaciones al Registro de Contratos del Sector Público a que se refiere el [artículo 308](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo308.htm) de la Ley 30/2007, de 30 de octubre, contendrán los datos básicos de los contratos adjudicados que se establecen en el [anexo I](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/a1.htm) de este real decreto.
+
+2\. Los órganos de contratación obligados a efectuar dichas comunicaciones remitirán los datos antes de que finalice el primer trimestre del año siguiente al que corresponda la información de cada ejercicio.
+
+Para los datos relativos a la adjudicación de los contratos, la fecha de referencia para el cómputo de dicho plazo será la de adjudicación definitiva del contrato. Para los datos relativos a las modificaciones, prórrogas, variaciones de plazos o de precio la fecha de referencia será la de la incidencia respectiva, salvo que se acumulen en una sola comunicación todas las referidas a un mismo contrato, en cuyo caso la fecha de referencia será la de la última incidencia comunicada. Para los datos relativos al importe final y extinción del contrato la fecha de referencia será la de ésta.
+
+3\. Las comunicaciones se efectuarán por medios electrónicos, informáticos o telemáticos, en la forma que determine el Ministro de Economía y Hacienda de conformidad con las comunidades autónomas.
+
+<strong>DISPOSICION ADICIONAL UNICA. Uso de medios electrónicos, informáticos y telemáticos.</strong>
+
+Al objeto de fomentar la agilidad, eficacia y eficiencia de los procedimientos regulados en este real decreto, y de acuerdo con lo previsto en las disposiciones adicionales decimoctava y decimonovena de la Ley 30/2007, de 30 de octubre, las comunicaciones, requerimientos y notificaciones previstos en este real decreto podrán realizarse por medios electrónicos, informáticos o telemáticos.
+
+Las certificaciones de los asientos del Registro Oficial de Licitadores y Empresas Clasificadas del Estado podrán ser proporcionadas por medios electrónicos, informáticos o telemáticos, con igual valor y efectos que las expedidas por medios convencionales.
+
+A tal efecto, y de acuerdo con lo previsto en la disposición final novena de la Ley 30/2007, de 30 de octubre, el Ministro de Economía y Hacienda podrá establecer, mediante Orden, las especificaciones técnicas y modelos necesarios para la plena efectividad de la práctica de dichas comunicaciones, requerimientos, notificaciones y certificaciones por medios electrónicos, informáticos o telemáticos.
+
+<strong>DISPOSICIONES TRANSITORIAS</strong>
+<strong>PRIMERA. Comunicación de datos al Registro de Contratos del Sector Público.</strong>
+
+Los contratos adjudicados a partir del 1 de enero de 2009 que hayan de ser comunicados al Ministerio de Economía y Hacienda para su inscripción en el Registro Público de Contratos utilizarán, en todo caso, para la codificación del objeto del contrato los códigos CPV aprobados por el Reglamento 213/2008/CE, de 28 de noviembre de 2007.
+
+El objeto de los contratos adjudicados antes de dicha fecha podrá ser codificado de acuerdo con dicha CPV o de acuerdo con la CPA, debiendo optar el órgano comunicante de los mismos por uno u otro sistema de codificación para todos los contratos que se comuniquen al Ministerio de Economía y Hacienda a partir de la entrada en vigor del presente real decreto, indicando expresamente la opción elegida con anterioridad o de modo simultáneo a la primera notificación que efectúe.
+
+Los códigos correspondientes a los nuevos tipos de contratos, procedimientos de adjudicación y demás información codificada modificada por la entrada en vigor de la Ley de Contratos del Sector Público se ajustarán a lo establecido en el [anexo III](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/a3.htm). El Ministerio de Economía y Hacienda podrá, mediante Orden, modificar en lo necesario los formatos y especificaciones de comunicación de datos de contratos establecidos por la Orden EHA/1077/2005, de 31 de marzo, para dichas remisiones.
+
+<strong>SEGUNDA. Régimen Transitorio de las normas relativas al Registro Oficial de Licitadores y Empresas Clasificadas del Estado.</strong>
+
+Durante el plazo de seis meses desde la puesta en funcionamiento del Registro Oficial de Licitadores y Empresas Clasificadas del Estado, la capacidad de los empresarios podrá seguir acreditándose ante los órganos de contratación de la Administración General del Estado y sus Organismos públicos mediante los certificados expedidos por los Registros voluntarios de licitadores correspondientes a su ámbito.
+
+El contenido de tales registros podrá ser trasladado al de Licitadores y Empresas Clasificadas del Estado mediante soporte informático que permita garantizar la integridad e inalterabilidad de los datos.
+
+<strong>TERCERA. Mesas de contratación actualmente constituidas.</strong>
+
+Las mesas de contratación de carácter permanente o que tengan atribuida competencia respecto de una pluralidad de contratos que se encuentren constituidas en el momento de entrada en vigor de este real decreto subsistirán con las mismas competencias que tengan atribuidas, sin perjuicio de adaptar su actuación a las disposiciones de la Ley de Contratos del Sector Público y a las de este real decreto.
+
+<strong>CUARTA. Expedientes iniciados con anterioridad a la entrada en vigor de este real decreto.</strong>
+
+Los expedientes de contratación iniciados antes de la entrada en vigor de este real decreto se regirán por la normativa anterior. A estos efectos se entenderá que los expedientes de contratación han sido iniciados si se hubiera publicado la correspondiente convocatoria del procedimiento de adjudicación del contrato. En el caso de procedimientos negociados, para determinar el momento de iniciación se tomará en cuenta la fecha de aprobación de los pliegos.
+
+<strong>DISPOSICION DEROGATORIA UNICA.</strong>
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto. En particular, quedan derogados los artículos 79, 114 al 117 y los Anexos VII, VIII y IX del Reglamento General de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto 1098/2001, de 12 de octubre.
+
+<strong>DISPOSICIONES FINALES.</strong>
+<strong>PRIMERA. Normas de carácter básico y no básico.</strong>
+
+Los siguientes preceptos del presente real decreto son normas básicas dictadas al amparo del artículo 149.1.18.ª de la Constitución y en desarrollo del apartado 2 de la [disposición final séptima](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/dfs.htm) de la Ley 30/2007, de 30 de octubre, y, en consecuencia, son de aplicación general a todas las administraciones públicas comprendidas en el [artículo 3](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/articulo3.htm) de la misma: *El* [*artículo 1*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo1.htm)*,* [*artículo 2*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo2.htm)*, apartados 1 y 2, salvo el último párrafo del apartado 1; artículos* [*9*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo9.htm)*,* [*10*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo10.htm)*,* [*11*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo11.htm)*,* [*12*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo12.htm)*,* [*13*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo13.htm)*,* [*14*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo14.htm)*,* [*15*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo15.htm)*,* [*16*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo16.htm)*,* [*17*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo17.htm)*,* [*18*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo18.htm)*,* [*19*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo19.htm)*,* [*20*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo20.htm)*,* [*25*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo25.htm)*,* [*26*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo26.htm)*,* [*27*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo27.htm)*,* [*28*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo28.htm)*,* [*29*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo29.htm)*,* [*30*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo30.htm) *y* [*31*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/articulo31.htm)*;* [*disposición adicional única*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/dau.htm) *y* [*disposición final primera*](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/dfs.htm)*.*
+
+<strong>SEGUNDA. Modelos de anuncios en publicaciones oficiales.</strong>
+
+Los anuncios de información previa, de licitación y de adjudicación de contratos se ajustarán a los modelos incluidos en el [anexo II](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/a2.htm) cuando hayan de publicarse en el «Boletín Oficial del Estado», y a los modelos incluidos en el [anexo III](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/a3.htm) cuando vayan a ser objeto de publicación en el «Diario Oficial de la Unión Europea».
+
+<strong>TERCERA. Anexos I y II de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público.</strong>
+
+De conformidad con la autorización conferida al Consejo de Ministros por la [disposición adicional decimotercera](http://www.carreteros.org/legislaciona/contratos/lcsp/articulos/das.htm) de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, se modifican los Anexos I y II de la citada Ley de conformidad con la modificación introducida en la Directiva 2004/18/CE por el artículo 3 del Reglamento (CE) n.º 213/2008 de la Comisión, aprobado en 28 de noviembre de 2007. En su consecuencia, los mencionados anexos quedan redactados en la forma que se recoge en la Sección Primera del [Apéndice](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/apendice.htm) de este real decreto.
+
+<strong>CUARTA. Anexos I, II.A y II.B de la Ley 31/2007, de 30 de octubre, sobre procedimientos de contratación en los Sectores del Agua, la Energía, el Transporte y los Servicios Postales.</strong>
+
+Las referencias que a los códigos CPV se realizan en los Anexos I, II.A y II.B de la Ley 31/2007, de 30 de octubre, sobre procedimientos de contratación en los Sectores del Agua, la Energía, el Transporte y los Servicios Postales deberán entenderse hechas de conformidad con los nuevos Anexos XII, XVII.A y XVII.B de la Directiva 2004/17/CE modificados por el artículo 2 del Reglamento (CE) n.º 213/2008 de la Comisión, aprobado en 28 de noviembre de 2007. En su consecuencia, las mencionadas referencias deberán entenderse hechas de conformidad con lo establecido en la Sección Segunda del [Apéndice](http://www.carreteros.org/legislaciona/contratos/reg1lcsp/articulos/apendice.htm) de este real decreto.
+
+<strong>QUINTA. Modificación del artículo 179.1 del Reglamento General de la Ley de Contratos de las Administraciones Públicas.</strong>
+
+El artículo 179.1 del Reglamento General de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto 1098/2001, de 12 de octubre, queda redactado de la siguiente forma:
+
+«Artículo 179. Comprobación, recepción y liquidación de las obras ejecutadas por la Administración.
+
+1\. Las obras ejecutadas por la Administración serán objeto de reconocimiento y comprobación por el facultativo designado al efecto y distinto del director de ellas. *Cuando el importe de la inversión sea igual o superior a 50.000 euros*, con exclusión del Impuesto sobre el Valor Añadido, deberá solicitarse a la Intervención General la designación de delegado para su eventual asistencia a la comprobación material de la inversión, con una antelación de veinte días a la fecha prevista para la misma.
+
+Lo anterior será de aplicación a los supuestos de fabricación de bienes muebles por la Administración y ejecución de servicios con la colaboración de empresarios particulares.»
+
+<strong>SEXTA. Modificación del artículo 28.4 del Real Decreto 2188/1995, de 28 de diciembre.</strong>
+
+Se modifica el artículo 28.4 del Real Decreto 2188/1995, de 28 de diciembre, por el que se desarrolla el régimen de control interno ejercido por la Intervención General de la Administración del Estado, y se sustituye por la siguiente redacción:
+
+«4. Los órganos gestores deberán solicitar de la Intervención General de la Administración del Estado la designación de delegado para su asistencia a la comprobación material de la inversión cuando el importe de ésta sea igual o superior a 50.000 euros, con exclusión del Impuesto sobre el Valor Añadido, con una antelación de veinte días a la fecha prevista para la recepción de la inversión de que se trate.»
+
+<strong>SEPTIMA. Modificación del Real Decreto 706/1997, de 16 de mayo, por el que se desarrolla el régimen de control interno de la Intervención General de la Seguridad Social.</strong>
+
+El apartado 4 del artículo 25 del Real Decreto 706/1997, de 16 de mayo, por el que se desarrolla el régimen de control interno de la Intervención General de la Seguridad Social, queda redactado en los siguientes términos:
+
+«4. Los órganos gestores deberán solicitar de la Intervención General de la Seguridad Social la designación de delegado para su asistencia a la comprobación material de la inversión cuando el importe de ésta sea igual o superior a 50.000 euros, con una antelación de veinte días a la fecha prevista para la recepción de la inversión de que se trate.»
+
+<strong>OCTAVA. Entrada en vigor.</strong>
+
+1\. Sin perjuicio de lo establecido en las disposiciones transitorias, el presente real decreto entrará en vigor transcurrido un mes a contar desde el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+2\. Ello no obstante, las disposiciones de este real decreto reguladoras del Registro Oficial de Licitadores y Empresas Clasificadas del Estado entrarán en vigor a partir de la publicación de la Orden Ministerial que acuerde la puesta en funcionamiento de la aplicación informática desarrollada al efecto. Hasta tal fecha subsistirán los registros voluntarios de licitadores creados en los diferentes órganos de la Administración General del Estado, así como en los organismos dependientes de ésta al amparo de lo dispuesto en la disposición adicional decimoquinta del Texto Refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto Legislativo 2/2000, de 16 de junio, así como el Registro Oficial de Empresas Clasificadas.
+
+Dado en Madrid, el 8 de mayo de 2009.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Segunda del Gobierno y Ministra de Economía y Hacienda,
+ELENA SALGADO MÉNDEZ
+
+<strong>ANEXO I. COMUNICACION DE DATOS DE CONTRATOS PARA SU INSCRIPCION EN EL REGISTRO DE CONTRATOS DEL SECTOR PUBLICO</strong>
+
+Omitido, por ahora, en [WWW.CARRETER@S.ORG](mailto:WWW.CARRETER@S.ORG)
+
+<strong>ANEXO II. MODELOS DE ANUNCIOS DE LICITACION Y ADJUDICACION DE LOS CONTRATOS PARA SU PUBLICACION EN EL "BOLETIN OFICIAL DEL ESTADO"</strong>
+
+Omitido, por ahora, en [WWW.CARRETER@S.ORG](mailto:WWW.CARRETER@S.ORG)
+
+<strong>ANEXO III. MODELOS DE ANUNCIOS DE LICITACION Y ADJUDICACION DE LOS CONTRATOS PARA SU PUBLICACION EN EL "DIARIO OFICIAL DE LAS COMUNIDADES EUROPEAS"</strong>
+
+Omitido, por ahora, en [WWW.CARRETER@S.ORG](mailto:WWW.CARRETER@S.ORG)
+
+<strong>APENDICE.</strong>
+<strong>SECCION PRIMERA. Modificación de los Anexos I y II de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público</strong>
+
+Omitido, por ahora, en [WWW.CARRETER@S.ORG](mailto:WWW.CARRETER@S.ORG)
+
+<strong>SECCION SEGUNDA. Adaptación al Reglamento (CE) n.º 213/2008 de la Comisión, de 28 de noviembre de 2007 de los Anexos I, II.A y II.B de la Ley 30/2007, de 30 de octubre sobre procedimientos de contratación en los sectores del Agua, la Energía, los Transportes y los Servicios Postales</strong>
+
+Omitido, por ahora, en [WWW.CARRETER@S.ORG](mailto:WWW.CARRETER@S.ORG)
+
+<!-- tabla 02: tablas/servicios/legislacion/espana/sector_publico/tabla-02.json -->
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |

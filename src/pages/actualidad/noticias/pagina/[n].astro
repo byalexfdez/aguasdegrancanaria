@@ -1,0 +1,17 @@
+---
+import { getEntry } from 'astro:content';
+import ListadoNoticias from '../../../../components/ListadoNoticias.astro';
+import { noticiasOrdenadas, POR_PAGINA } from '../../../../lib/noticias';
+
+export async function getStaticPaths() {
+  const todas = await noticiasOrdenadas();
+  const total = Math.ceil(todas.length / POR_PAGINA);
+  return Array.from({ length: Math.max(0, total - 1) }, (_, i) => i + 2).map((n) => ({
+    params: { n: String(n) },
+    props: { pagina: n, total, noticias: todas.slice((n - 1) * POR_PAGINA, n * POR_PAGINA) },
+  }));
+}
+const { pagina, total, noticias } = Astro.props;
+const entrada = await getEntry('paginas', 'actualidad/noticias');
+---
+<ListadoNoticias noticias={noticias} pagina={pagina} total={total} entrada={entrada} />

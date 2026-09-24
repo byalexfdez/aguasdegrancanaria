@@ -1,0 +1,973 @@
+---
+titulo: "Pliego de C.A.G para la contratación de obras del Estado D. 3854/70, de 31 de diciembre, P"
+titulo_html: null
+ruta_antigua: "/servicios/legislacion/españa/contratacion_obras.php"
+url_antigua: "https://www.aguasgrancanaria.com/servicios/legislacion/espa%C3%B1a/contratacion_obras.php"
+seccion: "Servicios › Normativa"
+origen: "inventario"
+ultima_actualizacion: null
+ultima_actualizacion_texto: null
+encabezados: 
+  - nivel: 4
+    texto: "Contenido:"
+documentos: []
+imagenes: 
+  - url_antigua: "https://www.aguasgrancanaria.com/img/logociagc_cian_peq_agua_clara.gif"
+    ruta_nueva: "/imagenes/img/logociagc_cian_peq_agua_clara.gif"
+    alt: null
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/pcag_1.gif"
+    ruta_nueva: "/imagenes/img/pcag_1.gif"
+    alt: "PLIEGO DE CLAUSULAS ADMINISTRATIVAS GENERALES PARA LA CONTRATACION DE OBRAS DEL ESTADO"
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/pcag_2.gif"
+    ruta_nueva: "/imagenes/img/pcag_2.gif"
+    alt: ""
+    enlazada: false
+videos: []
+iframes: []
+enlaces_externos: 
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/d.htm"
+    texto: "DECRETO"
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo1.htm"
+    texto: "Cláusula 1. Régimen Jurídico."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo2.htm"
+    texto: "Cláusula 2. Conocimiento por parte del contratista del contrato y de sus normas reguladoras."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo3.htm"
+    texto: "Cláusula 3. Organos de la Administración."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo4.htm"
+    texto: "Cláusula 4. Dirección de la obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo5.htm"
+    texto: "Cláusula 5. Contratista y su personal de obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo6.htm"
+    texto: "Cláusula 6. Residencia del contratista en relación con la obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo7.htm"
+    texto: "Cláusula 7. Oficina de obra del contratista."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo8.htm"
+    texto: "Cláusula 8. Ordenes al contratista."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo9.htm"
+    texto: "Cláusula 9. Obligaciones del contratista respecto del libro de incidencia."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo10.htm"
+    texto: "Cláusula 10. Facultades de la Administración respecto del personal del contratista."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo11.htm"
+    texto: "Cláusula 11. Obligaciones sociales y laborales del contratista"
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo12.htm"
+    texto: "Cláusula 12. Indemnizaciones por cuenta del contratista."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo13.htm"
+    texto: "Cláusula 13. Gastos y tasas de cuenta del contratista."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo14.htm"
+    texto: "Cláusula 14. Derechos del contratista en casos de fuerza mayor."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo15.htm"
+    texto: "Cláusula 15. Utilización por el contratista de bienes que aparezcan como consecuencia de la ejecución de la obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo16.htm"
+    texto: "Cláusula 16. Propiedad industrial y comercial."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo17.htm"
+    texto: "Cláusula 17. Protección a la industria nacional."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo18.htm"
+    texto: "Cláusula 18. Inscripciones en la obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo19.htm"
+    texto: "Cláusula 19. Objetos hallados en las obras."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo20.htm"
+    texto: "Cláusula 20. Servidumbre."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo21.htm"
+    texto: "Cláusula 21. Inspección de la obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo22.htm"
+    texto: "Cláusula 22. Conservación de la obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo23.htm"
+    texto: "Cláusula 23. Señalización de la obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo24.htm"
+    texto: "Cláusula 24. Acta de comprobación del replanteo."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo25.htm"
+    texto: "Cláusula 25. Gastos de comprobación del replanteo."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo26.htm"
+    texto: "Cláusula 26. Modificaciones acordadas como consecuencia de la comprobación del replanteo."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo27.htm"
+    texto: "Cláusula 27. Presentación del programa de trabajo."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo28.htm"
+    texto: "Cláusula 28. Aportación de equipo y maquinaria."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo29.htm"
+    texto: "Cláusula 29. Insuficiencia de equipo."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo30.htm"
+    texto: "Cláusula 30. Expropiaciones."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo31.htm"
+    texto: "Cláusula 31. Ocupación temporal de terrenos a favor del contratista."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo32.htm"
+    texto: "Cláusula 32. Uso temporal de bienes del Estado."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo33.htm"
+    texto: "Cláusula 33. Vigilancia de terrenos y bienes."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo34.htm"
+    texto: "Cláusula 34. Procedencia de los materiales naturales."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo35.htm"
+    texto: "Cláusula 35. Aprovechamiento de materiales."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo36.htm"
+    texto: "Cláusula 36. Materiales procedentes de excavaciones o demoliciones en la propia obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo37.htm"
+    texto: "Cláusula 37. Productos industriales de empleo en la obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo38.htm"
+    texto: "Cláusula 38. Ensayos y análisis de los materiales y unidades de obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo39.htm"
+    texto: "Cláusula 39. Instrucciones y Normas de Obligado Cumplimiento en la materia."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo40.htm"
+    texto: "Cláusula 40. Almacenes."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo41.htm"
+    texto: "Cláusula 41. Recepción y recusación de materiales."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo42.htm"
+    texto: "Cláusula 42. Retirada de materiales no empleados en la obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo43.htm"
+    texto: "Cláusula 43. Obras defectuosas o mal ejecutadas."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo44.htm"
+    texto: "Cláusula 44. Demolición y reconstrucción de las obras defectuosas o mal ejecutadas y sus gastos."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo45.htm"
+    texto: "Cláusula 45. Mediciones."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo46.htm"
+    texto: "Cláusula 46. Relaciones valoradas."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo47.htm"
+    texto: "Cláusula 47. Certificaciones."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo48.htm"
+    texto: "Cláusula 48. Audiencia del contratista."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo49.htm"
+    texto: "Cláusula 49. Requisitos para el abono."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo50.htm"
+    texto: "Cláusula 50. Mejoras propuestas por el contratista."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo51.htm"
+    texto: "Cláusula 51. Precios."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo52.htm"
+    texto: "Cláusula 52. Partidas alzadas."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo53.htm"
+    texto: "Cláusula 53. Anualidades."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo54.htm"
+    texto: "Cláusula 54. Abonos a cuenta por materiales acopiados."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo55.htm"
+    texto: "Cláusula 55. Abonos a cuenta por instalaciones y equipo."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo56.htm"
+    texto: "Cláusula 56. Deducciones para el reintegro de los abonos a cuenta por instalaciones y equipo."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo57.htm"
+    texto: "Cláusula 57. Avales prestados en garantía de abonos a cuenta por instalaciones y equipo."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo58.htm"
+    texto: "Cláusula 58. Cancelación total o parcial de los avales prestados en garantía de abonos a cuenta por acopio de materiales, instalaciones o equipo."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo59.htm"
+    texto: "Cláusula 59. Ejecución de las modificaciones del proyecto."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo60.htm"
+    texto: "Cláusula 60. Precios de las unidades de obra no previstas en el contrato."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo61.htm"
+    texto: "Cláusula 61. Variaciones en los plazos de ejecución por modificaciones del proyecto."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo62.htm"
+    texto: "Cláusula 62. Modificaciones no autorizadas."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo63.htm"
+    texto: "Cláusula 63. Suspensiones temporales."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo64.htm"
+    texto: "Cláusula 64. Actas de suspensión."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo65.htm"
+    texto: "Cláusula 65. Daños y perjuicios al contratista."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo66.htm"
+    texto: "Cláusula 66. Sanciones al contratista por daños y perjuicios en caso de resolución por causas imputables al mismo."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo67.htm"
+    texto: "Cláusula 67. Fallecimiento del contratista individual."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo68.htm"
+    texto: "Cláusula 68. Causas de resolución del contrato referidas al caso de agrupación temporal de empresas."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo69.htm"
+    texto: "Cláusula 69. Plazo para retirar instalaciones y equipo."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo70.htm"
+    texto: "Cláusula 70. Aviso de terminación de la obra."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo71.htm"
+    texto: "Cláusula 71. Acta de recepción provisional."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo72.htm"
+    texto: "Cláusula 72. Incumplimiento del plazo para realizar la recepción provisional."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo73.htm"
+    texto: "Cláusula 73. Conservación de la obra durante el plazo de garantía."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo74.htm"
+    texto: "Cláusula 74. Medición general."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo75.htm"
+    texto: "Cláusula 75. Liquidación provisional."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo76.htm"
+    texto: "Cláusula 76. Acta de recepción definitiva."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo77.htm"
+    texto: "Cláusula 77. Incumplimiento del plazo para realizar la recepción definitiva."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo78.htm"
+    texto: "Cláusula 78. Liquidación definitiva."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo79.htm"
+    texto: "Cláusula 79. Saldo de la liquidación definitiva y certificación de la liquidación."
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo1.htm"
+    texto: "cláusula 1"
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo13.htm"
+    texto: "cláusula 13"
+  - url: "http://www.carreteros.org/contratos/pcag_obras/articulos/articulo59.htm"
+    texto: "cláusula 59"
+enlaces_internos: []
+emails: []
+telefonos: []
+tablas: 
+  - archivo: "tablas/servicios/legislacion/espana/contratacion_obras/tabla-01.json"
+    titulo: null
+    filas: 4
+    columnas: 5
+referencias_rotas: []
+contenido_oculto_en_origen: []
+---
+
+<!-- tabla 01: tablas/servicios/legislacion/espana/contratacion_obras/tabla-01.json -->
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Legislación Creada el 26/09/2002 | Título | Pliego de C.A.G para la contratación de obras del Estado |  |  |
+|  | Descripción | D. 3854/70, de 31 de diciembre, POR EL QUE SE APRUEBA EL PLIEGO DE CLAUSULAS GENERALES PARA LA CONTRATACION DE OBRAS DEL ESTADO |  |  |
+|  | Código | Aprobado | Categoría | Ámbito |
+|  | Contr |  | Decreto | España |
+
+#### Contenido:
+
+![PLIEGO DE CLAUSULAS ADMINISTRATIVAS GENERALES PARA LA CONTRATACION DE OBRAS DEL ESTADO](/imagenes/img/pcag_1.gif)
+
+![](/imagenes/img/pcag_2.gif)
+
+[DECRETO](http://www.carreteros.org/contratos/pcag_obras/articulos/d.htm)
+
+-   CAPITULO PRIMERO Disposiciones generales
+    
+    -   [Cláusula 1. Régimen Jurídico.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo1.htm)
+    -   [Cláusula 2. Conocimiento por parte del contratista del contrato y de sus normas reguladoras.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo2.htm)
+    -   SECCION 1ª. Relaciones generales entre la Administración y el contratista
+        
+        -   [Cláusula 3. Organos de la Administración.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo3.htm)
+        -   [Cláusula 4. Dirección de la obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo4.htm)
+        -   [Cláusula 5. Contratista y su personal de obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo5.htm)
+        -   [Cláusula 6. Residencia del contratista en relación con la obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo6.htm)
+        -   [Cláusula 7. Oficina de obra del contratista.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo7.htm)
+        -   [Cláusula 8. Ordenes al contratista.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo8.htm)
+        -   [Cláusula 9. Obligaciones del contratista respecto del libro de incidencia.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo9.htm)
+        -   [Cláusula 10. Facultades de la Administración respecto del personal del contratista.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo10.htm)
+        
+    -   SECCION SEGUNDA Obligaciones sociales, laborales y económicas
+        
+        -   [Cláusula 11. Obligaciones sociales y laborales del contratista](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo11.htm)
+        -   [Cláusula 12. Indemnizaciones por cuenta del contratista.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo12.htm)
+        -   [Cláusula 13. Gastos y tasas de cuenta del contratista.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo13.htm)
+        -   [Cláusula 14. Derechos del contratista en casos de fuerza mayor.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo14.htm)
+        -   [Cláusula 15. Utilización por el contratista de bienes que aparezcan como consecuencia de la ejecución de la obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo15.htm)
+        -   [Cláusula 16. Propiedad industrial y comercial.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo16.htm)
+        -   [Cláusula 17. Protección a la industria nacional.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo17.htm)
+        -   [Cláusula 18. Inscripciones en la obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo18.htm)
+        -   [Cláusula 19. Objetos hallados en las obras.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo19.htm)
+        -   [Cláusula 20. Servidumbre.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo20.htm)
+        
+    
+-   CAPITULO II Ejecución de la obra
+    
+    -   SECCION 1ª. Disposiciones generales
+        
+        -   [Cláusula 21. Inspección de la obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo21.htm)
+        -   [Cláusula 22. Conservación de la obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo22.htm)
+        -   [Cláusula 23. Señalización de la obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo23.htm)
+        
+    -   SECCION 2ª. Comprobación del replanteo y programa de trabajo
+        
+        -   [Cláusula 24. Acta de comprobación del replanteo.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo24.htm)
+        -   [Cláusula 25. Gastos de comprobación del replanteo.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo25.htm)
+        -   [Cláusula 26. Modificaciones acordadas como consecuencia de la comprobación del replanteo.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo26.htm)
+        -   [Cláusula 27. Presentación del programa de trabajo.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo27.htm)
+        
+    -   SECCION 3ª. Equipo y maquinaria
+        
+        -   [Cláusula 28. Aportación de equipo y maquinaria.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo28.htm)
+        -   [Cláusula 29. Insuficiencia de equipo.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo29.htm)
+        
+    -   SECCION 4ª. Expropiación y ocupación de terrenos
+        
+        -   [Cláusula 30. Expropiaciones.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo30.htm)
+        -   [Cláusula 31. Ocupación temporal de terrenos a favor del contratista.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo31.htm)
+        -   [Cláusula 32. Uso temporal de bienes del Estado.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo32.htm)
+        -   [Cláusula 33. Vigilancia de terrenos y bienes.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo33.htm)
+        
+    -   SECCION 5ª. Materiales
+        
+        -   [Cláusula 34. Procedencia de los materiales naturales.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo34.htm)
+        -   [Cláusula 35. Aprovechamiento de materiales.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo35.htm)
+        -   [Cláusula 36. Materiales procedentes de excavaciones o demoliciones en la propia obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo36.htm)
+        -   [Cláusula 37. Productos industriales de empleo en la obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo37.htm)
+        -   [Cláusula 38. Ensayos y análisis de los materiales y unidades de obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo38.htm)
+        -   [Cláusula 39. Instrucciones y Normas de Obligado Cumplimiento en la materia.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo39.htm)
+        -   [Cláusula 40. Almacenes.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo40.htm)
+        -   [Cláusula 41. Recepción y recusación de materiales.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo41.htm)
+        -   [Cláusula 42. Retirada de materiales no empleados en la obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo42.htm)
+        
+    -   SECCION 6ª. Obras defectuosas o mal ejecutadas
+        
+        -   [Cláusula 43. Obras defectuosas o mal ejecutadas.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo43.htm)
+        -   [Cláusula 44. Demolición y reconstrucción de las obras defectuosas o mal ejecutadas y sus gastos.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo44.htm)
+        
+    
+-   CAPITULO III Abono de la obra ejecutada
+    
+    -   SECCION 1ª. Medición y valoración
+        
+        -   [Cláusula 45. Mediciones.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo45.htm)
+        -   [Cláusula 46. Relaciones valoradas.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo46.htm)
+        -   [Cláusula 47. Certificaciones.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo47.htm)
+        -   [Cláusula 48. Audiencia del contratista.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo48.htm)
+        
+    -   SECCION 2ª. Abono de las obras
+        
+        -   [Cláusula 49. Requisitos para el abono.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo49.htm)
+        -   [Cláusula 50. Mejoras propuestas por el contratista.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo50.htm)
+        -   [Cláusula 51. Precios.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo51.htm)
+        -   [Cláusula 52. Partidas alzadas.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo52.htm)
+        -   [Cláusula 53. Anualidades.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo53.htm)
+        
+    -   SECCION 3ª. Abonos a cuenta de materiales acopiados, equipos e instalaciones
+        
+        -   [Cláusula 54. Abonos a cuenta por materiales acopiados.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo54.htm)
+        -   [Cláusula 55. Abonos a cuenta por instalaciones y equipo.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo55.htm)
+        -   [Cláusula 56. Deducciones para el reintegro de los abonos a cuenta por instalaciones y equipo.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo56.htm)
+        -   [Cláusula 57. Avales prestados en garantía de abonos a cuenta por instalaciones y equipo.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo57.htm)
+        -   [Cláusula 58. Cancelación total o parcial de los avales prestados en garantía de abonos a cuenta por acopio de materiales, instalaciones o equipo.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo58.htm)
+        
+    
+-   CAPITULO IV Modificación del contrato
+    
+    -   SECCION 1ª. Modificación en la obra
+        
+        -   [Cláusula 59. Ejecución de las modificaciones del proyecto.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo59.htm)
+        -   [Cláusula 60. Precios de las unidades de obra no previstas en el contrato.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo60.htm)
+        -   [Cláusula 61. Variaciones en los plazos de ejecución por modificaciones del proyecto.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo61.htm)
+        -   [Cláusula 62. Modificaciones no autorizadas.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo62.htm)
+        
+    -   SECCION 2ª. Suspensión de las obras
+        
+        -   [Cláusula 63. Suspensiones temporales.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo63.htm)
+        -   [Cláusula 64. Actas de suspensión.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo64.htm)
+        -   [Cláusula 65. Daños y perjuicios al contratista.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo65.htm)
+        
+    
+-   CAPITULO V Resolución del contrato
+    
+    -   [Cláusula 66. Sanciones al contratista por daños y perjuicios en caso de resolución por causas imputables al mismo.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo66.htm)
+    -   [Cláusula 67. Fallecimiento del contratista individual.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo67.htm)
+    -   [Cláusula 68. Causas de resolución del contrato referidas al caso de agrupación temporal de empresas.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo68.htm)
+    -   [Cláusula 69. Plazo para retirar instalaciones y equipo.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo69.htm)
+    
+-   CAPITULO VI Conclusión del contrato
+    
+    -   SECCION 1ª. Recepción provisional de la obra
+        
+        -   [Cláusula 70. Aviso de terminación de la obra.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo70.htm)
+        -   [Cláusula 71. Acta de recepción provisional.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo71.htm)
+        -   [Cláusula 72. Incumplimiento del plazo para realizar la recepción provisional.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo72.htm)
+        -   [Cláusula 73. Conservación de la obra durante el plazo de garantía.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo73.htm)
+        
+    -   SECCION 2ª. Medición general y liquidación provisional
+        
+        -   [Cláusula 74. Medición general.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo74.htm)
+        -   [Cláusula 75. Liquidación provisional.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo75.htm)
+        
+    -   SECCION 3ª. Recepción y liquidación definitivas
+        
+        -   [Cláusula 76. Acta de recepción definitiva.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo76.htm)
+        -   [Cláusula 77. Incumplimiento del plazo para realizar la recepción definitiva.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo77.htm)
+        -   [Cláusula 78. Liquidación definitiva.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo78.htm)
+        -   [Cláusula 79. Saldo de la liquidación definitiva y certificación de la liquidación.](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo79.htm)
+        
+        ![PLIEGO DE CLAUSULAS ADMINISTRATIVAS GENERALES PARA LA CONTRATACION DE OBRAS DEL ESTADO](/imagenes/img/pcag_1.gif)
+        
+    
+
+**DECRETO 3854/70, de 31 de diciembre, POR EL QUE SE APRUEBA EL PLIEGO DE CLAUSULAS GENERALES PARA LA CONTRATACION DE OBRAS DEL ESTADO.**
+
+La disposición final quinta del Reglamento General de Contratación dispone que una Comisión especializada proceda a redactar un Pliego de Cláusulas Administrativas Generales para la Contratación de Obras, con el propósito de que sea de uso general para toda la Administración.  
+Concluido por la citada Comisión el trabajo encomendado, se han requerido los informes y dictámenes que con carácter preceptivo, determina la citada disposición, habiéndose recogido en el texto definitivo las observaciones que en aquéllos se formulaban.  
+En su virtud, a propuesta del Ministro de Obras Públicas, previo informe favorable de la Junta Consultiva de Contratación Administrativa, de conformidad con el dictamen del Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de diciembre de 1970,  
+DISPONGO:
+
+**Artículo 1.**
+
+Se aprueba el adjunto Pliego de Cláusulas Administrativas Generales para la Contratación de Obras del Estado, que será de aplicación a todos los contratos que tengan por objeto directo la ejecución de obras del Estado y de los Organismos autónomos regulados por la Ley de 26 de diciembre de 1958, salvo aquellas cláusulas para las que expresamente se disponga otra cosa en los pliegos de cláusulas administrativas particulares, previos los informes y dictámenes establecidos por el artículo 36 del Reglamento General de Contratación.
+
+  
+**Artículo 2.**
+
+El presente Pliego entrará en vigor el día 1 de marzo de 1971, siendo de aplicación a todos los contratos, cuyo Pliego de cláusulas administrativas particulares se apruebe con posterioridad a dicha fecha.
+
+  
+**Artículo 3.**
+
+A la entrada en vigor del Pliego de Cláusulas Administrativas Generales quedarán derogados los pliegos de condiciones generales siguientes:
+
+-   Real Decreto de 13 de marzo de 1903 (Obras Públicas).
+
+-   Real Decreto de 4 de septiembre de 1908 (Educación).
+-   Real Decreto de 23 de abril de 1919 (Ejército).
+-   Real Orden de 15 de julio de 1927 (Hacienda).
+-   Real Orden de 21 de febrero de 1931 (Ejército).
+-   Orden de 29 de abril de 1940 (Marina).
+-   Orden de 30 de abril de 1943 (Gobernación).  
+    Así lo dispongo por el presente Decreto, dado en Madrid a treinta y uno de diciembre de mil novecientos setenta.  
+    Francisco Franco  
+    El Ministro de Obras Públicas,  
+    Gonzalo Fernández de la Mora y Mon.
+
+**PLIEGO DE CLAUSULAS ADMINISTRATIVAS GENERALES PARA LA CONTRATACION DE OBRAS DEL ESTADO.**
+
+**CAPITULO PRIMERO Disposiciones generales**  
+**Cláusula 1. Régimen Jurídico.**
+
+El contrato de obras del Estado se regirá peculiarmente por la Ley y Reglamento General de Contratos del Estado, por las prescripciones del correspondiente pliego de cláusulas administrativas particulares y, en lo que no resulte válidamente modificado por éste, por el presente Pliego.
+
+  
+**Cláusula 2. Conocimiento por parte del contratista del contrato y de sus normas reguladoras.**
+
+El desconocimiento del contrato en cualquiera de sus términos, de los documentos anejos que forman parte del mismo o de las instrucciones, pliegos o normas de toda índole promulgados por la Administración que puedan tener aplicación a la ejecución de lo pactado no eximirá al contratista de la obligación de su cumplimiento.
+
+  
+**SECCION 1ª. Relaciones generales entre la Administración y el contratista**  
+**Cláusula 3. Organos de la Administración.**
+
+A efectos de lo dispuesto en la normativa señalada en la [cláusula 1](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo1.htm), las menciones que la misma realice a "Administración" o a "Administración contratante" se entenderán referidas al Departamento ministerial a quien, por razón de la materia y de las consignaciones presupuestarias, corresponda la ejecución de las obras, cuyo titular resolverá definitivamente en vía administrativa cualesquiera cuestiones derivadas del contrato, a menos que tal competencia esté atribuida al Consejo de Ministros o haya sido objeto de desconcentración o delegación.  
+Dicha autoridad podrá ejercer la potestad administrativa que le incumbe a través del "Servicio al que está adscrita la obra" y del "Facultativo Director de la obra".  
+El "Servicio al que está adscrita la obra" (en lo sucesivo "Servicio") será mencionado en el pliego de cláusulas administrativas particulares con el nombre que le corresponde en la organización del Departamento.
+
+  
+**Cláusula 4. Dirección de la obra.**
+
+El "Facultativo de la Administración Director de la obra" (en lo sucesivo "Director") es la persona, con titulación adecuada y suficiente, directamente responsable de la comprobación y vigilancia de la correcta realización de la obra contratada.  
+Para el desempeño de su función podrá contar con colaboradores a sus órdenes, que desarrollarán su labor en función de las atribuciones derivadas de sus títulos profesionales o de sus conocimientos específicos y que integrarán la "Dirección de la obra" (en lo sucesivo "Dirección").  
+El Director designado será comunicado al contratista por la Administración antes de la fecha de la comprobación del replanteo, y dicho Director procederá en igual forma respecto de su personal colaborador. Las variaciones de uno u otro que acaezcan durante la ejecución de la obra serán puestas en conocimiento del contratista, por escrito.
+
+  
+**Cláusula 5. Contratista y su personal de obra.**
+
+Se entiende por "Contratista" la parte contratante obligada a ejecutar la obra. Cuando dos o más empresas presenten una oferta conjunta a la licitación de una obra quedarán obligadas solidariamente frente a la Administración y deberán cumplir lo dispuesto en los artículos 23 y 24 del Reglamento General de Contratación.  
+Se entiende por "Delegado de obra del contratista" (en lo sucesivo "Delegado") la persona designada expresamente por el contratista y aceptada por la Administración con capacidad suficiente para:
+
+-   Ostentar la representación del contratista cuando sea necesaria su actuación o presencia, según el Reglamento General de Contratación y los pliegos de cláusulas, así como en otros actos derivados del cumplimiento de las obligaciones contractuales, siempre en orden a la ejecución y buena marcha de las obras.
+
+-   Organizar la ejecución de la obra e interpretar y poner en práctica las órdenes recibidas de la Dirección.
+-   Proponer a ésta a colaborar con ella en la resolución de los problemas que se planteen durante la ejecución.  
+    La Administración, cuando por la complejidad y volumen de la obra así haya sido establecido en el pliego de cláusulas administrativas particulares, podrá exigir que el Delegado tenga la titulación profesional adecuada a la naturaleza de las obras y que el contratista designe además el personal facultativo necesario bajo la dependencia de aquél.  
+    La Administración podrá recabar del contratista la designación de un nuevo Delegado y, en su caso, de cualquier facultativo que de él dependa cuando así lo justifique la marcha de los trabajos.
+
+  
+**Cláusula 6. Residencia del contratista en relación con la obra.**
+
+El contratista está obligado a comunicar a la Administración, en un plazo de quince días contados a partir de la fecha en que se le haya notificado la adjudicación definitiva de las obras, su residencia o la de su Delegado, a todos los efectos derivados de la ejecución de aquéllas.  
+Esta residencia estará situada en las obras o de una localidad próxima a su emplazamiento, y tanto para concretar inicialmente su situación como para cualquier cambio futuro el contratista deberá contar con la previa conformidad de la Administración.  
+Desde que comiencen las obras hasta su recepción definitiva, el contratista o su delegado deberá residir en el lugar indicado, y sólo podrá ausentarse de él previa la comunicación a la dirección de la persona que designe para sustituirle.
+
+  
+**Cláusula 7. Oficina de obra del contratista.**
+
+El contratista deberá instalar antes del comienzo de las obras y mantener durante la ejecución del contrato, una "Oficina de obra" en el lugar que considere más apropiado, previa conformidad del Director.  
+El contratista deberá necesariamente conservar en ella copia autorizada de los documentos contractuales del proyecto o proyectos base del contrato y el "Libro de Ordenes"; a tales efectos la Administración suministrará a aquél una copia de aquellos documentos antes de la fecha en que tenga lugar la comprobación del replanteo.  
+El contratista no podrá proceder al cambio o traslado de la oficina de obras sin previa autorización de la Dirección.
+
+  
+**Cláusula 8. Ordenes al contratista.**
+
+El "Libro de Ordenes" será diligenciado previamente por el servicio a que esté adscrita la obra, se abrirá en la fecha de comprobación del replanteo y se cerrará en la de la recepción definitiva.  
+Durante dicho lapso de tiempo estará a disposición de la Dirección, que, cuando proceda, anotará en él las órdenes, instrucciones y comunicaciones que estime oportunas, autorizándolas con su firma.  
+El contratista estará también obligado a transcribir en dicho libro, por sí o por medio de su Delegado, cuantas órdenes o instrucciones reciba por escrito de la Dirección, y a firmar, a los efectos procedentes, el oportuno acuse de recibo, sin perjuicio de la necesidad de una posterior autorización de tales transcripciones por la Dirección, con su firma, en el libro indicado.  
+Efectuada la recepción definitiva, el "Libro de Ordenes" pasará a poder de la Administración, si bien podrá ser consultado en todo momento por el contratista.
+
+  
+**Cláusula 9. Obligaciones del contratista respecto del libro de incidencia.**
+
+El contratista está obligado a dar a la Dirección las facilidades necesarias para la recogida de los datos de toda clase que sean precisos para que la Administración pueda llevar correctamente un "Libro de Incidencias de la obra", cuando así lo decidiese aquélla.
+
+  
+**Cláusula 10. Facultades de la Administración respecto del personal del contratista.**
+
+Cuando el contratista o las personas de él dependientes incurra en actos u omisiones que comprometan o perturben la buena marcha de las obras o el cumplimiento de los programas de trabajo, la Administración podrá exigirle la adopción de medidas concretas y eficaces para conseguir o restablecer el buen orden en la ejecución de lo pactado, sin perjuicio de lo dispuesto en el Reglamento General de Contratación acerca del cumplimiento de los plazos y las causas de resolución del contrato.
+
+  
+**SECCION SEGUNDA Obligaciones sociales, laborales y económicas**  
+**Cláusula 11. Obligaciones sociales y laborales del contratista**
+
+El contratista está obligado al cumplimiento de las disposiciones vigentes en materia laboral, de seguridad social y de seguridad e higiene en el trabajo.  
+El contratista deberá constituir el órgano necesario con función específica de velar por el cumplimiento de las disposiciones vigentes sobre seguridad e higiene en el trabajo y designará el personal técnico de seguridad que asuma las obligaciones correspondientes en cada centro de trabajo.  
+El incumplimiento de estas obligaciones por parte del contratista, o la infracción de las disposiciones sobre seguridad por parte del personal técnico designado por él, no implicará responsabilidad alguna para la Administración contratante.
+
+  
+**Cláusula 12. Indemnizaciones por cuenta del contratista.**
+
+Será obligación del contratista indemnizar los daños que se causen a la Administración o al personal dependiente de la misma, por iguales causas y con idénticas excepciones que las que con referencia a terceros señala el artículo 134 del Reglamento General de Contratación.
+
+  
+**Cláusula 13. Gastos y tasas de cuenta del contratista.**
+
+El contratista estará obligado a satisfacer los gastos de anuncio de licitación y de formalización del contrato, las tasas por prestación de los trabajos facultativos de replanteo, dirección, inspección y liquidación de las obras y cualesquiera otras que resulten de aplicación según las disposiciones vigentes, en la forma y cuantía que éstas señalen.
+
+  
+**Cláusula 14. Derechos del contratista en casos de fuerza mayor.**
+
+El contratista tendrá derecho a ser indemnizado por la Administración en los casos y forma que determina y establece en el Reglamento General de Contratación, si bien en el expediente deberá acreditar que, previamente al suceso, había tomado las medidas y precauciones razonables para prevenir y evitar, en lo posible, que las unidades de obra ejecutadas y los materiales acopiados en la obra pudieran sufrir daños por eventos de la naturaleza.  
+En la valoración de los daños causados se tendrá en cuenta la adopción de las medidas y precauciones razonables por parte del contratista, a fin de segregar de aquélla los daños que se hubiesen podido evitar, de haberse tomado las medidas oportunas previas o inmediatamente después de acaecer el hecho causa de los danos.
+
+  
+**Cláusula 15. Utilización por el contratista de bienes que aparezcan como consecuencia de la ejecución de la obra.**
+
+El contratista podrá utilizar gratuitamente, pero sólo para la ejecución de la obra y con la previa autorización del Director de ésta, las rocas, los minerales y los manantiales y corrientes de agua que, como consecuencia de la ejecución de la obra, aparezcan en terrenos de propiedad del Estado o expropiados por él para dicha ejecución.
+
+  
+**Cláusula 16. Propiedad industrial y comercial.**
+
+El contratista, para utilizar materiales, suministros, procedimientos y equipo para la ejecución de la obra deberá obtener las cesiones, permisos y autorizaciones necesarios de los titulares de las patentes, modelos y marcas de fábrica correspondientes, corriendo de su cuenta el pago de los derechos e indemnizaciones por tales conceptos.  
+El contratista será responsable de toda reclamación relativa a la propiedad industrial y comercial de los materiales, suministros, procedimientos y equipo utilizados en la obra, y deberá indemnizar a la Administración todos los daños y perjuicios que para la misma puedan derivarse de la interposición de reclamaciones, incluidos los gastos derivados de las que, eventualmente puedan dirigirse contra el Estado.
+
+  
+**Cláusula 17. Protección a la industria nacional.**
+
+El contratista está obligado al cumplimiento de todas las disposiciones vigentes en materia de ordenación y defensa de la industria nacional.
+
+  
+**Cláusula 18. Inscripciones en la obra.**
+
+Podrán ponerse en las obras las inscripciones que acrediten su ejecución por el contratista. A tales efectos, éste cumplirá las instrucciones que tengan establecidas la Administración, y, en su defecto, las que dé el Director.  
+El contratista no podrá poner ni en la obra ni en los terrenos ocupados o expropiados por la Administración para la ejecución de la misma inscripción alguna que tenga carácter de publicidad comercial.
+
+  
+**Cláusula 19. Objetos hallados en las obras.**
+
+El Estado se reserva la propiedad de los objetos de arte, antigüedades, monedas y, en general, objetos de todas clases que se encuentren en las excavaciones y demoliciones practicadas en terrenos del Estado o expropiados para la ejecución de la obra, sin perjuicio de los derechos que legalmente correspondan a terceros.  
+El contratista tiene la obligación de emplear todas las precauciones que para la extracción de tales objetos le sean indicados por la Dirección y derecho a que se le abone el exceso de gasto que tales trabajos le causen.  
+El contratista está también obligado a advertir a su personal de los derechos del Estado sobre este extremo, siendo responsable subsidiario de las sustracciones o desperfectos que pueda ocasionar al personal empleado en la obra.
+
+  
+**Cláusula 20. Servidumbre.**
+
+El contratista está obligado a mantener provisionalmente durante la ejecución de la obra y a reponer a su finalización todas aquellas servidumbres que se relacionen en el pliego de prescripciones técnicas particulares del proyecto base del contrato.  
+Tal relación podrá ser rectificada como consecuencia de la comprobación del replanteo o de necesidades surgidas durante su ejecución.  
+Son de cuenta del contratista los trabajos necesarios para el mantenimiento y reposición de tales servidumbres.  
+También tendrá que reponer aquellas servidumbres existentes con anterioridad al contrato que pudieran haberse omitido en la referida relación, si bien en este caso tendrá derecho a que se le abonen los gastos correspondientes.  
+Incumbe a la Administración promover las actuaciones precisas para legalizar las modificaciones que se deban introducir en las servidumbres que sean consecuencia de concesiones administrativas existentes antes de comenzar la obra. En este caso, la imputación de los gastos de tales modificaciones se regirá exclusivamente por los términos de la propia concesión aceptada, por las legislaciones específicas de tales concesiones o por la Ley de Expropiación Forzosa, en su caso.
+
+  
+**CAPITULO II Ejecución de la obra**  
+**SECCION 1ª. Disposiciones generales**  
+**Cláusula 21. Inspección de la obra.**
+
+Incumbe a la Administración ejercer, de una manera continuada y directa, la inspección de la obra durante su ejecución a través de la Dirección, sin perjuicio de que pueda confiar tales funciones de un modo complementario, a cualquier otro de sus Organos y representantes.  
+El Contratista o su Delegado deberá acompañar en sus visitas inspectoras al Director o a las personas a que se refiere el párrafo anterior.
+
+  
+**Cláusula 22. Conservación de la obra.**
+
+El contratista está obligado no sólo a la ejecución de la obra, sino también a su conservación hasta la recepción definitiva. La responsabilidad del contratista, por faltas que en la obra puedan advertirse, se extiende al supuesto de que tales faltas se deban exclusivamente a una indebida o defectuosa conservación de las unidades de obra, aunque éstas hayan sido examinadas y encontradas conformes por la Dirección, inmediatamente después de su construcción o en cualquier otro momento dentro del período de vigencia del contrato.
+
+  
+**Cláusula 23. Señalización de la obra.**
+
+El contratista esta obligado a instalar las señales precisas para indicar el acceso a la obra, la circulación en la zona que ocupan los trabajos y los puntos de posible peligro debido a la marcha de aquéllos, tanto en dicha zona como en sus lindes e inmediaciones.  
+El contratista cumplirá las órdenes que reciba por escrito de la Dirección acerca de instalaciones de señales complementarias o modificación de las que haya instalado.  
+Los gastos que origine la señalización se abonarán en la forma que establezcan los pliegos particulares de la obra, en su defecto serán de cuenta del contratista.
+
+  
+**SECCION 2ª. Comprobación del replanteo y programa de trabajo**  
+**Cláusula 24. Acta de comprobación del replanteo.**
+
+El acta de comprobación del replanteo reflejará la conformidad o disconformidad del mismo respecto de los documentos contractuales del proyecto, con especial y expresa referencia a las características geométricas de la obra, a la autorización para la ocupación de los terrenos necesarios y a cualquier punto que pueda afectar el cumplimiento del contrato.  
+A la vista de sus resultados se procederá en los términos del artículo 127 del Reglamento General de Contratación. Caso de que el contratista, sin formular reservas sobre la viabilidad del proyecto, hubiera hecho otras observaciones que puedan afectar a la ejecución de la obra, el Director, consideradas tales observaciones, decidirá iniciar o suspender el comienzo de la obra, justificándolo en la propia acta.  
+La presencia del contratista en el acto de comprobación del replanteo podrá suplirse por la de un representante debidamente autorizado, quien asimismo suscribirá el acta correspondiente.  
+Un ejemplar del acta se remitirá a la Administración, otro se entregará al contratista y un tercero a la Dirección.
+
+  
+**Cláusula 25. Gastos de comprobación del replanteo.**
+
+De acuerdo con lo dispuesto en la [cláusula 13](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo13.htm) y a sus efectos serán de cuenta del contratista los gastos de los materiales, los de su propio personal y los de los representantes de la Administración que sean necesarios para realizar la comprobación del replanteo, debiendo hacer efectivos los últimos en la forma, plazos y cuantía que regulen las disposiciones vigentes y que se señalen en el pliego de cláusulas particulares de la obra que se trate.
+
+  
+**Cláusula 26. Modificaciones acordadas como consecuencia de la comprobación del replanteo.**
+
+Si como consecuencia de la comprobación del replanteo se deduce la necesidad de introducir modificaciones en el proyecto, el Director redactará en el plazo de quince días y sin perjuicio de la remisión inmediata del acta, una estimación razonada del importe de aquellas modificaciones.  
+Si la Administración decide la modificación del proyecto, se procederá a redactar las modificaciones precisas para su viabilidad, acordando la suspensión temporal, total o parcial de la obra y ordenando, en este último caso, la iniciación de los trabajos en aquellas partes no afectadas por las modificaciones previstas en el proyecto. Una vez aprobado el proyecto modificado, con arreglo a lo dispuesto en la [cláusula 59](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo59.htm), será el vigente a los efectos del contrato.
+
+  
+**Cláusula 27. Presentación del programa de trabajo.**
+
+En el programa de trabajo a presentar, en su caso, por el contratista se deberán incluir los siguientes datos:
+
+-   a. Ordenación en partes o clases de obra de las unidades que integran el proyecto, con expresión del volumen de éstas.
+
+-   b. Determinación de los medios necesarios, tales como personal, instalaciones, equipo y materiales, con expresión de sus rendimientos medios.
+-   c. Estimación en días calendario de los plazos de ejecución de las diversas obras u operaciones preparatorias, equipo e instalaciones y de los de ejecución de las diversas partes o clases de obra.
+-   d. Valoración mensual y acumulada de la obra programada sobre la base de las obras u operaciones preparatorias, equipo e instalaciones y partes o clases de obra a precios unitarios.
+-   e. Gráficos de las diversas actividades o trabajos.
+
+**SECCION 3ª. Equipo y maquinaria**  
+**Cláusula 28. Aportación de equipo y maquinaria.**
+
+El contratista queda obligado a aportar a las obras el equipo de maquinaria y medios auxiliares que sea preciso para la buena ejecución de aquéllas en los plazos parciales y total convenidos en el contrato.  
+En el caso de que para la adjudicación del contrato hubiese sido condición necesaria la aportación por el contratista de un equipo de maquinaria y medios auxiliares concreto y detallado, el Director exigirá aquella aportación en los mismos términos y detalle que se fijaron en tal ocasión.  
+El equipo quedará adscrito a la obra en tanto se hallen en ejecución las unidades en que ha de utilizarse, en la inteligencia de que no podrá retirarse sin consentimiento expreso del Director y debiendo ser reemplazados los elementos averiados o inutilizados siempre que su reparación exija plazos que aquél estime han de alterar el programa de trabajo.  
+Cada elemento de los que constituyen el equipo será reconocido por la Dirección, anotándose sus altas y bajas de puesta en obra en el inventario del equipo. Podrán también rechazar cualquier elemento que considere inadecuado para el trabajo en la obra, con derecho del contratista a reclamar frente a tal resolución ante la Administración en el plazo de diez días, contados a partir de la notificación que le haga por escrito el Director.  
+El equipo aportado por el contratista quedará de libre disposición del mismo a la conclusión de la obra, salvo estipulación contraria.
+
+  
+**Cláusula 29. Insuficiencia de equipo.**
+
+El contratista no podrá efectuar reclamación alguna fundada en la insuficiencia de la dotación o del equipo que la Administración hubiera podido prever para la ejecución de la obra, aun cuando éste estuviese detallado en alguno de los documentos del proyecto.
+
+  
+**SECCION 4ª. Expropiación y ocupación de terrenos**  
+**Cláusula 30. Expropiaciones.**
+
+Son de cargo del Estado la expropiación y el pago de los terrenos y bienes que haya de ocupar la obra.
+
+  
+**Cláusula 31. Ocupación temporal de terrenos a favor del contratista.**
+
+El contratista podrá solicitar de la Administración la incoación de expediente de ocupación temporal de terrenos en su favor, en los casos previstos en el artículo 108 de la vigente Ley de Expropiación Forzosa y con sujeción al procedimiento ordenado en el Título IV, Capítulo 1, de dicha Ley y preceptos concordantes a su Reglamento.  
+Serán de cuenta del contratista cuantos gastos e indemnizaciones se produzcan por tal concepto.
+
+  
+**Cláusula 32. Uso temporal de bienes del Estado.**
+
+Cuando el contratista ocupe temporalmente edificios u otros bienes muebles del Estado, tendrá la obligación de conservarlos y de repararlos en caso de deterioro, para hacer su entrega, antes de la recepción definitiva de la obra, en perfecto estado de conservación, sin derecho a indemnización alguna por ello, ni por las mejoras eventualmente realizadas en los elementos utilizados.  
+Si al hacer la entrega no hubiese cumplido el contratista con lo prescrito en el párrafo anterior, lo realizará la Administración a costa de aquél, incluso con cargo a la fianza depositada.  
+Tanto el acto de la ocupación por el contratista como el de la posterior entrega por éste a la Administración deberán ser recogidos en sendas actas descriptivas del estado de los bienes de que se trata, con su correspondiente inventario, en su caso. Tales actas deberán ser suscritas por el Director y por el contratista o su Delegado.
+
+  
+**Cláusula 33. Vigilancia de terrenos y bienes.**
+
+El contratista no puede ocupar los terrenos afectados por la obra hasta recibir la orden correspondiente de la Dirección.  
+A partir de ese momento y hasta la recepción definitiva de la obra, el contratista responderá de la vigilancia de los terrenos y bienes que haya en los mismos, cuidando especialmente de mantenerlos libres de intrusiones y no permitiendo ni consintiendo alteración en los lindes, ni que nadie deposite en los terrenos material alguno ajeno a la obra. De las infracciones a estos preceptos debe dar cuenta inmediata a la Dirección.
+
+  
+**SECCION 5ª. Materiales**  
+**Cláusula 34. Procedencia de los materiales naturales.**
+
+El contratista tiene libertad para obtener los materiales naturales que las obras precisen de los puntos que tenga por conveniente, siempre que los mismos reúnan las condiciones exigidas en el pliego de prescripciones técnicas del contrato.  
+En el caso de que la Administración hubiese establecido una concreta procedencia de aquellos materiales en el citado pliego y, posteriormente, fuese Imprescindible, a juicio de la Administración, cambiar aquel origen o procedencia, se estará a lo dispuesto en el artículo 150 del Reglamento General de Contratación.
+
+  
+**Cláusula 35. Aprovechamiento de materiales.**
+
+El contratista puede aprovechar, con destino a la obra contratada, las sustancias minerales que se encuentren en los terrenos del Estado o de Corporaciones Locales, incluso de naturaleza comunal, así como abrir y explotar canteras en ellos, con sujeción a las normas y prescripciones establecidas por el ente público titular de aquéllos, con obligación de darle aviso anticipado de sus actividades previstas y respetando o reponiendo las servidumbres existentes así como adoptando las medidas oportunas para no perturbar el libre y seguro uso de dichos terrenos.  
+En todo caso, la actividad del contratista en esta clase de terrenos ha de ser compatible con las explotaciones que en ellos lleve a cabo el expresado titular.
+
+  
+**Cláusula 36. Materiales procedentes de excavaciones o demoliciones en la propia obra.**
+
+Los materiales o productos resultantes de excavaciones, demoliciones o talas que no utilice el contratista en la obra y puedan aprovecharse en cualquiera otra del Estado serán acopiados por aquél en los puntos y formas que ordene la Dirección, siéndole de abono los gastos suplementarios de transporte, vigilancia y almacenamiento.  
+En cualquier otro caso y previa autorización por escrito del Director, el contratista podrá disponer libremente de aquéllos.
+
+  
+**Cláusula 37. Productos industriales de empleo en la obra.**
+
+Los productos industriales de empleo en la obra se determinarán por sus cualidades y características, sin poder hacer referencia a marcas, modelos o denominaciones específicas.  
+Si en los documentos contractuales figurase alguna marca de un producto industrial para designar a éste, se entenderá que tal mención se constriñe a las calidades y características de dicho producto, pudiendo el contratista utilizar productos de otra marca o modelo que tenga las mismas.
+
+  
+**Cláusula 38. Ensayos y análisis de los materiales y unidades de obra.**
+
+La Dirección puede ordenar que se verifiquen los ensayos y análisis de materiales y unidades de obra que en cada caso resulten pertinentes y los gastos que se originen serán de cuenta del contratista hasta un importe máximo del 1 por 100 del presupuesto de la obra.  
+La misma Dirección fijará el número, forma y dimensiones y demás características que deben reunir las muestras y probetas para ensayo y análisis, caso de que no exista disposición general al efecto, ni establezca tales datos el pliego de prescripciones técnicas particulares.
+
+  
+**Cláusula 39. Instrucciones y Normas de Obligado Cumplimiento en la materia.**
+
+Los materiales utilizados en la obra deben ajustarse a las instrucciones y normas promulgadas por la Administración que versen sobre condiciones generales y homologación de materiales, sin perjuicio de las especificas que el correspondiente pliego pueda establecer.
+
+  
+**Cláusula 40. Almacenes.**
+
+El contratista debe instalar en la obra y por su cuenta los almacenes precisos para asegurar la conservación de los materiales, evitando su destrucción o deterioro y siguiendo, en su caso, las instrucciones que a tal efecto reciba de la Dirección.
+
+  
+**Cláusula 41. Recepción y recusación de materiales.**
+
+El contratista sólo puede emplear los materiales en la obra previo examen y aceptación por la Dirección en los términos y formas que ésta señale para el correcto cumplimiento de las condiciones convenidas.  
+Si la Dirección no aceptase los materiales sometidos a su examen, deberá comunicarlo por escrito al contratista, señalando las causas que motiven tal decisión. El contratista podrá reclamar ante la Administración contratante en el plazo de diez días, contados a partir de la notificación.  
+En este último caso, y si las circunstancias o el estado de los trabajos no permitieren esperar la resolución por la Administración de la reclamación deducida, la Dirección podrá Imponer al contratista el empleo de los materiales que juzgue oportunos, asistiendo a éste el derecho de una indemnización de los perjuicios experimentados si la resolución superior le fuere favorable.  
+En todo caso, la recepción de los materiales por la Dirección no exime al contratista de su responsabilidad de cumplimiento de las características exigidas para los mismos en el correspondiente pliego de prescripciones técnicas particulares.
+
+  
+**Cláusula 42. Retirada de materiales no empleados en la obra.**
+
+A medida que se realicen los trabajos, el contratista debe proceder, por su cuenta, a la policía de la obra y a la retirada de los materiales acopiados que ya no tengan empleo en la misma.
+
+  
+**SECCION 6ª. Obras defectuosas o mal ejecutadas**  
+**Cláusula 43. Obras defectuosas o mal ejecutadas.**
+
+Hasta que tenga lugar la recepción definitiva, el contratista responderá de la ejecución de la obra contratada y de las faltas que en ella hubiere, sin que sea eximente ni le dé derecho alguno la circunstancia de que los representantes de la Administración hayan examinado o reconocido, durante su construcción, las partes y unidades de la obra o los materiales empleados, ni que hayan sido incluidos éstos y aquéllas en las mediciones y certificaciones parciales.  
+El contratista quedará exento de responsabilidad cuando la obra defectuosa o mal ejecutada sea consecuencia inmediata y directa de una orden de la Administración o de vicios del proyecto, salvo que éste haya sido presentado por el contratista al concurso correspondiente en la forma establecida por el artículo 35 de la Ley de Contratos del Estado.
+
+  
+**Cláusula 44. Demolición y reconstrucción de las obras defectuosas o mal ejecutadas y sus gastos.**
+
+Si se advierten vicios o defectos en la construcción o se tienen razones fundadas para creer que existen ocultos en la obra ejecutada, la Dirección ordenará, durante el curso de la ejecución y siempre antes de la recepción definitiva, la demolición y reconstrucción de las unidades de obra en que se den aquellas circunstancias o las acciones precisas para comprobar la existencia de tales defectos ocultos.  
+Si la Dirección ordena la demolición y reconstrucción por advertir vicios o defectos patentes en la construcción, los gastos de esas operaciones serán de cuenta del contratista, con derecho de éste a reclamar ante la Administración contratante en el plazo de diez días, contados a partir de la notificación escrita de la Dirección.  
+En el caso de ordenarse la demolición y reconstrucción de unidades de obra por creer existentes en ella vicios o defectos ocultos, los gastos incumbirán también al contratista, si resulta comprobada la existencia real de aquellos vicios o defectos, caso contrario correrán a cargo de la Administración.  
+Si la Dirección estima que las unidades de obra defectuosas y que no cumplen estrictamente las condiciones del contrato son sin embargo, admisibles, puede proponer a la Administración contratante la aceptación de las mismas, con la consiguiente rebaja de los precios. El contratista queda obligado a aceptar los precios rebajados fijados por la Administración, a no ser que prefiera demoler y reconstruir las unidades defectuosas por su cuenta y con arreglo a las condiciones del contrato.
+
+  
+**CAPITULO III Abono de la obra ejecutada**  
+**SECCION 1ª. Medición y valoración**  
+**Cláusula 45. Mediciones.**
+
+La Dirección realizará mensualmente, y en la forma que establezca el pliego de prescripciones técnicas particulares, la medición de las unidades de obra ejecutadas durante el período de tiempo anterior.  
+El contratista o su Delegado podrán presenciar la realización de tales mediciones.  
+Para las obras o partes de obra cuyas dimensiones y características hayan de quedar posterior y definitivamente ocultas, el contratista está obligado a avisar a la Dirección con suficiente antelación, a fin de que ésta pueda realizar las correspondientes mediciones y toma de datos, levantando los planos que las definan, cuya conformidad suscribirá el contratista o su Delegado.  
+A falta del aviso anticipado, cuya existencia corresponde probar al contratista, queda éste obligado a aceptar las decisiones de la Administración sobre el particular.
+
+  
+**Cláusula 46. Relaciones valoradas.**
+
+La Dirección, tomando como base las mediciones de las unidades de obra ejecutada a que se refiere el artículo anterior y los precios contratados, redactará mensualmente la correspondiente relación valorada al origen.  
+No podrá omitirse la redacción de dicha relación valora a mensual por el hecho de que, en algún mes, la obra realzada haya sido de pequeño volumen e incluso nula, a menos que la Administración hubiese acordado la suspensión de la obra.  
+La obra ejecutada se valorará a los precios de ejecución material que figuren en letra en el cuadro de precios unitarios del proyecto para cada unidad de obra y a los precios de las nuevas unidades de obra no previstas en el contrato que hayan sido debidamente autorizados y teniendo en cuenta lo prevenido en el presente pliego para abono de obras defectuosas, materiales acopiados, partidas alzadas y abonos a cuenta del equipo puesto en obra.  
+Al resultado de la valoración, obtenido en la forma expresada en el párrafo anterior, se le aumentarán los porcentajes adoptados para formar el presupuesto de contrata y la cifra que resulte se multiplicará por el coeficiente de adjudicación, obteniendo así la relación valorada mensual.
+
+  
+**Cláusula 47. Certificaciones.**
+
+Las certificaciones se expedirán tomando como base la relación valorada y se tramitarán por el Director en los siguientes diez días del período que corresponda.
+
+  
+**Cláusula 48. Audiencia del contratista.**
+
+En la misma fecha en que el Director tramite la certificación remitirá al contratista una copia de la misma y de la relación valorada correspondiente, a los efectos de su conformidad o reparos, que el contratista podrá formular en el plazo de quince días, contados a partir del de recepción de los expresados documentos.  
+En su defecto, y pasado este plazo, ambos documentos se considerarán aceptados por el contratista, como si hubiera suscrito en ellos su conformidad.  
+El contratista no podrá alegar. en caso alguno, los usos y costumbres del país o región respecto de la aplicación de los precios o la medición de las unidades de obra.
+
+  
+**SECCION 2ª. Abono de las obras**  
+**Cláusula 49. Requisitos para el abono.**
+
+El contratista tiene derecho al abono, con arreglo a los precios convenidos, de la obra que realmente ejecute con sujeción al proyecto que sirvió de base a la licitación, a sus modificaciones aprobadas y a las órdenes dadas por escrito por la Administración.
+
+  
+**Cláusula 50. Mejoras propuestas por el contratista.**
+
+El contratista podrá proponer, siempre por escrito, a la Dirección la sustitución de una unidad de obra por otra que reúna mejores condiciones, el empleo de materiales de más esmerada preparación o calidad que los contratados, la ejecución con mayores dimensiones de cualesquiera partes de la obra o, en general, cualquiera otra mejora de análoga naturaleza que juzgue beneficiosa para ella.  
+Si el Director estimase conveniente, aun cuando no necesaria, la mejora propuesta, podrá autorizarla por escrito, pero el contratista no tendrá derecho a indemnización de ninguna clase, sino sólo al abono de lo que correspondería si hubiese construido la obra con estricta sujeción a lo contratado.  
+Por el contrario, cuando el Director de la obra considere de necesidad adoptar la mejora propuesta por el contratista, se procederá en la forma establecida en la [cláusula 59](http://www.carreteros.org/contratos/pcag_obras/articulos/articulo59.htm) de este pliego.
+
+  
+**Cláusula 51. Precios.**
+
+Todos los trabajos, medios auxiliares y materiales que sean necesarios para la correcta ejecución y acabado de cualquier unidad de obra, se considerarán incluidos en el precio de la misma, aunque no figuren todos ellos especificados en la descomposición o descripción de los precios.  
+Todos los gastos que por su concepto sean asimilables a cualesquiera de los que, bajo el título genérico de costes indirectos, se mencionan en el artículo 67 del Reglamento General de Contratación, se considerarán siempre incluidos en los precios de las unidades de obra del proyecto cuando no figuren en el presupuesto valorados en unidades de obra o en partidas alzadas.
+
+  
+**Cláusula 52. Partidas alzadas.**
+
+Las partidas alzadas se abonarán conforme se indique en el pliego de prescripciones técnicas particulares.  
+En su defecto se considerarán a los efectos de su abono:
+
+-   A. Como "partidas alzadas a justificar", las susceptibles de ser medidas en todas sus partes en unidades de obra, con precios unitarios, y
+
+-   B. Como "partidas alzadas de abono íntegro", aquéllas que se refieren a trabajos cuya especificación figure en los documentos contractuales del proyecto y no sean susceptibles de medición según el pliego.  
+    Las partidas alzadas a justificar se abonarán a los precios de la contrata, con arreglo a las condiciones de la misma y al resultado de las mediciones correspondientes.  
+    Cuando los precios de una o varias unidades de obra de las que integran una partida alzada a justificar no figuren incluidos en los cuadros de precios, se procederá conforme a lo dispuesto en el párrafo segundo del artículo 150 del Reglamento General de Contratación.  
+    Para que la introducción de los nuevos precios así determinados no se considere modificación del proyecto habrán de cumplirse conjuntamente las dos condiciones siguientes:
+    
+    -   1ª. Que la Administración contratante haya aprobado, además de los nuevos precios, la justificación y descomposición del presupuesto de la partida alzada; y
+    
+-   2ª. Que el importe total de dicha partida alzada, teniendo en cuenta en su valoración tanto los precios incluidos en los cuadros de precios como los nuevos precios de aplicación, no exceda del importe de la misma figurado en el proyecto.  
+    Las partidas alzadas de abono íntegro se abonarán al contratista en su totalidad, una vez terminados los trabajos u obras que se refieran, de acuerdo con las condiciones del contrato y sin perjuicio de lo que el pliego de prescripciones técnicas particulares pueda establecer respecto de su abono fraccionado en casos justificados.  
+    Cuando la especificación de los trabajos u obras constitutivos de una partida alzada de abono íntegro no figure en los documentos contractuales del proyecto o figure de modo incompleto, impreciso o insuficiente a los fines de su ejecución, se estará a las instrucciones que a tales efectos dicte por escrito esta Dirección, contra las cuales podrá alzarse el contratista, en caso de disconformidad, en la forma que establece el Reglamento General de Contratación.
+
+  
+**Cláusula 53. Anualidades.**
+
+Las anualidades de inversión previstas para las obras se establecerán de acuerdo con el ritmo fijado para la ejecución de las mismas.  
+El contratista podrá desarrollar los trabajos con celeridad mayor que la necesaria para ejecutar las obras en el tiempo prefijado en el contrato, salvo que a juicio de la Dirección existiesen razones para estimarlo inconveniente.  
+Sin embargo, no tendrá derecho a percibir en cada año, cualquiera que sea el importe de lo ejecutado o de las certificaciones expedidas, una cantidad mayor que la consignada en la anualidad correspondiente.  
+Cuando, excepcionalmente, la aceleración de los trabajos venga exigida por razones de interés público, la Administración se lo comunicará al contratista y se redactará, si existe acuerdo, un nuevo programa de trabajo, acoplándolo a las nuevas circunstancias con la fijación, en su caso, del nuevo plazo total del contrato.  
+En este supuesto, la Administración procederá, de conformidad con el contratista, a un reajuste de anualidades, siempre que lo permitan los remanentes de los créditos aplicables de que disponga el Departamento ministerial correspondiente.
+
+  
+**SECCION 3ª. Abonos a cuenta de materiales acopiados, equipos e instalaciones**  
+**Cláusula 54. Abonos a cuenta por materiales acopiados.**
+
+Cuando no haya peligro de que los materiales recibidos como útiles y almacenados en la obra o en los almacenes autorizados para su acopio sufran deterioro o desaparezcan se podrá abonar al contratista hasta el 75 por 100 de su valor, incluyendo tal partida en la relación valorada mensual y teniendo en cuenta este adelanto para deducirlo más tarde del importe total de las unidades de obras en que queden incluidos tales materiales.  
+Para realizar dicho abono será necesaria la constitución previa del correspondiente aval, de acuerdo con lo establecido en el Reglamento General de Contratación.  
+Salvo lo que establezca el pliego de prescripciones particulares, el Director apreciará el riesgo y fijará el porcentaje correspondiente.
+
+  
+**Cláusula 55. Abonos a cuenta por instalaciones y equipo.**
+
+Podrán concederse abonos a cuenta, con las garantías previstas en el artículo 143 del Reglamento General de Contratación, por razón del equipo y de las instalaciones necesarias para la ejecución de la obra, si son propiedad del contratista, se hallan en disposición de ser utilizados y dicha utilización ha de tener lugar en plazo inmediato de acuerdo con el programa de trabajo.  
+Los abonos a cuenta por instalaciones y equipo serán fijados, discrecionalmente, por el Director con las dos siguientes limitaciones:
+
+**Primera.**  
+El valor de las instalaciones y equipo, afectado por los porcentajes siguientes:
+
+-   Vías de comunicación: 100%
+
+-   Edificios para oficinas de obra, talleres y laboratorios: 100%
+-   Pabellones temporales para obreros: 90%
+-   Instalaciones de abastecimiento y distribución de aguas, saneamiento, suministro de energía, telefónica, etc.: 80%
+-   Otras instalaciones: 70%
+-   Maquinaria pesada: 60%  
+    **Segunda.**  
+    El importe amortizable en la fase considerada de la obra de dichas instalaciones y equipo.  
+    En todo caso, estos abonos requerirán petición expresa del contratista, previo el cumplimiento de los siguientes requisitos:
+    
+    -   a. Que acredite la propiedad de las instalaciones y equipo de que se trate.
+    
+-   b. Que se comprometa por escrito a destinar exclusivamente a la obra la instalación o equipo de que se trate, y a no retirarlos hasta tanto que sea autorizado para ello por el Director.
+-   c. Que haya presentado un programa de trabajo con indicación expresa de las instalaciones y equipo necesarios en cada una de las fases de la ejecución de la obra.
+-   d. Que, a juicio del Director, resulten los mismos apropiados al fin a que se destinan en número, calidad, características y estado de conservación.
+-   e. Que cada uno de sus elementos esté descrito detalladamente e identificado y valorado contradictoriamente en el acta correspondiente suscrita por el contratista y el Director.
+
+**Cláusula 56. Deducciones para el reintegro de los abonos a cuenta por instalaciones y equipo.**
+
+El reintegro de los abonos a cuenta concedidos sobre las operaciones preparatorias a que se refiere la cláusula anterior se efectuará deduciendo de las certificaciones de obra ejecutada, expedidas a partir de la fecha de la concesión de aquéllos, un porcentaje del importe de las mismas que fijará el Director de modo que permita el reintegro del abono a cuenta antes de terminarse la obra, y que, por lo tanto, será superior al tanto por ciento que el abono a cuenta represente sobre el resto de la obra que falta por ejecutar en la fecha de la concesión.  
+Con posterioridad, la Dirección podrá acordar que estos reintegros se cancelen en menor período de tiempo, cuando: las circunstancias así lo aconsejen.  
+Las deducciones en las certificaciones para estos reintegros son totalmente independientes de otros descuentos que pudieran efectuarse sobre aquéllas por cualquier concepto.  
+En caso de resolución del contrato será inmediatamente exigible el reintegro total del abono a cuenta concedido, cualquiera que sea la causa de aquélla.
+
+  
+**Cláusula 57. Avales prestados en garantía de abonos a cuenta por instalaciones y equipo.**
+
+Los avales cuya prestación obedezca a cuenta por instalaciones o equipo se constituirán a favor del Jefe del Servicio al que está adscrita la obra, debiendo cumplirse los requisitos señalados en los artículos 370 a 378 del Reglamento General de Contratación, y se depositarán en la Caja General de Depósitos o en alguna de sus Sucursales, a disposición de aquél.  
+Cuando haya de procederse contra un aval que garantice un abono a cuenta, la Entidad avalista correspondiente queda obligada a ingresar en metálico en la Caja General de Depósitos y a disposición del Jefe señalado en el párrafo anterior el todo o la parte que proceda de la cantidad garantizada, en el plazo de quince días, contados desde la fecha de recibo de la oportuna notificación.  
+Las comisiones, intereses y demás gastos que se produzcan con ocasión de la expedición de los avales para estas operaciones serán de cuenta del empresario avalado.
+
+  
+**Cláusula 58. Cancelación total o parcial de los avales prestados en garantía de abonos a cuenta por acopio de materiales, instalaciones o equipo.**
+
+El contratista podrá solicitar las cancelaciones del aval o de los avales constituidos en garantía de abonos a cuenta por acopio de materiales, instalaciones o equipos a medida que vayan teniendo lugar las deducciones para el reintegro de los abonos a cuenta percibidos, siempre que tales deducciones tengan una cuantía por lo menos igual al importe de la garantía que se pretende cancelar.  
+Estas cancelaciones serán acordadas por el Jefe del Servicio al que está adscrita la obra, previo informe favorable del Director.
+
+  
+**CAPITULO IV Modificación del contrato**  
+**SECCION 1ª. Modificación en la obra**  
+**Cláusula 59. Ejecución de las modificaciones del proyecto.**
+
+Cuando sea necesario introducir modificaciones en el proyecto de las obras que rige el contrato, el Director redactará la oportuna propuesta integrada por los documentos que justifiquen, describan y valoren aquélla. La aprobación por la Administración requerirá la previa audiencia del contratista, el informe de la oficina de supervisión de proyectos y la fiscalización del gasto correspondiente.  
+Una vez dicha aprobación se produzca, la Administración entregará al contratista copia de los documentos del proyecto que hayan sido objeto de nueva redacción motivada por variación en el número de unidades previsto o por la introducción de unidades nuevas. Estas copias serán autorizadas con la firma del Director.
+
+  
+**Cláusula 60. Precios de las unidades de obra no previstas en el contrato.**
+
+Cuando se juzgue necesario emplear materiales o ejecutar unidades de obra que no figuren en el presupuesto del proyecto base del contrato, la propuesta del Director sobre los nuevos precios a fijar se basará, en cuanto resulte de aplicación en los costes elementales fijados en la descomposición de los precios unitarios integrados en el contrato y, en cualquier caso, en los costes que correspondiesen a la fecha en que tuvo lugar la licitación del mismo.  
+Los nuevos precios, una vez aprobados por la Administración, se considerarán incorporados, a todos los efectos, a los cuadros de precios del proyecto que sirvió de base para el contrato, sin perjuicio de lo establecido en el artículo 150 del Reglamento General de Contratación.
+
+  
+**Cláusula 61. Variaciones en los plazos de ejecución por modificaciones del proyecto.**
+
+Acordada por la Administración la redacción de modificaciones del proyecto que impliquen la imposibilidad de continuar ejecutando determinadas partes de la obra contratada, deberá acordarse igualmente la suspensión temporal, parcial o total, de la obra.  
+En cuanto a la variación en más o menos de los plazos que se deriven de la ejecución de las modificaciones del proyecto aprobadas, se estará a lo establecido en el artículo 149 del Reglamento General de Contratación, sin perjuicio de lo que proceda si hubiera habido lugar a suspensión temporal, parcial o total.
+
+  
+**Cláusula 62. Modificaciones no autorizadas.**
+
+Ni el contratista ni el Director podrán introducir o ejecutar modificaciones en la obra objeto del contrato sin la debida aprobación de aquellas modificaciones y del presupuesto correspondiente.  
+Exceptuándose aquellas modificaciones que, durante la correcta ejecución de la obra, se produzcan únicamente por variación en el número de unidades realmente ejecutadas sobre las previstas en las cubicaciones del proyecto, las cuales podrán ser recogidas en la liquidación provisional, siempre que no representen un incremento del gasto superior al diez por ciento del precio del contrato. No obstante, cuando posteriormente a la producción de algunas de estas variaciones hubiere necesidad de introducir en el proyecto modificaciones de otra naturaleza, habrán de ser recogidas aquéllas en la propuesta a elaborar, sin esperar para hacerlo a la liquidación provisional de las obras.  
+Las modificaciones en la obra que no estén debidamente autorizadas por la Administración originarán responsabilidad en el contratista, sin perjuicio de la que le pudiere alcanzar a los funcionarios encargados de la dirección, inspección o vigilancia de las obras.  
+En caso de emergencia, el Director podrá ordenar la realización de aquellas unidades de obra que sean imprescindibles o indispensables para garantizar o salvaguardar la permanencia de las partes de obra ya ejecutadas anteriormente, o para evitar daños inmediatos a terceros.  
+La Dirección deberá dar cuenta inmediata de tales órdenes a la Administración contratante, a fin de que ésta incoe el expediente de autorización del gasto correspondiente.
+
+  
+**SECCION 2ª. Suspensión de las obras**  
+**Cláusula 63. Suspensiones temporales.**
+
+Si la suspensión temporal sólo afecta a una o varias partes o clases de obras que no constituyan la totalidad de la obra contratada, se utilizará la denominación "Suspensión Temporal Parcial" en el texto del acta de suspensión y en toda la documentación que haga referencia a la misma; si a la totalidad de la obra contratada, se utilizará la denominación "Suspensión Temporal Total" en los mismos documentos.  
+En ningún caso se utilizará la denominación "Suspensión Temporal" sin concretar o calificar el alcance de la misma.
+
+  
+**Cláusula 64. Actas de suspensión.**
+
+Siempre que la Administración acuerde una suspensión temporal, parcial o total de la obra, o una suspensión definitiva, se deberá levantar la correspondiente acta de suspensión. que deberá ir firmada por el Director y el contratista. y en la que se hará constar el acuerdo de la Administración que originó la suspensión, definiéndose concretamente la parte o partes o la totalidad de la obra afectadas por aquélla.  
+Al acta se debe acompañar. como anejo y en relación con la parte o partes suspendidas, la medición tanto de la obra ejecutada en dicha o dichas partes, como de los materiales acopiados a pie de obra utilizables exclusivamente en las mismas.  
+La Dirección remitirá un ejemplar del acta de suspensión y su anejo a la Administración contratante.
+
+  
+**Cláusula 65. Daños y perjuicios al contratista.**
+
+Si la Administración, por acordar una suspensión temporal que exceda del período de tiempo que para estos efectos fijan las disposiciones vigentes tuviere que abonar daños y perjuicios al contratista, su determinación atenderá, entre otros factores, a la perturbación que la suspensión hubiera producido en el ritmo de ejecución previsto en el programa de trabajos, con la consiguiente repercusión en la utilización de maquinaria y de personal, y a la relación que represente el importe de las partes de obra a que alcanza la suspensión con el presupuesto total de la obra contratada.
+
+  
+**CAPITULO V Resolución del contrato**  
+**Cláusula 66. Sanciones al contratista por daños y perjuicios en caso de resolución por causas imputables al mismo.**
+
+En el caso de resolución del contrato por causas imputables al contratista, la fijación y valoración de los daños y perjuicios causados se verificará por el Director y resolverá la Administración, previa audiencia del contratista.
+
+  
+**Cláusula 67. Fallecimiento del contratista individual.**
+
+En el caso de fallecimiento del contratista individual, su Delegado o quienes pudieren considerarse herederos de aquél deberán comunicar tal defunción a la Administración inmediatamente después de conocer el hecho. Todo retraso injustificado, negligente o doloso, en realizar tal comunicación, que cause daños y perjuicios a la Administración y al bien público, dará lugar a la correspondiente indemnización, para cuya determinación se estará a los requisitos y trámites establecidos en la cláusula anterior.  
+Tanto en dicho supuesto como si la Administración conoce el óbito sin mediar aquella comunicación, citará personalmente a quienes hayan acreditado ante ella su condición de herederos, o por edictos en otro caso, a fin de que, en el plazo que señale, no inferior a tres meses desde la citación, puedan ejercitar los herederos su derecho a ofrecer la continuación de la ejecución de la obra sin variar las condiciones estipuladas en el contrato.
+
+  
+**Cláusula 68. Causas de resolución del contrato referidas al caso de agrupación temporal de empresas.**
+
+Cuando alguna de las Empresas que forman parte de una agrupación temporal quede comprendida en alguna de las circunstancias previstas en los números 4, 5 y 6 del artículo 157 del Reglamento General de Contratación, la Administración estará facultada para exigir el estricto cumplimiento de las obligaciones pendientes del contrato a las restantes Empresas que formen la agrupación temporal o para acordar la resolución del mismo.
+
+  
+**Cláusula 69. Plazo para retirar instalaciones y equipo.**
+
+Acordada la resolución del contrato, la Dirección debe fijar al contratista un plazo para abandonar la obra y retirar las instalaciones auxiliares y el equipo aportado a la ejecución de la misma.
+
+  
+**CAPITULO VI Conclusión del contrato**  
+**SECCION 1ª. Recepción provisional de la obra**  
+**Cláusula 70. Aviso de terminación de la obra.**
+
+El contratista o su Delegado, con una antelación de cuarenta y cinco días hábiles, comunicará por escrito a la Dirección la fecha prevista para la terminación de la obra.  
+El Director, en caso de conformidad con la citada comunicación del contratista, la elevará con su informe, con una antelación de un mes respecto a la fecha de terminación de la obra, a la Administración, a los efectos de que ésta proceda al nombramiento de un representante para la recepción provisional.
+
+  
+**Cláusula 71. Acta de recepción provisional.**
+
+El representante a que se refiere la cláusula anterior fijará la fecha de la recepción provisional y, a dicho objeto, citará por escrito al Director y al contratista o su Delegado.  
+El contratista, bien personalmente o bien mediante delegación autorizada, tiene la obligación de asistir a las recepciones de la obra. Si por causas que le sean imputables no cumple esa obligación, no podrá ejercitar derecho alguno que pudiese derivar de su asistencia y, en especial, la posibilidad de hacer constar en el acta reclamación alguna en orden al estado de la obra y a las previsiones que la misma establezca acerca de los trabajos que deba realizar en el plazo de garantía, sino solamente con posterioridad, en el plazo de diez días, y previa alegación y justificación fehaciente de que su ausencia fue debida a causas que no le fueron imputables.  
+De la recepción provisional se extenderá acta en triplicado ejemplar, que firmarán el representante de la Administración en la recepción, el Director y el contratista o su Delegado, siempre que hayan asistido al acto de la recepción, retirando un ejemplar de dicha acta cada uno de los firmantes. Si el contratista o su Delegado no han asistido a la recepción provisional, el representante de la Administración le remitirá, con acuse de recibo, un ejemplar del acta.
+
+  
+**Cláusula 72. Incumplimiento del plazo para realizar la recepción provisional.**
+
+Si la recepción provisional de la obra se efectuare pasado el plazo de un mes contado a partir de la fecha de terminación de aquélla y la demora fuera imputable a la Administración, el contratista tendrá derecho a ser indemnizado de los perjuicios que la demora le irrogue si así lo solicita por escrito al amparo del artículo 158 del Reglamento General de Contratación.  
+En el caso de no asistencia a la recepción provisional del contratista o de su Delegado, el derecho expresado solamente podrá ejercitarse previa la alegación y justificación fehaciente exigidas por la cláusula anterior.
+
+  
+**Cláusula 73. Conservación de la obra durante el plazo de garantía.**
+
+El contratista procederá a la conservación de la obra durante el plazo de garantía con arreglo a lo previsto en el pliego de prescripciones técnicas y según las instrucciones que reciba de la Dirección, siempre de forma que tales trabajos no obstaculicen el uso público o el servicio correspondiente a la obra.  
+El contratista responderá de los daños o deterioros que puedan producirse en la obra durante el plazo de garantía, a no ser que pruebe que los mismos han sido ocasionados por el mal uso que de aquélla hubieran hecho los usuarios o la Entidad encargada de la explotación y no al incumplimiento de sus obligaciones de vigilancia y policía de la obra; en dicho supuesto, tendrá derecho a ser reembolsado del importe de los trabajos que deban realizarse para restablecer en la obra las condiciones debidas, pero no quedará exonerado de la obligación de llevar a cabo los citados trabajos.
+
+  
+**SECCION 2ª. Medición general y liquidación provisional**  
+**Cláusula 74. Medición general.**
+
+El Director de la obra citará, con acuse de recibo, al contratista o a su Delegado, fijando la fecha en que, en función del plazo establecido para la liquidación provisional de la obra ejecutada, ha de procederse a su medición general.  
+El contratista, bien personalmente o bien mediante delegación autorizada, tiene la obligación de asistir a la toma de datos y realización de la medición general que efectuará la Dirección. Si por causas que le sean imputables no cumple tal obligación, no podrá ejercitar reclamación alguna en orden al resultado de aquella medición ni acerca de los actos de la Administración que se basen en tal resultado, sino previa la alegación y justificación fehaciente de inimputabilidad de aquellas causas.  
+Para realizar la medición general se utilizarán como datos complementarios la comprobación del replanteo, los replanteos parciales y las mediciones efectuadas durante la ejecución de la obra, el Libro de Incidencias, si lo hubiera, el de Ordenes y cuantos otros estimen necesarios el Director y el contratista.  
+De dicho acto se levantará acta en triplicado ejemplar, que firmarán el Director y el contratista o su Delegado, retirando un ejemplar cada uno de los firmantes y remitiendo el tercero el Director a la Administración contratante. Si el contratista o su delegado no han asistido a la medición, la Dirección le remitirá, con acuse de recibo un ejemplar del acta.  
+Las reclamaciones que estime oportuno hacer el contratista contra el resultado de la medición general las dirigirá por escrito a la Administración por conducto del Director, el cual las elevará a aquélla con su informe.
+
+  
+**Cláusula 75. Liquidación provisional.**
+
+El Director formulará la liquidación provisional aplicando al resultado de la medición general los precios y condiciones económicas del contrato.  
+Los reparos que estime oportunos hacer el contratista a la vista de la liquidación provisional los dirigirá, por escrito, a la Administración en la forma establecida en el último párrafo de la cláusula anterior y dentro del plazo reglamentario, pasado el cual se entenderá que se encuentra conforme con el resultado y detalles de la liquidación.
+
+  
+**SECCION 3ª. Recepción y liquidación definitivas**  
+**Cláusula 76. Acta de recepción definitiva.**
+
+El Director comunicará a la Administración, con una antelación mínima de un mes, la fecha de terminación del plazo de garantía, a los efectos de que aquélla proceda a la designación de un representante de la recepción definitiva, el cual fijará la fecha de celebración de la misma, dando cuenta a la Intervención General del Estado, con antelación mínima de diez días, a los efectos de que designe, en su caso, un representante propio y citando por escrito al Director y al contratista o a su Delegado.  
+La asistencia del contratista a la recepción definitiva se regirá por idénticos principios, reglas y trámites que los expresados para la recepción provisional.  
+Del resultado del acto se extenderá acta en tantos ejemplares cuantos sean los comparecientes al mismo, quienes los firmarán y retirarán un ejemplar cada uno.  
+Si del examen de la obra resulta que no se encuentra en las condiciones debidas para ser recibida con carácter definitivo, se hará constar así en el acta y se incluirán en ésta las oportunas instrucciones al contratista para la debida reparación de lo construido, señalándose un nuevo y último plazo para el debido cumplimiento de sus obligaciones; transcurrido el cual se volverá a examinar la obra con los mismos trámites y requisitos señalados, a fin de proceder a su recepción definitiva.  
+Si el contratista o su Delegado no ha asistido a la recepción definitiva, el representante de la Administración le remitirá, con acuse de recibo, un ejemplar del acta.
+
+  
+**Cláusula 77. Incumplimiento del plazo para realizar la recepción definitiva.**
+
+Si la recepción definitiva de la obra se efectuare pasado más de un mes después de la fecha de terminación del plazo de garantía y la demora fuera imputable a la Administración, ésta deberá abonar al contratista los gastos de conservación de la obra durante el tiempo que exceda del plazo citado, si aquél solicita por escrito el cumplimiento de esta obligación.  
+A los efectos anteriores, cuando figure en el presupuesto una partida alzada para atender a los gastos de conservación durante el plazo de garantía, el gasto adicional a que se refiere el párrafo anterior se determinará aplicando a aquella partida alzada la misma proporción que haya entre la duración del plazo de garantía y el período de demora, tal como se ha definido en el mismo precepto. De no existir partida alzada para estos fines el importe de los gastos a abonar será fijado por la Administración a propuesta justificada del contratista y previo informe del Director.
+
+  
+**Cláusula 78. Liquidación definitiva.**
+
+El Director redactará la liquidación definitiva en el plazo de tres meses, contados a partir de la fecha de la recepción definitiva, dando vista de la misma al contratista.  
+Los reparos que éste estime oportuno formular a la liquidación definitiva deberán dirigirse por escrito a la Administración por conducto del Director, quien los elevará a aquélla con su informe. Si pasado el plazo de treinta días el contratista no ha contestado por escrito, con su aceptación o reparos, se entenderá que se encuentra conforme con el resultado y detalles de la liquidación.  
+La aprobación de ésta por la Administración será notificada al contratista.
+
+  
+**Cláusula 79. Saldo de la liquidación definitiva y certificación de la liquidación.**
+
+Una vez aprobada la liquidación definitiva, el Director expedirá certificación de la misma si el saldo es favorable al contratista.  
+Si fuere favorable a la Administración, ésta requerirá al contratista para que proceda al reintegro del exceso percibido y en tanto aquél no lo hiciere así no podrá procederse a la devolución de la fianza.

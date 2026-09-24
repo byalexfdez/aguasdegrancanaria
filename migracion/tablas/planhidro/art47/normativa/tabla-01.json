@@ -1,0 +1,62 @@
+{
+  "fuente": "/planhidro/art47/normativa.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Articulado - Normativo",
+      ""
+    ],
+    [
+      "Programa de Medidas",
+      ""
+    ],
+    [
+      "Adenda de Documentación Complementaria",
+      ""
+    ],
+    [
+      "Anexos",
+      ""
+    ],
+    [
+      "Planos",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/planhidro/norm_artic.pdf"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/planhidro/norm_medidas.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/planhidro/norm_adenda.pdf"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/planhidro/norm_anexos.zip"
+    },
+    {
+      "fila": 4,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/planhidro/norm_planos.zip"
+    }
+  ]
+}

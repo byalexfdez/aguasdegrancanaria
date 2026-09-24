@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/canarias/control_vertidos.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 19/03/2001",
+      "Título",
+      "Control de Vertidos para la Protección del Dominio Público Hidráulico",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "D. 174/1994 Reglamento de Control de Vertidos para la Protección DPH",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua Cont",
+      "",
+      "Reglamento",
+      "Canarias"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

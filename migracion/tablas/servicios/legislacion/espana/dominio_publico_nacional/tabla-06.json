@@ -1,0 +1,72 @@
+{
+  "fuente": "/servicios/legislacion/españa/dominio_publico_nacional.php",
+  "indice": 6,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [
+    [
+      "CAS(1)",
+      "Sustancia"
+    ]
+  ],
+  "filas": [
+    [
+      "7439-97-6",
+      "Mercurio"
+    ],
+    [
+      "7440-43-9",
+      "Cadmio"
+    ],
+    [
+      "608-73-1",
+      "Hexaclorociclohexano (HCH)"
+    ],
+    [
+      "56-23-5",
+      "Tetracloruro de Carbono"
+    ],
+    [
+      "50-29-3",
+      "Diclorodifeniltricloroetano (DDT)"
+    ],
+    [
+      "87-86-5",
+      "Pentaclorofenol"
+    ],
+    [
+      "309-00-2",
+      "Aldrín, Dieldrín, Endrín, Isodrín"
+    ],
+    [
+      "118-74-1",
+      "Hexaclorobenceno"
+    ],
+    [
+      "87-68-3",
+      "Hexaclorobutadieno"
+    ],
+    [
+      "67-66-3",
+      "Cloroformo"
+    ],
+    [
+      "107-06-2 1,2",
+      "dicloroetano"
+    ],
+    [
+      "79-01-6",
+      "Tricloroetileno"
+    ],
+    [
+      "127-18-4",
+      "Percloroetileno"
+    ],
+    [
+      "12002-48-1",
+      "Triclorobencenos"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

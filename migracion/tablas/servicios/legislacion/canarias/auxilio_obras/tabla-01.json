@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/canarias/auxilio_obras.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación Creada el 19/03/2001",
+      "Título",
+      "Auxilios a obras hidráulicas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Decreto por el que se aprueba el Reglamento de auxilios a obras hidráulicas de iniciativa privada",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua Auxilios",
+      "",
+      "Decreto",
+      "Canarias"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

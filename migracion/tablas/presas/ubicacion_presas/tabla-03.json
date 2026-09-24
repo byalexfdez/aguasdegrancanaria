@@ -1,0 +1,788 @@
+{
+  "fuente": "/presas/ubicacion_presas.php",
+  "indice": 3,
+  "titulo": "RELACÓN DE PRESAS CON MENOS DE 15 m DE ALTURA Y MENOS DE 100.000 m³\nDE CAPACIDAD",
+  "columnas": 6,
+  "cabeceras": [
+    [
+      "Nombre",
+      "Cuenca",
+      "Barranco",
+      "Cota Muro\nm",
+      "Capacidad\nm³",
+      "Altura\nm"
+    ]
+  ],
+  "filas": [
+    [
+      "El Granadillar",
+      "Tenoya-Guiniguada",
+      "El Toscón",
+      "387",
+      "640",
+      "6"
+    ],
+    [
+      "La Morena",
+      "Tenoya-Guiniguada",
+      "La Morena",
+      "317",
+      "13.600",
+      "12"
+    ],
+    [
+      "Las Vacas",
+      "Tenoya-Guiniguada",
+      "Las Vacas",
+      "340",
+      "3.200",
+      "6"
+    ],
+    [
+      "Los Alamos",
+      "Tenoya-Guiniguada",
+      "Los Alamos (Jacomar)",
+      "267",
+      "10.000",
+      "12"
+    ],
+    [
+      "Los Caideros I",
+      "Tenoya-Guiniguada",
+      "Los Caideros",
+      "617",
+      "2.667",
+      "4"
+    ],
+    [
+      "Cueva Grande",
+      "Bco. Guiniguada",
+      "Cueva Grande",
+      "1.273",
+      "35.322",
+      "13"
+    ],
+    [
+      "Cueva Grande",
+      "Bco. Guiniguada",
+      "Cueva Grande",
+      "1.273",
+      "35.322",
+      "13"
+    ],
+    [
+      "Las Mesas",
+      "Bco. Guiniguada",
+      "Las Mesas",
+      "1.302",
+      "2.800",
+      "7"
+    ],
+    [
+      "Los Massiéu",
+      "Bco. Guiniguada",
+      "El Roque",
+      "523",
+      "29.260",
+      "12"
+    ],
+    [
+      "Cuevas Blancas I",
+      "Guiniguada-Telde",
+      "",
+      "405",
+      "660",
+      "9"
+    ],
+    [
+      "Cuevas Blancas II",
+      "Guiniguada-Telde",
+      "",
+      "373",
+      "480",
+      "8"
+    ],
+    [
+      "Los Picachos",
+      "Guiniguada-Telde",
+      "",
+      "646",
+      "4.500",
+      "7,5"
+    ],
+    [
+      "El Mayorazgo",
+      "Bco. Telde",
+      "",
+      "146",
+      "6.533",
+      "7"
+    ],
+    [
+      "Hoyas de Manrique",
+      "Bco. Telde",
+      "Hoyas de Manrique",
+      "330",
+      "6.333",
+      "10"
+    ],
+    [
+      "Cañadas de los Majanos",
+      "Telde-Guayadeque",
+      "Los Majanos",
+      "349",
+      "12.533",
+      "8"
+    ],
+    [
+      "El Malfú",
+      "Telde-Guayadeque",
+      "Malfú",
+      "198",
+      "24.000",
+      "10"
+    ],
+    [
+      "La Juradilla",
+      "Telde-Guayadeque",
+      "El Negro",
+      "93",
+      "37.800",
+      "10"
+    ],
+    [
+      "La Barrera I",
+      "Tirajana",
+      "",
+      "558",
+      "1.633",
+      "7"
+    ],
+    [
+      "La Barrera III",
+      "Tirajana",
+      "",
+      "525",
+      "113",
+      "1,7"
+    ],
+    [
+      "El Canario",
+      "Tirajana-Maspalomas",
+      "Cañada de Pajaritos",
+      "123",
+      "9.718",
+      "6,78"
+    ],
+    [
+      "El Salinero",
+      "Tirajana-Maspalomas",
+      "Toledo",
+      "66",
+      "8.190",
+      "7"
+    ],
+    [
+      "Las Palmas",
+      "Tirajana-Maspalomas",
+      "Las Palmas",
+      "668",
+      "2.400",
+      "5,5"
+    ],
+    [
+      "Los Guinchos",
+      "Tirajana-Maspalomas",
+      "Los Guinchos",
+      "424",
+      "920",
+      "4,6"
+    ],
+    [
+      "Quintana",
+      "Tirajana-Maspalomas",
+      "De las Yeguas",
+      "224",
+      "720",
+      "8"
+    ],
+    [
+      "Bonny",
+      "Bco. Maspalomas",
+      "",
+      "91",
+      "1.900",
+      "3"
+    ],
+    [
+      "Curbelo",
+      "Bco. Maspalomas",
+      "del Negro",
+      "179",
+      "32.580",
+      "10"
+    ],
+    [
+      "El Tosquial de los Gatos",
+      "Bco. Maspalomas",
+      "El Tosquial",
+      "122",
+      "100",
+      "3"
+    ],
+    [
+      "La Lumbre",
+      "Bco. Maspalomas",
+      "La Lumbre",
+      "401",
+      "29.400",
+      "9"
+    ],
+    [
+      "La Negra",
+      "Bco. Maspalomas",
+      "La Negra",
+      "416",
+      "51.567",
+      "13"
+    ],
+    [
+      "Los Caideros II",
+      "Bco. Maspalomas",
+      "Los Caideros",
+      "802",
+      "800",
+      "12"
+    ],
+    [
+      "Los Vicentillos I",
+      "Bco. Maspalomas",
+      "Los Vicentillos",
+      "319",
+      "12.348",
+      "10"
+    ],
+    [
+      "Los Vicentillos II",
+      "Bco. Maspalomas",
+      "Los Vicentillos",
+      "423",
+      "817",
+      "3,5"
+    ],
+    [
+      "Los Vicentillos III",
+      "Bco. Maspalomas",
+      "Los Vicentillos",
+      "438",
+      "133",
+      "4"
+    ],
+    [
+      "Montaña la Uva",
+      "Bco. Maspalomas",
+      "Ayaguares",
+      "284",
+      "1.073",
+      "7"
+    ],
+    [
+      "Mister Pilcher",
+      "Maspalomas-Arguineguín",
+      "",
+      "233",
+      "17.600",
+      "11"
+    ],
+    [
+      "Punta del Lomo Galeón",
+      "Maspalomas-Arguineguín",
+      "Punta del Lomo Galeón",
+      "255",
+      "487",
+      "3"
+    ],
+    [
+      "Cho Flores I",
+      "Bco. Arguineguín",
+      "De la Plata",
+      "1.504",
+      "168",
+      "3,6"
+    ],
+    [
+      "Cho Flores II",
+      "Bco. Arguineguín",
+      "De la Plata",
+      "1.480",
+      "874",
+      "5,7"
+    ],
+    [
+      "Bernardino",
+      "Bco. Arguineguín",
+      "Bernardino",
+      "1.012",
+      "15.634",
+      "10"
+    ],
+    [
+      "Cañada de la Vaca",
+      "Bco. Arguineguín",
+      "Cañada de la Vaca",
+      "924",
+      "433",
+      "3,25"
+    ],
+    [
+      "Cañada del Cerrojo",
+      "Bco. Arguineguín",
+      "Cañada del Cerrojo",
+      "898",
+      "3.710",
+      "4,2"
+    ],
+    [
+      "Cañada Honda",
+      "Bco. Arguineguín",
+      "Cañada Honda",
+      "894",
+      "6.417",
+      "7"
+    ],
+    [
+      "Don Paco",
+      "Bco. Arguineguín",
+      "",
+      "455",
+      "178",
+      "4,45"
+    ],
+    [
+      "La Data",
+      "Bco. Arguineguín",
+      "de Gonzalo",
+      "921",
+      "23.587",
+      "11,6"
+    ],
+    [
+      "La Garguja",
+      "Bco. Arguineguín",
+      "La Garguja",
+      "945",
+      "1.440",
+      "3"
+    ],
+    [
+      "La Palmita",
+      "Bco. Arguineguín",
+      "La Palmita",
+      "893",
+      "432",
+      "3,5"
+    ],
+    [
+      "Lomo de la Palma I",
+      "Bco. Arguineguín",
+      "Lomo de la Palma",
+      "923",
+      "2.190",
+      "3"
+    ],
+    [
+      "Pino de la Jarra",
+      "Bco. Arguineguín",
+      "Cañada del Pino de la Jarra",
+      "487",
+      "4.288",
+      "4,15"
+    ],
+    [
+      "Salto del Perro I",
+      "Bco. Arguineguín",
+      "Andres",
+      "901",
+      "60.750",
+      "12"
+    ],
+    [
+      "Salto del Perro II",
+      "Bco. Arguineguín",
+      "Andres",
+      "888",
+      "324",
+      "2,5"
+    ],
+    [
+      "Salto del Perro III",
+      "Bco. Arguineguín",
+      "de Andres",
+      "882",
+      "108",
+      "3"
+    ],
+    [
+      "Cañada de la Presa",
+      "Arguineguín-Mogáan",
+      "Cañada de la Presa",
+      "232",
+      "15.947",
+      "9,2"
+    ],
+    [
+      "Charco del Embudo",
+      "Arguineguín-Mogáan",
+      "Tauro",
+      "427",
+      "27.560",
+      "13"
+    ],
+    [
+      "Corral del Lechugal",
+      "Arguineguín-Mogáan",
+      "Corral del Lechugal",
+      "83",
+      "1.875",
+      "7,5"
+    ],
+    [
+      "El Niño",
+      "Arguineguín-Mogáan",
+      "El Niño",
+      "88",
+      "1.200",
+      "3"
+    ],
+    [
+      "Las Eneas",
+      "Arguineguín-Mogáan",
+      "Tauro",
+      "223",
+      "1.167",
+      "7"
+    ],
+    [
+      "Tauro I",
+      "Arguineguín-Mogáan",
+      "Tauro",
+      "68",
+      "2.450",
+      "3,5"
+    ],
+    [
+      "Tauro II",
+      "Arguineguín-Mogáan",
+      "Tauro",
+      "72",
+      "1.200",
+      "4"
+    ],
+    [
+      "Toscon del Embudo",
+      "Arguineguín-Mogáan",
+      "Tauro",
+      "479",
+      "480",
+      "4"
+    ],
+    [
+      "El Ferruge",
+      "Bco. Mogán",
+      "Vinagreras (El Mulato)",
+      "913",
+      "2.733",
+      "5"
+    ],
+    [
+      "Tabaibales",
+      "Bco. Veneguera",
+      "Tabaibales",
+      "346",
+      "2.470",
+      "5.7"
+    ],
+    [
+      "Cañada de Tia Flora",
+      "Bco. La Aldea",
+      "Cañada de Tia Flora",
+      "100",
+      "900",
+      "4,5"
+    ],
+    [
+      "Don Armando",
+      "Bco. La Aldea",
+      "",
+      "63",
+      "1.577",
+      "11"
+    ],
+    [
+      "Los Velázquez",
+      "Bco. La Aldea",
+      "",
+      "38",
+      "25.300",
+      "11,5"
+    ],
+    [
+      "Pajonales I",
+      "Bco. La Aldeo",
+      "Pajonales",
+      "1.087",
+      "4.137",
+      "7,3"
+    ],
+    [
+      "Pajonales II",
+      "Bco. La Aldea",
+      "Pajonales",
+      "1.112",
+      "548",
+      "5"
+    ],
+    [
+      "Pajonales III",
+      "Bco. La Aldea",
+      "Pajonales",
+      "1.132",
+      "607",
+      "13"
+    ],
+    [
+      "Cañada de la Sabina",
+      "La Aldea-Agaete",
+      "Cañada Hoyas de las Sabinas",
+      "47",
+      "197",
+      "5"
+    ],
+    [
+      "Hoya de Ojeda",
+      "La Aldea-Agaete",
+      "Hoyas Tejeda",
+      "600",
+      "640",
+      "4"
+    ],
+    [
+      "La Laja",
+      "La Aldea-Agaete",
+      "Maria",
+      "1070",
+      "1609",
+      "7,1"
+    ],
+    [
+      "Los Rajones",
+      "La Aldea-Agaete",
+      "Los Ancones",
+      "1.133",
+      "6.600",
+      "11"
+    ],
+    [
+      "El Boticario",
+      "Agaete-Gáldar",
+      "El Boticario",
+      "68",
+      "10.500",
+      "12"
+    ],
+    [
+      "El Goteo",
+      "Agaete-Gáldar",
+      "El Goteo",
+      "119",
+      "320",
+      "3"
+    ],
+    [
+      "Ábalos",
+      "Bco. Gáldar",
+      "Bco. de las Garzas",
+      "455",
+      "148.000",
+      "10"
+    ],
+    [
+      "Cueva de Meña",
+      "Bco. Gáldar",
+      "Cueva de Meña",
+      "496",
+      "10.733",
+      "11,5"
+    ],
+    [
+      "El Capellán",
+      "Bco. Gáldar",
+      "Silos",
+      "193",
+      "14.261",
+      "7"
+    ],
+    [
+      "Grimon",
+      "Bco. Gáldar",
+      "La Sabina",
+      "59",
+      "45.600",
+      "9,5"
+    ],
+    [
+      "Las Garzas II",
+      "Bco. Gáldar",
+      "Las Garzas",
+      "229",
+      "4.200",
+      "7"
+    ],
+    [
+      "Los Roques",
+      "Bco. Gáldar",
+      "Jediondo",
+      "208",
+      "11.433",
+      "10"
+    ],
+    [
+      "Barranco de Moreno",
+      "Gáldar-Moya",
+      "Del Moreno",
+      "107",
+      "1.100",
+      "3"
+    ],
+    [
+      "El Rio II",
+      "Gáldar-Moya",
+      "del Rio",
+      "40",
+      "3.300",
+      "4,5"
+    ],
+    [
+      "Lomo de los Martínez",
+      "Gáldar-Moya",
+      "",
+      "125",
+      "700",
+      "3,5"
+    ],
+    [
+      "Porrilla",
+      "Gáldar-Moya",
+      "Las Fornillas",
+      "318",
+      "14.667",
+      "11"
+    ],
+    [
+      "Tierras Viejas",
+      "Gáldar-Moya",
+      "",
+      "657",
+      "400",
+      "3"
+    ],
+    [
+      "La Jurada",
+      "Bco. Moya",
+      "La Jurada",
+      "635",
+      "28.800",
+      "9"
+    ],
+    [
+      "Los Mondragones II",
+      "Bco. Moya",
+      "Los Mondragones",
+      "292",
+      "7.500",
+      "9"
+    ],
+    [
+      "Los Verdugos",
+      "Bco. Moya",
+      "Lomo de Vergara",
+      "304",
+      "23.833",
+      "13"
+    ],
+    [
+      "Lomo de Don Julian",
+      "Bco. Moya",
+      "",
+      "542",
+      "1.467",
+      "4"
+    ],
+    [
+      "El Moreto",
+      "Moya-Azuaje",
+      "Moreto",
+      "376",
+      "11.458",
+      "6,25"
+    ],
+    [
+      "La Cañada",
+      "Moya-Azuaje",
+      "La Cañada",
+      "267",
+      "8.667",
+      "10"
+    ],
+    [
+      "Trujillo",
+      "Moya-Azuaje",
+      "Trujillo",
+      "393",
+      "199.100",
+      "11"
+    ],
+    [
+      "Doña Amalia",
+      "Azuaje-Tenoya",
+      "Don Victor",
+      "116",
+      "23.433",
+      "10"
+    ],
+    [
+      "El Albercón",
+      "Azuaje-Tenoya",
+      "El Pinto",
+      "422",
+      "11.800",
+      "12"
+    ],
+    [
+      "Los Barranquillos",
+      "Azuaje-Tenoya",
+      "Los Barranquillos",
+      "568",
+      "5.200",
+      "6"
+    ],
+    [
+      "Quintanilla",
+      "Azuaje-Tenoya",
+      "Los Dolores, Casas Blancas",
+      "71",
+      "50.000",
+      "13,65"
+    ],
+    [
+      "Presa Mareta de Justinito",
+      "Azuaje",
+      "Azuaje",
+      "513",
+      "400",
+      "6"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

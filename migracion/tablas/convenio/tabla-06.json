@@ -1,0 +1,62 @@
+{
+  "fuente": "/convenio.php",
+  "indice": 6,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Encomiendas de Gestión",
+      ""
+    ],
+    [
+      "Convenio de cooperación educativa con la Universidad de Las Palmas de Gran Canaria",
+      ""
+    ],
+    [
+      "Programa de Formación Dual Inserta de la Fundación Universitaria de Las Palmas",
+      ""
+    ],
+    [
+      "Convenio con la Comunidad de Regantes Medianias de Ingenio",
+      ""
+    ],
+    [
+      "Modificaciones: NO",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2019-encomiendas.xlsx"
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2019-encomiendas.ods"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/convenioulpgcfirmado.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2019_conveniofulpfirmado.pdf"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2019_convenio_medianias_ingenio.pdf"
+    }
+  ]
+}

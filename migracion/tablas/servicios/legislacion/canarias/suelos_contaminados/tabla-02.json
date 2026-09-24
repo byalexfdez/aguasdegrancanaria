@@ -1,0 +1,23 @@
+{
+  "fuente": "/servicios/legislacion/canarias/suelos_contaminados.php",
+  "indice": 2,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "",
+      "Version vigente de: 7/6/2014\nDecreto núm. 147/2007, de 24 de mayo.\nDecreto 147/2007, de 24 mayo"
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 0,
+      "texto": "",
+      "url": "/imagenes/img/decreto.gif",
+      "imagen": true
+    }
+  ]
+}

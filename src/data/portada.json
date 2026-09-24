@@ -1,0 +1,236 @@
+{
+  "video": {
+    "titulo": "Central Reversible Chira-Soria",
+    "url": "/videos/videos/chira-soria.mp4",
+    "bytes": 33310605
+  },
+  "slider": [
+    {
+      "imagen": "/imagenes/img/sliderpresa.webp",
+      "alt": "Presas",
+      "url": "/agua-en-gran-canaria/presas/"
+    },
+    {
+      "imagen": "/imagenes/img/sliderplan.webp",
+      "alt": "Plan Hidrológico",
+      "url": "/planificacion/plan-hidrologico/"
+    },
+    {
+      "imagen": "/imagenes/img/sliderdesa.webp",
+      "alt": "Desaladoras",
+      "url": "/agua-en-gran-canaria/desaladoras/"
+    }
+  ],
+  "accesos_directos": [
+    {
+      "texto": "Presas",
+      "url": "/agua-en-gran-canaria/presas/"
+    },
+    {
+      "texto": "Registro",
+      "url": "/servicios/descarga-de-documentos/"
+    },
+    {
+      "texto": "Tasas",
+      "url": "/servicios/tasas/"
+    },
+    {
+      "texto": "Periodo Medio de Pago a Proveedores",
+      "url": "/transparencia/periodo-medio-de-pago/"
+    },
+    {
+      "texto": "Empleo",
+      "url": "https://consejoinsularaguasgrancanaria.sedelectronica.es/board/9753e838-f59b-11de-b600-00237da12c6a/"
+    },
+    {
+      "texto": "Elecciones Consejeros",
+      "url": "/el-consejo/elecciones-de-consejeros/"
+    },
+    {
+      "texto": "Económico Financiera",
+      "url": "/transparencia/economico-financiera/"
+    },
+    {
+      "texto": "Riesgo de Inundaciones",
+      "url": "/planificacion/riesgo-de-inundacion/"
+    },
+    {
+      "texto": "Plan Hidrológico",
+      "url": "/planificacion/plan-hidrologico/"
+    },
+    {
+      "texto": "Cartografía",
+      "url": "/mapas-y-cartografia/"
+    },
+    {
+      "texto": "Directiva marco del agua",
+      "url": "/planificacion/directiva-marco-del-agua/"
+    },
+    {
+      "texto": "Plan de Inundaciones",
+      "url": "/planificacion/riesgo-de-inundacion/"
+    },
+    {
+      "texto": "Red de Control 2009",
+      "url": "/planificacion/red-de-control-2009/"
+    },
+    {
+      "texto": "Transparencia",
+      "url": "https://transparencia.aguasgrancanaria.com/index"
+    },
+    {
+      "texto": "Volúmenes de presas",
+      "url": "/agua-en-gran-canaria/presas/volumenes/"
+    },
+    {
+      "texto": "Archivo Técnico",
+      "url": "/agua-en-gran-canaria/presas/archivo-tecnico/"
+    },
+    {
+      "texto": "El Consejo",
+      "url": "/el-consejo/"
+    },
+    {
+      "texto": "Noticias",
+      "url": "/actualidad/noticias/"
+    },
+    {
+      "texto": "Anuncios",
+      "url": "/actualidad/anuncios/"
+    },
+    {
+      "texto": "Pluviómetros",
+      "url": "/agua-en-gran-canaria/pluviometros/"
+    },
+    {
+      "texto": "Instalaciones Hidráulicas Subterráneas",
+      "url": "/agua-en-gran-canaria/instalaciones-hidraulicas-subterraneas/"
+    },
+    {
+      "texto": "Inventario Insular de Cauces",
+      "url": "/agua-en-gran-canaria/inventario-insular-de-cauces/"
+    },
+    {
+      "texto": "Salto de Chira",
+      "url": "/agua-en-gran-canaria/salto-de-chira/"
+    },
+    {
+      "texto": "Descarga de documentos",
+      "url": "/servicios/descarga-de-documentos/"
+    },
+    {
+      "texto": "Tarifas y Cánones",
+      "url": "/servicios/tarifas-canones-y-precios-publicos/"
+    },
+    {
+      "texto": "Precios públicos del agua",
+      "url": "/servicios/tarifas-canones-y-precios-publicos/"
+    },
+    {
+      "texto": "Normativa",
+      "url": "/servicios/normativa/"
+    },
+    {
+      "texto": "Sede Electrónica",
+      "url": "https://consejoinsularaguasgrancanaria.sedelectronica.es/info.0"
+    },
+    {
+      "texto": "Perfil del Contratante",
+      "url": "https://community.vortal.biz/sts/Login?SkinName=aguasgrancanaria"
+    },
+    {
+      "texto": "Contratación",
+      "url": "/servicios/contratacion/"
+    },
+    {
+      "texto": "Presupuestos",
+      "url": "/transparencia/presupuestos/"
+    },
+    {
+      "texto": "Obras Públicas",
+      "url": "/transparencia/obras-publicas/"
+    },
+    {
+      "texto": "Patrimonio",
+      "url": "/transparencia/patrimonio/"
+    },
+    {
+      "texto": "Ayudas y subvenciones",
+      "url": "/transparencia/ayudas-y-subvenciones/"
+    },
+    {
+      "texto": "Planificación",
+      "url": "/planificacion/plan-hidrologico/"
+    },
+    {
+      "texto": "Divulgación",
+      "url": "/divulgacion/"
+    }
+  ],
+  "youtube": [
+    {
+      "src": "https://www.youtube.com/embed/-LJqCxgZtDg",
+      "titulo": "Salto de Chira"
+    }
+  ],
+  "redes": [
+    {
+      "red": "Instagram",
+      "url": "https://www.instagram.com/aguasgrancanaria?igsh=dTl5bm9hZHd3ZWR1"
+    },
+    {
+      "red": "Facebook",
+      "url": "https://www.facebook.com/people/Aguas-de-Gran-Canaria/61562404596313/"
+    },
+    {
+      "red": "X",
+      "url": "https://x.com/aguasgrancan/"
+    }
+  ],
+  "banners_inactivos": [
+    {
+      "id": "canagua",
+      "titulo": "CAN agua y energía",
+      "contenido_md": "[![](pdfs/Canagua/RRSS_1200X628.jpg)](pdfs/Canagua/Dosier-Canagua-2024.pdf)\n\n**Vuelve la feria de referencia del binomio agua y energía. ¡Participa en el mayor escaparate del sector en el archipiélago canario!**\n\nDel 27 al 29 de noviembre regresa a Infecar la 14ª edición de la Feria Internacional Canagua y Energía, promovida y financiada por el Cabildo de Gran Canaria, a través del Consejo Insular de Aguas de Gran Canaria y el Consejo Insular de la Energía de Gran Canaria.\n\nTras los buenos resultados obtenidos en su última edición, Canagua y Energía amplía su zona expositiva, dando cabida a más empresas expositoras, que además tendrán a su disposición zonas de mentorías y áreas de trabajo entre profesionales. Todo esto complementado con un programa de ponencias de expertos del sector y un espacio para speaker's corner de expositores.\n\nConoce todos los detalles de esta cita en el dosier comercial, planifica la participación de tu empresa en la feria y [reserva tu espacio.](https://canagua.es/expositores)\n\n¡Te esperamos en Canagua y Energía!\n\n[\n\nDosier informativo\n\n](pdfs/Canagua/Dosier-Canagua-2024.pdf)",
+      "enlaces": [
+        {
+          "texto": null,
+          "href": "pdfs/Canagua/Dosier-Canagua-2024.pdf"
+        },
+        {
+          "texto": "reserva tu espacio.",
+          "href": "https://canagua.es/expositores"
+        },
+        {
+          "texto": "Dosier informativo",
+          "href": "pdfs/Canagua/Dosier-Canagua-2024.pdf"
+        }
+      ],
+      "imagenes": [
+        "pdfs/Canagua/RRSS_1200X628.jpg"
+      ],
+      "activo": false,
+      "nota": "Banner/modal comentado en la home actual (no visible)."
+    },
+    {
+      "id": "ecoislas",
+      "titulo": "II Foro Internacional Ecoislas",
+      "contenido_md": "[![](pdfs/ecoislas/ecoislas_600x450.png)](https://foro-ecoislas.es/)\n\nEl Foro Internacional Ecoislas, que está promovido y financiado por el Cabildo de Gran Canaria y organizado por Infecar, Feria de Gran Canaria, es un evento internacional destinado a habilitar un espacio de discusión, propuestas e impulso de medidas encaminadas a potenciar la transición hacia un modelo socioeconómico más verde, más rentable, más autosuficiente y medioambientalmente más sostenible y con un marcado enfoque insular.\n\nEl evento contará con ponentes de ámbito internacional, nacional y local que expondrán buenas prácticas y debatirán sobre las necesidades y soluciones que se aportan a cada uno de los cuatro bloques protagonistas de esta cita: la economía circular y azul; la energía, el agua y la movilidad; la adaptación al cambio climático y la biodiversidad. Aprovecha la oportunidad de disfrutar de un foro de discusión y debate único.\n\n[Consigue ya tu entrada](https://foro-ecoislas.es/visitantes/)\n\n¡Te esperamos los días 30 y 31 de enero en Infecar para construir juntos un futuro más sostenible!",
+      "enlaces": [
+        {
+          "texto": null,
+          "href": "https://foro-ecoislas.es/"
+        },
+        {
+          "texto": "Consigue ya tu entrada",
+          "href": "https://foro-ecoislas.es/visitantes/"
+        }
+      ],
+      "imagenes": [
+        "pdfs/ecoislas/ecoislas_600x450.png"
+      ],
+      "activo": false,
+      "nota": "Banner/modal comentado en la home actual (no visible)."
+    }
+  ]
+}

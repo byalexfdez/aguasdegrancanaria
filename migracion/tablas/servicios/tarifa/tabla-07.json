@@ -1,0 +1,32 @@
+{
+  "fuente": "/servicios/tarifa.php",
+  "indice": 7,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "",
+      "",
+      "EUROS"
+    ]
+  ],
+  "filas": [
+    [
+      "1.",
+      "Transferencia y/o modificación de datos de expedientes\nadministrativos incoados",
+      "14,50"
+    ],
+    [
+      "2.",
+      "Incoación y tramitación de expedientes administrativos\ncon trámite de información pública",
+      "118,35"
+    ],
+    [
+      "3.",
+      "Incoación y tramitación de expedientes administrativos\nsin trámite de información pública",
+      "74,65"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

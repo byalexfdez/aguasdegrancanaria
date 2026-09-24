@@ -1,0 +1,1413 @@
+[
+  {
+    "ruta": "/servicios/documento.php",
+    "titulo": "DESCARGA DE DOCUMENTOS",
+    "total": 19,
+    "items": [
+      {
+        "grupo": [
+          "AGUA DE RIEGO"
+        ],
+        "titulo": "Solicitud de conexión",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://consejoinsularaguasgrancanaria.sedelectronica.es/catalog/t/dd83c707-94c8-441f-ae5e-13c64c8dbb8a",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AGUA DE RIEGO"
+        ],
+        "titulo": "Subvención",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://consejoinsularaguasgrancanaria.sedelectronica.es/catalog/t/c58179d0-fc0c-4233-bd87-6558ef5b55c1",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AGUA DE RIEGO"
+        ],
+        "titulo": "Ficha Agronómica (Dotación)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/Ficha_agronomica.ods",
+        "ruta_nueva": "/documentos/pdfs/documentacion/ficha_agronomica.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 59830,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AGUA DE RIEGO"
+        ],
+        "titulo": "Condiciones Generales",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/CondicionesGenerales.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/condicionesgenerales.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 950625,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Modelos para AVAL/SEGUROS"
+        ],
+        "titulo": "Modelo Aval (20/01/2026)",
+        "etiqueta": null,
+        "anio_en_texto": 2026,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/Modelo%20Aval.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/modelo-aval.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 76508,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Modelos para AVAL/SEGUROS"
+        ],
+        "titulo": "Modelo Aval - UTE (20/01/2026)",
+        "etiqueta": null,
+        "anio_en_texto": 2026,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/Modelo%20Aval%20-%20UTE.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/modelo-aval-ute.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 81552,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Modelos para AVAL/SEGUROS"
+        ],
+        "titulo": "Modelo seguro caución (20/01/2026)",
+        "etiqueta": null,
+        "anio_en_texto": 2026,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/Modelo%20seguro%20cauci%C3%B3n.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/modelo-seguro-caucion.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 76579,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Modelos para AVAL/SEGUROS"
+        ],
+        "titulo": "Modelo seguro caución - UTE (20/01/2026)",
+        "etiqueta": null,
+        "anio_en_texto": 2026,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/Modelo%20seguro%20cauci%C3%B3n%20-%20UTE.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/modelo-seguro-caucion-ute.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 82893,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "ALTA O MODIFICACIÓN DE TERCEROS"
+        ],
+        "titulo": "Persona Física (23/06/2025)",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/alta_tercero_fisica.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/alta_tercero_fisica.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 435390,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "ALTA O MODIFICACIÓN DE TERCEROS"
+        ],
+        "titulo": "Persona Jurídica (23/06/2025)",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/alta_tercero_juridica.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/alta_tercero_juridica.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 498663,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "ALTA O MODIFICACIÓN DE TERCEROS"
+        ],
+        "titulo": "Alta terceros (International Payments) (23/06/2025)",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/Altadetercerosinternacional.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/altadetercerosinternacional.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1573730,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "MODELO DE ADQUISICIÓN/ALQUILER DE INFRAESTRUCTURA"
+        ],
+        "titulo": "Descargar modelo en formato WORD (23/06/2025)",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/Modelo_Propuesta_Adquisicion.doc",
+        "ruta_nueva": "/documentos/pdfs/documentacion/modelo_propuesta_adquisicion.doc",
+        "tipo": "documento",
+        "formato": "doc",
+        "bytes": 18432,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "HOJA DE REGISTRO DE ENTRADA"
+        ],
+        "titulo": "Descargar modelo en formato PDF (23/06/2025)",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/HojaSolicitud_CIAGC.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/hojasolicitud_ciagc.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 286883,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "MODELO DE SOLICITUD DE SERVICIOS AFECTADOS"
+        ],
+        "titulo": "Descargar modelo en formato PDF (23/06/2025)",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/Modelo_Solicitud_SSAA.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/modelo_solicitud_ssaa.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 166205,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRECIOS PÚBLICOS DEL AGUA"
+        ],
+        "titulo": "Agua Desalada. (07-05-2008)",
+        "etiqueta": null,
+        "anio_en_texto": 2008,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/AguaDesalada.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/aguadesalada.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 433192,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRECIOS PÚBLICOS DEL AGUA"
+        ],
+        "titulo": "Agua de Presas y Depurada. (26-03-2004)",
+        "etiqueta": null,
+        "anio_en_texto": 2004,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/PreciosAgua.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/preciosagua.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 203728,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRECIOS PÚBLICOS DEL AGUA"
+        ],
+        "titulo": "Nuevo precio del Agua de Presas. (01-01-2010)",
+        "etiqueta": null,
+        "anio_en_texto": 2010,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/Nuevo_Precio_Presas.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/nuevo_precio_presas.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 47879,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRECIOS PÚBLICOS DEL AGUA"
+        ],
+        "titulo": "Ordenanza Fiscal General Reguladora. (15-08-2007)",
+        "etiqueta": null,
+        "anio_en_texto": 2007,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/OrdenanzasFiscales.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/ordenanzasfiscales.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 107189,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRECIOS PÚBLICOS DEL AGUA"
+        ],
+        "titulo": "Costes de Explotación Depuradora de Jinámar (28-03-2019)",
+        "etiqueta": null,
+        "anio_en_texto": 2019,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Servicios/Depuradora_Jinamar.pdf",
+        "ruta_nueva": "/documentos/pdfs/servicios/depuradora_jinamar.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 601457,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/servicios/tarifa.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 4,
+    "items": [
+      {
+        "grupo": [
+          "UTILIZACIÓN PRIVATIVA O APROVECHAMIENTO ESPECIAL DEL DOMINIO PÚBLICO HIDRÁULICO",
+          "DESCARGA DE DOCUMENTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Precios públicos del agua (23-03-2004)",
+        "anio_en_texto": 2004,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Servicios/PreciosAgua.pdf",
+        "ruta_nueva": "/documentos/pdfs/servicios/preciosagua.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 203728,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "UTILIZACIÓN PRIVATIVA O APROVECHAMIENTO ESPECIAL DEL DOMINIO PÚBLICO HIDRÁULICO",
+          "DESCARGA DE DOCUMENTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Actualización de los precios del agua de Presas (21-12-2009)",
+        "anio_en_texto": 2009,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Servicios/Nuevo_Precio_Presas.pdf",
+        "ruta_nueva": "/documentos/pdfs/servicios/nuevo_precio_presas.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 47879,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "UTILIZACIÓN PRIVATIVA O APROVECHAMIENTO ESPECIAL DEL DOMINIO PÚBLICO HIDRÁULICO",
+          "DESCARGA DE DOCUMENTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Tasas Administrativas (17-05-2007)",
+        "anio_en_texto": 2007,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Servicios/OrdenanzasFiscales.pdf",
+        "ruta_nueva": "/documentos/pdfs/servicios/ordenanzasfiscales.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 107189,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "UTILIZACIÓN PRIVATIVA O APROVECHAMIENTO ESPECIAL DEL DOMINIO PÚBLICO HIDRÁULICO",
+          "DESCARGA DE DOCUMENTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Costes de Explotación Depuradora de Jinámar (28-03-2019)",
+        "anio_en_texto": 2019,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Servicios/Depuradora_Jinamar.pdf",
+        "ruta_nueva": "/documentos/pdfs/servicios/depuradora_jinamar.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 601457,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/servicios/tarifas.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 5,
+    "items": [
+      {
+        "grupo": [
+          "ORDENANZA FISCAL REGULADORA DE LAS TASAS ADMINISTRATIVAS POR EXPEDICIÓN DE DOCUMENTOS ADMINISTRATIVOS.",
+          "DESCARGA DE DOCUMENTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Actualización de tarifas y canones (23-03-2015)",
+        "anio_en_texto": 2015,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Servicios/PreciosAgua_20150323.pdf",
+        "ruta_nueva": "/documentos/pdfs/servicios/preciosagua_20150323.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 691457,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "ORDENANZA FISCAL REGULADORA DE LAS TASAS ADMINISTRATIVAS POR EXPEDICIÓN DE DOCUMENTOS ADMINISTRATIVOS.",
+          "DESCARGA DE DOCUMENTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Precios públicos del agua (23-03-2004)",
+        "anio_en_texto": 2004,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Servicios/PreciosAgua.pdf",
+        "ruta_nueva": "/documentos/pdfs/servicios/preciosagua.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 203728,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "ORDENANZA FISCAL REGULADORA DE LAS TASAS ADMINISTRATIVAS POR EXPEDICIÓN DE DOCUMENTOS ADMINISTRATIVOS.",
+          "DESCARGA DE DOCUMENTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Actualización de los precios del agua de Presas (21-12-2009)",
+        "anio_en_texto": 2009,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Servicios/Nuevo_Precio_Presas.pdf",
+        "ruta_nueva": "/documentos/pdfs/servicios/nuevo_precio_presas.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 47879,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "ORDENANZA FISCAL REGULADORA DE LAS TASAS ADMINISTRATIVAS POR EXPEDICIÓN DE DOCUMENTOS ADMINISTRATIVOS.",
+          "DESCARGA DE DOCUMENTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Tarifas y canones (17-05-2007)",
+        "anio_en_texto": 2007,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Servicios/OrdenanzasFiscales.pdf",
+        "ruta_nueva": "/documentos/pdfs/servicios/ordenanzasfiscales.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 107189,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "ORDENANZA FISCAL REGULADORA DE LAS TASAS ADMINISTRATIVAS POR EXPEDICIÓN DE DOCUMENTOS ADMINISTRATIVOS.",
+          "DESCARGA DE DOCUMENTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Costes de Explotación Depuradora de Jinámar (28-03-2019)",
+        "anio_en_texto": 2019,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Servicios/Depuradora_Jinamar.pdf",
+        "ruta_nueva": "/documentos/pdfs/servicios/depuradora_jinamar.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 601457,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/concurso_hidro.php",
+    "titulo": "SALTO DE CHIRA",
+    "total": 10,
+    "items": [
+      {
+        "grupo": [
+          "CONCURSO HIDROELÉCTRICO",
+          "Concurso público para para la concesión administrativa de las aguas embalsadas y vaso de la de la Presa de Chira con fines hidroeléctricos (Chira-Soria)"
+        ],
+        "titulo": "Convocatoria de Mesa para la apertura de propuestas",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/ConcursoHidroelectrico/Apertura_Proposiciones.pdf",
+        "ruta_nueva": "/documentos/pdfs/concursohidroelectrico/apertura_proposiciones.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 261620,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONCURSO HIDROELÉCTRICO",
+          "Concurso público para para la concesión administrativa de las aguas embalsadas y vaso de la de la Presa de Chira con fines hidroeléctricos (Chira-Soria)"
+        ],
+        "titulo": "Modelo de proposición económica (PDF)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/ConcursoHidroelectrico/OfertaEconomica.pdf",
+        "ruta_nueva": "/documentos/pdfs/concursohidroelectrico/ofertaeconomica.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 470056,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONCURSO HIDROELÉCTRICO",
+          "Concurso público para para la concesión administrativa de las aguas embalsadas y vaso de la de la Presa de Chira con fines hidroeléctricos (Chira-Soria)"
+        ],
+        "titulo": "Modelo de proposición económica (WORD Editable)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/ConcursoHidroelectrico/OfertaEconomica.doc",
+        "ruta_nueva": "/documentos/pdfs/concursohidroelectrico/ofertaeconomica.doc",
+        "tipo": "documento",
+        "formato": "doc",
+        "bytes": 139264,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONCURSO HIDROELÉCTRICO",
+          "Concurso público para para la concesión administrativa de las aguas embalsadas y vaso de la de la Presa de Chira con fines hidroeléctricos (Chira-Soria)"
+        ],
+        "titulo": "Anuncio del BOE",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/ConcursoHidroelectrico/ChiraSoria_BOE.pdf",
+        "ruta_nueva": "/documentos/pdfs/concursohidroelectrico/chirasoria_boe.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 161047,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONCURSO HIDROELÉCTRICO",
+          "Concurso público para para la concesión administrativa de las aguas embalsadas y vaso de la de la Presa de Chira con fines hidroeléctricos (Chira-Soria)"
+        ],
+        "titulo": "Memoria Anteproyecto",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/ConcursoHidroelectrico/Memoria-Chira-Soria.pdf",
+        "ruta_nueva": "/documentos/pdfs/concursohidroelectrico/memoria-chira-soria.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2298405,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONCURSO HIDROELÉCTRICO",
+          "Concurso público para para la concesión administrativa de las aguas embalsadas y vaso de la de la Presa de Chira con fines hidroeléctricos (Chira-Soria)"
+        ],
+        "titulo": "Pliego Administrativo",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/ConcursoHidroelectrico/ChiraSoria_Pliego2.pdf",
+        "ruta_nueva": "/documentos/pdfs/concursohidroelectrico/chirasoria_pliego2.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 149327,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONCURSO HIDROELÉCTRICO",
+          "Concurso público para para la concesión administrativa de las aguas embalsadas y vaso de la de la Presa de Chira con fines hidroeléctricos (Chira-Soria)"
+        ],
+        "titulo": "Corrección de error: Base 8.1 párrafo 2.°",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/ConcursoHidroelectrico/BOE-B-2011-1965.pdf",
+        "ruta_nueva": "/documentos/pdfs/concursohidroelectrico/boe-b-2011-1965.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 162169,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONCURSO HIDROELÉCTRICO",
+          "Concurso público para para la concesión administrativa de las aguas embalsadas y vaso de la de la Presa de Chira con fines hidroeléctricos (Chira-Soria)"
+        ],
+        "titulo": "Datos de interés",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/ConcursoHidroelectrico/ChiraSoria_Rese%C3%B1as.pdf",
+        "ruta_nueva": "/documentos/pdfs/concursohidroelectrico/chirasoria_resenas.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 472283,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONCURSO HIDROELÉCTRICO",
+          "Concurso público para para la concesión administrativa de las aguas embalsadas y vaso de la de la Presa de Chira con fines hidroeléctricos (Chira-Soria)"
+        ],
+        "titulo": "Dosier Informativo",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/ConcursoHidroelectrico/SaltodeChira_AF_05.05_web.pdf",
+        "ruta_nueva": "/documentos/pdfs/concursohidroelectrico/saltodechira_af_05.05_web.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4945165,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONCURSO HIDROELÉCTRICO",
+          "Concurso público para para la concesión administrativa de las aguas embalsadas y vaso de la de la Presa de Chira con fines hidroeléctricos (Chira-Soria)"
+        ],
+        "titulo": "Presentación",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/ConcursoHidroelectrico/Las%20presas%20de%20Gran%20Canaria%20y%20el%20Salto%20de%20Chira_Yonay%20Concepci%C3%B3n_XIIJEP.pdf",
+        "ruta_nueva": "/documentos/pdfs/concursohidroelectrico/las-presas-de-gran-canaria-y-el-salto-de-chira_yonay-concepcion_xiijep.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4039255,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/pluviometros.php",
+    "titulo": "PLUVIÓMETROS",
+    "total": 14,
+    "items": [
+      {
+        "grupo": [
+          "DATOS PLUVIOMÉTRICOS"
+        ],
+        "titulo": "aquí",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/programas/estaciones_pluviometricas.zip",
+        "ruta_nueva": "/documentos/programas/estaciones_pluviometricas.zip",
+        "tipo": "documento",
+        "formato": "zip",
+        "bytes": 16477193,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "DATOS PLUVIOMÉTRICOS"
+        ],
+        "titulo": "Figura 1.- Número de estaciones",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/P_estaciones.gif",
+        "ruta_nueva": "/imagenes/img/p_estaciones.gif",
+        "tipo": "imagen",
+        "formato": "gif",
+        "bytes": 12247,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "MAPA DE SITUACIÓN"
+        ],
+        "titulo": "Tabla 1.- Características principles de las estaciones pluviométricas",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Pluviometro/Pluviometria.xls",
+        "ruta_nueva": "/documentos/pdfs/pluviometro/pluviometria.xls",
+        "tipo": "documento",
+        "formato": "xls",
+        "bytes": 68608,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "RED PLUVIOMÉTRICA"
+        ],
+        "titulo": "Figura 2.- Distribución anual de las precipitaciones desde 1924.",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/P_anual_1924.gif",
+        "ruta_nueva": "/imagenes/img/p_anual_1924.gif",
+        "tipo": "imagen",
+        "formato": "gif",
+        "bytes": 15252,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "RED PLUVIOMÉTRICA"
+        ],
+        "titulo": "Figura 3.- Distribución anual de las precipitaciones desde 1950.",
+        "etiqueta": null,
+        "anio_en_texto": 1950,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/P_anual_1950.gif",
+        "ruta_nueva": "/imagenes/img/p_anual_1950.gif",
+        "tipo": "imagen",
+        "formato": "gif",
+        "bytes": 15093,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "RED PLUVIOMÉTRICA"
+        ],
+        "titulo": "Figura 4.- Distribución anual de las precipitaciones por zonas.",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/P_anual_porzonas.gif",
+        "ruta_nueva": "/imagenes/img/p_anual_porzonas.gif",
+        "tipo": "imagen",
+        "formato": "gif",
+        "bytes": 18520,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "RED PLUVIOMÉTRICA"
+        ],
+        "titulo": "Figura 5.- Distribución mensual de las precipitaciones.",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/P_mensual.gif",
+        "ruta_nueva": "/imagenes/img/p_mensual.gif",
+        "tipo": "imagen",
+        "formato": "gif",
+        "bytes": 10193,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "RED PLUVIOMÉTRICA"
+        ],
+        "titulo": "Figura 6.- Distribución mensual de las precipitaciones por zonas.",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/P_mensual_porzonas.gif",
+        "ruta_nueva": "/imagenes/img/p_mensual_porzonas.gif",
+        "tipo": "imagen",
+        "formato": "gif",
+        "bytes": 9233,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "RED PLUVIOMÉTRICA"
+        ],
+        "titulo": "Figura 7.- Distribución anual por cota.",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/P_anual_porcota.gif",
+        "ruta_nueva": "/imagenes/img/p_anual_porcota.gif",
+        "tipo": "imagen",
+        "formato": "gif",
+        "bytes": 13411,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "RED PLUVIOMÉTRICA"
+        ],
+        "titulo": "Figura 8.- Distribución anual en la zona Norte.",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/P_anual_norte.gif",
+        "ruta_nueva": "/imagenes/img/p_anual_norte.gif",
+        "tipo": "imagen",
+        "formato": "gif",
+        "bytes": 10580,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "RED PLUVIOMÉTRICA"
+        ],
+        "titulo": "Figura 9.- Distribución anual por cota en la zona Sur.",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/P_anual_resto.gif",
+        "ruta_nueva": "/imagenes/img/p_anual_resto.gif",
+        "tipo": "imagen",
+        "formato": "gif",
+        "bytes": 9352,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "RED PLUVIOMÉTRICA"
+        ],
+        "titulo": "Figura 10.- Desviaciones del promedio para la estación Lomo Aljorradero.",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/P_Desv_LA.gif",
+        "ruta_nueva": "/imagenes/img/p_desv_la.gif",
+        "tipo": "imagen",
+        "formato": "gif",
+        "bytes": 13299,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "RED PLUVIOMÉTRICA"
+        ],
+        "titulo": "Figura 11.- Desviaciones del promedio para la estación Arucas heredad.",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/P_desv_AH.gif",
+        "ruta_nueva": "/imagenes/img/p_desv_ah.gif",
+        "tipo": "imagen",
+        "formato": "gif",
+        "bytes": 13527,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "RED PLUVIOMÉTRICA"
+        ],
+        "titulo": "Figura 12.- Desviaciones del promedio para la estación Rincón de Tenteniguada.",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/img/P_desv_RT.gif",
+        "ruta_nueva": "/imagenes/img/p_desv_rt.gif",
+        "tipo": "imagen",
+        "formato": "gif",
+        "bytes": 13029,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/divulgacion.php",
+    "titulo": "DIVULGACIÓN",
+    "total": 24,
+    "items": [
+      {
+        "grupo": [
+          "Central Reversible Chira-Soria"
+        ],
+        "titulo": "Datos Significativos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Divulgacion/DatosSignificativosChiraSoria.pdf",
+        "ruta_nueva": "/documentos/pdfs/divulgacion/datossignificativoschirasoria.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 14567,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "DIVULGACIÓN"
+        ],
+        "titulo": "Riada en Tasarte",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/riada_tasarte.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/riada_tasarte.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "DIVULGACIÓN"
+        ],
+        "titulo": "Fondos FEDER",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/fondos_feder.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/fondos_feder.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "DIVULGACIÓN"
+        ],
+        "titulo": "Jóvenes por el agua",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/jovenes_agua.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/jovenes_agua.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "DIVULGACIÓN"
+        ],
+        "titulo": "Jornadas",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/jornadas.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/jornadas.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "DIVULGACIÓN"
+        ],
+        "titulo": "Desaladoras",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/agua/desaladoras.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/agua/desaladoras.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "DIVULGACIÓN"
+        ],
+        "titulo": "Artículos y Publicaciones",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/articulos_publicaciones.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/articulos_publicaciones.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "DIVULGACIÓN"
+        ],
+        "titulo": "Consejos de Ahorro",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/consejos_ahorro.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/consejos_ahorro.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "PLAN HIDROLÓGICO DE 1988"
+        ],
+        "titulo": "El medio como punto de partida",
+        "etiqueta": null,
+        "anio_en_texto": 1988,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/punto_partida.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/punto_partida.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "PLAN HIDROLÓGICO DE 1988"
+        ],
+        "titulo": "Recursos subterráneos",
+        "etiqueta": null,
+        "anio_en_texto": 1988,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/recursos_subterraneos.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/recursos_subterraneos.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "PLAN HIDROLÓGICO DE 1988"
+        ],
+        "titulo": "Principios, directrices y previsiones",
+        "etiqueta": null,
+        "anio_en_texto": 1988,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/principios_directrices.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/principios_directrices.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "PLAN HIDROLÓGICO DE 1988"
+        ],
+        "titulo": "Programa de actuación",
+        "etiqueta": null,
+        "anio_en_texto": 1988,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/programa_acutacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/programa_acutacion.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "PLAN HIDROLÓGICO DE 1988"
+        ],
+        "titulo": "El ciclo hidrológico",
+        "etiqueta": null,
+        "anio_en_texto": 1988,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/ciclo_hidrologico.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/ciclo_hidrologico.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "PLAN HIDROLÓGICO DE 1988"
+        ],
+        "titulo": "Recursos no naturales",
+        "etiqueta": null,
+        "anio_en_texto": 1988,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/recursos_no_naturales.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/recursos_no_naturales.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "PLAN HIDROLÓGICO DE 1988"
+        ],
+        "titulo": "Elección de opciones",
+        "etiqueta": null,
+        "anio_en_texto": 1988,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/opciones.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/opciones.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "PLAN HIDROLÓGICO DE 1988"
+        ],
+        "titulo": "Escenarios Futuros",
+        "etiqueta": null,
+        "anio_en_texto": 1988,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/escenario.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/escenario.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "PLAN HIDROLÓGICO DE 1988"
+        ],
+        "titulo": "Recursos superficiales",
+        "etiqueta": null,
+        "anio_en_texto": 1988,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/recursos_superficiales.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/recursos_superficiales.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "PLAN HIDROLÓGICO DE 1988"
+        ],
+        "titulo": "El uso del agua",
+        "etiqueta": null,
+        "anio_en_texto": 1988,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/uso_agua.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/uso_agua.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "PLAN HIDROLÓGICO DE 1988"
+        ],
+        "titulo": "Las ordenanzas",
+        "etiqueta": null,
+        "anio_en_texto": 1988,
+        "url_antigua": "https://www.aguasgrancanaria.com/divulgacion/ordenanzas.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/divulgacion/ordenanzas.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "AVISO LEGAL |",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/avisos.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/avisos.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "ENLACES",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/enlaces.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/enlaces.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "| UBICACIÓN |",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/ubicacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/ubicacion.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "ACCESIBILIDAD",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/accesibilidad.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/accesibilidad.php"
+      },
+      {
+        "grupo": [
+          "Evolución del Acuífero",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "| PRIVACIDAD",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/privacidad.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/privacidad.php"
+      }
+    ]
+  },
+  {
+    "ruta": "/divulgacion/jornadas.php",
+    "titulo": "DIVULGACIÓN",
+    "total": 4,
+    "items": [
+      {
+        "grupo": [
+          "PROGRAMA"
+        ],
+        "titulo": "Descargar Ponencia",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Divulgacion/1-F_Rubio_AcuiferosCosterosGranCanaria.pdf",
+        "ruta_nueva": "/documentos/pdfs/divulgacion/1-f_rubio_acuiferoscosterosgrancanaria.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 12395954,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PROGRAMA"
+        ],
+        "titulo": "Descargar Ponencia",
+        "etiqueta": "Presentación del Convenio IGME-CIAGC y objetivos del estudio realizado en la Zona Este de la isla por D. José Luís Guerra Marrero, CIAGC.",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Divulgacion/2-JL_Guerra_TrabajosInvestigacion.pdf",
+        "ruta_nueva": "/documentos/pdfs/divulgacion/2-jl_guerra_trabajosinvestigacion.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2515965,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PROGRAMA"
+        ],
+        "titulo": "Descargar Ponencia",
+        "etiqueta": "Estudio hidrogeológico de la Zona Este de Gran Canaria: encuadre y contenido científico- técnico por D. Elena Galindo Rodríguez, IGME.",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Divulgacion/3-E_Galindo_EncuadreYContenido.pdf",
+        "ruta_nueva": "/documentos/pdfs/divulgacion/3-e_galindo_encuadreycontenido.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2582882,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PROGRAMA"
+        ],
+        "titulo": "Descargar Ponencia",
+        "etiqueta": "Estudio hidrogeológico de la Zona Este de Gran Canaria: Resultados y recomendaciones por D. Miguel del Pozo Gómez, IGME.",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Divulgacion/4-M_del_Pozo_ResultadosYPropuestas.pdf",
+        "ruta_nueva": "/documentos/pdfs/divulgacion/4-m_del_pozo_resultadosypropuestas.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1665549,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/accesibilidad.php",
+    "titulo": "ACCESIBILIDAD",
+    "total": 4,
+    "items": [
+      {
+        "grupo": [],
+        "titulo": "Real Decreto 1494/2007, de 12 de noviembre",
+        "etiqueta": null,
+        "anio_en_texto": 2007,
+        "url_antigua": "https://www.boe.es/boe/dias/2007/11/21/pdfs/A47567-47572.pdf",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [],
+        "titulo": "Norma UNE 139803:2012",
+        "etiqueta": null,
+        "anio_en_texto": 2012,
+        "url_antigua": "http://administracionelectronica.gob.es/pae_Home/dam/jcr:d09286f0-8771-4922-8241-0925d771b5e7/Norma_UNE_139803_2012.pdf",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [],
+        "titulo": "Web Accessibility Initiative (WAI)",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.w3.org/WAI/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "Medidas para mejorar la accesibilidad"
+        ],
+        "titulo": "formulario de contacto.",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Documentacion/HojaSolicitud_CIAGC.pdf",
+        "ruta_nueva": "/documentos/pdfs/documentacion/hojasolicitud_ciagc.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 286883,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/privacidad.php",
+    "titulo": "Política de Privacidad",
+    "total": 4,
+    "items": [
+      {
+        "grupo": [],
+        "titulo": "Información de Protección de Datos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Privacidad/1.InformacionProtecciondeDatos.pdf",
+        "ruta_nueva": "/documentos/pdfs/privacidad/1.informacionprotecciondedatos.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 510662,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [],
+        "titulo": "Derechos de Proteccion de Datos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Privacidad/2.DerechosProtecciondeDatos.pdf",
+        "ruta_nueva": "/documentos/pdfs/privacidad/2.derechosprotecciondedatos.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 453485,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [],
+        "titulo": "Registro de Actividades",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Privacidad/3.RegistrodeActividades.pdf",
+        "ruta_nueva": "/documentos/pdfs/privacidad/3.registrodeactividades.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 442253,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [],
+        "titulo": "Delegado de Proteccion de Datos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Privacidad/4.DelegadoProtecciondeDatos.pdf",
+        "ruta_nueva": "/documentos/pdfs/privacidad/4.delegadoprotecciondedatos.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 446581,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,238 @@
+{
+  "fuente": "/empleados.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Año 2024",
+      ""
+    ],
+    [
+      "Relación de puestos de trabajo",
+      ""
+    ],
+    [
+      "Personal Laboral (11/05/2024)",
+      ""
+    ],
+    [
+      "Personal Funcionario (11/05/2024)",
+      ""
+    ],
+    [
+      "Departamentos (11/05/2024)",
+      ""
+    ],
+    [
+      "Liberados sindicales (11/05/2024)",
+      "No hay actualmente"
+    ],
+    [
+      "Autorizaciones de compatibilidad (11/05/2024)",
+      "No hay actualmente"
+    ],
+    [
+      "Aportaciones a planes de pensiones o seguros colectivos (01/05/2024)",
+      "No hay actualmente"
+    ],
+    [
+      "Gastos de representación asignados (11/05/2024)",
+      "No hay actualmente"
+    ],
+    [
+      "Indemnizaciones percibidas por ocasión del abandono del cargo (11/05/2024)",
+      "No hay actualmente"
+    ],
+    [
+      "Viajes, manutención, alojamiento y asistencia a órganos colegiados o sociales (11/05/2024)",
+      "No hay actualmente"
+    ],
+    [
+      "Año 2023",
+      ""
+    ],
+    [
+      "Relación de puestos de trabajo (Actualización: 20/02/2024)",
+      ""
+    ],
+    [
+      "Personal Laboral (11/05/2023)",
+      ""
+    ],
+    [
+      "Personal Funcionario (11/05/2023)",
+      ""
+    ],
+    [
+      "Departamentos (11/05/2023)",
+      ""
+    ],
+    [
+      "Liberados sindicales (11/05/2023)",
+      "No hay actualmente"
+    ],
+    [
+      "Autorizaciones de compatibilidad (11/05/2023)",
+      "No hay actualmente"
+    ],
+    [
+      "Aportaciones a planes de pensiones o seguros colectivos (01/05/2023)",
+      "No hay actualmente"
+    ],
+    [
+      "Gastos de representación asignados (11/05/2023)",
+      "No hay actualmente"
+    ],
+    [
+      "Indemnizaciones percibidas por ocasión del abandono del cargo (11/05/2023)",
+      "No hay actualmente"
+    ],
+    [
+      "Viajes, manutención, alojamiento y asistencia a órganos colegiados o sociales (11/05/2023)",
+      "No hay actualmente"
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/20241018-rpt-ciagc-2024.txt"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/20241018-rpt-ciagc-2024.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "https://www.aguasgrancanaria.com/pdfs/Transparencia/20241018%20RPT%20CIAGC%202024.xlsx"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "https://www.aguasgrancanaria.com/pdfs/Transparencia/20241018%20RPT%20CIAGC%202024.ods"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_2018_laborales.txt"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_2018_laborales.xlsx"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_2018_laborales.ods"
+    },
+    {
+      "fila": 4,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_2018_funcionarios.txt"
+    },
+    {
+      "fila": 4,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_2018_funcionarios.xlsx"
+    },
+    {
+      "fila": 4,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_2018_funcionarios.ods"
+    },
+    {
+      "fila": 5,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/departamentos.txt"
+    },
+    {
+      "fila": 5,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/departamentos.pdf"
+    },
+    {
+      "fila": 5,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/departamentos.docx"
+    },
+    {
+      "fila": 5,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/departamentos.odt"
+    },
+    {
+      "fila": 13,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_ciagc_2023.pdf"
+    },
+    {
+      "fila": 13,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_ciagc_2023_connombres.xlsx"
+    },
+    {
+      "fila": 13,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_ciagc_2023_connombres.ods"
+    },
+    {
+      "fila": 14,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_2018_laborales.xlsx"
+    },
+    {
+      "fila": 14,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_2018_laborales.ods"
+    },
+    {
+      "fila": 15,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_2018_funcionarios.xlsx"
+    },
+    {
+      "fila": 15,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/rpt_2018_funcionarios.ods"
+    },
+    {
+      "fila": 16,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/departamentos.pdf"
+    },
+    {
+      "fila": 16,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/departamentos.docx"
+    }
+  ]
+}

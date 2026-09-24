@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/evaluacion_gestion.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 09/05/2013",
+      "Título",
+      "Evaluación y gestión de riesgos de inundación",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Real Decreto 903/2010, de 9 de julio, de evaluación y gestión de riesgos de inundación",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua Inunda",
+      "",
+      "Real Decreto",
+      "España"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

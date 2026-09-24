@@ -1,0 +1,23 @@
+# Dependencias y compilación
+node_modules/
+dist/
+.astro/
+
+# Documentos y vídeos (4 GB): se despliegan aparte, no van al repositorio
+medios/
+.medios-ruta
+
+# Copias de trabajo de la migración que se regeneran
+migracion/raw/
+migracion/cache/
+
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Registros de los servidores locales
+*.log
+
+# Material interno de la licitación (auditoría, propuesta, prompt): no se publica
+/recursos/

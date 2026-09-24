@@ -1,0 +1,49 @@
+{
+  "fuente": "/perfil_con.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [
+    [
+      "Organo de Contratación:",
+      "Vicepresidencia del Consejo Insular de Aguas de Gran Canaria"
+    ]
+  ],
+  "filas": [
+    [
+      "Dirección:",
+      "Av. Juan XXIII, 2 -1. 35004 Las Palmas"
+    ],
+    [
+      "E-mail:",
+      "contratacion@aguasgrancanaria.com"
+    ],
+    [
+      "TLF:",
+      "928 293 456"
+    ],
+    [
+      "FAX:",
+      "928 300 214"
+    ],
+    [
+      "- Perfil del Contratante - Actual\n- Procedimientos Antiguos",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 5,
+      "columna": 0,
+      "texto": "- Perfil del Contratante - Actual",
+      "url": "https://community.vortal.biz/sts/Login?SkinName=aguasgrancanaria"
+    },
+    {
+      "fila": 5,
+      "columna": 0,
+      "texto": "- Procedimientos Antiguos",
+      "url": "https://www.aguasgrancanaria.com/perfil_con_2.php"
+    }
+  ]
+}

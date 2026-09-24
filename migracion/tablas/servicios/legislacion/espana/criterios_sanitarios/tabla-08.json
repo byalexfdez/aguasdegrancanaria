@@ -1,0 +1,334 @@
+{
+  "fuente": "/servicios/legislacion/españa/criterios_sanitarios.php",
+  "indice": 8,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Código de Norma",
+      "Sustancias o preparado"
+    ],
+    [
+      "UNE-EN 13194:2001",
+      "Ácido acético."
+    ],
+    [
+      "UNE-EN 939:2000",
+      "Ácido clorhídrico."
+    ],
+    [
+      "UNE-EN 974:1998",
+      "Ácido fosfórico."
+    ],
+    [
+      "UNE-EN 899:1997",
+      "Ácido sulfúrico."
+    ],
+    [
+      "UNE-EN 1405:1998",
+      "Alginato de sodio."
+    ],
+    [
+      "UNE-EN 1406:1998",
+      "Almidones modificados."
+    ],
+    [
+      "UNE-EN 882:1997",
+      "Aluminato de sodio."
+    ],
+    [
+      "UNE-EN 12905:2000",
+      "Aluminosilicato expandido."
+    ],
+    [
+      "UNE-EN 12126:1999",
+      "Amoníaco licuado."
+    ],
+    [
+      "UNE-EN 12122:1999",
+      "Amoníaco."
+    ],
+    [
+      "UNE-EN 12909:2000",
+      "Antracita."
+    ],
+    [
+      "UNE-EN 12911:2000",
+      "Arena verde de manganeso."
+    ],
+    [
+      "UNE-EN 12912:2000",
+      "Barita."
+    ],
+    [
+      "UNE-EN 1204:1998",
+      "Bis-dihidrogenofosfato de calcio."
+    ],
+    [
+      "UNE-EN 12518:2000",
+      "Cal."
+    ],
+    [
+      "UNE-EN 12903:2000",
+      "Carbón activo en polvo."
+    ],
+    [
+      "UNE-EN 12915:2000",
+      "Carbón activo granulado."
+    ],
+    [
+      "UNE-EN 12907:2000",
+      "Carbón pirolizado."
+    ],
+    [
+      "UNE-EN 1018:1998",
+      "Carbonato de calcio."
+    ],
+    [
+      "UNE-EN 897:1999",
+      "Carbonato de sodio."
+    ],
+    [
+      "UNE-EN 938:2000",
+      "Clorito de sodio."
+    ],
+    [
+      "UNE-EN 937:1999",
+      "Cloro."
+    ],
+    [
+      "UNE-EN 891:1999",
+      "Clorosulfato de hierro (III)."
+    ],
+    [
+      "UNE-EN 881:1997",
+      "Cloruro de aluminio, hidroxicloruro de aluminio e hidroxiclorosulfato de aluminio (monómeros)."
+    ],
+    [
+      "UNE-EN 1421:1996",
+      "Cloruro de amonio."
+    ],
+    [
+      "UNE-EN 888:1999",
+      "Cloruro de hierro (III)."
+    ],
+    [
+      "UNE-EN 1201:1998",
+      "Dihidrogenofosfato de potasio."
+    ],
+    [
+      "UNE-EN 1198:1998",
+      "Dihidrogenofosfato de sodio."
+    ],
+    [
+      "UNE-EN 1205:1998",
+      "Dihidrogenopirofosfato de sodio."
+    ],
+    [
+      "UNE-EN 1019:1996",
+      "Dióxido de azufre."
+    ],
+    [
+      "UNE-EN 936:1998",
+      "Dióxido de carbono."
+    ],
+    [
+      "UNE-EN 12671:2000",
+      "Dióxido de cloro."
+    ],
+    [
+      "UNE-EN 12121:1999",
+      "Disulfito de sodio."
+    ],
+    [
+      "UNE-EN 1017:998",
+      "Dolomita semi-calcinada."
+    ],
+    [
+      "UNE-EN 13176:2001",
+      "Etanol."
+    ],
+    [
+      "UNE-EN 12173:1999",
+      "Fluoruro de sodio."
+    ],
+    [
+      "UNE-EN 1203:1998",
+      "Fosfato tripotásico."
+    ],
+    [
+      "UNE-EN 1200:1998",
+      "Fosfato trisódico."
+    ],
+    [
+      "UNE-EN 12910:2000",
+      "Granate."
+    ],
+    [
+      "UNE-EN 898:1998",
+      "Hidrogenocarbonato de sodio."
+    ],
+    [
+      "UNE-EN 12120:1999",
+      "Hidrogenosulfito de sodio."
+    ],
+    [
+      "UNE-EN 1202:1998",
+      "Hidrogenofosfato de potasio."
+    ],
+    [
+      "UNE-EN 1199:1998",
+      "Hidrogenofosfato de sodio."
+    ],
+    [
+      "UNE-EN 896:1999",
+      "Hidróxido de sodio."
+    ],
+    [
+      "UNE-EN 900:2000",
+      "Hipoclorito de calcio."
+    ],
+    [
+      "UNE-EN 901:2000",
+      "Hipoclorito de sodio."
+    ],
+    [
+      "UNE-EN 12901:2000",
+      "Materiales inorgánicos de filtración y soporte."
+    ],
+    [
+      "UNE-EN 12876:2000",
+      "Oxígeno."
+    ],
+    [
+      "UNE-EN 1278:1999",
+      "Ozono."
+    ],
+    [
+      "UNE-EN 12914:2000",
+      "Perlita en polvo."
+    ],
+    [
+      "UNE-EN 12672:2001",
+      "Permanganato de potasio."
+    ],
+    [
+      "UNE-EN 902:2000",
+      "Peróxido de hidrógeno."
+    ],
+    [
+      "UNE-EN 12926:2001",
+      "Peroxodisulfato de sodio."
+    ],
+    [
+      "UNE-EN 12678:2000",
+      "Peroxomonosulfato de potasio."
+    ],
+    [
+      "UNE-EN 12906:2000",
+      "Piedra pómez."
+    ],
+    [
+      "UNE-EN 1207:1998",
+      "Pirofosfato tetrapotásico."
+    ],
+    [
+      "UNE-EN 1206:1998",
+      "Pirofosfato tetrasódico."
+    ],
+    [
+      "UNE-EN 1408:1998",
+      "Poli(cloruro de dialildimetilamonio)."
+    ],
+    [
+      "UNE-EN 1407:1998",
+      "Poliacrilamidas aniónicas y no iónicas."
+    ],
+    [
+      "UNE-EN 1410:1998",
+      "Poliacrilamidas catiónicas."
+    ],
+    [
+      "UNE-EN 1409:1998",
+      "Poliaminas."
+    ],
+    [
+      "UNE-EN 1208:1998",
+      "Polifosfato de sodio y calcio."
+    ],
+    [
+      "UNE-EN 1212:1998",
+      "Polifosfato de sodio."
+    ],
+    [
+      "UNE-EN 883:1997",
+      "Polihidroxicloruro de aluminio y polihidroxiclorosulfato de aluminio."
+    ],
+    [
+      "UNE-EN 12933:2000",
+      "Ácido tricloroisocianúrico *."
+    ],
+    [
+      "UNE-EN 12931:2000",
+      "Dicloroisocianurato de sodio, anhidro *."
+    ],
+    [
+      "UNE-EN 12932:2000",
+      "Dicloroisocianurato de sodio, dihidratado *."
+    ],
+    [
+      "UNE-EN 1209:1998",
+      "Silicato de sodio."
+    ],
+    [
+      "UNE-EN 878:1997",
+      "Sulfato de aluminio."
+    ],
+    [
+      "UNE-EN 12123:1999",
+      "Sulfato de amonio."
+    ],
+    [
+      "UNE-EN 12386:1999",
+      "Sulfato de cobre."
+    ],
+    [
+      "UNE-EN 889:1999",
+      "Sulfato de hierro (II)."
+    ],
+    [
+      "UNE-EN 890:1999",
+      "Sulfato de hierro (III)."
+    ],
+    [
+      "UNE-EN 12124:1999",
+      "Sulfito de sodio."
+    ],
+    [
+      "UNE-EN 12913:2000",
+      "Tierra de diatomeas en polvo."
+    ],
+    [
+      "UNE-EN 12125:1999",
+      "Tiosulfato de sodio."
+    ],
+    [
+      "UNE-EN 1211:1998",
+      "Tripolifosfato de potasio."
+    ],
+    [
+      "UNE-EN 1210:1998",
+      "Tripolifosfato de sodio."
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 65,
+      "columna": 1,
+      "texto": "*",
+      "url": "http://www.juridicas.com/base_datos/Admin/rd140-2003.html"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "fuente": "/servicios/legislacion/españa/reglamento_administracion.php",
+  "indice": 8,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [
+    [
+      "",
+      "Dureza del agua (mg/l CaCO3)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "filas": [
+    [
+      "",
+      "10",
+      "50",
+      "100",
+      "300"
+    ],
+    [
+      "mg/l Cu",
+      "0,005",
+      "0,022",
+      "0,04",
+      "0,112"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

@@ -1,0 +1,23 @@
+{
+  "fuente": "/servicios/legislacion/europa/directiva_subterranea.php",
+  "indice": 3,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Contaminante",
+      "Normas de calidad"
+    ],
+    [
+      "Nitratos",
+      "50 mg/l"
+    ],
+    [
+      "Sustancias activas de los plaguicidas, incluidos los metabolitos y los productos de degradación y reacción que sean pertinentes 1",
+      "0,1 µg/l /// 0,5 µg/l (total)2"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

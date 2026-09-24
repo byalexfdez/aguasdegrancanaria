@@ -1,0 +1,28 @@
+{
+  "fuente": "/servicios/legislacion/españa/criterios_sanitarios.php",
+  "indice": 10,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [
+    [
+      "Volumen de agua tratada por día en m³",
+      "Número mínimo de muestras al año"
+    ]
+  ],
+  "filas": [
+    [
+      "< 100",
+      "1"
+    ],
+    [
+      "> 100 - < 1.000",
+      "2"
+    ],
+    [
+      "> 1.000",
+      "2 por cada 1.000 m³/día y fracción del volumen total"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

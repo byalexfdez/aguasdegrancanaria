@@ -1,0 +1,116 @@
+---
+// Panel "Estado de los embalses": gráficas y tabla a partir de los Excel de volúmenes (se leen en el build).
+import Icono from '../Icono.astro';
+import { volumenes, MESES } from '../../lib/volumenes';
+import { numero } from '../../lib/formato';
+const { entrada } = Astro.props;
+const anios = volumenes();
+const datos = anios.map((a) => ({
+  anio: a.anio, fichero: a.fichero, titulo: a.titulo, notas: a.notas, origen: a.origen ?? 'excel',
+  presas: a.presas.map((p) => ({ presa: p.presa, grupo: p.grupo, max: p.volumen_maximo_m3, alt: p.altura_maxima_m, v: p.meses.map((m) => m.volumen_m3), pct: p.meses.map((m) => m.porcentaje), h: p.meses.map((m) => m.altura_m) })),
+  totales: a.totales.map((t) => ({ c: t.concepto, ref: t.referencia, v: t.valores })),
+}));
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+const ultimoMes = (a: typeof datos[number]) => { for (let j = 11; j >= 0; j--) if (a.presas.some((p) => p.h[j] != null)) return j; return 0; };
+const a0 = datos[0];
+const ld = a0 ? {
+  '@context': 'https://schema.org', '@type': 'Dataset', name: 'Volúmenes almacenados en los embalses gestionados por el Consejo Insular de Aguas de Gran Canaria',
+  description: 'Lecturas mensuales de altura, volumen, variación y porcentaje embalsado de las presas gestionadas por el Consejo.',
+  creator: { '@type': 'GovernmentOrganization', name: 'Consejo Insular de Aguas de Gran Canaria' }, inLanguage: 'es',
+  temporalCoverage: `${datos.at(-1)!.anio}/${a0.anio}`,
+  distribution: datos.map((a) => ({ '@type': 'DataDownload', encodingFormat: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', contentUrl: new URL(a.fichero, Astro.site).href })),
+} : null;
+---
+{ld && <script type="application/ld+json" set:html={JSON.stringify(ld)} />}
+{a0 ? (
+  <div class="grid gap-8 [&>*]:min-w-0" id="panel-embalses">
+    <form class="tarjeta p-4 flex flex-wrap items-end gap-4" aria-label="Seleccionar periodo">
+      <label class="grid gap-1 text-sm font-semibold">Año
+        <select name="anio" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal">{datos.map((a) => <option value={a.anio}>{a.anio}</option>)}</select>
+      </label>
+      <label class="grid gap-1 text-sm font-semibold">Mes
+        <select name="mes" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal">{MESES.map((m, j) => <option value={j} selected={j === ultimoMes(a0)}>{cap(m)}</option>)}</select>
+      </label>
+      <a href={a0.fichero} class="boton boton-primario ml-auto" data-descarga><Icono nombre="descargar" tam={18} /> <span data-etq-descarga>Descargar el Excel original</span></a>
+    </form>
+
+    <div class="grid gap-6 lg:grid-cols-2 [&>*]:min-w-0">
+      <figure class="tarjeta p-5">
+        <figcaption class="font-display font-bold">Porcentaje embalsado por presa <span class="font-normal text-texto-suave" data-etq-periodo></span></figcaption>
+        <div class="mt-3 h-80" data-grafica="barras" role="img" aria-label="Gráfica de barras del porcentaje embalsado por presa"></div>
+      </figure>
+      <figure class="tarjeta p-5">
+        <figcaption class="font-display font-bold">Evolución del % embalsado total (sin Soria)</figcaption>
+        <div class="mt-3 h-80" data-grafica="lineas" role="img" aria-label="Gráfica de líneas con la evolución mensual del porcentaje embalsado total por año"></div>
+      </figure>
+    </div>
+
+    <section aria-labelledby="t-tabla-vol">
+      <h2 id="t-tabla-vol" class="font-display text-2xl font-bold">Volumen embalsado a fin de mes (m³) <span data-etq-anio></span></h2>
+      <p class="mt-1 text-sm text-texto-suave">Datos del Excel publicado por el Consejo. La tabla es accesible con lector de pantalla y se puede descargar en CSV.</p>
+      <div class="tabla-contenedor" tabindex="0" role="region" aria-label="Tabla de volúmenes mensuales" data-tabla>
+        <table data-ordenable><thead><tr><th scope="col">Presa</th><th scope="col" class="num">Volumen máximo</th>{MESES.map((m) => <th scope="col" class="num">{cap(m).slice(0, 3)}<span class="sr-only">{m.slice(3)}</span></th>)}</tr></thead><tbody data-cuerpo></tbody></table>
+      </div>
+      <p class="mt-4 text-sm text-texto-suave" data-aviso-pdf hidden>Datos de este año extraídos del PDF publicado por el Consejo (el método se ha validado cifra a cifra con el año 2024, publicado también en Excel). Ante cualquier discrepancia prevalece el documento original.</p>
+      <ul class="mt-4 grid gap-2 text-sm text-texto-suave" data-notas></ul>
+    </section>
+  </div>
+) : <p>No hay datos de volúmenes disponibles.</p>}
+
+<article class="prosa mt-14">
+  <h2>Archivo de lecturas</h2>
+  <slot />
+</article>
+
+<script define:vars={{ datos, MESES }}>
+  window.__vol = { datos, MESES };
+</script>
+<script>
+  import * as echarts from 'echarts/core';
+  import { BarChart, LineChart } from 'echarts/charts';
+  import { GridComponent, TooltipComponent, LegendComponent, AriaComponent } from 'echarts/components';
+  import { CanvasRenderer } from 'echarts/renderers';
+  echarts.use([BarChart, LineChart, GridComponent, TooltipComponent, LegendComponent, AriaComponent, CanvasRenderer]);
+  const { datos, MESES } = (window as any).__vol;
+  const panel = document.getElementById('panel-embalses');
+  if (panel) {
+    const form = panel.querySelector('form')!;
+    const barras = echarts.init(panel.querySelector('[data-grafica="barras"]') as HTMLElement, null, { renderer: 'canvas' });
+    const lineas = echarts.init(panel.querySelector('[data-grafica="lineas"]') as HTMLElement, null, { renderer: 'canvas' });
+    const fmt = (n: number | null, d = 0) => (n == null ? '—' : n.toLocaleString('es-ES', { maximumFractionDigits: d, minimumFractionDigits: d }));
+    const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+    const oscuro = () => document.documentElement.dataset.tema === 'oscuro';
+    const base = () => ({ textStyle: { fontFamily: 'Public Sans Variable, sans-serif', color: oscuro() ? '#e9eef4' : '#161b21' }, aria: { enabled: true }, animationDuration: matchMedia('(prefers-reduced-motion: reduce)').matches ? 0 : 900 });
+    const pintar = () => {
+      const f = new FormData(form); const anio = Number(f.get('anio')); const mes = Number(f.get('mes'));
+      const a = datos.find((x: any) => x.anio === anio);
+      (panel.querySelector('[data-descarga]') as HTMLAnchorElement).href = a.fichero;
+      panel.querySelector('[data-etq-descarga]')!.textContent = a.origen === 'pdf' ? 'Descargar el PDF original' : 'Descargar el Excel original';
+      panel.querySelector('[data-aviso-pdf]')!.toggleAttribute('hidden', a.origen !== 'pdf');
+      panel.querySelector('[data-etq-periodo]')!.textContent = `· ${cap(MESES[mes])} ${anio}`;
+      panel.querySelector('[data-etq-anio]')!.textContent = `· ${anio}`;
+      barras.setOption({ ...base(), grid: { left: 90, right: 64, top: 10, bottom: 30 }, tooltip: { trigger: 'axis', valueFormatter: (v: number) => `${fmt(v, 1)} %` },
+        xAxis: { type: 'value', max: 100, axisLabel: { formatter: '{value} %' } },
+        yAxis: { type: 'category', inverse: true, data: a.presas.map((p: any) => cap(p.presa.toLowerCase())) },
+        series: [{ type: 'bar', data: a.presas.map((p: any) => (p.pct[mes] == null ? null : +(p.pct[mes] * 100).toFixed(2))), itemStyle: { color: '#15a8a0', borderRadius: [0, 6, 6, 0] }, label: { show: true, position: 'right', formatter: (x: any) => (x.value == null ? '' : `${fmt(x.value, 1)} %`) } }] }, true);
+      const pctTotal = (x: any) => x.totales.find((t: any) => /%\s*EMBALSADO TOTAL/i.test(t.c));
+      lineas.setOption({ ...base(), grid: { left: 50, right: 20, top: 40, bottom: 30 }, legend: { top: 0 }, tooltip: { trigger: 'axis', valueFormatter: (v: number) => `${fmt(v, 1)} %` },
+        xAxis: { type: 'category', data: MESES.map((m: string) => cap(m).slice(0, 3)) }, yAxis: { type: 'value', axisLabel: { formatter: '{value} %' } },
+        series: datos.filter((x: any) => pctTotal(x)).map((x: any, i: number) => ({ name: String(x.anio), type: 'line', smooth: true, symbolSize: 7, lineStyle: { width: i === 0 ? 3.5 : 2 }, color: ['#16649c', '#15a8a0', '#e8762c', '#5b6572', '#a94a0c', '#7c3aed'][i % 6],
+          data: (pctTotal(x)?.v ?? []).map((v: number | null, j: number) => (x.presas.some((p: any) => p.h[j] != null) && v != null ? +(v * 100).toFixed(2) : null)) })) }, true);
+      panel.querySelector('[data-cuerpo]')!.innerHTML = a.presas.map((p: any) => `<tr><th scope="row">${cap(p.presa.toLowerCase())}${p.grupo ? `<span class="block text-xs font-normal text-texto-suave">${p.grupo}</span>` : ''}</th><td class="num">${fmt(p.max)}</td>${p.v.map((v: number | null, j: number) => `<td class="num">${p.h[j] == null ? '—' : fmt(v)}</td>`).join('')}</tr>`).join('')
+        + a.totales.filter((t: any) => !/%|VARIACI/i.test(t.c)).map((t: any) => `<tr class="font-semibold"><th scope="row">${t.c}</th><td class="num">${fmt(t.ref)}</td>${t.v.map((v: number | null, j: number) => `<td class="num">${a.presas.some((p: any) => p.h[j] != null) ? fmt(v) : '—'}</td>`).join('')}</tr>`).join('');
+      panel.querySelector('[data-notas]')!.innerHTML = a.notas.map((n: string) => `<li>${n.replace(/</g, '&lt;')}</li>`).join('');
+    };
+    form.addEventListener('change', (e) => {
+      if ((e.target as HTMLElement).getAttribute('name') === 'anio') {
+        const a = datos.find((x: any) => x.anio === Number(new FormData(form).get('anio')));
+        let j = 0; for (let k = 11; k >= 0; k--) if (a.presas.some((p: any) => p.h[k] != null)) { j = k; break; }
+        (form.elements.namedItem('mes') as HTMLSelectElement).value = String(j);
+      }
+      pintar();
+    });
+    pintar();
+    addEventListener('resize', () => { barras.resize(); lineas.resize(); });
+  }
+</script>

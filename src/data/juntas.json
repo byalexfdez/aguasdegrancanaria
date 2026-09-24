@@ -1,0 +1,541 @@
+[
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "14 de Junio de 2011",
+    "fecha": "2011-06-14",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20110614.pdf",
+      "bytes": 6999,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "5 de Mayo de 2011",
+    "fecha": "2011-05-05",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20110505.pdf",
+      "bytes": 8693,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "11 de Abril de 2011",
+    "fecha": "2011-04-11",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20110411.pdf",
+      "bytes": 10476,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "3 de Marzo de 2011",
+    "fecha": "2011-03-03",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20110303.pdf",
+      "bytes": 10234,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "15 de Diciembre de 2010",
+    "fecha": "2010-12-15",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20101215.pdf",
+      "bytes": 10173,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "2 de Diciembre de 2010",
+    "fecha": "2010-12-02",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20101202.pdf",
+      "bytes": 10380,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "24 de Septiembre 2010",
+    "fecha": "2010-09-24",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20100924.pdf",
+      "bytes": 8596,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "15 de Julio de 2010",
+    "fecha": "2010-07-15",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20100715.pdf",
+      "bytes": 8652,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "5 de Mayo de 2010",
+    "fecha": "2010-05-05",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20100505.pdf",
+      "bytes": 8419,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "24 de Febrero de 2010",
+    "fecha": "2010-02-24",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20100224.pdf",
+      "bytes": 9514,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "21 de Diciembre de 2009",
+    "fecha": "2009-12-21",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20091221.pdf",
+      "bytes": 8382,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "10 de Noviembre de 2009",
+    "fecha": "2009-11-10",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20091110.pdf",
+      "bytes": 7651,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "2 de Noviembre de 2009",
+    "fecha": "2009-11-02",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20091110.pdf",
+      "bytes": 7651,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "12 de Agosto de 2009",
+    "fecha": "2009-08-12",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20090812.pdf",
+      "bytes": 7096,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "7 de Julio de 2009",
+    "fecha": "2009-07-07",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20090707.pdf",
+      "bytes": 10157,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "8 de Mayo de 2009",
+    "fecha": "2009-05-08",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20090508.pdf",
+      "bytes": 7600,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "24 de Marzo de 2009",
+    "fecha": "2009-03-24",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20090324.pdf",
+      "bytes": 7862,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "28 de Enero de 2009",
+    "fecha": "2009-01-28",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20090128.pdf",
+      "bytes": 59841,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "23 de Diciembre de 2008",
+    "fecha": "2008-12-23",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20081223.pdf",
+      "bytes": 9059,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "2 de Diciembre de 2008",
+    "fecha": "2008-12-02",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20081202.pdf",
+      "bytes": 8431,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "11 de Noviembre de 2008",
+    "fecha": "2008-11-11",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20081111.pdf",
+      "bytes": 11230,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "16 de Septiembre de 2008",
+    "fecha": "2008-09-16",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20080916.pdf",
+      "bytes": 9515,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "18 de Julio de 2008",
+    "fecha": "2008-07-18",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob_20080718.pdf",
+      "bytes": 94371,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "14 de Abril de 2008",
+    "fecha": "2008-04-14",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20080414.pdf",
+      "bytes": 9292,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "28 de Febrero de 2008",
+    "fecha": "2008-02-28",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20080228.pdf",
+      "bytes": 7870,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "16 de Noviembre de 2007",
+    "fecha": "2007-11-16",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20071116.pdf",
+      "bytes": 10039,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "13 de Septiembre de 2007",
+    "fecha": "2007-09-13",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20070913.pdf",
+      "bytes": 8522,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "31 de Julio de 2007",
+    "fecha": "2007-07-31",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20070731.pdf",
+      "bytes": 6537,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "18 de Junio de 2007",
+    "fecha": "2007-06-18",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20070618.pdf",
+      "bytes": 6418,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "17 de Mayo de 2007",
+    "fecha": "2007-05-17",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20070517.pdf",
+      "bytes": 7490,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "26 de Marzo de 2007",
+    "fecha": "2007-03-26",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20070326.pdf",
+      "bytes": 7271,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "8 de Marzo de 2007",
+    "fecha": "2007-03-08",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20070308.pdf",
+      "bytes": 7442,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "30 de Enero de 2007",
+    "fecha": "2007-01-30",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20070130.pdf",
+      "bytes": 6575,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta de Gobierno",
+    "fecha_texto": "24 de Enero de 2007",
+    "fecha": "2007-01-24",
+    "contenedor_origen": "gobierno",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jgob20070124.pdf",
+      "bytes": 6682,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "14 de Junio de 2011",
+    "fecha": "2011-06-14",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg20110614.pdf",
+      "bytes": 6712,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "11 de Abril de 2011",
+    "fecha": "2011-04-11",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg20110411.pdf",
+      "bytes": 7197,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "2 de Febrero de 2010",
+    "fecha": "2010-02-02",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg20101202.pdf",
+      "bytes": 32215,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "15 de Julio de 2010",
+    "fecha": "2010-07-15",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg_20100715.pdf",
+      "bytes": 14600,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "27 de Mayo de 2010",
+    "fecha": "2010-05-27",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg_20100527.pdf",
+      "bytes": 22530,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "21 de Diciembre de 2009",
+    "fecha": "2009-12-21",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg20091221-2.pdf",
+      "bytes": 43014,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "7 de Julio de 2009",
+    "fecha": "2009-07-07",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg_20090707.pdf",
+      "bytes": 7311,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "2 de Diciembre de 2008",
+    "fecha": "2008-12-02",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg_20081202.pdf",
+      "bytes": 8057,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "18 de Julio de 2008",
+    "fecha": "2008-07-18",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg_20080718.pdf",
+      "bytes": 7818,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "14 de Abril de 2008",
+    "fecha": "2008-04-14",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg_20080414.pdf",
+      "bytes": 7362,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "16 de Noviembre de 2007",
+    "fecha": "2007-11-16",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg_20071116.pdf",
+      "bytes": 7728,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "13 de Septiembre de 2007",
+    "fecha": "2007-09-13",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg_20070913.pdf",
+      "bytes": 6871,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "7 de Julio de 2007",
+    "fecha": "2007-07-07",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg_20070707.pdf",
+      "bytes": 6493,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "18 de Junio de 2007",
+    "fecha": "2007-06-18",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg_20070618.pdf",
+      "bytes": 6366,
+      "formato": "pdf"
+    }
+  },
+  {
+    "organo": "Junta General",
+    "fecha_texto": "18 de Mayo de 2007",
+    "fecha": "2007-05-18",
+    "contenedor_origen": "generales",
+    "documento": {
+      "url": "/documentos/pdfs/juntas/jg_20070518.pdf",
+      "bytes": 6730,
+      "formato": "pdf"
+    }
+  }
+]

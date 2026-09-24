@@ -1,0 +1,47 @@
+{
+  "fuente": "/servicios/tarifa.php",
+  "indice": 3,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "",
+      "",
+      "EUROS"
+    ]
+  ],
+  "filas": [
+    [
+      "1.",
+      "Fotocopia ordinaria de documento, formato A4, hasta 5 páginas.",
+      "5.10"
+    ],
+    [
+      "2.",
+      "Fotocopia ordinaria de documentos, por página\nadicional a partir de 5 páginas, formato A4.",
+      "0.60"
+    ],
+    [
+      "3.",
+      "Fotocopia ordinaria de documentos, hasta 5 páginas, formato A3.",
+      "5.90"
+    ],
+    [
+      "4.",
+      "Fotocopia ordinaria de documentos, por\npágina adicional formato A3.",
+      "0.65"
+    ],
+    [
+      "5.",
+      "Copia o impresión de planos, por plano\nhasta formato A1 o 0,50 m 2",
+      "12.70"
+    ],
+    [
+      "6.",
+      "Copia o impresión de planos,\npor plano hasta formato B0 o 1,50 m 2",
+      "23.70"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

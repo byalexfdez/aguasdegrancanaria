@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/europa/directiva_marco_agua.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 11/02/2003",
+      "Título",
+      "Directiva Marco del Agua DMA",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Directiva 2000/60/CE del PE y del Consejo por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua",
+      "",
+      "Directiva",
+      "Union Europea"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

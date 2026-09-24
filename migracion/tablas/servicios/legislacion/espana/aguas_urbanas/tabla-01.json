@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/aguas_urbanas.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 05/04/2001",
+      "Título",
+      "Tratamiento aguas residuales urbanas: Real Decreto-Ley 11/1995",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Real Decreto-Ley 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua Resid",
+      "",
+      "Real Decreto Ley",
+      "España"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

@@ -1,0 +1,27 @@
+{
+  "fuente": "/servicios/tarifa.php",
+  "indice": 11,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "",
+      "",
+      "EUROS/m³"
+    ]
+  ],
+  "filas": [
+    [
+      "1.",
+      "Aprovechamiento de aguas superficiales.",
+      "24.00"
+    ],
+    [
+      "2.",
+      "Aprovechamiento de aguas subterráneas.",
+      "12.00"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

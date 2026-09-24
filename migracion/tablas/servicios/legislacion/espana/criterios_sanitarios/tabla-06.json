@@ -1,0 +1,141 @@
+{
+  "fuente": "/servicios/legislacion/españa/criterios_sanitarios.php",
+  "indice": 6,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Parámetro",
+      "Valor paramétrico",
+      "Notas"
+    ],
+    [
+      "31. Bacterias coliformes",
+      "0 UFC En 100 ml",
+      ""
+    ],
+    [
+      "32. Recuento de colonias a 22 °C",
+      "",
+      ""
+    ],
+    [
+      "A la salida de ETAP",
+      "100 UFC En 1 ml",
+      ""
+    ],
+    [
+      "En red de distribución",
+      "Sin cambios anómalos",
+      ""
+    ],
+    [
+      "33. Aluminio",
+      "200 µg/l",
+      ""
+    ],
+    [
+      "34. Amonio",
+      "0,50 mg/l",
+      ""
+    ],
+    [
+      "35. Carbono orgánico total",
+      "Sin cambios anómalos mg/l",
+      "1"
+    ],
+    [
+      "36. Cloro combinado residual",
+      "2,0 mg/l",
+      "2, 3 y 4"
+    ],
+    [
+      "37. Cloro libre residual",
+      "1,0 mg/l",
+      "2 y 3"
+    ],
+    [
+      "38. Cloruro",
+      "250 mg/l",
+      ""
+    ],
+    [
+      "39. Color",
+      "15 mg/l Pt/Co",
+      ""
+    ],
+    [
+      "40. Conductividad",
+      "2.500 µS/cm-1 a 20C",
+      "5"
+    ],
+    [
+      "41. Hierro",
+      "200 µg/l",
+      ""
+    ],
+    [
+      "42. Manganeso",
+      "50 µg/l",
+      ""
+    ],
+    [
+      "43. Olor",
+      "3 a 25 °C Índice de dilución",
+      ""
+    ],
+    [
+      "44. Oxidabilidad",
+      "5,0 mg O2/l",
+      "1"
+    ],
+    [
+      "45, pH:",
+      "",
+      "5 y 6"
+    ],
+    [
+      "Valor paramétrico mínimo",
+      "6,5 Unidades de pH",
+      ""
+    ],
+    [
+      "Valor paramétrico máximo",
+      "9,5 Unidades de pH",
+      ""
+    ],
+    [
+      "46. Sabor",
+      "3 a 25 °C índice de dilución",
+      ""
+    ],
+    [
+      "47. Sodio",
+      "200 mg/l",
+      ""
+    ],
+    [
+      "48. Sulfato",
+      "250 mg/l",
+      ""
+    ],
+    [
+      "49. Turbidez:",
+      "",
+      ""
+    ],
+    [
+      "A la salida de ETAP y/o depósito",
+      "1 UNF",
+      ""
+    ],
+    [
+      "En red de distribución",
+      "5 UNF",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

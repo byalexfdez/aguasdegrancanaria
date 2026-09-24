@@ -1,0 +1,4697 @@
+{
+  "rutas": [
+    {
+      "ruta": "/",
+      "nueva": "/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/accesibilidad.php",
+      "nueva": "/accesibilidad/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/agua/desaladoras.php",
+      "nueva": "/agua-en-gran-canaria/desaladoras/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/ayudas.php",
+      "nueva": "/transparencia/ayudas-y-subvenciones/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia.php",
+      "nueva": "/mapas-y-cartografia/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/Catalogo_Cauces/index.html",
+      "nueva": "/agua-en-gran-canaria/inventario-insular-de-cauces/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/CensoInstalaciones/map-censo.html",
+      "nueva": "/agua-en-gran-canaria/instalaciones-hidraulicas-subterraneas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/gestion.php",
+      "nueva": "/mapas-y-cartografia/gestion-del-agua/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/gestion/pluviometria.php",
+      "nueva": "/mapas-y-cartografia/gestion-del-agua/pluviometria/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/gestion/redes.php",
+      "nueva": "/mapas-y-cartografia/gestion-del-agua/redes-de-control/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/infraestructura.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/infraestructura/consejo.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/infraestructuras-del-consejo/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/infraestructura/depuradoras.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/depuradoras-y-desaladoras/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/infraestructura/pozos.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/pozos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/infraestructura/presas.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/presas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/marco.php",
+      "nueva": "/mapas-y-cartografia/marco-administrativo/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/marco/masas.php",
+      "nueva": "/mapas-y-cartografia/marco-administrativo/masas-de-agua/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/marco/zonificacion.php",
+      "nueva": "/mapas-y-cartografia/marco-administrativo/zonificacion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/medio_fisico.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/medio_fisico/barrancos_cuencas.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/barrancos-y-cuencas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/medio_fisico/cultivos.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/cultivos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/medio_fisico/permeabilidad.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/permeabilidad/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/medio_fisico/relieve.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/relieve/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/tematica.php",
+      "nueva": "/mapas-y-cartografia/cartografia-tematica/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/tematica/consumos.php",
+      "nueva": "/mapas-y-cartografia/cartografia-tematica/consumos-agrarios/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/cartografia/tematica/precipitaciones.php",
+      "nueva": "/mapas-y-cartografia/cartografia-tematica/precipitaciones/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/concurso_hidro.php",
+      "nueva": "/agua-en-gran-canaria/salto-de-chira/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/consejo.php",
+      "nueva": "/transparencia/institucional/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/consejos_ahorro.php",
+      "nueva": "/divulgacion/consejos-de-ahorro/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/convenio.php",
+      "nueva": "/transparencia/convenios-y-encomiendas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion.php",
+      "nueva": "/divulgacion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/articulos_publicaciones.php",
+      "nueva": "/divulgacion/articulos-y-publicaciones/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/articulos/estudio_cientifico.php",
+      "nueva": "/divulgacion/articulos-y-publicaciones/estudio-cientifico-recursos-de-agua-islas-canarias/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/articulos/estudio_hidrogeologico.php",
+      "nueva": "/divulgacion/articulos-y-publicaciones/estudio-hidrogeologico-del-este-de-gran-canaria/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/ciclo_hidrologico.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/el-ciclo-hidrologico/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/escenario.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/escenarios-futuros/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/fondos_feder.php",
+      "nueva": "/fondos-europeos/feder/actuaciones-aquamac/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/jornadas.php",
+      "nueva": "/divulgacion/jornadas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/jovenes_agua.php",
+      "nueva": "/divulgacion/jovenes-por-el-agua/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/opciones.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/eleccion-de-opciones/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/ordenanzas.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/las-ordenanzas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/principios_directrices.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/principios-directrices-y-previsiones/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/programa_acutacion.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/programa-de-actuacion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/punto_partida.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/el-medio-como-punto-de-partida/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/recu_no/tabla1.html",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/tabla-1-estaciones-depuradoras/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/recu_no/tabla2.html",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/tabla-2-desaladoras-de-agua-de-mar/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/recu_no/tabla3.html",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/tabla-3-desaladoras-de-agua-salobre/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/recu_super/tabla1.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-superficiales/tabla-1-grandes-presas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/recu_super/tabla2.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-superficiales/tabla-2-obras-de-almacenamiento/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/recursos_no_naturales.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/recursos_subterraneos.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-subterraneos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/recursos_superficiales.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-superficiales/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/riada_tasarte.php",
+      "nueva": "/divulgacion/riada-en-tasarte/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/divulgacion/uso_agua.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/el-uso-del-agua/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/economico.php",
+      "nueva": "/transparencia/economico-financiera/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/el_consejo.php",
+      "nueva": "/el-consejo/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/el_consejo/avisos.php",
+      "nueva": "/aviso-legal/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/el_consejo/funciones.php",
+      "nueva": "/el-consejo/funciones/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/el_consejo/introduccion.php",
+      "nueva": "/el-consejo/introduccion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/el_consejo/juntas.php",
+      "nueva": "/el-consejo/juntas-y-sesiones/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/el_consejo/organizacion.php",
+      "nueva": "/el-consejo/organizacion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/el_consejo/organos_gobierno.php",
+      "nueva": "/el-consejo/organos-de-gobierno/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/el_consejo/ubicacion.php",
+      "nueva": "/el-consejo/ubicacion-y-contacto/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/elecciones.php",
+      "nueva": "/el-consejo/elecciones-de-consejeros/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/empleados.php",
+      "nueva": "/transparencia/empleados-publicos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/estadistica.php",
+      "nueva": "/transparencia/estadistica/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/fomento.php",
+      "nueva": "/transparencia/fomento-de-la-transparencia/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/fondos_feder.php",
+      "nueva": "/fondos-europeos/feder/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/info_public.php",
+      "nueva": "/actualidad/anuncios/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/info.php",
+      "nueva": "/transparencia/periodo-medio-de-pago/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/inundaciones.php",
+      "nueva": "/planificacion/riesgo-de-inundacion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/nextgeneration.php",
+      "nueva": "/fondos-europeos/nextgenerationeu/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/noticias.php",
+      "nueva": "/actualidad/noticias/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/obras.php",
+      "nueva": "/transparencia/obras-publicas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/patrimonio.php",
+      "nueva": "/transparencia/patrimonio/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/perfil_con_2.php",
+      "nueva": "/servicios/contratacion/perfil-del-contratante/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/perfil_con.php",
+      "nueva": "/servicios/contratacion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/plan_hidro.php",
+      "nueva": "/planificacion/plan-hidrologico/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/art47/normativa.php",
+      "nueva": "/planificacion/plan-hidrologico/art-47/normativa/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/art47/volumen1.php",
+      "nueva": "/planificacion/plan-hidrologico/art-47/volumen-1/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/art47/volumen2.php",
+      "nueva": "/planificacion/plan-hidrologico/art-47/volumen-2/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/antecedentes_planificacion.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/antecedentes/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/conceptos_basicos.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/conceptos-basicos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/enlaces_externos.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/enlaces/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/agua_esencial.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/agua-esencial/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/calendario_programa_trabajo.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/calendario-programa-trabajo/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/caracterizacion_masas_agua.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/caracterizacion-masas-agua/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/ciclo_planificacion_hidrologica.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/ciclo-planificacion-hidrologica/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/cuencas_hidrograficas.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/cuencas-hidrograficas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/cumplimiento_V_VI.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/cumplimiento-v-vi/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/directiva_marco_agua_CE.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/directiva-marco-agua-ce/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/directiva_nitratos.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/directiva-nitratos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/economia_medio_ambiente.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/economia-medio-ambiente/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/informe_red_control.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/informe-red-control/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/informe_V_VI.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/informe-v-vi/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/instruccion_planificacion.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/instruccion-planificacion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/participacion_publica_DMA_8.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/participacion-publica-dma-8/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/participacion_publica_DMA.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/participacion-publica-dma/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/planifiacion_hidrologica.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/instruccion-planificacion-hidrologica-borrador-v10/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/procesos_planificacion.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/procesos-planificacion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/reglamento_planificacion.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/reglamento-planificacion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/reglamento.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/reglamento/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/riesgos_aguas_subterraneas.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/riesgos-aguas-subterraneas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/trabajos_directiva_marco.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/trabajos-directiva-marco/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/zonas_costeras.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/zonas-costeras/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/pluviometros.php",
+      "nueva": "/agua-en-gran-canaria/pluviometros/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/presas/archivo.php",
+      "nueva": "/agua-en-gran-canaria/presas/archivo-tecnico/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/presas/ubicacion_presas.php",
+      "nueva": "/agua-en-gran-canaria/presas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/presas/volumenes.php",
+      "nueva": "/agua-en-gran-canaria/presas/volumenes/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/presupuesto.php",
+      "nueva": "/transparencia/presupuestos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/privacidad.php",
+      "nueva": "/privacidad/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/red_control.php",
+      "nueva": "/planificacion/red-de-control-2009/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/documento.php",
+      "nueva": "/servicios/descarga-de-documentos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/enlaces.php",
+      "nueva": "/servicios/enlaces/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion.php",
+      "nueva": "/servicios/normativa/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/auxilio_obras.php",
+      "nueva": "/servicios/normativa/canarias/auxilio-obras/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/buenas_practicas.php",
+      "nueva": "/servicios/normativa/canarias/buenas-practicas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/control_vertidos.php",
+      "nueva": "/servicios/normativa/canarias/control-vertidos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/convenio_colaboracion.php",
+      "nueva": "/servicios/normativa/canarias/convenio-colaboracion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/derogado.php",
+      "nueva": "/servicios/normativa/canarias/derogado/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/dominio_publico_hidraulico.php",
+      "nueva": "/servicios/normativa/canarias/dominio-publico-hidraulico/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/estructura_func.php",
+      "nueva": "/servicios/normativa/canarias/estructura-func/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/instalaciones_suministros.php",
+      "nueva": "/servicios/normativa/canarias/instalaciones-suministros/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/instrumentos.php",
+      "nueva": "/servicios/normativa/canarias/instrumentos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/ley_aguas.php",
+      "nueva": "/servicios/normativa/canarias/ley-aguas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/nitratos.php",
+      "nueva": "/servicios/normativa/canarias/nitratos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/ordenanzas.php",
+      "nueva": "/servicios/normativa/canarias/ordenanzas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/sancionador_aguas.php",
+      "nueva": "/servicios/normativa/canarias/sancionador-aguas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/suelos_contaminados.php",
+      "nueva": "/servicios/normativa/canarias/suelos-contaminados/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/tramitacion.php",
+      "nueva": "/servicios/normativa/canarias/tramitacion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/aguas_urbanas.php",
+      "nueva": "/servicios/normativa/espana/aguas-urbanas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/calidad_aguas.php",
+      "nueva": "/servicios/normativa/espana/calidad-aguas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/construccion_explotacion.php",
+      "nueva": "/servicios/normativa/espana/construccion-explotacion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/contratacion_obras.php",
+      "nueva": "/servicios/normativa/espana/contratacion-obras/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/contratos_administraciones.php",
+      "nueva": "/servicios/normativa/espana/contratos-administraciones/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/contratos_sector_publico.php",
+      "nueva": "/servicios/normativa/espana/contratos-sector-publico/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/contratos.php",
+      "nueva": "/servicios/normativa/espana/contratos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/criterios_sanitarios.php",
+      "nueva": "/servicios/normativa/espana/criterios-sanitarios/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/dominio_publico_nacional.php",
+      "nueva": "/servicios/normativa/espana/dominio-publico-nacional/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/evaluacion_gestion.php",
+      "nueva": "/servicios/normativa/espana/evaluacion-gestion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/ley_aguas.php",
+      "nueva": "/servicios/normativa/espana/ley-aguas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/modificacion_reglamento.php",
+      "nueva": "/servicios/normativa/espana/modificacion-reglamento/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/nitratos.php",
+      "nueva": "/servicios/normativa/espana/nitratos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/planificacion_civil.php",
+      "nueva": "/servicios/normativa/espana/planificacion-civil/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/proteccion_aguas_subterraneas.php",
+      "nueva": "/servicios/normativa/espana/proteccion-aguas-subterraneas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/reglamento_administracion.php",
+      "nueva": "/servicios/normativa/espana/reglamento-administracion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/responsabilidad.php",
+      "nueva": "/servicios/normativa/espana/responsabilidad/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/reutilizacion.php",
+      "nueva": "/servicios/normativa/espana/reutilizacion/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/sector_publico.php",
+      "nueva": "/servicios/normativa/espana/sector-publico/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/seguridad_presas.php",
+      "nueva": "/servicios/normativa/espana/seguridad-presas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/tratamiento_aguas.php",
+      "nueva": "/servicios/normativa/espana/tratamiento-aguas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/valoracion_danos.php",
+      "nueva": "/servicios/normativa/espana/valoracion-danos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/aguas_residuales.php",
+      "nueva": "/servicios/normativa/union-europea/aguas-residuales/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/directiva_inundaciones.php",
+      "nueva": "/servicios/normativa/union-europea/directiva-inundaciones/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/directiva_marco_agua.php",
+      "nueva": "/servicios/normativa/union-europea/directiva-marco-agua/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/directiva_nitratos.php",
+      "nueva": "/servicios/normativa/union-europea/directiva-nitratos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/directiva_subterranea.php",
+      "nueva": "/servicios/normativa/union-europea/directiva-subterranea/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/sustancias_prioritarias.php",
+      "nueva": "/servicios/normativa/union-europea/sustancias-prioritarias/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/tarifa.php",
+      "nueva": "/servicios/tasas/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/servicios/tarifas.php",
+      "nueva": "/servicios/tarifas-canones-y-precios-publicos/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/subvenciones.php",
+      "nueva": "/fondos-europeos/subvenciones-al-sobrecoste/",
+      "pagina": true,
+      "redireccion": true
+    },
+    {
+      "ruta": "/transparencia.php",
+      "nueva": "/transparencia/",
+      "pagina": true,
+      "redireccion": true
+    }
+  ],
+  "textos": [
+    {
+      "ruta": "/",
+      "nueva": "/",
+      "palabras": 696,
+      "faltan": 12,
+      "dif": 0.017241379310344827,
+      "ejemplos": [
+        "inundaciones",
+        "volúmenes",
+        "lecturas",
+        "año",
+        "excel",
+        "más",
+        "1º"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/accesibilidad.php",
+      "nueva": "/accesibilidad/",
+      "palabras": 944,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/agua/desaladoras.php",
+      "nueva": "/agua-en-gran-canaria/desaladoras/",
+      "palabras": 1371,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/ayudas.php",
+      "nueva": "/transparencia/ayudas-y-subvenciones/",
+      "palabras": 138,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia.php",
+      "nueva": "/mapas-y-cartografia/",
+      "palabras": 137,
+      "faltan": 2,
+      "dif": 0.014598540145985401,
+      "ejemplos": [
+        "1º",
+        "30"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/Catalogo_Cauces/index.html",
+      "nueva": "/agua-en-gran-canaria/inventario-insular-de-cauces/",
+      "palabras": 4,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/CensoInstalaciones/map-censo.html",
+      "nueva": "/agua-en-gran-canaria/instalaciones-hidraulicas-subterraneas/",
+      "palabras": 69,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/gestion.php",
+      "nueva": "/mapas-y-cartografia/gestion-del-agua/",
+      "palabras": 88,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/gestion/pluviometria.php",
+      "nueva": "/mapas-y-cartografia/gestion-del-agua/pluviometria/",
+      "palabras": 15,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/gestion/redes.php",
+      "nueva": "/mapas-y-cartografia/gestion-del-agua/redes-de-control/",
+      "palabras": 14,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/infraestructura.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/",
+      "palabras": 91,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/infraestructura/consejo.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/infraestructuras-del-consejo/",
+      "palabras": 13,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/infraestructura/depuradoras.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/depuradoras-y-desaladoras/",
+      "palabras": 13,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/infraestructura/pozos.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/pozos/",
+      "palabras": 11,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/infraestructura/presas.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/presas/",
+      "palabras": 16,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/marco.php",
+      "nueva": "/mapas-y-cartografia/marco-administrativo/",
+      "palabras": 87,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/marco/masas.php",
+      "nueva": "/mapas-y-cartografia/marco-administrativo/masas-de-agua/",
+      "palabras": 16,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/marco/zonificacion.php",
+      "nueva": "/mapas-y-cartografia/marco-administrativo/zonificacion/",
+      "palabras": 11,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/medio_fisico.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/",
+      "palabras": 89,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/medio_fisico/barrancos_cuencas.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/barrancos-y-cuencas/",
+      "palabras": 16,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/medio_fisico/cultivos.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/cultivos/",
+      "palabras": 14,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/medio_fisico/permeabilidad.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/permeabilidad/",
+      "palabras": 14,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/medio_fisico/relieve.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/relieve/",
+      "palabras": 14,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/tematica.php",
+      "nueva": "/mapas-y-cartografia/cartografia-tematica/",
+      "palabras": 86,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/tematica/consumos.php",
+      "nueva": "/mapas-y-cartografia/cartografia-tematica/consumos-agrarios/",
+      "palabras": 15,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/cartografia/tematica/precipitaciones.php",
+      "nueva": "/mapas-y-cartografia/cartografia-tematica/precipitaciones/",
+      "palabras": 14,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/concurso_hidro.php",
+      "nueva": "/agua-en-gran-canaria/salto-de-chira/",
+      "palabras": 139,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/consejo.php",
+      "nueva": "/transparencia/institucional/",
+      "palabras": 57,
+      "faltan": 2,
+      "dif": 0.03508771929824561,
+      "ejemplos": [
+        "1º",
+        "30"
+      ],
+      "justificacion": "Pie antiguo repetido en la página («1º PLANTA», «13:30»). Se sustituye por el pie común con los datos facilitados por el cliente («1ª planta», «13:00»). Discrepancia de horario registrada como duda D en erratas-corregidas.md."
+    },
+    {
+      "ruta": "/consejos_ahorro.php",
+      "nueva": "/divulgacion/consejos-de-ahorro/",
+      "palabras": 397,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/convenio.php",
+      "nueva": "/transparencia/convenios-y-encomiendas/",
+      "palabras": 422,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion.php",
+      "nueva": "/divulgacion/",
+      "palabras": 120,
+      "faltan": 2,
+      "dif": 0.016666666666666666,
+      "ejemplos": [
+        "1º",
+        "30"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/articulos_publicaciones.php",
+      "nueva": "/divulgacion/articulos-y-publicaciones/",
+      "palabras": 25,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/articulos/estudio_cientifico.php",
+      "nueva": "/divulgacion/articulos-y-publicaciones/estudio-cientifico-recursos-de-agua-islas-canarias/",
+      "palabras": 718,
+      "faltan": 3,
+      "dif": 0.004178272980501393,
+      "ejemplos": [
+        "293",
+        "456",
+        "30"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/articulos/estudio_hidrogeologico.php",
+      "nueva": "/divulgacion/articulos-y-publicaciones/estudio-hidrogeologico-del-este-de-gran-canaria/",
+      "palabras": 282,
+      "faltan": 3,
+      "dif": 0.010638297872340425,
+      "ejemplos": [
+        "293",
+        "456",
+        "30"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/ciclo_hidrologico.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/el-ciclo-hidrologico/",
+      "palabras": 1789,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/escenario.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/escenarios-futuros/",
+      "palabras": 200,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/fondos_feder.php",
+      "nueva": "/fondos-europeos/feder/actuaciones-aquamac/",
+      "palabras": 2341,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/jornadas.php",
+      "nueva": "/divulgacion/jornadas/",
+      "palabras": 438,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/jovenes_agua.php",
+      "nueva": "/divulgacion/jovenes-por-el-agua/",
+      "palabras": 366,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/opciones.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/eleccion-de-opciones/",
+      "palabras": 589,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/ordenanzas.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/las-ordenanzas/",
+      "palabras": 1437,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/principios_directrices.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/principios-directrices-y-previsiones/",
+      "palabras": 1234,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/programa_acutacion.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/programa-de-actuacion/",
+      "palabras": 1973,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/punto_partida.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/el-medio-como-punto-de-partida/",
+      "palabras": 890,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/recu_no/tabla1.html",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/tabla-1-estaciones-depuradoras/",
+      "palabras": 373,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/recu_no/tabla2.html",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/tabla-2-desaladoras-de-agua-de-mar/",
+      "palabras": 174,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/recu_no/tabla3.html",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/tabla-3-desaladoras-de-agua-salobre/",
+      "palabras": 430,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/recu_super/tabla1.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-superficiales/tabla-1-grandes-presas/",
+      "palabras": 451,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/recu_super/tabla2.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-superficiales/tabla-2-obras-de-almacenamiento/",
+      "palabras": 199,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/recursos_no_naturales.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/",
+      "palabras": 1052,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/recursos_subterraneos.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-subterraneos/",
+      "palabras": 1257,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/recursos_superficiales.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-superficiales/",
+      "palabras": 1401,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/riada_tasarte.php",
+      "nueva": "/divulgacion/riada-en-tasarte/",
+      "palabras": 1983,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/divulgacion/uso_agua.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/el-uso-del-agua/",
+      "palabras": 3131,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/economico.php",
+      "nueva": "/transparencia/economico-financiera/",
+      "palabras": 74,
+      "faltan": 2,
+      "dif": 0.02702702702702703,
+      "ejemplos": [
+        "1º",
+        "30"
+      ],
+      "justificacion": "Igual que /consejo.php: pie antiguo repetido («1º PLANTA», «13:30»)."
+    },
+    {
+      "ruta": "/el_consejo.php",
+      "nueva": "/el-consejo/",
+      "palabras": 56,
+      "faltan": 1,
+      "dif": 0.017857142857142856,
+      "ejemplos": [
+        "1º"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/el_consejo/avisos.php",
+      "nueva": "/aviso-legal/",
+      "palabras": 686,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/el_consejo/funciones.php",
+      "nueva": "/el-consejo/funciones/",
+      "palabras": 379,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/el_consejo/introduccion.php",
+      "nueva": "/el-consejo/introduccion/",
+      "palabras": 515,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/el_consejo/juntas.php",
+      "nueva": "/el-consejo/juntas-y-sesiones/",
+      "palabras": 260,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/el_consejo/organizacion.php",
+      "nueva": "/el-consejo/organizacion/",
+      "palabras": 12,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/el_consejo/organos_gobierno.php",
+      "nueva": "/el-consejo/organos-de-gobierno/",
+      "palabras": 1803,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/el_consejo/ubicacion.php",
+      "nueva": "/el-consejo/ubicacion-y-contacto/",
+      "palabras": 91,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/elecciones.php",
+      "nueva": "/el-consejo/elecciones-de-consejeros/",
+      "palabras": 369,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/empleados.php",
+      "nueva": "/transparencia/empleados-publicos/",
+      "palabras": 271,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/estadistica.php",
+      "nueva": "/transparencia/estadistica/",
+      "palabras": 27,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/fomento.php",
+      "nueva": "/transparencia/fomento-de-la-transparencia/",
+      "palabras": 333,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/fondos_feder.php",
+      "nueva": "/fondos-europeos/feder/",
+      "palabras": 1607,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/info_public.php",
+      "nueva": "/actualidad/anuncios/",
+      "palabras": 1508,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/info.php",
+      "nueva": "/transparencia/periodo-medio-de-pago/",
+      "palabras": 157,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/inundaciones.php",
+      "nueva": "/planificacion/riesgo-de-inundacion/",
+      "palabras": 249,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/nextgeneration.php",
+      "nueva": "/fondos-europeos/nextgenerationeu/",
+      "palabras": 258,
+      "faltan": 2,
+      "dif": 0.007751937984496124,
+      "ejemplos": [
+        "nota",
+        "cartel"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/noticias.php",
+      "nueva": "/actualidad/noticias/",
+      "palabras": 6922,
+      "faltan": 72,
+      "dif": 0.010401618029471251,
+      "ejemplos": [
+        "09",
+        "06",
+        "05",
+        "07",
+        "03",
+        "08",
+        "04",
+        "02"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/obras.php",
+      "nueva": "/transparencia/obras-publicas/",
+      "palabras": 26,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/patrimonio.php",
+      "nueva": "/transparencia/patrimonio/",
+      "palabras": 17,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/perfil_con_2.php",
+      "nueva": "/servicios/contratacion/perfil-del-contratante/",
+      "palabras": 5,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/perfil_con.php",
+      "nueva": "/servicios/contratacion/",
+      "palabras": 168,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/plan_hidro.php",
+      "nueva": "/planificacion/plan-hidrologico/",
+      "palabras": 297,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/art47/normativa.php",
+      "nueva": "/planificacion/plan-hidrologico/art-47/normativa/",
+      "palabras": 18,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/art47/volumen1.php",
+      "nueva": "/planificacion/plan-hidrologico/art-47/volumen-1/",
+      "palabras": 20,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/art47/volumen2.php",
+      "nueva": "/planificacion/plan-hidrologico/art-47/volumen-2/",
+      "palabras": 16,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/antecedentes_planificacion.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/antecedentes/",
+      "palabras": 735,
+      "faltan": 3,
+      "dif": 0.004081632653061225,
+      "ejemplos": [
+        "293",
+        "456",
+        "30"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/conceptos_basicos.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/conceptos-basicos/",
+      "palabras": 1150,
+      "faltan": 3,
+      "dif": 0.0026086956521739132,
+      "ejemplos": [
+        "293",
+        "456",
+        "30"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/enlaces_externos.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/enlaces/",
+      "palabras": 168,
+      "faltan": 3,
+      "dif": 0.017857142857142856,
+      "ejemplos": [
+        "293",
+        "456",
+        "30"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/",
+      "palabras": 476,
+      "faltan": 2,
+      "dif": 0.004201680672268907,
+      "ejemplos": [
+        "30",
+        "1º"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/agua_esencial.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/agua-esencial/",
+      "palabras": 39,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/calendario_programa_trabajo.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/calendario-programa-trabajo/",
+      "palabras": 41,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/caracterizacion_masas_agua.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/caracterizacion-masas-agua/",
+      "palabras": 57,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/ciclo_planificacion_hidrologica.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/ciclo-planificacion-hidrologica/",
+      "palabras": 345,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/cuencas_hidrograficas.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/cuencas-hidrograficas/",
+      "palabras": 54,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/cumplimiento_V_VI.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/cumplimiento-v-vi/",
+      "palabras": 57,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/directiva_marco_agua_CE.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/directiva-marco-agua-ce/",
+      "palabras": 35,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/directiva_nitratos.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/directiva-nitratos/",
+      "palabras": 45,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/economia_medio_ambiente.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/economia-medio-ambiente/",
+      "palabras": 55,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/informe_red_control.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/informe-red-control/",
+      "palabras": 62,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/informe_V_VI.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/informe-v-vi/",
+      "palabras": 63,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/instruccion_planificacion.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/instruccion-planificacion/",
+      "palabras": 38,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/participacion_publica_DMA_8.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/participacion-publica-dma-8/",
+      "palabras": 52,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/participacion_publica_DMA.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/participacion-publica-dma/",
+      "palabras": 41,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/planifiacion_hidrologica.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/instruccion-planificacion-hidrologica-borrador-v10/",
+      "palabras": 37,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/procesos_planificacion.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/procesos-planificacion/",
+      "palabras": 44,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/reglamento_planificacion.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/reglamento-planificacion/",
+      "palabras": 43,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/reglamento.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/reglamento/",
+      "palabras": 45,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/riesgos_aguas_subterraneas.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/riesgos-aguas-subterraneas/",
+      "palabras": 56,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/trabajos_directiva_marco.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/trabajos-directiva-marco/",
+      "palabras": 52,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/zonas_costeras.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/zonas-costeras/",
+      "palabras": 43,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/pluviometros.php",
+      "nueva": "/agua-en-gran-canaria/pluviometros/",
+      "palabras": 1511,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/presas/archivo.php",
+      "nueva": "/agua-en-gran-canaria/presas/archivo-tecnico/",
+      "palabras": 42,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/presas/ubicacion_presas.php",
+      "nueva": "/agua-en-gran-canaria/presas/",
+      "palabras": 4197,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/presas/volumenes.php",
+      "nueva": "/agua-en-gran-canaria/presas/volumenes/",
+      "palabras": 32,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/presupuesto.php",
+      "nueva": "/transparencia/presupuestos/",
+      "palabras": 158,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/privacidad.php",
+      "nueva": "/privacidad/",
+      "palabras": 26,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/red_control.php",
+      "nueva": "/planificacion/red-de-control-2009/",
+      "palabras": 1149,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/documento.php",
+      "nueva": "/servicios/descarga-de-documentos/",
+      "palabras": 153,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/enlaces.php",
+      "nueva": "/servicios/enlaces/",
+      "palabras": 178,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion.php",
+      "nueva": "/servicios/normativa/",
+      "palabras": 1425,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/auxilio_obras.php",
+      "nueva": "/servicios/normativa/canarias/auxilio-obras/",
+      "palabras": 3457,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/buenas_practicas.php",
+      "nueva": "/servicios/normativa/canarias/buenas-practicas/",
+      "palabras": 8787,
+      "faltan": 6,
+      "dif": 0.0006828269033799932,
+      "ejemplos": [
+        "2000",
+        "fecha",
+        "23",
+        "número",
+        "órgano"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/control_vertidos.php",
+      "nueva": "/servicios/normativa/canarias/control-vertidos/",
+      "palabras": 11362,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/convenio_colaboracion.php",
+      "nueva": "/servicios/normativa/canarias/convenio-colaboracion/",
+      "palabras": 3186,
+      "faltan": 6,
+      "dif": 0.0018832391713747645,
+      "ejemplos": [
+        "1998",
+        "fecha",
+        "número",
+        "28",
+        "órgano"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/derogado.php",
+      "nueva": "/servicios/normativa/canarias/derogado/",
+      "palabras": 7039,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/dominio_publico_hidraulico.php",
+      "nueva": "/servicios/normativa/canarias/dominio-publico-hidraulico/",
+      "palabras": 27257,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/estructura_func.php",
+      "nueva": "/servicios/normativa/canarias/estructura-func/",
+      "palabras": 539,
+      "faltan": 5,
+      "dif": 0.00927643784786642,
+      "ejemplos": [
+        "fecha",
+        "número",
+        "130",
+        "órgano"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/instalaciones_suministros.php",
+      "nueva": "/servicios/normativa/canarias/instalaciones-suministros/",
+      "palabras": 10784,
+      "faltan": 8,
+      "dif": 0.000741839762611276,
+      "ejemplos": [
+        "fecha",
+        "1",
+        "número",
+        "53",
+        "órgano",
+        "comercio",
+        "3"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/instrumentos.php",
+      "nueva": "/servicios/normativa/canarias/instrumentos/",
+      "palabras": 46,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/ley_aguas.php",
+      "nueva": "/servicios/normativa/canarias/ley-aguas/",
+      "palabras": 16860,
+      "faltan": 7,
+      "dif": 0.0004151838671411625,
+      "ejemplos": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/nitratos.php",
+      "nueva": "/servicios/normativa/canarias/nitratos/",
+      "palabras": 1002,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/ordenanzas.php",
+      "nueva": "/servicios/normativa/canarias/ordenanzas/",
+      "palabras": 17606,
+      "faltan": 16,
+      "dif": 0.0009087810973531751,
+      "ejemplos": [
+        "fecha",
+        "número",
+        "73",
+        "órgano",
+        "5",
+        "4",
+        "1",
+        "2"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/sancionador_aguas.php",
+      "nueva": "/servicios/normativa/canarias/sancionador-aguas/",
+      "palabras": 4744,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/suelos_contaminados.php",
+      "nueva": "/servicios/normativa/canarias/suelos-contaminados/",
+      "palabras": 7881,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/tramitacion.php",
+      "nueva": "/servicios/normativa/canarias/tramitacion/",
+      "palabras": 906,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/aguas_urbanas.php",
+      "nueva": "/servicios/normativa/espana/aguas-urbanas/",
+      "palabras": 2541,
+      "faltan": 6,
+      "dif": 0.0023612750885478157,
+      "ejemplos": [
+        "fecha",
+        "número",
+        "312",
+        "órgano",
+        "estado"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/calidad_aguas.php",
+      "nueva": "/servicios/normativa/espana/calidad-aguas/",
+      "palabras": 2435,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/construccion_explotacion.php",
+      "nueva": "/servicios/normativa/espana/construccion-explotacion/",
+      "palabras": 26883,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/contratacion_obras.php",
+      "nueva": "/servicios/normativa/espana/contratacion-obras/",
+      "palabras": 11071,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/contratos_administraciones.php",
+      "nueva": "/servicios/normativa/espana/contratos-administraciones/",
+      "palabras": 48888,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/contratos_sector_publico.php",
+      "nueva": "/servicios/normativa/espana/contratos-sector-publico/",
+      "palabras": 84989,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/contratos.php",
+      "nueva": "/servicios/normativa/espana/contratos/",
+      "palabras": 64492,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/criterios_sanitarios.php",
+      "nueva": "/servicios/normativa/espana/criterios-sanitarios/",
+      "palabras": 15269,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/dominio_publico_nacional.php",
+      "nueva": "/servicios/normativa/espana/dominio-publico-nacional/",
+      "palabras": 72648,
+      "faltan": 1,
+      "dif": 0.00001376500385420108,
+      "ejemplos": [
+        "3"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/evaluacion_gestion.php",
+      "nueva": "/servicios/normativa/espana/evaluacion-gestion/",
+      "palabras": 41,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/ley_aguas.php",
+      "nueva": "/servicios/normativa/espana/ley-aguas/",
+      "palabras": 31553,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/modificacion_reglamento.php",
+      "nueva": "/servicios/normativa/espana/modificacion-reglamento/",
+      "palabras": 69,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/nitratos.php",
+      "nueva": "/servicios/normativa/espana/nitratos/",
+      "palabras": 4050,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/planificacion_civil.php",
+      "nueva": "/servicios/normativa/espana/planificacion-civil/",
+      "palabras": 3597,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/proteccion_aguas_subterraneas.php",
+      "nueva": "/servicios/normativa/espana/proteccion-aguas-subterraneas/",
+      "palabras": 8021,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/reglamento_administracion.php",
+      "nueva": "/servicios/normativa/espana/reglamento-administracion/",
+      "palabras": 14000,
+      "faltan": 7,
+      "dif": 0.0005,
+      "ejemplos": [
+        "ms",
+        "no3",
+        "so4",
+        "p2o5",
+        "o2",
+        "nh4"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/responsabilidad.php",
+      "nueva": "/servicios/normativa/espana/responsabilidad/",
+      "palabras": 23467,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/reutilizacion.php",
+      "nueva": "/servicios/normativa/espana/reutilizacion/",
+      "palabras": 4565,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/sector_publico.php",
+      "nueva": "/servicios/normativa/espana/sector-publico/",
+      "palabras": 11532,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/seguridad_presas.php",
+      "nueva": "/servicios/normativa/espana/seguridad-presas/",
+      "palabras": 9812,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/tratamiento_aguas.php",
+      "nueva": "/servicios/normativa/espana/tratamiento-aguas/",
+      "palabras": 3760,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/valoracion_danos.php",
+      "nueva": "/servicios/normativa/espana/valoracion-danos/",
+      "palabras": 112,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/aguas_residuales.php",
+      "nueva": "/servicios/normativa/union-europea/aguas-residuales/",
+      "palabras": 6330,
+      "faltan": 1,
+      "dif": 0.0001579778830963665,
+      "ejemplos": [
+        "hto"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/directiva_inundaciones.php",
+      "nueva": "/servicios/normativa/union-europea/directiva-inundaciones/",
+      "palabras": 1999,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/directiva_marco_agua.php",
+      "nueva": "/servicios/normativa/union-europea/directiva-marco-agua/",
+      "palabras": 49,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/directiva_nitratos.php",
+      "nueva": "/servicios/normativa/union-europea/directiva-nitratos/",
+      "palabras": 4519,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/directiva_subterranea.php",
+      "nueva": "/servicios/normativa/union-europea/directiva-subterranea/",
+      "palabras": 8705,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/sustancias_prioritarias.php",
+      "nueva": "/servicios/normativa/union-europea/sustancias-prioritarias/",
+      "palabras": 2523,
+      "faltan": 6,
+      "dif": 0.0023781212841854932,
+      "ejemplos": [
+        "gt",
+        "lt"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/tarifa.php",
+      "nueva": "/servicios/tasas/",
+      "palabras": 1344,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/servicios/tarifas.php",
+      "nueva": "/servicios/tarifas-canones-y-precios-publicos/",
+      "palabras": 1016,
+      "faltan": 0,
+      "dif": 0,
+      "ejemplos": [],
+      "justificacion": null
+    },
+    {
+      "ruta": "/subvenciones.php",
+      "nueva": "/fondos-europeos/subvenciones-al-sobrecoste/",
+      "palabras": 344,
+      "faltan": 2,
+      "dif": 0.005813953488372093,
+      "ejemplos": [
+        "nota",
+        "cartel"
+      ],
+      "justificacion": null
+    },
+    {
+      "ruta": "/transparencia.php",
+      "nueva": "/transparencia/",
+      "palabras": 94,
+      "faltan": 1,
+      "dif": 0.010638297872340425,
+      "ejemplos": [
+        "1º"
+      ],
+      "justificacion": null
+    }
+  ],
+  "recuentos": [
+    {
+      "ruta": "/",
+      "nueva": "/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        2,
+        2
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/accesibilidad.php",
+      "nueva": "/accesibilidad/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/agua/desaladoras.php",
+      "nueva": "/agua-en-gran-canaria/desaladoras/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/ayudas.php",
+      "nueva": "/transparencia/ayudas-y-subvenciones/",
+      "tablas": [
+        11,
+        11
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia.php",
+      "nueva": "/mapas-y-cartografia/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/Catalogo_Cauces/index.html",
+      "nueva": "/agua-en-gran-canaria/inventario-insular-de-cauces/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/CensoInstalaciones/map-censo.html",
+      "nueva": "/agua-en-gran-canaria/instalaciones-hidraulicas-subterraneas/",
+      "tablas": [
+        0,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/gestion.php",
+      "nueva": "/mapas-y-cartografia/gestion-del-agua/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/gestion/pluviometria.php",
+      "nueva": "/mapas-y-cartografia/gestion-del-agua/pluviometria/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/gestion/redes.php",
+      "nueva": "/mapas-y-cartografia/gestion-del-agua/redes-de-control/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/infraestructura.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/infraestructura/consejo.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/infraestructuras-del-consejo/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/infraestructura/depuradoras.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/depuradoras-y-desaladoras/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/infraestructura/pozos.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/pozos/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/infraestructura/presas.php",
+      "nueva": "/mapas-y-cartografia/infraestructuras-hidraulicas/presas/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/marco.php",
+      "nueva": "/mapas-y-cartografia/marco-administrativo/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/marco/masas.php",
+      "nueva": "/mapas-y-cartografia/marco-administrativo/masas-de-agua/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/marco/zonificacion.php",
+      "nueva": "/mapas-y-cartografia/marco-administrativo/zonificacion/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/medio_fisico.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/medio_fisico/barrancos_cuencas.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/barrancos-y-cuencas/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/medio_fisico/cultivos.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/cultivos/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/medio_fisico/permeabilidad.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/permeabilidad/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/medio_fisico/relieve.php",
+      "nueva": "/mapas-y-cartografia/medio-fisico/relieve/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/tematica.php",
+      "nueva": "/mapas-y-cartografia/cartografia-tematica/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/tematica/consumos.php",
+      "nueva": "/mapas-y-cartografia/cartografia-tematica/consumos-agrarios/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/cartografia/tematica/precipitaciones.php",
+      "nueva": "/mapas-y-cartografia/cartografia-tematica/precipitaciones/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/concurso_hidro.php",
+      "nueva": "/agua-en-gran-canaria/salto-de-chira/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/consejo.php",
+      "nueva": "/transparencia/institucional/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/consejos_ahorro.php",
+      "nueva": "/divulgacion/consejos-de-ahorro/",
+      "tablas": [
+        3,
+        3
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/convenio.php",
+      "nueva": "/transparencia/convenios-y-encomiendas/",
+      "tablas": [
+        7,
+        7
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion.php",
+      "nueva": "/divulgacion/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        3,
+        3
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/articulos_publicaciones.php",
+      "nueva": "/divulgacion/articulos-y-publicaciones/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/articulos/estudio_cientifico.php",
+      "nueva": "/divulgacion/articulos-y-publicaciones/estudio-cientifico-recursos-de-agua-islas-canarias/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/articulos/estudio_hidrogeologico.php",
+      "nueva": "/divulgacion/articulos-y-publicaciones/estudio-hidrogeologico-del-este-de-gran-canaria/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/ciclo_hidrologico.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/el-ciclo-hidrologico/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/escenario.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/escenarios-futuros/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/fondos_feder.php",
+      "nueva": "/fondos-europeos/feder/actuaciones-aquamac/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/jornadas.php",
+      "nueva": "/divulgacion/jornadas/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/jovenes_agua.php",
+      "nueva": "/divulgacion/jovenes-por-el-agua/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/opciones.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/eleccion-de-opciones/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/ordenanzas.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/las-ordenanzas/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/principios_directrices.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/principios-directrices-y-previsiones/",
+      "tablas": [
+        5,
+        5
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/programa_acutacion.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/programa-de-actuacion/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/punto_partida.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/el-medio-como-punto-de-partida/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/recu_no/tabla1.html",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/tabla-1-estaciones-depuradoras/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/recu_no/tabla2.html",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/tabla-2-desaladoras-de-agua-de-mar/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/recu_no/tabla3.html",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/tabla-3-desaladoras-de-agua-salobre/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/recu_super/tabla1.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-superficiales/tabla-1-grandes-presas/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/recu_super/tabla2.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-superficiales/tabla-2-obras-de-almacenamiento/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/recursos_no_naturales.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-no-naturales/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/recursos_subterraneos.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-subterraneos/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/recursos_superficiales.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/recursos-superficiales/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/riada_tasarte.php",
+      "nueva": "/divulgacion/riada-en-tasarte/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        2,
+        2
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/divulgacion/uso_agua.php",
+      "nueva": "/divulgacion/plan-hidrologico-1988/el-uso-del-agua/",
+      "tablas": [
+        4,
+        4
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/economico.php",
+      "nueva": "/transparencia/economico-financiera/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/el_consejo.php",
+      "nueva": "/el-consejo/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/el_consejo/avisos.php",
+      "nueva": "/aviso-legal/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/el_consejo/funciones.php",
+      "nueva": "/el-consejo/funciones/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/el_consejo/introduccion.php",
+      "nueva": "/el-consejo/introduccion/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/el_consejo/juntas.php",
+      "nueva": "/el-consejo/juntas-y-sesiones/",
+      "tablas": [
+        3,
+        3
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/el_consejo/organizacion.php",
+      "nueva": "/el-consejo/organizacion/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/el_consejo/organos_gobierno.php",
+      "nueva": "/el-consejo/organos-de-gobierno/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/el_consejo/ubicacion.php",
+      "nueva": "/el-consejo/ubicacion-y-contacto/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        1,
+        1
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/elecciones.php",
+      "nueva": "/el-consejo/elecciones-de-consejeros/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/empleados.php",
+      "nueva": "/transparencia/empleados-publicos/",
+      "tablas": [
+        2,
+        2
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/estadistica.php",
+      "nueva": "/transparencia/estadistica/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/fomento.php",
+      "nueva": "/transparencia/fomento-de-la-transparencia/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/fondos_feder.php",
+      "nueva": "/fondos-europeos/feder/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        1,
+        1
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/info_public.php",
+      "nueva": "/actualidad/anuncios/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/info.php",
+      "nueva": "/transparencia/periodo-medio-de-pago/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/inundaciones.php",
+      "nueva": "/planificacion/riesgo-de-inundacion/",
+      "tablas": [
+        5,
+        5
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/nextgeneration.php",
+      "nueva": "/fondos-europeos/nextgenerationeu/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/noticias.php",
+      "nueva": "/actualidad/noticias/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/obras.php",
+      "nueva": "/transparencia/obras-publicas/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/patrimonio.php",
+      "nueva": "/transparencia/patrimonio/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/perfil_con_2.php",
+      "nueva": "/servicios/contratacion/perfil-del-contratante/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/perfil_con.php",
+      "nueva": "/servicios/contratacion/",
+      "tablas": [
+        14,
+        14
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/plan_hidro.php",
+      "nueva": "/planificacion/plan-hidrologico/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/art47/normativa.php",
+      "nueva": "/planificacion/plan-hidrologico/art-47/normativa/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/art47/volumen1.php",
+      "nueva": "/planificacion/plan-hidrologico/art-47/volumen-1/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/art47/volumen2.php",
+      "nueva": "/planificacion/plan-hidrologico/art-47/volumen-2/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/antecedentes_planificacion.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/antecedentes/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/conceptos_basicos.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/conceptos-basicos/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/enlaces_externos.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/enlaces/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/agua_esencial.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/agua-esencial/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/calendario_programa_trabajo.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/calendario-programa-trabajo/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/caracterizacion_masas_agua.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/caracterizacion-masas-agua/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/ciclo_planificacion_hidrologica.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/ciclo-planificacion-hidrologica/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/cuencas_hidrograficas.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/cuencas-hidrograficas/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/cumplimiento_V_VI.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/cumplimiento-v-vi/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/directiva_marco_agua_CE.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/directiva-marco-agua-ce/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/directiva_nitratos.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/directiva-nitratos/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/economia_medio_ambiente.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/economia-medio-ambiente/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/informe_red_control.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/informe-red-control/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/informe_V_VI.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/informe-v-vi/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/instruccion_planificacion.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/instruccion-planificacion/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/participacion_publica_DMA_8.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/participacion-publica-dma-8/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/participacion_publica_DMA.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/participacion-publica-dma/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/planifiacion_hidrologica.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/instruccion-planificacion-hidrologica-borrador-v10/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/procesos_planificacion.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/procesos-planificacion/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/reglamento_planificacion.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/reglamento-planificacion/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/reglamento.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/reglamento/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/riesgos_aguas_subterraneas.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/riesgos-aguas-subterraneas/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/trabajos_directiva_marco.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/trabajos-directiva-marco/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/planhidro/directiva/marco_agua/zonas_costeras.php",
+      "nueva": "/planificacion/directiva-marco-del-agua/documentos/zonas-costeras/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/pluviometros.php",
+      "nueva": "/agua-en-gran-canaria/pluviometros/",
+      "tablas": [
+        0,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/presas/archivo.php",
+      "nueva": "/agua-en-gran-canaria/presas/archivo-tecnico/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/presas/ubicacion_presas.php",
+      "nueva": "/agua-en-gran-canaria/presas/",
+      "tablas": [
+        3,
+        3
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/presas/volumenes.php",
+      "nueva": "/agua-en-gran-canaria/presas/volumenes/",
+      "tablas": [
+        0,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/presupuesto.php",
+      "nueva": "/transparencia/presupuestos/",
+      "tablas": [
+        8,
+        8
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/privacidad.php",
+      "nueva": "/privacidad/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/red_control.php",
+      "nueva": "/planificacion/red-de-control-2009/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/documento.php",
+      "nueva": "/servicios/descarga-de-documentos/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/enlaces.php",
+      "nueva": "/servicios/enlaces/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion.php",
+      "nueva": "/servicios/normativa/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/auxilio_obras.php",
+      "nueva": "/servicios/normativa/canarias/auxilio-obras/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/buenas_practicas.php",
+      "nueva": "/servicios/normativa/canarias/buenas-practicas/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/control_vertidos.php",
+      "nueva": "/servicios/normativa/canarias/control-vertidos/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/convenio_colaboracion.php",
+      "nueva": "/servicios/normativa/canarias/convenio-colaboracion/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/derogado.php",
+      "nueva": "/servicios/normativa/canarias/derogado/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/dominio_publico_hidraulico.php",
+      "nueva": "/servicios/normativa/canarias/dominio-publico-hidraulico/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/estructura_func.php",
+      "nueva": "/servicios/normativa/canarias/estructura-func/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/instalaciones_suministros.php",
+      "nueva": "/servicios/normativa/canarias/instalaciones-suministros/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/instrumentos.php",
+      "nueva": "/servicios/normativa/canarias/instrumentos/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/ley_aguas.php",
+      "nueva": "/servicios/normativa/canarias/ley-aguas/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/nitratos.php",
+      "nueva": "/servicios/normativa/canarias/nitratos/",
+      "tablas": [
+        2,
+        2
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/ordenanzas.php",
+      "nueva": "/servicios/normativa/canarias/ordenanzas/",
+      "tablas": [
+        3,
+        3
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/sancionador_aguas.php",
+      "nueva": "/servicios/normativa/canarias/sancionador-aguas/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/suelos_contaminados.php",
+      "nueva": "/servicios/normativa/canarias/suelos-contaminados/",
+      "tablas": [
+        2,
+        2
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/canarias/tramitacion.php",
+      "nueva": "/servicios/normativa/canarias/tramitacion/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/aguas_urbanas.php",
+      "nueva": "/servicios/normativa/espana/aguas-urbanas/",
+      "tablas": [
+        2,
+        2
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/calidad_aguas.php",
+      "nueva": "/servicios/normativa/espana/calidad-aguas/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/construccion_explotacion.php",
+      "nueva": "/servicios/normativa/espana/construccion-explotacion/",
+      "tablas": [
+        10,
+        10
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/contratacion_obras.php",
+      "nueva": "/servicios/normativa/espana/contratacion-obras/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/contratos_administraciones.php",
+      "nueva": "/servicios/normativa/espana/contratos-administraciones/",
+      "tablas": [
+        17,
+        17
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/contratos_sector_publico.php",
+      "nueva": "/servicios/normativa/espana/contratos-sector-publico/",
+      "tablas": [
+        5,
+        5
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/contratos.php",
+      "nueva": "/servicios/normativa/espana/contratos/",
+      "tablas": [
+        2,
+        2
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/criterios_sanitarios.php",
+      "nueva": "/servicios/normativa/espana/criterios-sanitarios/",
+      "tablas": [
+        16,
+        16
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/dominio_publico_nacional.php",
+      "nueva": "/servicios/normativa/espana/dominio-publico-nacional/",
+      "tablas": [
+        10,
+        10
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/evaluacion_gestion.php",
+      "nueva": "/servicios/normativa/espana/evaluacion-gestion/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/ley_aguas.php",
+      "nueva": "/servicios/normativa/espana/ley-aguas/",
+      "tablas": [
+        2,
+        2
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/modificacion_reglamento.php",
+      "nueva": "/servicios/normativa/espana/modificacion-reglamento/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/nitratos.php",
+      "nueva": "/servicios/normativa/espana/nitratos/",
+      "tablas": [
+        2,
+        2
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/planificacion_civil.php",
+      "nueva": "/servicios/normativa/espana/planificacion-civil/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/proteccion_aguas_subterraneas.php",
+      "nueva": "/servicios/normativa/espana/proteccion-aguas-subterraneas/",
+      "tablas": [
+        2,
+        2
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/reglamento_administracion.php",
+      "nueva": "/servicios/normativa/espana/reglamento-administracion/",
+      "tablas": [
+        10,
+        10
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/responsabilidad.php",
+      "nueva": "/servicios/normativa/espana/responsabilidad/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/reutilizacion.php",
+      "nueva": "/servicios/normativa/espana/reutilizacion/",
+      "tablas": [
+        2,
+        2
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/sector_publico.php",
+      "nueva": "/servicios/normativa/espana/sector-publico/",
+      "tablas": [
+        2,
+        2
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/seguridad_presas.php",
+      "nueva": "/servicios/normativa/espana/seguridad-presas/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/tratamiento_aguas.php",
+      "nueva": "/servicios/normativa/espana/tratamiento-aguas/",
+      "tablas": [
+        4,
+        4
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/españa/valoracion_danos.php",
+      "nueva": "/servicios/normativa/espana/valoracion-danos/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/aguas_residuales.php",
+      "nueva": "/servicios/normativa/union-europea/aguas-residuales/",
+      "tablas": [
+        4,
+        4
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/directiva_inundaciones.php",
+      "nueva": "/servicios/normativa/union-europea/directiva-inundaciones/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/directiva_marco_agua.php",
+      "nueva": "/servicios/normativa/union-europea/directiva-marco-agua/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/directiva_nitratos.php",
+      "nueva": "/servicios/normativa/union-europea/directiva-nitratos/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/directiva_subterranea.php",
+      "nueva": "/servicios/normativa/union-europea/directiva-subterranea/",
+      "tablas": [
+        3,
+        3
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/legislacion/europa/sustancias_prioritarias.php",
+      "nueva": "/servicios/normativa/union-europea/sustancias-prioritarias/",
+      "tablas": [
+        1,
+        1
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/tarifa.php",
+      "nueva": "/servicios/tasas/",
+      "tablas": [
+        16,
+        16
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/servicios/tarifas.php",
+      "nueva": "/servicios/tarifas-canones-y-precios-publicos/",
+      "tablas": [
+        15,
+        15
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/subvenciones.php",
+      "nueva": "/fondos-europeos/subvenciones-al-sobrecoste/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    },
+    {
+      "ruta": "/transparencia.php",
+      "nueva": "/transparencia/",
+      "tablas": [
+        0,
+        0
+      ],
+      "videos": [
+        0,
+        0
+      ],
+      "imagenesFaltan": []
+    }
+  ],
+  "rotos": [],
+  "docs": []
+}

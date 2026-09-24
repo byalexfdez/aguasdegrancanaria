@@ -1,0 +1,67 @@
+---
+// Listado filtrable de normativa (ámbito, categoría, estado y texto).
+import Icono from '../Icono.astro';
+import normativa from '../../data/normativa.json';
+const { entrada } = Astro.props;
+const fijo = entrada.data.ambito as string | undefined;
+const normas = (normativa as any[]).filter((n) => !fijo || n.ambito === fijo).sort((a, b) => (a.ambito ?? '').localeCompare(b.ambito ?? '') || (a.titulo_en_listado ?? a.titulo ?? '').localeCompare(b.titulo_en_listado ?? b.titulo ?? '', 'es'));
+const ambitos = [...new Set((normativa as any[]).map((n) => n.ambito))];
+const categorias = [...new Set(normas.map((n) => n.categoria).filter(Boolean))].sort();
+const sinTildes = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+const URL_AMBITO: Record<string, string> = { Canarias: '/servicios/normativa/canarias/', 'España': '/servicios/normativa/espana/', 'Unión Europea': '/servicios/normativa/union-europea/' };
+---
+{!fijo && (
+  <ul class="grid gap-4 sm:grid-cols-3 mb-8">
+    {ambitos.map((a) => (
+      <li><a href={URL_AMBITO[a]} class="tarjeta tarjeta-enlace flex items-center justify-between gap-3 p-5 no-underline text-texto"><span class="font-display text-lg font-bold">{a}</span><span class="chip">{(normativa as any[]).filter((n) => n.ambito === a).length} normas</span></a></li>
+    ))}
+  </ul>
+)}
+<form class="tarjeta p-4 grid gap-3 md:grid-cols-[1.6fr_1fr_1fr] items-end" id="filtro-normativa" aria-label="Filtrar normativa">
+  <label class="grid gap-1 text-sm font-semibold">Buscar por título, número o descripción
+    <input type="search" name="q" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal" placeholder="Ej.: Ley de Aguas, 86/2002, nitratos…" />
+  </label>
+  <label class="grid gap-1 text-sm font-semibold">Categoría
+    <select name="c" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal"><option value="">Todas</option>{categorias.map((c) => <option>{c}</option>)}</select>
+  </label>
+  <label class="grid gap-1 text-sm font-semibold">Estado
+    <select name="e" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal"><option value="">Todos</option><option value="derogada">Derogada (total o parcialmente)</option><option value="sin">Sin indicación de derogación</option></select>
+  </label>
+</form>
+<p class="mt-4 text-sm text-texto-suave" role="status" aria-live="polite" id="normativa-cuenta">{normas.length} normas</p>
+<ul class="mt-4 grid gap-3" id="normativa-lista">
+  {normas.map((n) => (
+    <li data-q={sinTildes([n.titulo, n.titulo_en_listado, n.descripcion, n.numero_derivado, n.codigo].filter(Boolean).join(' '))} data-c={n.categoria ?? ''} data-e={n.estado ? 'derogada' : 'sin'}>
+      <a href={n.url} class="tarjeta tarjeta-enlace group grid gap-2 p-5 no-underline text-texto md:grid-cols-[1fr_auto] md:items-center">
+        <span>
+          <span class="flex flex-wrap gap-2 text-xs">
+            {!fijo && <span class="chip">{n.ambito}</span>}
+            {n.categoria && <span class="chip">{n.categoria}</span>}
+            {n.estado && <span class="chip !bg-alerta-100 !text-alerta-700">{n.estado === 'derogada' ? 'Derogada' : 'Derogada parcialmente'}</span>}
+          </span>
+          <span class="mt-2 block font-display font-bold leading-snug text-atlantico-900 dark:text-white group-hover:text-marca-700">{n.titulo ?? n.titulo_en_listado}</span>
+          {n.descripcion && <span class="mt-1 block text-sm text-texto-suave line-clamp-2">{n.descripcion}</span>}
+        </span>
+        <Icono nombre="flecha" clase="hidden md:block text-marca-700 transition-transform group-hover:translate-x-1" />
+      </a>
+    </li>
+  ))}
+</ul>
+{entrada.body?.trim() && (
+  <details class="mt-12 tarjeta p-5">
+    <summary class="cursor-pointer font-display font-bold">Listado original de la página de normativa</summary>
+    <div class="prosa mt-4"><slot /></div>
+  </details>
+)}
+<script>
+  const f = document.getElementById('filtro-normativa') as HTMLFormElement;
+  const items = [...document.querySelectorAll<HTMLElement>('#normativa-lista > li')];
+  const cuenta = document.getElementById('normativa-cuenta')!;
+  const st = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  f?.addEventListener('input', () => {
+    const d = new FormData(f); const q = st(String(d.get('q') ?? '').trim()); const c = d.get('c'); const e = d.get('e');
+    let n = 0;
+    for (const li of items) { const ok = (!q || li.dataset.q!.includes(q)) && (!c || li.dataset.c === c) && (!e || li.dataset.e === e); li.hidden = !ok; if (ok) n++; }
+    cuenta.textContent = `${n} ${n === 1 ? 'norma' : 'normas'}`;
+  });
+</script>

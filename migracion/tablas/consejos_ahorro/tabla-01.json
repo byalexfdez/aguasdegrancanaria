@@ -1,0 +1,108 @@
+{
+  "fuente": "/consejos_ahorro.php",
+  "indice": 1,
+  "titulo": "EN EL BAÑO Y EN LA COCINA · ¿Qué hacer?, ¿Cuánto ahorraríamos?",
+  "columnas": 3,
+  "cabeceras": [],
+  "filas": [
+    [
+      "",
+      "Instala economizadores en grifos y duchas, así podrás ahorrar\nmás de 30 litros al día por persona.",
+      ""
+    ],
+    [
+      "Dúchate en lugar de bañarte, y corta el agua mientras\nte enjabonas. Así podrás ahorrar un mínimo de 30\nlitros cada vez que te duchas.",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Regula la boya de tu inodoro, o instala un sistema de ahorro de agua.\nSi dispones de pulsador, puedes cortar o disminuir la salida de agua,\nahorrando entre 4 y 9 litros por descarga.",
+      ""
+    ],
+    [
+      "Cierra el grifo al cepillarte los dientes o al afeitarte, puedes\nestar derrochando casi 20 litros cada vez.",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Tira el papel higiénico, compresas y demás a la papelera,\nno al inodoro, así ahorrarás más agua.",
+      ""
+    ],
+    [
+      "Repara las goteras que puedas tener en los grifos, piensa que si\npierdes una gota por segundo, derrochas más de 30 litros\nal día.",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Cierra el grifo cuando estés enjabonando la loza, y usa\nsólo el agua necesaria para quitar el jabón. Puedes\nahorrarte hasta 10 litros.",
+      ""
+    ],
+    [
+      "Llena un recipiente para lavar la verdura y aprovecha el agua\npara regar tus plantas. Con esto te ahorras casi 10 litros.",
+      "",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 2,
+      "columna": 0,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-01.svg",
+      "imagen": true
+    },
+    {
+      "fila": 3,
+      "columna": 2,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-02.svg",
+      "imagen": true
+    },
+    {
+      "fila": 4,
+      "columna": 0,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-03.svg",
+      "imagen": true
+    },
+    {
+      "fila": 5,
+      "columna": 2,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-04.svg",
+      "imagen": true
+    },
+    {
+      "fila": 6,
+      "columna": 0,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-05.svg",
+      "imagen": true
+    },
+    {
+      "fila": 7,
+      "columna": 2,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-06.svg",
+      "imagen": true
+    },
+    {
+      "fila": 8,
+      "columna": 0,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-07.svg",
+      "imagen": true
+    },
+    {
+      "fila": 9,
+      "columna": 2,
+      "texto": "",
+      "url": "/imagenes/svg/consejos_ahorro-08.svg",
+      "imagen": true
+    }
+  ]
+}

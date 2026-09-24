@@ -1,0 +1,27 @@
+{
+  "fuente": "/servicios/tarifa.php",
+  "indice": 5,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "",
+      "",
+      "EUROS"
+    ]
+  ],
+  "filas": [
+    [
+      "1.",
+      "Inscripción para pruebas de selección de personal\nconvocadas por este Organismo",
+      "20.00"
+    ],
+    [
+      "2.",
+      "Certificación de asistencia o participación en\npruebas de acceso de selección de personal\nconvocadas por este Organismo.",
+      "6.10"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

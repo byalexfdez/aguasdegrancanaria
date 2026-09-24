@@ -1,0 +1,39 @@
+---
+// Juntas y sesiones: pestañas por órgano y agrupación por año (datos de la colección "juntas").
+import juntas from '../../data/juntas.json';
+import { peso } from '../../lib/formato';
+import VistaPrevia from '../VistaPrevia.astro';
+const { entrada } = Astro.props;
+const organos = [...new Set(juntas.map((j: any) => j.organo).filter(Boolean))] as string[];
+const porAnio = (org: string) => {
+  const m = new Map<string, any[]>();
+  for (const j of juntas.filter((x: any) => x.organo === org)) { const a = j.fecha?.slice(0, 4) ?? 'Sin fecha'; (m.get(a) ?? m.set(a, []).get(a)!).push(j); }
+  return [...m.entries()];
+};
+const PLURAL: Record<string, string> = { 'Junta de Gobierno': 'Juntas de Gobierno', 'Junta General': 'Juntas Generales' };
+const id = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z]+/g, '-');
+---
+<div data-pestanas>
+  <div role="tablist" aria-label="Órgano colegiado" class="inline-flex gap-1 rounded-full bg-superficie-2 p-1">
+    {organos.map((o, i) => <button type="button" role="tab" id={`tab-${id(o)}`} aria-controls={`panel-${id(o)}`} aria-selected={i === 0 ? 'true' : 'false'} tabindex={i === 0 ? 0 : -1} class="rounded-full px-5 py-2 font-semibold aria-selected:bg-marca-700 aria-selected:text-white">{PLURAL[o] ?? o}</button>)}
+  </div>
+  {organos.map((o, i) => (
+    <section id={`panel-${id(o)}`} role="tabpanel" aria-labelledby={`tab-${id(o)}`} hidden={i !== 0} tabindex="0" class="mt-8">
+      <h2 class="sr-only">{o}</h2>
+      <div class="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
+        {porAnio(o).map(([anio, lista]) => (
+          <div class="tarjeta p-5">
+            <h3 class="font-display text-2xl font-bold text-marca-700 dark:text-marca-300">{anio}</h3>
+            <ul class="mt-3 grid gap-1.5">
+              {lista.map((j: any) => <li class="flex flex-wrap items-center gap-2"><a href={j.documento.url} class="doc-link" data-formato={j.documento.formato}>{j.fecha_texto} <span class="doc-meta">{peso(j.documento.bytes)}</span></a><VistaPrevia src={j.documento.url} titulo={`${o} · ${j.fecha_texto}`} /></li>)}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </section>
+  ))}
+</div>
+<details class="mt-12 tarjeta p-5">
+  <summary class="cursor-pointer font-display font-bold">Texto original de la página</summary>
+  <div class="prosa mt-4"><slot /></div>
+</details>

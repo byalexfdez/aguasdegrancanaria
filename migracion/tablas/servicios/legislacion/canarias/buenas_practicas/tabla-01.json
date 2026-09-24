@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/canarias/buenas_practicas.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación Creada el 19/11/2001",
+      "Título",
+      "Código de Buenas Prácticas Agrarias de la Comunidad Autónoma de Canarias.",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Orden de 11 de febrero de 2000, por la que se aprueba el Código de Buenas Prácticas Agrarias de la Comunidad Autónoma de Canarias.",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "Agric",
+      "",
+      "Norma",
+      "Canarias",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

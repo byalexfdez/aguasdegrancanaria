@@ -1,0 +1,56 @@
+{
+  "fuente": "/convenio.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Encomiendas de Gestión",
+      ""
+    ],
+    [
+      "Convenio Gobierno de Canarias (Consejería de Política Territorial)\n- Proyecto PERTE de digitalización del ciclo del agua -",
+      ""
+    ],
+    [
+      "Convenio de cooperación educativa con la Universidad de Las Palmas de Gran Canaria",
+      ""
+    ],
+    [
+      "Subcontrataciones: NO",
+      ""
+    ],
+    [
+      "Modificaciones: NO",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2024-encomiendas.xlsx"
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2024-encomiendas.ods"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2024-convenio_perte_boc.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/2024_convenioulpgcfirmado.pdf"
+    }
+  ]
+}

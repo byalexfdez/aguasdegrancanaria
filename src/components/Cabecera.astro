@@ -1,0 +1,155 @@
+---
+import Icono from './Icono.astro';
+import { menuPrincipal, utilidades, visibles, contiene, esExterno } from '../lib/navegacion';
+import portada from '../data/portada.json';
+
+interface Props { url: string }
+const { url } = Astro.props;
+const redes = portada.redes as { red: string; url: string }[];
+const iconoRed: Record<string, string> = { Instagram: 'instagram', Facebook: 'facebook', X: 'x' };
+const activo = (secs: any[]) => secs.some((s) => contiene(s, url));
+---
+<a href="#contenido" class="saltar-contenido">Saltar al contenido</a>
+
+<div class="bg-atlantico-950 text-white/90 text-[.82rem]">
+  <div class="contenedor flex items-center justify-between gap-4 h-10">
+    <p class="hidden md:block font-display font-semibold tracking-wide text-white/80 truncate">Consejo Insular de Aguas de Gran Canaria</p>
+    <nav aria-label="Accesos directos" class="relative flex min-w-0 items-center gap-1 sm:gap-3 ml-auto overflow-x-auto [scrollbar-width:none]">
+      <ul class="flex items-center gap-1 sm:gap-4 whitespace-nowrap">
+        {utilidades.map((u) => (
+          <li>
+            <a href={u.url} class="text-white/90 hover:text-white no-underline hover:underline px-1 py-1 inline-flex items-center gap-1" {...(esExterno(u.url) ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>
+              {u.titulo}{esExterno(u.url) && <><Icono nombre="externo" tam={12} clase="opacity-70" /><span class="sr-only"> (abre en una ventana nueva)</span></>}
+            </a>
+          </li>
+        ))}
+      </ul>
+      <span class="hidden sm:block w-px h-4 bg-white/25" aria-hidden="true"></span>
+      <ul class="hidden sm:flex items-center gap-1" aria-label="Redes sociales">
+        {redes.map((r) => (
+          <li><a href={r.url} target="_blank" rel="noopener noreferrer" class="grid place-items-center size-8 rounded-full text-white/85 hover:text-white hover:bg-white/10" aria-label={`${r.red} (abre en una ventana nueva)`}><Icono nombre={iconoRed[r.red] ?? 'externo'} tam={16} /></a></li>
+        ))}
+      </ul>
+      <button type="button" data-cambiar-tema class="grid place-items-center size-8 rounded-full text-white/85 hover:text-white hover:bg-white/10" aria-label="Cambiar entre modo claro y oscuro" aria-pressed="false">
+        <Icono nombre="luna" tam={16} clase="icono-luna" /><Icono nombre="sol" tam={16} clase="icono-sol hidden" />
+      </button>
+    </nav>
+  </div>
+</div>
+
+<header class="cabecera sticky top-0 z-50 border-b border-borde bg-superficie/95 backdrop-blur supports-[backdrop-filter]:bg-superficie/85">
+  <div class="contenedor flex items-center gap-4 h-[4.5rem] lg:h-20">
+    <a href="/" class="shrink-0 rounded-lg no-underline" aria-label="Consejo Insular de Aguas de Gran Canaria · Ir al inicio">
+      <picture><source srcset="/imagenes/img/logo11-300.webp" type="image/webp" /><img src="/imagenes/img/logo11.jpg" alt="Consejo Insular de Aguas de Gran Canaria" width="600" height="200" class="h-12 lg:h-14 w-auto dark:bg-white dark:rounded-lg dark:px-1" /></picture>
+    </a>
+
+    <nav aria-label="Menú principal" class="hidden xl:block ml-auto" id="nav-principal">
+      <ul class="flex items-center gap-0.5">
+        {menuPrincipal.map((m, i) => (
+          <li class="static">
+            <button type="button" class:list={['boton-menu inline-flex items-center gap-1 px-3 py-2 rounded-full font-semibold text-[.95rem] text-texto hover:bg-superficie-2 aria-expanded:bg-marca-50 aria-expanded:text-marca-800 dark:aria-expanded:bg-marca-900 dark:aria-expanded:text-white', activo(m.secciones) && 'text-marca-700 dark:text-marca-300']} aria-expanded="false" aria-controls={`mega-${i}`} data-mega-boton>
+              {m.titulo}<Icono nombre="abajo" tam={16} clase="transition-transform duration-300 [[aria-expanded=true]>&]:rotate-180" />
+            </button>
+            <div id={`mega-${i}`} class="mega absolute inset-x-0 top-full border-b border-borde bg-superficie shadow-[var(--shadow-elevada)]" hidden data-mega-panel>
+              <div class="contenedor py-8 grid gap-10" style={`grid-template-columns: repeat(${m.secciones.length}, minmax(0, 1fr))`}>
+                {m.secciones.map((s) => (
+                  <div>
+                    <a href={s.url} class="group inline-flex items-center gap-2 font-display text-xl font-bold text-atlantico-900 dark:text-white no-underline hover:text-marca-700">
+                      {s.titulo}<Icono nombre="flecha" tam={18} clase="transition-transform group-hover:translate-x-1" />
+                    </a>
+                    {s.entradilla && <p class="mt-1 text-sm text-texto-suave max-w-prose">{s.entradilla}</p>}
+                    <ul class="mt-5 grid gap-x-8 gap-y-1" style={`grid-template-columns: repeat(${m.secciones.length > 1 ? 1 : 2}, minmax(0, 1fr))`}>
+                      {visibles(s).map((h) => (
+                        <li>
+                          <a href={h.url} class:list={['flex items-center gap-2 rounded-lg px-2 py-1.5 -mx-2 no-underline text-texto hover:bg-superficie-2 hover:text-marca-700', contiene(h, url) && 'font-bold text-marca-700']} aria-current={h.url === url ? 'page' : undefined} {...(h.externo ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>
+                            <span class="size-1.5 rounded-full bg-turquesa-500 shrink-0" aria-hidden="true"></span>{h.titulo}{h.externo && <><Icono nombre="externo" tam={13} clase="opacity-60" /><span class="sr-only"> (abre en una ventana nueva)</span></>}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </li>
+        ))}
+      </ul>
+    </nav>
+
+    <div class="flex items-center gap-2 ml-auto xl:ml-2">
+      <a href="/buscar/" class="grid place-items-center size-11 rounded-full bg-marca-50 text-marca-800 hover:bg-marca-100 dark:bg-marca-900 dark:text-white" aria-label="Buscar en la web"><Icono nombre="buscar" tam={20} /></a>
+      <button type="button" class="xl:hidden grid place-items-center size-11 rounded-full bg-atlantico-900 text-white" aria-expanded="false" aria-controls="menu-movil" data-menu-movil aria-label="Abrir menú">
+        <Icono nombre="menu" tam={22} clase="icono-abrir" /><Icono nombre="cerrar" tam={22} clase="icono-cerrar hidden" />
+      </button>
+    </div>
+  </div>
+
+  <nav id="menu-movil" aria-label="Menú principal" class="xl:hidden border-t border-borde bg-superficie max-h-[calc(100dvh-7rem)] overflow-y-auto" hidden>
+    <div class="contenedor py-4">
+      {menuPrincipal.map((m) => (
+        <details class="border-b border-borde group" open={activo(m.secciones)}>
+          <summary class="flex items-center justify-between py-3.5 font-display font-bold text-lg cursor-pointer list-none">{m.titulo}<Icono nombre="abajo" tam={20} clase="transition-transform group-open:rotate-180" /></summary>
+          <div class="pb-4 grid gap-4">
+            {m.secciones.map((s) => (
+              <div>
+                <a href={s.url} class="font-semibold">{s.titulo}</a>
+                <ul class="mt-1 grid">
+                  {visibles(s).map((h) => <li><a href={h.url} class="block py-2 pl-3 border-l-2 border-borde text-texto no-underline hover:border-marca-500" aria-current={h.url === url ? 'page' : undefined}>{h.titulo}</a></li>)}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </details>
+      ))}
+    </div>
+  </nav>
+</header>
+
+<script>
+  const cerrarTodos = (excepto?: Element) => {
+    document.querySelectorAll<HTMLButtonElement>('[data-mega-boton]').forEach((b) => {
+      if (b === excepto) return;
+      b.setAttribute('aria-expanded', 'false');
+      document.getElementById(b.getAttribute('aria-controls')!)?.setAttribute('hidden', '');
+    });
+  };
+  document.querySelectorAll<HTMLButtonElement>('[data-mega-boton]').forEach((b) => {
+    const panel = document.getElementById(b.getAttribute('aria-controls')!)!;
+    b.addEventListener('click', () => {
+      const abrir = b.getAttribute('aria-expanded') !== 'true';
+      cerrarTodos(b);
+      b.setAttribute('aria-expanded', String(abrir));
+      panel.toggleAttribute('hidden', !abrir);
+    });
+    panel.addEventListener('keydown', (e) => { if (e.key === 'Escape') { cerrarTodos(); b.focus(); } });
+    b.addEventListener('keydown', (e) => { if (e.key === 'Escape') cerrarTodos(); });
+  });
+  document.addEventListener('click', (e) => { if (!(e.target as Element).closest('#nav-principal')) cerrarTodos(); });
+  document.addEventListener('focusin', (e) => { if (!(e.target as Element).closest('#nav-principal')) cerrarTodos(); });
+
+  const bm = document.querySelector<HTMLButtonElement>('[data-menu-movil]');
+  const mm = document.getElementById('menu-movil');
+  bm?.addEventListener('click', () => {
+    const abrir = bm.getAttribute('aria-expanded') !== 'true';
+    bm.setAttribute('aria-expanded', String(abrir));
+    bm.setAttribute('aria-label', abrir ? 'Cerrar menú' : 'Abrir menú');
+    mm?.toggleAttribute('hidden', !abrir);
+    bm.querySelector('.icono-abrir')?.classList.toggle('hidden', abrir);
+    bm.querySelector('.icono-cerrar')?.classList.toggle('hidden', !abrir);
+  });
+
+  const bt = document.querySelector<HTMLButtonElement>('[data-cambiar-tema]');
+  const pintar = () => {
+    const oscuro = document.documentElement.dataset.tema === 'oscuro';
+    bt?.setAttribute('aria-pressed', String(oscuro));
+    bt?.querySelector('.icono-luna')?.classList.toggle('hidden', oscuro);
+    bt?.querySelector('.icono-sol')?.classList.toggle('hidden', !oscuro);
+  };
+  pintar();
+  bt?.addEventListener('click', () => {
+    const nuevo = document.documentElement.dataset.tema === 'oscuro' ? 'claro' : 'oscuro';
+    document.documentElement.dataset.tema = nuevo;
+    try { localStorage.setItem('tema', nuevo); } catch { /* sin almacenamiento */ }
+    pintar();
+  });
+</script>

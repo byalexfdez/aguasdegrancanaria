@@ -1,0 +1,53 @@
+---
+// Centro de documentos: todos los documentos descargables con búsqueda y filtros (sección, formato, año).
+import documentos from '../../data/documentos.json';
+import { secciones, porUrl } from '../../lib/navegacion';
+import { peso, NOMBRE_FORMATO } from '../../lib/formato';
+import VistaPrevia from '../VistaPrevia.astro';
+const docs = (documentos as any[]).map((d) => ({ ...d, pagina: d.paginas[0] ? porUrl.get(d.paginas[0]) : null }));
+const formatos = [...new Set(docs.map((d) => d.formato))].sort();
+const anios = [...new Set(docs.map((d) => d.anio).filter(Boolean))].sort((a, b) => b - a);
+const secs = secciones.filter((s) => docs.some((d) => d.seccion === s.id));
+const st = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+---
+<form class="tarjeta p-4 grid gap-3 md:grid-cols-[1.6fr_1fr_1fr_1fr] items-end" id="filtro-docs" aria-label="Filtrar documentos">
+  <label class="grid gap-1 text-sm font-semibold">Buscar
+    <input type="search" name="q" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal" placeholder="Título o nombre del archivo" />
+  </label>
+  <label class="grid gap-1 text-sm font-semibold">Sección
+    <select name="s" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal"><option value="">Todas</option>{secs.map((s) => <option value={s.id}>{s.titulo}</option>)}</select>
+  </label>
+  <label class="grid gap-1 text-sm font-semibold">Formato
+    <select name="f" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal"><option value="">Todos</option>{formatos.map((f) => <option value={f}>{NOMBRE_FORMATO[f] ?? f.toUpperCase()}</option>)}</select>
+  </label>
+  <label class="grid gap-1 text-sm font-semibold">Año
+    <select name="a" class="rounded-xl border border-borde bg-superficie px-3 py-2 font-normal"><option value="">Todos</option>{anios.map((a) => <option>{a}</option>)}</select>
+  </label>
+</form>
+<p class="mt-4 text-sm text-texto-suave" role="status" aria-live="polite" id="docs-cuenta">{docs.length} documentos</p>
+<div class="tabla-contenedor" tabindex="0" role="region" aria-label="Listado de documentos">
+  <table>
+    <thead><tr><th scope="col">Documento</th><th scope="col">Página</th><th scope="col">Formato</th><th scope="col" class="num">Tamaño</th></tr></thead>
+    <tbody id="docs-lista">
+      {docs.map((d) => (
+        <tr data-q={st(`${d.titulo} ${d.antigua}`)} data-s={d.seccion ?? ''} data-f={d.formato} data-a={d.anio ?? ''}>
+          <td><a href={d.url} class="font-semibold">{d.titulo}</a> <VistaPrevia src={d.url} titulo={d.titulo} /></td>
+          <td class="text-sm">{d.pagina ? <a href={d.pagina.url} class="text-texto-suave">{d.pagina.titulo}</a> : '—'}</td>
+          <td><span class="chip">{d.formato.toUpperCase()}</span></td>
+          <td class="num text-sm">{peso(d.bytes)}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>
+<script>
+  const f = document.getElementById('filtro-docs') as HTMLFormElement;
+  const filas = [...document.querySelectorAll<HTMLElement>('#docs-lista > tr')];
+  const c = document.getElementById('docs-cuenta')!;
+  const st = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  f?.addEventListener('input', () => {
+    const d = new FormData(f); const q = st(String(d.get('q') ?? '').trim()); const s = d.get('s'), fo = d.get('f'), a = d.get('a');
+    let n = 0; for (const tr of filas) { const ok = (!q || tr.dataset.q!.includes(q)) && (!s || tr.dataset.s === s) && (!fo || tr.dataset.f === fo) && (!a || tr.dataset.a === a); tr.hidden = !ok; if (ok) n++; }
+    c.textContent = `${n} documentos`;
+  });
+</script>

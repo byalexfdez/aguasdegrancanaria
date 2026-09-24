@@ -1,0 +1,62 @@
+{
+  "fuente": "/servicios/legislacion/españa/contratos_administraciones.php",
+  "indice": 6,
+  "titulo": null,
+  "columnas": 8,
+  "cabeceras": [
+    [
+      "Años de experiencia",
+      ">",
+      "-",
+      "2",
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    [
+      "",
+      "£",
+      "2",
+      "5",
+      "10",
+      "15",
+      "20",
+      "-"
+    ]
+  ],
+  "filas": [
+    [
+      "Importe de obra ejecutada\nen el ultimo quinquenio",
+      ">",
+      "-",
+      "1.500.000",
+      "4.500.000",
+      "7.500.000",
+      "10.500.000",
+      "13.500.000"
+    ],
+    [
+      "",
+      "£",
+      "1.500.000",
+      "4.500.000",
+      "7.500.000",
+      "10.500.000",
+      "13.500.000",
+      "-"
+    ],
+    [
+      "E=",
+      "",
+      "0",
+      "0,2",
+      "0,4",
+      "0,6",
+      "0,8",
+      "1"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

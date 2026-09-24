@@ -1,0 +1,5208 @@
+---
+titulo: "Reglamento del Dominio Público Hidráulico (Nacional). RD 849/86, de 11 de abril, por el qu"
+titulo_html: null
+ruta_antigua: "/servicios/legislacion/españa/dominio_publico_nacional.php"
+url_antigua: "https://www.aguasgrancanaria.com/servicios/legislacion/espa%C3%B1a/dominio_publico_nacional.php"
+seccion: "Servicios › Normativa"
+origen: "inventario"
+ultima_actualizacion: null
+ultima_actualizacion_texto: null
+encabezados: 
+  - nivel: 4
+    texto: "Contenido:"
+documentos: []
+imagenes: 
+  - url_antigua: "https://www.aguasgrancanaria.com/img/logociagc_cian_peq_agua_clara.gif"
+    ruta_nueva: "/imagenes/img/logociagc_cian_peq_agua_clara.gif"
+    alt: null
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/icons/ecblank.gif"
+    ruta_nueva: null
+    alt: ""
+    enlazada: false
+videos: []
+iframes: []
+enlaces_externos: 
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm"
+    texto: "R.D. 9/2008"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_1.htm"
+    texto: "artículo 1.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_1.htm"
+    texto: "Art. 1.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_1.htm"
+    texto: "Art. 1.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_1.htm"
+    texto: "Art. 1.4"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_2.htm"
+    texto: "Art. 2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_3.htm"
+    texto: "Art. 3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_4.htm"
+    texto: "artículo 4"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_5.htm"
+    texto: "Art. 5"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_92.htm"
+    texto: "artículo 92"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo6.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_6.htm"
+    texto: "artículo 6.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_7.htm"
+    texto: "Art. 7"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_8.htm"
+    texto: "Art.8"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_9.htm"
+    texto: "Art. 9"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_10.htm"
+    texto: "Art. 10"
+  - url: "http://www.carreteros.org/legislaciona/m_a/acceso/ley.htm"
+    texto: "Ley 27/2006"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm"
+    texto: "artículo 54.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_12.htm"
+    texto: "Art. 12"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_47.htm"
+    texto: "artículo 47"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_48.htm"
+    texto: "artículo 48.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_48.htm"
+    texto: "artículo 48.4"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_48.htm"
+    texto: "artículo 48.5"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_48.htm"
+    texto: "artículo 48.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo275.htm"
+    texto: "capítulo V del título III"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_49.htm"
+    texto: "artículo 49"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_48.htm"
+    texto: "artículo 48.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_50.htm"
+    texto: "artículo 50.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_50.htm"
+    texto: "artículo 50.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_50.htm"
+    texto: "artículo 50.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_50.htm"
+    texto: "artículo 50.4"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo50.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_51.htm"
+    texto: "artículo 51"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1771_94.htm"
+    texto: "R.D. 1771/94"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_17.htm"
+    texto: "artículo 17, d)"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_112.htm"
+    texto: "artículo 112"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm"
+    texto: "52"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo53.htm"
+    texto: "53"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo54.htm"
+    texto: "54"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo56.htm"
+    texto: "artículo 56"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_78.htm"
+    texto: "artículo 78"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm"
+    texto: "artículo 52"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_77.htm"
+    texto: "artículo 77"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo71.htm"
+    texto: "artículo 71"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo55.htm"
+    texto: "55"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo66.htm"
+    texto: "66"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo50.htm"
+    texto: "capítulo"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo9.htm"
+    texto: "artículo 9º"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_52.htm"
+    texto: "artículo 52"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm"
+    texto: "artículo 54.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo84.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo84.htm"
+    texto: "artículo 84"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo85.htm"
+    texto: "artículo 85"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_66.htm"
+    texto: "artículo 66"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm"
+    texto: "artículo 53"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo163.htm"
+    texto: "163"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo169.htm"
+    texto: "169"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_55.htm"
+    texto: "artículo 55"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo156.htm"
+    texto: "artículo 156"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm"
+    texto: "artículo 54"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm"
+    texto: "artículo 59.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_79.htm"
+    texto: "artículo 79.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_24.htm"
+    texto: "artículo 24, a"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_79.htm"
+    texto: "artículo 79"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_60.htm"
+    texto: "artículo 60.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo94.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo102.htm"
+    texto: "artículo 102"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm"
+    texto: "artículo 59.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm"
+    texto: "artículo 59.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_65.htm"
+    texto: "artículo 65"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm"
+    texto: "artículo 59.4"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo93.htm"
+    texto: "artículo 93"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm"
+    texto: "artículo 59.5"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_60.htm"
+    texto: "artículo 60"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo100.htm"
+    texto: "artículo siguiente"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_61.htm"
+    texto: "artículo 61"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm"
+    texto: "artículo 53.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_62.htm"
+    texto: "artículo 62"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm"
+    texto: "R.D. 606/03"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_63.htm"
+    texto: "artículo 63"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo104.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo105.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo16.htm"
+    texto: "capítulo I del título II"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_55.htm"
+    texto: "artículo 55.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo113.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm"
+    texto: "53"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_55.htm"
+    texto: "55"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_58.htm"
+    texto: "58"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_64.htm"
+    texto: "64"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_65.htm"
+    texto: "65"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_66.htm"
+    texto: "66"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_17.htm"
+    texto: "artículo 17, c)"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo104.htm"
+    texto: "104"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo113.htm"
+    texto: "113"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo108.htm"
+    texto: "artículo 108"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo96.htm"
+    texto: "artículo 96"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo98.htm"
+    texto: "artículo 98"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo104.htm"
+    texto: "artículo 104"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_89.htm"
+    texto: "artículo 89"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo123.htm"
+    texto: "artículo 123"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo123.htm"
+    texto: "123"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo124.htm"
+    texto: "124"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo108.htm"
+    texto: "108"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo118.htm"
+    texto: "118"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo110.htm"
+    texto: "artículo 110"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo122.htm"
+    texto: "sección"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo110.htm"
+    texto: "110"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo128.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo129.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo123.htm"
+    texto: "artículo 123.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo109.htm"
+    texto: "109"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo129.htm"
+    texto: "artículo 129"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo134.htm"
+    texto: "artículo 134"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo115.htm"
+    texto: "artículo 115"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo75.htm"
+    texto: "75.5"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo145.htm"
+    texto: "145"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo146.htm"
+    texto: "146"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_62.htm"
+    texto: "artículo 62.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo89.htm"
+    texto: "artículo 89.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_64.htm"
+    texto: "artículo 64"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo148.htm"
+    texto: "148"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo103.htm"
+    texto: "artículo 103"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo189.htm"
+    texto: "sección 12.ª de este capítulo"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo145.htm"
+    texto: "artículo 145"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo146.htm"
+    texto: "artículo 146.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo147.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/dtrs.htm"
+    texto: "disposición transitoria primera"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo150.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo128.htm"
+    texto: "artículo 128"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm"
+    texto: "artículo 59.6"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo116.htm"
+    texto: "artículo 116"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm"
+    texto: "artículo siguiente"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo140.htm"
+    texto: "artículo 140"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo140.htm"
+    texto: "140"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo142.htm"
+    texto: "142"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo163.htm"
+    texto: "artículo 163"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm"
+    texto: "artículo 162"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo168.htm"
+    texto: "artículo 168"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_60.htm"
+    texto: "artículo 60.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm"
+    texto: "162"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo168.htm"
+    texto: "168"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_116.htm"
+    texto: "artículo 116, c)"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo166.htm"
+    texto: "166"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo167.htm"
+    texto: "167"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm"
+    texto: "artículo 53.1 b)"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm"
+    texto: "artículo 53.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm"
+    texto: "artículo 53.4"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_87.htm"
+    texto: "artículo 87.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_56.htm"
+    texto: "artículo 56.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_87.htm"
+    texto: "artículo 87"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_56.htm"
+    texto: "artículo 56.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_56.htm"
+    texto: "artículo 56.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_57.htm"
+    texto: "artículo 57.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_57.htm"
+    texto: "artículo 57.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_57.htm"
+    texto: "artículo 57.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo171.htm"
+    texto: "sección 11"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_73.htm"
+    texto: "artículo 73"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_74.htm"
+    texto: "artículo 74.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo105.htm"
+    texto: "105"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_74.htm"
+    texto: "artículo 74.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_74.htm"
+    texto: "artículo 74.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_76.htm"
+    texto: "artículo 76"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_75.htm"
+    texto: "artículo 75"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo130.htm"
+    texto: "130"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo130.htm"
+    texto: "artículo 130"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_56.htm"
+    texto: "artículo 56"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_80.htm"
+    texto: "artículo 80.4"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_80.htm"
+    texto: "artículo 80.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_81.htm"
+    texto: "artículo 81.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_86.htm"
+    texto: "artículo 86"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_82.htm"
+    texto: "artículo 82.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_82.htm"
+    texto: "artículo 82.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/anexoii.htm"
+    texto: "anexa a este título"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_81.htm"
+    texto: "artículo 81.5"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_81.htm"
+    texto: "artículo 81.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_81.htm"
+    texto: "artículo 81.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_81.htm"
+    texto: "artículo 81.4"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_82.htm"
+    texto: "artículo 82.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_82.htm"
+    texto: "artículo 82.4"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_83.htm"
+    texto: "artículo 83.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_83.htm"
+    texto: "artículo 83.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_83.htm"
+    texto: "artículo 83.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_83.htm"
+    texto: "artículo 83.4"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_85.htm"
+    texto: "artículo 85"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_84.htm"
+    texto: "artículo 84.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_84.htm"
+    texto: "artículo 84.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_84.htm"
+    texto: "artículo 84.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_84.htm"
+    texto: "artículo 84.6"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_84.htm"
+    texto: "artículo 84.5"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_88.htm"
+    texto: "artículo 88"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_87.htm"
+    texto: "87"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_88.htm"
+    texto: "88"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_82.htm"
+    texto: "artículo 82"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_90.htm"
+    texto: "artículo 90"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_91.htm"
+    texto: "artículo 91"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_93.htm"
+    texto: "artículo 93"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1315_92.htm"
+    texto: "R.D. 1315/92"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_100.htm"
+    texto: "artículo 100"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_97.htm"
+    texto: "artículo 97.b)"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_97.htm"
+    texto: "artículo 97"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_94.htm"
+    texto: "artículo 94"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_95.htm"
+    texto: "artículo 95"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_98.htm"
+    texto: "artículo 98"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo237.htm"
+    texto: "artículo 237"
+  - url: "http://www.carreteros.org/legislacionb/costas/reglamento/articulos/dts.htm"
+    texto: "disposición transitoria decimoctava"
+  - url: "http://www.carreteros.org/legislacionb/costas/reglamento/articulos/rd.htm"
+    texto: "Real Decreto 1471/89"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_95.htm"
+    texto: "artículo 95.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_9.htm"
+    texto: "artículo 9"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_96.htm"
+    texto: "artículo 96"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_99.htm"
+    texto: "artículo 99"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/otros/s18_10_06.htm"
+    texto: "SENTENCIA DEL TRIBUNAL SUPREMO de 18-10-06"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_100.htm"
+    texto: "artículo 100.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/anexoii.htm"
+    texto: "anexo II"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/otros/sp.htm"
+    texto: "sustancias peligrosas"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo246.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo247.htm"
+    texto: "artículo 247.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo249.htm"
+    texto: "artículo 248.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/otros/nca.htm"
+    texto: "normas de calidad ambiental"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo256.htm"
+    texto: "artículo 256"
+  - url: "http://www.carreteros.org/legislacionb/aguas/residuales/rd/indice.htm"
+    texto: "Real Decreto 509/96"
+  - url: "http://www.carreteros.org/legislacionb/aguas/residuales/indice.htm"
+    texto: "Real Decreto Ley 11/95"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_113.htm"
+    texto: "artículo 113"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo259.htm"
+    texto: "artículo 259"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo263.htm"
+    texto: "artículo 263"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo247.htm"
+    texto: "247"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_116.htm"
+    texto: "artículo 116.g)"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_90.htm"
+    texto: "90"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo194.htm"
+    texto: "194"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo195.htm"
+    texto: "195"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_101.htm"
+    texto: "artículo 101.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/anexoiii.htm"
+    texto: "anexo III"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd907_07.htm"
+    texto: "R.D. 907/07"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo245.htm"
+    texto: "245"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo257.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo246.htm"
+    texto: "artículo 246"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo251.htm"
+    texto: "artículo 251"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_103.htm"
+    texto: "artículo 103"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_104.htm"
+    texto: "artículo 104"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo261.htm"
+    texto: "artículo 261"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_105.htm"
+    texto: "artículo 105"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo263.htm"
+    texto: "artículo 263.2.a)"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo263.htm"
+    texto: "artículo 263.2.b)"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_107.htm"
+    texto: "artículo 107"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_108.htm"
+    texto: "artículo 108"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_108.htm"
+    texto: "artículo 108.c)"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo266.htm"
+    texto: "artículo 266"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1620_07.htm"
+    texto: "R.D. 1620/07"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_110.htm"
+    texto: "artículo 110"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_111.htm"
+    texto: "artículo 111.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_111.htm"
+    texto: "artículo 111.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo276.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_111.htm"
+    texto: "artículo 111.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo50.htm"
+    texto: "capítulo II del título II"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo278.htm"
+    texto: "artículo 278"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_111.htm"
+    texto: "artículo 111.4"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_111.htm"
+    texto: "artículo 111.5"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo276.htm"
+    texto: "artículo 276.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo280.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo276.htm"
+    texto: "artículo 276"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_111.htm"
+    texto: "artículo 111.6"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_112.htm"
+    texto: "artículo 112.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_112.htm"
+    texto: "artículo 112.2, 3, 4 y 5"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_112.htm"
+    texto: "artículo 112.6"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_2.htm"
+    texto: "artículo 2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_113.htm"
+    texto: "artículo 113.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_113.htm"
+    texto: "artículo 113.7"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_113.htm"
+    texto: "artículo 113.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/anexoiv.htm"
+    texto: "anexo IV"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo291.htm"
+    texto: "artículo 291"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo292.htm"
+    texto: "artículo 292"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_114.htm"
+    texto: "artículo 114"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_114.htm"
+    texto: "artículo 114.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo300.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_114.htm"
+    texto: "artículo 114.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo305.htm"
+    texto: "artículo 305"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo307.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo311.htm"
+    texto: "artículo 311"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_115.htm"
+    texto: "artículo 115.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_116.htm"
+    texto: "116"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_117.htm"
+    texto: "117"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd419_93.htm"
+    texto: "R.D. 419/93"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/otros/refundido/res21_11_01.htm"
+    texto: "resolución de 21 de noviembre de 2001"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_116.htm"
+    texto: "artículo 116 g)"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/otros/refundido/ley42_94.htm"
+    texto: "LEY 42/94"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo318.htm"
+    texto: "artículo 318.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo315.htm"
+    texto: "artículo 315"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo316.htm"
+    texto: "artículo 316"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_117.htm"
+    texto: "artículo 117.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_117.htm"
+    texto: "artículo 117.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_117.htm"
+    texto: "artículo 117.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_118.htm"
+    texto: "artículo 118.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_118.htm"
+    texto: "artículo 118.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_119.htm"
+    texto: "artículo 119"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo328.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo328.htm"
+    texto: "artículo 328"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_120.htm"
+    texto: "artículo 120"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_121.htm"
+    texto: "artículo 121"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_67.htm"
+    texto: "artículo 67.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_67.htm"
+    texto: "67.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm"
+    texto: "artículo 59.5."
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo346.htm"
+    texto: "artículo 346"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_81.htm"
+    texto: "artículo 81"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo343.htm"
+    texto: "artículo 343.1."
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo344.htm"
+    texto: "artículo 344.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_68.htm"
+    texto: "artículo 68.3"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo347.htm"
+    texto: "artículo 347.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo349.htm"
+    texto: "artículo 349"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo347.htm"
+    texto: "artículo 347"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_70.htm"
+    texto: "artículo 70"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo245.htm"
+    texto: "artículos 245"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo262.htm"
+    texto: "artículo 262"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_71.htm"
+    texto: "artículo 71"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_56.htm"
+    texto: "56"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm"
+    texto: "R.D. 9/08"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo358.htm"
+    texto: "artículo 358.a)."
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo358.htm"
+    texto: "artículo 358.b)"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo367.htm"
+    texto: "artículo 367.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo364.htm"
+    texto: "artículo 364"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_132.htm"
+    texto: "artículo 132.2"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_124.htm"
+    texto: "artículo 124.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_125.htm"
+    texto: "artículo 125.1"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo366.htm"
+    texto: "artículo anterior"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo356.htm"
+    texto: "artículo 356"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo201.htm"
+    texto: "artículo 201"
+  - url: "http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo171.htm"
+    texto: "artículo 171"
+enlaces_internos: []
+emails: []
+telefonos: []
+tablas: 
+  - archivo: "tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-01.json"
+    titulo: null
+    filas: 4
+    columnas: 5
+  - archivo: "tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-02.json"
+    titulo: null
+    filas: 20
+    columnas: 2
+  - archivo: "tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-03.json"
+    titulo: null
+    filas: 18
+    columnas: 3
+  - archivo: "tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-04.json"
+    titulo: null
+    filas: 254
+    columnas: 4
+  - archivo: "tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-05.json"
+    titulo: null
+    filas: 24
+    columnas: 4
+  - archivo: "tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-06.json"
+    titulo: null
+    filas: 14
+    columnas: 2
+  - archivo: "tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-07.json"
+    titulo: null
+    filas: 22
+    columnas: 2
+  - archivo: "tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-08.json"
+    titulo: null
+    filas: 44
+    columnas: 2
+  - archivo: "tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-09.json"
+    titulo: null
+    filas: 4
+    columnas: 2
+  - archivo: "tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-10.json"
+    titulo: null
+    filas: 0
+    columnas: 3
+referencias_rotas: 
+  - url: "https://www.aguasgrancanaria.com/icons/ecblank.gif"
+    bruto: "/icons/ecblank.gif"
+    texto: ""
+    estado: 404
+  - url: "https://www.aguasgrancanaria.com/icons/ecblank.gif"
+    bruto: "/icons/ecblank.gif"
+    texto: ""
+    estado: 404
+  - url: "https://www.aguasgrancanaria.com/icons/ecblank.gif"
+    bruto: "/icons/ecblank.gif"
+    texto: ""
+    estado: 404
+  - url: "https://www.aguasgrancanaria.com/icons/ecblank.gif"
+    bruto: "/icons/ecblank.gif"
+    texto: ""
+    estado: 404
+contenido_oculto_en_origen: []
+---
+
+<!-- tabla 01: tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-01.json -->
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Legislación Creada el 18/11/2009 | Título | Reglamento del Dominio Público Hidráulico (Nacional) |  |  |
+|  | Descripción | RD 849/86, de 11 de abril, por el que se aprueba el Reglamento del DPH que desarrolla los títulos preliminar, I, IV, V, VI Y VII DE LA LEY 29/85, de 2 de agosto, de Aguas |  |  |
+|  | Código | Aprobado | Categoría | Ámbito |
+|  | Agua DPH |  | Real Decreto | España |
+
+#### Contenido:
+
+![](https://www.aguasgrancanaria.com/icons/ecblank.gif)
+
+**REAL DECRETO 849/86, de 11 de abril, POR EL QUE SE APRUEBA EL REGLAMENTO DEL DOMINIO PUBLICO HIDRAULICO QUE DESARROLLA LOS TITULOS PRELIMINAR, I, IV, V, VI Y VII DE LA LEY 29/85, de 2 de agosto, DE AGUAS**
+
+La Ley 29/85, de 2 de agosto, de aguas, vigente desde el día 1 de enero de 1986, autoriza al gobierno en su disposición final segunda para dictar, a propuesta del Ministerio de Obras Públicas y Urbanismo, las disposiciones reglamentarias necesarias para su cumplimiento.
+
+El desarrollo reglamentario previsto en el texto legal no se presenta, sin embargo, con un carácter uniforme de necesidad y urgencia para todos sus capítulos, dado que dicho texto resulta lo suficientemente explícito en algunos de sus conceptos para permitir su aplicación directa y, por otra parte, las disposiciones transitorias contenidas en la propia Ley ofrecen un suficiente grado de previsión que permite a su vez elaborar sin tanta premura las disposiciones reglamentarias correspondientes.
+
+Por el contrario, las materias reguladas en los títulos preliminar, I, IV, V, VI y VII, que se refieren a la definición del dominio publico hidráulico y a su utilización y protección, incluidos los regímenes de policía y económico-financiero del mismo, reclaman un inmediato desarrollo a nivel reglamentario que permita, en coordinación con lo dispuesto en el Real Decreto 2473/85, de 27 de diciembre, relativo a la tabla de vigencias en materia de derecho de aguas, aprobado de conformidad con lo dispuesto en la disposición derogatoria tercera de la Ley 29/85, la aplicación de esta Ley, que ha de conformar de manera progresiva el nuevo orden hidráulico deseado por el legislador.
+
+En su virtud, de acuerdo con el Consejo de Estado, a propuesta del Ministro de Obras Publicas y Urbanismo y previa deliberación del Consejo de Ministros en su reunión del día 11 de abril de 1986,
+
+DISPONGO:
+
+**Artículo 1.º**
+
+Se aprueba, como anexo al presente Real Decreto, el Reglamento del Dominio Publico Hidráulico, que desarrolla los títulos preliminar, I, IV, V, VI y VII de la Ley 29/85, de 2 de agosto, de aguas, Reglamento que entrará en vigor en el momento de su publicación en el Boletín Oficial del Estado.
+
+**Art. 2.º**
+
+A la entrada en vigor del Reglamento del dominio publico hidráulico quedaran derogadas las disposiciones contenidas en el apartado segundo del anexo del Real Decreto 2473/85, de 27 de diciembre, por el que se aprueba la tabla de vigencias a que se refiere el apartado 3 de la disposición derogatoria de la Ley 29/85, de 2 de agosto, de conformidad con lo dispuesto en el citado Real Decreto.
+
+Dado en Madrid a 11 de abril de 1986.
+
+Juan Carlos R.
+
+El ministro de Obras Publicas y Urbanismo,  
+Javier Saenz de Cosculluela
+
+**REGLAMENTO DEL DOMINIO PUBLICO HIDRAULICO QUE DESARROLLA LOS TITULOS PRELIMINAR, I, IV, V, VI, VII Y VIII DEL TEXTO REFUNDIDO DE LA LEY DE AGUAS, APROBADO POR EL REAL DECRETO LEGISLATIVO 1/2001, de 20 de julio**
+
+  
+(Título redactado de conformidad con el [R.D. 9/2008](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+  
+**TITULO PRELIMINAR**  
+**Artículo 1.º**
+
+1\. Es objeto del presente Reglamento el desarrollo de los títulos Preliminar, I, IV, V, VI y VII de la Ley de Aguas, en el marco definido en el [artículo 1.1](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_1.htm) de dicha Ley.
+
+2\. Las aguas continentales superficiales, así como las subterráneas renovables, integradas todas ellas en el ciclo hidrológico, constituyen un recurso unitario, subordinado al interés general, que forma parte del dominio publico estatal como dominio publico hidráulico ([Art. 1.2](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_1.htm) de la LA).
+
+3\. Corresponde al Estado, en los términos que se establece en la Ley de Aguas y en este Reglamento, la planificación hidrológica a la que deberá someterse toda actuación sobre el dominio publico hidráulico ([Art. 1.3](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_1.htm) de la LA)
+
+4\. Las aguas minerales y termales se regularan por su legislación especifica ([Art. 1.4](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_1.htm) de la LA). En el expediente para su calificación como tales se habrá de oír al Ministerio de Obras Publicas y Urbanismo a los efectos de su exclusión del ámbito de la Ley de Aguas, si procediere.
+
+**TITULO PRIMERO. DEL DOMINIO PUBLICO DEL ESTADO**  
+**CAPITULO PRIMERO. DE LOS BIENES QUE LO INTEGRAN**  
+**Art. 2.**
+
+Constituyen el dominio publico hidráulico del Estado, con las salvedades expresamente establecidas en la Ley:
+
+-   a) las aguas continentales, tanto las superficiales como las subterráneas con independencia del tiempo de renovación.
+-   b) los cauces de corrientes naturales, continuas o discontinuas.
+-   c) los lechos de los lagos y lagunas y los de los embalses superficiales en cauces públicos.
+-   d) los acuíferos subterráneos, a los efectos de los actos de disposición o de afección de los recursos hidráulicos ([Art. 2](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_2.htm) de la LA).
+
+**Art. 3.**
+
+1\. La fase atmosférica del ciclo hidrológico solo podrá ser modificada artificialmente por la Administración del Estado o por aquellos a quienes esta autorice ([Art. 3](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_3.htm) de la LA).
+
+Toda actuación publica o privada tendente a modificar el régimen de lluvias deberá ser aprobada previamente por el Ministerio de Obras Públicas y Urbanismo, a propuesta del Organismo de cuenca.
+
+2\. A tal efecto, el Organismo de cuenca, a la vista del proyecto presentado por el solicitante, del conocimiento que exista sobre la materia y de los posibles efectos negativos sobre las precipitaciones en otras áreas, previo informe del Instituto Nacional de Meteorología, elevará propuesta al Ministerio de Obras Públicas y Urbanismo.
+
+3\. Cuando la modificación de la fase atmosférica del ciclo hidrológico tenga por finalidad evitar precipitaciones en forma de granizo o pedrisco, la autorización se otorgara por el Organismo de cuenca por un plazo de doce meses, renovables por periodos idénticos.
+
+En la instancia se indicara el alcance de la pretensión y los medios previstos para conseguirla. El Organismo de cuenca, previos los asesoramientos que estime oportunos, otorgará la autorización con carácter discrecional, pudiendo revocarla en cualquier momento si se produjesen resultados no deseados.
+
+4\. Cuando los procedimientos empleados a los efectos de este artículo impliquen la utilización de productos o formas de energía con propiedades potencialmente adversas para la salud, se requerirá el informe favorable de la Administración Sanitaria para el otorgamiento de la autorización.
+
+**CAPITULO II. DE LOS CAUCES, RIBERAS Y MARGENES**  
+**Art. 4.**
+
+*1\. Álveo o cauce natural de una corriente continua o discontinua es el terreno cubierto por las aguas en las máximas crecidas ordinarias (*[*artículo 4*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_4.htm) *del texto refundido de la Ley de Aguas). La determinación de ese terreno se realizará atendiendo a sus características geomorfológicas, ecológicas y teniendo en cuenta las informaciones hidrológicas, hidráulicas, fotográficas y cartográficas que existan, así como las referencias históricas disponibles.*
+
+*2\. Se considerará como caudal de la máxima crecida ordinaria la media de los máximos caudales anuales, en su régimen natural producidos durante diez años consecutivos, que sean representativos del comportamiento hidráulico de la corriente y que tengan en cuenta lo establecido en el apartado 1.*
+
+(Artículo redactado de conformidad con el [R.D. 9/2008](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+**Art. 5.**
+
+1\. Son de dominio privado los cauces por los que ocasionalmente discurran aguas pluviales, en tanto atraviesen, desde su origen, únicamente fincas de dominio particular.
+
+2\. El dominio privado de estos cauces no autoriza hacer en ellos labores ni construir obras que puedan hacer variar el curso natural de las aguas en perjuicio del interés publico o de tercero, o cuya destrucción por la fuerza de las avenidas pueda ocasionar daños a personas o cosas ([Art. 5](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_5.htm) de la LA).
+
+**Art. 6.**
+
+*1\. Se entiende por riberas las fajas laterales de los cauces públicos situadas por encima del nivel de aguas bajas y por márgenes los terrenos que lindan con los cauces.*
+
+*2\. La protección del dominio público hidráulico tiene como objetivos fundamentales los enumerados en el* [*artículo 92*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_92.htm) *del texto refundido de la Ley de Aguas. Sin perjuicio de las técnicas específicas dedicadas al cumplimiento de dichos objetivos, las márgenes de los terrenos que lindan con dichos cauces están sujetas en toda su extensión longitudinal:*
+
+-   *a) A una zona de servidumbre de cinco metros de anchura para uso público, que se regula en este reglamento.*
+-   *b) A una zona de policía de cien metros de anchura, en la que se condicionará el uso del suelo y las actividades que en él se desarrollen.*
+
+*3\. La regulación de dichas zonas tiene como finalidad la consecución de los objetivos de preservar el estado del dominio público hidráulico, prevenir el deterioro de los ecosistemas acuáticos, contribuyendo a su mejora, y proteger el régimen de las corrientes en avenidas, favoreciendo la función de los terrenos colindantes con los cauces en la laminación de caudales y carga sólida transportada.*
+
+*4\. En las zonas próximas a la desembocadura en el mar, en el entorno inmediato de los embalses o cuando las condiciones topográficas o hidrográficas de los cauces y márgenes lo hagan necesario para la seguridad de personas y bienes, podrá modificarse la anchura de dichas zonas en la forma que se determina en este Reglamento.*
+
+(Artículo redactado de conformidad con el [R.D. 9/2008](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+**Art. 7.**
+
+*1\. La zona de servidumbre para uso público definida en el* [*artículo anterior*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo6.htm) *tendrá los fines siguientes:*
+
+-   *a) Protección del ecosistema fluvial y del dominio público hidráulico.*
+-   *b) Paso público peatonal y para el desarrollo de los servicios de vigilancia, conservación y salvamento, salvo que por razones ambientales o de seguridad el organismo de cuenca considere conveniente su limitación.*
+-   *c) Varado y amarre de embarcaciones de forma ocasional y en caso de necesidad.*
+
+*2\. Los propietarios de estas zonas de servidumbre podrán libremente sembrar y plantar especies no arbóreas, siempre que no deterioren el ecosistema fluvial o impidan el paso señalado en el apartado anterior.*
+
+*Las talas o plantaciones de especies arbóreas requerirán autorización del organismo de cuenca.*
+
+*3\. Con carácter general no se podrá realizar ningún tipo de construcción en esta zona salvo que resulte conveniente o necesaria para el uso del dominio público hidráulico o para su conservación y restauración. Solo podrán autorizarse edificaciones en zona de servidumbre en casos muy justificados.*
+
+*Las edificaciones que se autoricen se ejecutarán en las condiciones menos desfavorables para la propia servidumbre y con la mínima ocupación de la misma, tanto en su suelo como en su vuelo. Deberá garantizarse la efectividad de la servidumbre, procurando su continuidad o su ubicación alternativa y la comunicación entre las áreas de su trazado que queden limitadas o cercenadas por aquélla.*
+
+(Artículo redactado de conformidad con el [R.D. 9/2008](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+**Art. 8.**
+
+Por razones topográficas, hidrográficas, o si lo exigieran las características de la concesión de un aprovechamiento hidráulico, podrá modificarse la zona de servidumbre. La modificación se hará por causas justificadas de exigencia del uso publico, previa la tramitación de un expediente en el que se oirá al propietario del terreno y, en su caso, al titular de la concesión, determinándose la correspondiente indemnización de acuerdo con la legislación de expropiación forzosa, si procediera.
+
+**Art. 9.**
+
+*1\. En la zona de policía de 100 metros de anchura medidos horizontalmente a partir del cauce quedan sometidos a lo dispuesto en este Reglamento las siguientes actividades y usos del suelo:*
+
+-   *a) Las alteraciones sustanciales del relieve natural del terreno.*
+-   *b) Las extracciones de áridos.*
+-   *c) Las construcciones de todo tipo, tengan carácter definitivo o provisional.*
+-   *d) Cualquier otro uso o actividad que suponga un obstáculo para la corriente en régimen de avenidas o que pueda ser causa de degradación o deterioro del estado de la masa de agua, del ecosistema acuático, y en general, del dominio público hidráulico.*
+
+*2\. Sin perjuicio de la modificación de los límites de la zona de policía, cuando concurra alguna de las causas señaladas en el* [*artículo 6.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_6.htm) *del Texto Refundido de la Ley de Aguas, la zona de policía podrá ampliarse, si ello fuese necesario, para incluir la zona o zonas donde se concentra preferentemente el flujo, al objeto específico de proteger el régimen de corrientes en avenidas, y reducir el riesgo de producción de daños en personas y bienes. En estas zonas o vías de flujo preferente sólo podrán ser autorizadas por el organismo de cuenca aquellas actividades no vulnerables frente a las avenidas y que no supongan una reducción significativa de la capacidad de desagüe de dicha vía.*
+
+*La zona de flujo preferente es aquella zona constituida por la unión de la zona o zonas donde se concentra preferentemente el flujo durante las avenidas, o vía de intenso desagüe, y de la zona donde, para la avenida de 100 años de periodo de retorno, se puedan producir graves daños sobre las personas y los bienes, quedando delimitado su límite exterior mediante la envolvente de ambas zonas.*
+
+*A los efectos de la aplicación de la definición anterior, se considerará que pueden producirse graves daños sobre las personas y los bienes cuando las condiciones hidráulicas durante la avenida satisfagan uno o más de los siguientes criterios:*
+
+-   *a) Que el calado sea superior a 1 m.*
+-   *b) Que la velocidad sea superior a 1 m/s.*
+-   *c) Que el producto de ambas variables sea superior a 0,5 m**<sup><font size="4">2</font></sup>**/s.*
+
+*Se entiende por vía de intenso desagüe la zona por la que pasaría la avenida de 100 años de periodo de retorno sin producir una sobreelevación mayor que 0,3 m, respecto a la cota de la lámina de agua que se produciría con esa misma avenida considerando toda la llanura de inundación existente. La sobreelevación anterior podrá, a criterio del organismo de cuenca, reducirse hasta 0,1 m cuando el incremento de la inundación pueda producir graves perjuicios o aumentarse hasta 0,5 m en zonas rurales o cuando el incremento de la inundación produzca daños reducidos.*
+
+*En la delimitación de la zona de flujo preferente se empleará toda la información de índole histórica y geomorfológica existente, a fin de garantizar la adecuada coherencia de los resultados con las evidencias físicas disponibles sobre el comportamiento hidráulico del río.*
+
+*3\. La modificación de los límites de la zona de policía, cuando concurra alguna de las causas señaladas en el apartado 2 del presente artículo, solo podrá ser promovida por la Administración General del Estado, autonómica o local.*
+
+*La competencia para acordar la modificación corresponderá al organismo de cuenca, debiendo instruir al efecto el oportuno expediente en el que deberá practicarse el trámite de información pública y el de audiencia a los ayuntamientos y comunidades autónomas en cuyo territorio se encuentren los terrenos gravados y a los propietarios afectados. La resolución deberá ser motivada y publicada, al menos, en el Boletín Oficial de las provincias afectadas.*
+
+*4\. La ejecución de cualquier obra o trabajo en la zona de policía de cauces precisará autorización administrativa previa del organismo de cuenca, sin perjuicio de los supuestos especiales regulados en este Reglamento. Dicha autorización será independiente de cualquier otra que haya de ser otorgada por los distintos órganos de las Administraciones públicas.*
+
+(Artículo redactado de conformidad con el [R.D. 9/2008](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+**Art. 10.**
+
+1\. Podrán realizarse en caso de urgencia trabajos de protección de carácter provisional en las márgenes de los cauces. Serán responsables de los eventuales daños que pudieran derivarse de dichas obras los propietarios que las hayan construido ([Art. 7](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_7.htm) de la LA).
+
+2\. La realización de los citados trabajos en la zona de policía deberá ser puesta en conocimiento del Organismo de cuenca en el plazo de un mes, al objeto de que este, a la vista de los mismos y de las circunstancias que los motivaron, pueda resolver sobre su legalización o demolición.
+
+**Art. 11.**
+
+Las situaciones jurídicas derivadas de las modificaciones naturales de los cauces se regirán por lo dispuesto en la legislación civil. En cuanto a las modificaciones que se originen por las obras legalmente autorizadas, se estará a lo establecido en la concesión o autorización correspondiente ([Art.8](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_8.htm) de la LA).
+
+**CAPITULO III. DE LOS LAGOS, LAGUNAS, EMBALSES Y TERRENOS INUNDABLES**  
+**Art. 12.**
+
+1\. Lecho o fondo de los lagos o lagunas es el terreno que ocupan sus aguas en las épocas en que alcanzan su mayor nivel ordinario.
+
+2\. Lecho o fondo de un embalse superficial es el terreno cubierto por las aguas cuando estas alcanzan su mayor nivel a consecuencia de las máximas crecidas ordinarias de los ríos que lo alimentan ([Art. 9](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_9.htm) de la LA).
+
+**Art. 13.**
+
+Las charcas situadas en predios de propiedad privada se consideraran como parte integrante de los mismos, siempre que se destinen al servicio exclusivo de tales predios ([Art. 10](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_10.htm) de la LA).
+
+**Art. 14.**
+
+*1\. Se consideran zonas inundables las delimitadas por los niveles teóricos que alcanzarían las aguas en las avenidas cuyo período estadístico de retorno sea de quinientos años, atendiendo a estudios geomorfológicos, hidrológicos e hidráulicos, así como de series de avenidas históricas y documentos o evidencias históricas de las mismas, a menos que el Ministerio de Medio Ambiente, a propuesta del organismo de cuenca fije, en expediente concreto, la delimitación que en cada caso resulte más adecuada al comportamiento de la corriente.*
+
+*La calificación como zonas inundables no alterará la calificación jurídica y la titularidad dominical que dichos terrenos tuviesen.*
+
+*2\. Los organismos de cuenca darán traslado a las Administraciones competentes en materia de ordenación del territorio y urbanismo de los datos y estudios disponibles sobre avenidas, al objeto de que se tengan en cuenta en la planificación del suelo, y en particular, en las autorizaciones de usos que se acuerden en las zonas inundables.*
+
+*De igual manera los organismos de cuenca trasladarán al Catastro inmobiliario así como a las Administraciones competentes en materia de ordenación del territorio y urbanismo los deslindes aprobados definitivamente, o las delimitaciones de los mismos basadas en los estudios realizados, así como de las zonas de servidumbre y policía, al objeto de que sean incorporados en el catastro y tenidos en cuenta en el ejercicio de sus potestades sobre ordenación del territorio y planificación urbanística, o en la ejecución del planeamiento ya aprobado.*
+
+*3\. El conjunto de estudios de inundabilidad realizados por el Ministerio de Medio Ambiente y sus organismos de cuenca configurarán el Sistema Nacional de Cartografía de Zonas Inundables, que deberá desarrollarse en colaboración con las correspondientes comunidades autónoma, y, en su caso, con las administraciones locales afectadas. En esta cartografía, además de la zona inundable, se incluirá de forma preceptiva la delimitación de los cauces públicos y de las zonas de servidumbre y policía, incluyendo las vías de flujo preferente.*
+
+*La información contenida en el Sistema Nacional de Cartografía de las Zonas Inundables estará a disposición de los órganos de la Administración estatal, autonómica y local.*
+
+*Se dará publicidad al Sistema Nacional de Cartografía de Zonas Inundables de conformidad con lo dispuesto en la* [*Ley 27/2006*](http://www.carreteros.org/legislaciona/m_a/acceso/ley.htm)*, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.*
+
+*4\. El Gobierno por real decreto, podrá establecer las limitaciones en el uso de las zonas inundables que estime necesarias para garantizar la seguridad de las personas y bienes. Las comunidades autónomas, y, en su caso, las administraciones locales, podrán establecer, además, normas complementarias de dicha regulación.*
+
+(Artículo redactado de conformidad con el [R.D. 9/2008](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+**CAPITULO IV. DE LOS ACUIFEROS SUBTERRANEOS**  
+**Art. 15.**
+
+1\. Se entiende por acuíferos, terrenos acuíferos o acuíferos subterráneos aquellas formaciones geológicas que contienen agua, o la han contenido y por las cuales el agua puede fluir.
+
+2\. El dominio publico de los acuíferos o formaciones geológicas por las que circulan aguas subterráneas, se entiende sin perjuicio de que el propietario del fundo pueda realizar cualquier obra que no tenga por finalidad la extracción o aprovechamiento del agua ni perturbe su régimen ni deteriore su calidad, con la salvedad prevista en el apartado 2 del artículo 52 de la Ley de Aguas (*se corresponde con el actual* [*artículo 54.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm) *del Texto Refundido de la Ley de Aguas*) ([Art. 12](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_12.htm) de la LA).
+
+**TITULO II. DE LA UTILIZACION DEL DOMINIO PUBLICO HIDRAULICO**  
+**CAPITULO PRIMERO. SERVIDUMBRES LEGALES**  
+**SECCION 1.ª DISPOSICION GENERAL**  
+**Art. 16.**
+
+1\. Los predios inferiores están sujetos a recibir las aguas que naturalmente y sin obra del hombre desciendan de los predios superiores, así como la tierra o piedra que arrastren en su curso. Ni el dueño del predio inferior puede hacer obras que impidan esta servidumbre, ni el del superior obras que la agraven.
+
+2\. Si las aguas fueran producto de alumbramiento, sobrantes de otros aprovechamientos, o se hubiese alterado de modo artificial su calidad espontanea, el dueño del predio inferior podrá oponerse a su recepción, con derecho a exigir resarcimiento de daños y perjuicios de no existir la correspondiente servidumbre (Art. 45 de la LA, *se corresponde con el actual* [*artículo 47*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_47.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 17.**
+
+1\. El expediente de constitución de servidumbre deberá reducir, en lo posible, el gravamen que la misma implique sobre el predio sirviente (Art.46.3 de la LA, *se corresponde con el actual* [*artículo 48.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_48.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. La variación de las circunstancias que dieron origen a la constitución de una servidumbre dará lugar, a instancia de parte, al correspondiente expediente de revisión, que seguirá los mismos tramites reglamentarios que los previstos en el de constitución (Art. 46.4 de la LA, *se corresponde con el actual* [*artículo 48.4*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_48.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. El beneficiario de una servidumbre forzosa deberá indemnizar los daños y perjuicios ocasionados al predio sirviente de conformidad con la legislación vigente (Art. 46.5 de la LA, *se corresponde con el actual* [*artículo 48.5*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_48.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**SECCION 2.ª SERVIDUMBRE DE ACUEDUCTO**  
+**Art. 18.**
+
+1\. Los Organismos de cuenca podrán imponer, con arreglo a lo dispuesto en el Código Civil y en este Reglamento, la servidumbre forzosa de acueducto, si el aprovechamiento del recurso o su evacuación lo exigiera (Art. 46.1 de la LA, *se corresponde con el actual* [*artículo 48.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_48.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. El derecho que asiste al titular de la concesión para conducir las aguas objeto de la misma a través de fundos ajenos será independiente de la finalidad o clase de la concesión y se regirá por lo dispuesto, para la servidumbre de acueducto, en la Ley de Aguas, en este Reglamento y, subsidiariamente, en el Código Civil.
+
+**Art. 19.**
+
+1\. Por la servidumbre de acueducto se otorga al propietario de una finca que quiera servirse del agua de que pueda disponer para la misma, o evacuar las sobrantes, el derecho a hacerla pasar por los predios intermedios, con obligación de indemnizar a sus dueños y a los de los predios inferiores sobre los que se filtren o caigan las aguas.
+
+2\. Servidumbre forzosa de acueducto podrá imponerse tanto por motivos de interés publico como de interés privado.
+
+3\. Se consideran motivos suficientes de interés privado los siguientes:
+
+-   a) Abastecimiento de viviendas y establecimiento o ampliación de riegos, aprovechamientos energéticos, balnearios o industrias, así como evacuación de las aguas sobrantes o residuales.
+-   b) Desecación de lagunas y terrenos pantanosos, siempre que se cumplan las previsiones contenidas en el [capítulo V del título III](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo275.htm) de este Reglamento.
+-   c) Evacuación de aguas procedentes de alumbramientos artificiales, de escorrentias y drenajes.
+
+**Art. 20.**
+
+1\. No puede imponerse la servidumbre forzosa de acueducto por motivos de interés privado en los supuestos contemplados en el artículo 559 del Código Civil. (*artículo 559 del Código Civil: "No puede imponerse la servidumbre de acueducto, para objeto de interés privado, sobre edificios, ni sus patios o dependencias, ni sobre jardines o huertas ya existentes"*)
+
+2\. Tampoco podrá constituirse la servidumbre forzosa de acueducto por dentro de otro acueducto preexistente, pero si el dueño de este lo consintiere y el dueño del predio sirviente se negare, se instruirá el oportuno expediente para obligar a este a avenirse al nuevo gravamen, previa indemnización, si se le ocupare mayor zona de terreno.
+
+**Art. 21.**
+
+Cuando un terreno de regadío que recibe el agua por un solo punto se divida por herencia, venta u otro título entre dos o mas dueños, estos quedan obligados a dar paso al agua de modo que puedan regarse todas las fincas resultantes de la división, sin poder exigir por ello indemnización, de no existir pacto en contrario.
+
+**Art. 22.**
+
+El dueño del terreno sobre el que se trate de imponer la servidumbre forzosa de acueducto podrá oponerse por alguna de las causas siguientes:
+
+-   a) Por no acreditar el que la solicite la disponibilidad del agua.
+-   b) Por no acreditar, además, la propiedad del terreno en que intente utilizarla, para objeto de interés privado, si la disponibilidad se deriva de título distinto al concesional, al amparo de los supuestos excepcionales previstos en la Ley de Aguas.
+-   c) Por poderse establecer sobre otros predios con iguales ventajas para el que pretende imponerla y menores inconvenientes para el que haya de sufrirla.
+
+Los expedientes que al respecto se tramiten exigirán la audiencia de los interesados.
+
+**Art. 23.**
+
+La servidumbre forzosa de acueducto se constituirá:
+
+-   a) Con acequia cubierta cuando lo exija su profundidad, su contigüidad a edificios o caminos o algún otro motivo análogo, o cuando lo estimare necesario la autoridad competente.
+-   b) Con acequia abierta, si así se solicitase y no estuviese incluida en los supuestos del apartado anterior.
+-   c) Con tubería o conducción impermeable cuando puedan ser absorbidas otras aguas, cuando las aguas conducidas puedan contaminar a otras o absorber sustancias nocivas, o causar daños a obras o edificios, y siempre que resulte necesario según el expediente que al efecto se instruya.
+
+**Art. 24.**
+
+Al establecerse la servidumbre forzosa de acueducto se señalara la anchura de los terrenos del predio sirviente que han de ser ocupados por la acequia o conducción y sus zonas de servicio.
+
+**Art. 25.**
+
+El establecimiento de la servidumbre forzosa de acueducto exigirá el previo abono de la indemnización que corresponda de acuerdo con lo dispuesto en la legislación de expropiación forzosa.
+
+**Art. 26.**
+
+Serán de cuenta del que haya promovido y obtenido la servidumbre de acueducto todas las obras necesarias para su construcción, conservación y limpieza. A tal efecto se le autorizara para ocupar temporalmente los terrenos indispensables para el deposito de materiales, previa la indemnización, o en el caso de no ser su extensión fácil de prever, o no conformarse con ella los interesados, previo el deposito de una fianza suficiente. Estos o la Administración podrán compelerle a ejecutar las obras y mondas necesarias para impedir estancamientos o filtraciones que originen deterioro de los bienes colindantes.
+
+**Art. 27.**
+
+Si el acueducto atravesase vías publicas o particulares, de cualquier naturaleza que sean, quedara obligado el titular de la servidumbre a constituir y conservar las alcantarillas y puentes necesarios, y si hubiese de atravesar otros acueductos, se procederá de modo que no retarde ni acelere el curso de las aguas, ni disminuya su caudal, ni adultere su calidad.
+
+**Art. 28.**
+
+El dueño de un acueducto podrá, en su caso, consolidar sus márgenes con céspedes, estacadas, paredes o ribazos de piedra suelta, pero no con plantaciones de ninguna clase. El dueño del predio sirviente tampoco podrá hacer plantaciones ni operación alguna de cultivo en las mismas márgenes, y las raíces que penetren en ellas podrán ser cortadas por el dueño del acueducto.
+
+**Art. 29.**
+
+La servidumbre de acueducto no obsta para que el dueño del predio sirviente pueda cerrarlo y cercarlo, así como edificar sobre el acueducto mismo de manera que éste no experimente perjuicio ni se imposibiliten las reparaciones y limpias necesarias, de acuerdo con lo prevenido en el artículo 560 del código civil. Asimismo, en idénticas condiciones podrán construirse puentes sobre el acueducto para atravesarlo. (*artículo 560 del Código Civil: "La servidumbre de acueducto no obsta para que el dueño del predio sirviente pueda cerrarlo y cercarlo, así como edificar sobre el mismo acueducto de manera que éste no experimente perjuicio, ni se imposibiliten las reparaciones y limpias necesarias"*)
+
+**Art. 30.**
+
+Nadie podrá derivar productos de ella ni de los de las márgenes, ni utilizar la fuerza de la corriente sin título administrativo suficiente.
+
+En las acequias pertenecientes a Comunidades de Usuarios se observará, en cuanto al aprovechamiento de las corrientes y de los cauces y márgenes, lo prescrito en la Ley de Aguas, en este Reglamento y en sus propias Ordenanzas.
+
+**Art. 31.**
+
+El dueño del predio dominante vendrá obligado a reponer las cosas a su antiguo estado una vez extinguida la servidumbre.
+
+**Art. 32.**
+
+Se entenderá implícito en la servidumbre forzosa de acueducto el derecho de paso por sus márgenes para el exclusivo servicio del mismo.
+
+**Art. 33.**
+
+La servidumbre de acueducto podrá extinguirse:
+
+-   a) Por consolidación, cuando se reúnan en una sola persona la propiedad de los predios dominante y sirviente.
+-   b) Por expiración del plazo fijado al otorgarla.
+-   c) Por expropiación forzosa.
+-   d) Por renuncia del titular del predio dominante.
+-   e) Por perdida del derecho a la disposición del agua.
+
+**Art. 34.**
+
+El uso de la servidumbre de acueducto por cualquiera de los cotitulares conserva el derecho para todos, impidiendo la prescripción por falta de uso, según lo establecido en el artículo 548 del código civil. (*artículo 548 del Código Civil: "Si el predio dominante perteneciera a varios en común, el uso de las servidumbre hecho por uno impide la prescripción respecto de los demás"*)
+
+**Art. 35.**
+
+Al establecimiento de la servidumbre de acueducto deberá preceder expediente administrativo justificativo de la utilidad del gravamen que se pretende imponer.
+
+**Art. 36.**
+
+El expediente se iniciara mediante escrito dirigido al presidente del Organismo de cuenca a que correspondan los terrenos sobre los que se intenta imponer la servidumbre. A la solicitud, que deberá reunir los requisitos previstos en el artículo 69 de la Ley de Procedimiento Administrativo, habrán de acompañar planos suscritos por técnico competente que definan la topografía del terreno y las obras, debiendo figurar en los mismos la situación del acueducto respecto a los predios que ha de atravesar y la longitud y anchura que ocupará en cada uno de ellos. Esta documentación será completada con una memoria explicativa.
+
+**Art. 37.**
+
+El Organismo de cuenca notificará a los propietarios afectados en el plazo de diez días la solicitud de establecimiento de servidumbre, concediéndoles otros quince para formular las alegaciones que estimen oportunas.
+
+**Art. 38.**
+
+Constituida la servidumbre de acueducto, el dueño del predio dominante podrá ejercer su derecho una vez abonado el importe de la correspondiente indemnización.
+
+En caso de falta de avenencia o disconformidad en cuanto al importe de la indemnización, ésta será fijada de acuerdo con lo dispuesto en la legislación de expropiación forzosa.
+
+**Art. 39.**
+
+Todos los gastos que ocasione la tramitación del expediente de servidumbre forzosa de acueducto serán de cuenta del peticionario, salvo los que se deriven, en el transcurso de la tramitación del expediente, de la oposición del dueño del predio sirviente al establecimiento del gravamen.
+
+**Art. 40.**
+
+En toda acequia o acueducto, el cauce, los cajeros y márgenes serán considerados como parte integrante de la heredad o edificio a que vayan a ser destinadas las aguas, o bien, cuando se trate de su evacuación, de los que procedieran (Art. 47 de la LA, *se corresponde con el actual* [*artículo 49*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_49.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**SECCION 3.ª: OTRAS SERVIDUMBRES**  
+**Art. 41.**
+
+Con arreglo a las normas del Código Civil y del presente Reglamento, los Organismos de cuenca podrán imponer las servidumbres de saca de agua y abrevadero, de estribo de presa y de parada o partidor, así como las de paso cuando se trate de garantizar el acceso o facilitar el mismo a la zona de dominio publico de los cauces, para usos determinados, incluyendo los deportivos y recreativos y, en general, cuantas servidumbres estén previstas en el código civil (Art. 46.2 de la LA, *se corresponde con el actual* [*artículo 48.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_48.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 42.**
+
+Las servidumbres forzosas de abrevadero y de saca de agua, solamente podrán imponerse por causa de utilidad publica, en favor de vivienda o núcleo de población, previa la correspondiente indemnización, de acuerdo con lo establecido en el artículo 555 del código civil. (*artículo 555 del Código Civil: "Las servidumbres forzosas de saca de agua y de abrevadero solamente podrán imponerse por causa de utilidad pública en favor de alguna población o caserío, previa la correspondiente indemnización."*)
+
+**Art. 43.**
+
+No se impondrán estas servidumbres sobre cisternas o aljibes ni edificios o terrenos cercados con pared.
+
+**Art. 44.**
+
+Las servidumbres de abrevadero y de saca de agua llevan consigo la obligación de los predios sirvientes de dar paso a personas y ganados hasta el punto donde hayan de utilizarse aquéllas, debiendo ser extensiva a este servicio la indemnización, según lo preceptuado en el artículo 556 del código civil. (*artículo 556 del Código Civil: "Las servidumbres de saca de agua y de abrevadero lleva consigo la obligación en los predios sirvientes de dar paso a persona y ganados hasta el punto donde hayan de utilizarse aquéllas, debiendo ser extensiva a este servicio la indemnización"*)
+
+**Art. 45.**
+
+Son aplicables a la imposición de esta clase de servidumbres las prescripciones establecidas para el otorgamiento de las de acueducto. Al concederlas se fijara, según su objeto y las circunstancias de la localidad, la anchura de la vía o senda que hayan de conducir al abrevadero o punto destinado para sacar agua.
+
+**Art. 46.**
+
+Los dueños de los predios sirvientes podrán variar la dirección de la vía o senda destinada al uso de estas servidumbres, pero no su anchura ni entrada y siempre que la variación no perjudique el uso de la servidumbre.
+
+**Art. 47.**
+
+1\. La servidumbre de paso para facilitar el acceso a las márgenes de los cauces públicos podrá imponerse por los Organismos de cuenca cuando de otro modo resultase imposible o particularmente difícil tal acceso.
+
+2\. La finalidad concreta de la servidumbre se justificará por quien pretenda establecerla en el expediente que el Organismo de cuenca deba instruir. Las indemnizaciones que procedan correrán a cargo del titular de la servidumbre.
+
+**Art. 48.**
+
+Si para precaver que las avenidas arrebaten las maderas u objetos conducidos a flote por los ríos, fuese necesario extraerlos, podrán ser depositados temporalmente en la zona de servidumbre de los predios ribereños.
+
+**Art. 49.**
+
+Cuando los cauces públicos hayan de desbrozarse y limpiarse de arena y piedras depositadas por las aguas, o hayan de retirarse otros objetos que al obstruir o torcer el curso de las aguas amenacen con que estas produzcan daños, podrán depositarse temporalmente en las zonas de servidumbre de los predios ribereños.
+
+**CAPITULO II. USOS COMUNES Y PRIVATIVOS**  
+**SECCION 1.ª: USOS COMUNES. PRINCIPIOS GENERALES**  
+**Art. 50.**
+
+1\. Todos pueden, sin necesidad de autorización administrativa y de conformidad con lo que dispongan las Leyes y Reglamentos, usar de las aguas superficiales, mientras discurran por sus cauces naturales, para beber, bañarse y otros usos domésticos, así como para abrevar el ganado (Art. 48.1 de la LA, *se corresponde con el actual* [*artículo 50.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_50.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Estos usos comunes habrán de llevarse a cabo de forma que no se produzca una alteración de la calidad y caudal de las aguas. Cuando se trate de aguas que circulen por cauces artificiales tendrán, además, las limitaciones derivadas de la protección del acueducto. En ningún caso las aguas podrán ser desviadas de sus cauces o lechos, debiendo respetarse el régimen normal de aprovechamiento (Art. 48.2 de la LA, *se corresponde con el actual* [*artículo 50.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_50.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. La protección, utilización y explotación de los recursos pesqueros en aguas continentales, así como la repoblación acuícola y piscícola, se regulara por la legislación general del medio ambiente y, en su caso, por su legislación especifica (Art. 48.3 de la LA, *se corresponde con el actual* [*artículo 50.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_50.htm) *del Texto Refundido de la Ley de Aguas*).
+
+4\. De acuerdo con lo establecido en la Ley de Aguas, no será amparado el abuso del derecho en la utilización de las aguas, ni el desperdicio o mal uso de las mismas, cualquiera que fuese el título que se alegare (Art. 48.4 de la LA, *se corresponde con el actual* [*artículo 50.4*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_50.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**SECCION 2.ª: USOS COMUNES ESPECIALES. NORMAS GENERALES**  
+**Art. 51.**
+
+1\. Requerirán autorización administrativa previa los siguientes usos comunes especiales:
+
+-   a) La navegación y flotación.
+-   b) El establecimiento de barcas de paso y sus embarcaderos.
+-   c) cualquier otro uso, no incluido en el [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo50.htm), que no excluya la utilización del recurso por terceros (Art. 49 de la LA, *se corresponde con el actual* [*artículo 51*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_51.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Estas autorizaciones se otorgaran exclusivamente a los efectos del presente Reglamento.
+
+**Art. 52.**
+
+1\. El procedimiento al que se someterán las solicitudes de autorización de uso común especial del dominio publico de los cauces, será el determinado por la Ley de Procedimiento Administrativo, pudiendo recabar del interesado el Organismo de cuenca proyecto justificativo u otra documentación complementaria que estime necesaria para conceder la autorización y, en especial, la presentación de un estudio, elaborado por técnico responsable, sobre la evaluación de los efectos que pudieran producirse sobre el medio ambiente, la salubridad y los recursos pesqueros, así como sobre las soluciones que, en su caso, se prevean.
+
+2\. Se acordara, en todo caso, un periodo de información publica por un plazo no inferior a veinte días, ni superior a dos meses.
+
+*3\. El plazo de la Administración para resolver será de tres meses, que quedará ampliado a seis en el supuesto de que el plazo de información pública fuera superior a un mes o procediera la confrontación del proyecto. Transcurrido dicho plazo podrá entenderse desestimada la solicitud.*
+
+*Las resoluciones de los organismos de cuenca dependientes de la Administración General del Estado pondrán fin a la vía administrativa.*"
+
+(Apartado añadido por el [R.D. 1771/94](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1771_94.htm))
+
+**Art. 53.**
+
+1\. En los casos en que, de acuerdo con el artículo 15, d), de la Ley de Aguas (*se corresponde con el actual* [*artículo 17, d)*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_17.htm) *del Texto Refundido de la Ley de Aguas*), la tramitación de las citadas autorizaciones haya sido encomendada a una Comunidad Autónoma, esta formulará propuesta de resolución al Organismo de cuenca, quien, a su vez, comunicará a aquella la resolución que se dicte, para su notificación al interesado.
+
+2\. Se entenderá que la resolución es conforme con la propuesta formulada cuando, en el plazo de tres meses, contados a partir de la fecha de entrada de aquella en el Organismo de cuenca, este no hubiera comunicado la resolución a la Comunidad Autónoma.
+
+3\. La tramitación de expedientes de esta naturaleza corresponderá al Organismo de cuenca, cuando se trate de obras que ejecute la Administración del Estado o en el caso de que estas deban llevarse a cabo en cauces que delimiten el territorio de dos o mas Comunidades Autónomas.
+
+**Art. 54.**
+
+1\. Las autorizaciones se otorgarán sin menoscabo del derecho de propiedad y sin perjuicio de tercero, con independencia de las condiciones específicas que puedan establecerse en cada caso concreto.
+
+2\. Las autorizaciones estarán sujetas al pago del canon de ocupación de los terrenos de dominio publico establecido en el artículo 104 de la Ley de Aguas (*se corresponde con el actual* [*artículo 112*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_112.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. El titular de la autorización quedará obligado, incluso en caso de revocación de aquella, a dejar el cauce en condiciones normales de desagüe, pudiendo el Organismo de cuenca adoptar las medidas necesarias para asegurar el cumplimiento de esta obligación.
+
+**SECCION 3.ª: AUTORIZACIONES PARA NAVEGACION Y FLOTACION**  
+**Art. 55.**
+
+Las autorizaciones para utilizar con fines de navegación las aguas de las corrientes naturales, de los lagos y lagunas y de los embalses serán otorgadas por el Organismo de cuenca.
+
+**Art. 56.**
+
+En las zonas colindantes a las playas naturales de los ríos, lagos, lagunas o embalses donde no estuviese expresamente prohibido el baño, no se precisara ningún tipo de autorización para el uso de medios de flotación que, por su tamaño y características, puedan ser considerados como complementarios del baño.
+
+**Art. 57.**
+
+Las autorizaciones para el establecimiento de embarcaderos, rampas, cables y demás instalaciones precisas para la navegación o complementarias de dicho uso se regirán por lo dispuesto en los artículos [52](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm), [53](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo53.htm) y [54](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo54.htm) del presente Reglamento.
+
+**Art. 58.**
+
+1\. A los efectos de este Reglamento, toda embarcación que navegue por las aguas continentales de una cuenca hidrográfica, con la excepción de las previstas en el [artículo 56](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo56.htm), deberá ir provista de matricula normalizada.
+
+2\. Se eximirán de los requisitos de matriculación a las embarcaciones a las que se autorice a navegar exclusivamente con motivo de descensos de ríos, pruebas deportivas u otras ocasiones similares de carácter esporádico.
+
+**Art. 59.**
+
+1\. Los beneficiarios de las autorizaciones para navegar son responsables de que sus embarcaciones cumplan con la legislación vigente en cuanto a estabilidad de las mismas, elementos de seguridad de que deben disponer y buen Estado de conservación de aquellas y estos.
+
+2\. Las embarcaciones de propulsión a motor o vela con eslora superior a 4 metros deberán estar aseguradas contra daños a terceros mediante la correspondiente póliza de seguro. La autorización para navegar, cualquiera que sea su plazo, carecerá de validez fuera del periodo de vigencia de la póliza. Para el resto de las embarcaciones queda a criterio del Organismo de cuenca la exigencia de seguro.
+
+**Art. 60.**
+
+1\. Para el manejo o gobierno de las embarcaciones será preciso estar en posesión del correspondiente título expedido por el organismo competente, en aquellos casos en que sea preceptivo de acuerdo con la clase de embarcación.
+
+2\. El beneficiario de una autorización de navegación otorgada para el uso de una pluralidad de embarcaciones, queda obligado a velar por la suficienda del título de quienes las manejen.
+
+**Art. 61.**
+
+Las autorizaciones para la navegación recreativa en embalses se condicionaran, como exige el artículo 70 de la Ley de Aguas (*se corresponde con el actual* [*artículo 78*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_78.htm) *del Texto Refundido de la Ley de Aguas*), atendiendo a los usos previstos para las aguas almacenadas, protegiendo su calidad y limitando el acceso a las zonas de derivación o desagüe, del modo que se prescribe en los artículos siguientes de este Reglamento.
+
+**Art. 62.**
+
+1\. En aquellos lagos, lagunas, embalses o ríos en los que los usos recreativos de navegación y baños alcancen suficiente grado de desarrollo, el Organismo de cuenca correspondiente podrá fijar las zonas destinadas a navegación, fondeo y acceso a embarcaderos, que se balizaran adecuadamente, así como aquellas en las que se prohiba la navegación por peligro para los bañistas, peligrosidad de las aguas o proximidad de tomas de abastecimiento, azudes, presas u órganos de desagüe de las mismas.
+
+2\. En el supuesto de que la zona por balizar sea utilizada para la navegación por una o mas personas físicas o jurídicas que dispongan de instalaciones previstas para este uso, se podrá obligar a cada una de ellas a que realice por su cuenta el balizamiento de las zonas correspondientes a sus fondeos y mangas. El coste del balizamiento en la zona común podrá ser repercutido sobre las mismas, en proporción al canon que corresponda al conjunto de embarcaciones que hagan uso de cada instalación.
+
+**Art. 63.**
+
+1\. Las autorizaciones de navegación no supondrán monopolio ni preferencia de clase alguna a favor de beneficiario y se otorgaran a precario, pudiendo ser revocadas o suspendidas temporalmente por la Administración por razones de seguridad, salubridad u otros motivos justificados, sin que el beneficiario de las mismas tenga derecho a indemnización alguna.
+
+2\. Las autorizaciones para la navegación por las aguas continentales quedarán sometidas al canon por utilización del dominio publico hidráulico a que se refiere el artículo 104 de la Ley de Aguas (*se corresponde con el actual* [*artículo 112*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_112.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 64.**
+
+Los organismos de cuenca clasificaran los lagos, lagunas y embalses comprendidos dentro de sus respectivos ámbitos geográficos de acuerdo con las posibilidades que presenten para la navegación a remo, vela y motor, así como para el uso de baños. Para los embalses se tendrán en cuenta, además de sus características naturales y de acceso, las limitaciones que se deduzcan de la compatibilidad de dichos usos con el destino de las aguas, el régimen de explotación, la variabilidad de niveles y demás circunstancias que puedan condicionarlos.
+
+**Art. 65.**
+
+Cualquier alteración sobrevenida en las obras, instalaciones o entorno de un embalse y que, de forma permanente o temporal, pueda repercutir en los usos de baños o navegación o modificar las limitaciones establecidas, deberá ser comunicada de inmediato al Organismo de cuenca correspondiente por el responsable de la explotación del embalse.
+
+**Art. 66.**
+
+Los Organismos de cuenca podrán establecer un sistema de clasificación, similar al de lagos, lagunas y embalses, para aquellos tramos de ríos en que resulte conveniente a la vista de sus condiciones de navegabilidad. La clasificación podrá ser revisada, así como ampliada o reducida en su ámbito, teniendo en cuenta las estadísticas de navegación en los años precedentes.
+
+**Art. 67.**
+
+1\. Las autorizaciones de flotación fluvial para transporte de madera por piezas sueltas o con almadías se solicitaran por escrito del Organismo de cuenca correspondiente, indicando en la instancia, además de los datos para la identificación del peticionario, los siguientes: Tramo o tramos de río que se pretende utilizar, especificando su principio y su final, relación de azudes, tomas de aguas y demás obstáculos existentes en el tramo, con indicación de sus características y, en su caso, sistema que se propone para salvarlos, numero y dimensiones de las piezas o de las almadías, y fechas en que se vaya a llevar a cabo la flotación.
+
+2\. El tramite se ajustara a lo dispuesto en los artículos [52](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm), [53](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo53.htm) y [54](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo54.htm) de este Reglamento.
+
+**Art. 68.**
+
+El beneficiario será responsable de cuantos daños se puedan producir al dominio publico hidráulico y a los bienes de particulares o del Estado que puedan existir en el tramo objeto de la flotación. Para responder de ellos y antes de iniciar estas actividades, prestará fianza en la cuantía que, en cada caso concreto, fije la Administración, la cual será devuelta si no se hubieran producido daños.
+
+**SECCION 4.ª: AUTORIZACIONES PARA EL ESTABLECIMIENTO DE BARCAS DE PASO Y SUS EMBARCADEROS**  
+**Art. 69.**
+
+1\. Para obtener autorización para barcas de paso, incluidos sus embarcaderos, se formulará la petición en los términos señalados en el [artículo 52](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm).
+
+2\. A dicha petición, se unirá la siguiente documentación:
+
+-   a) Proyecto suscrito por técnico competente.  
+    En el supuesto de que no existan cables en las instalaciones y no este previsto el transporte de vehículos a motor, se podrá sustituir el proyecto por planos del embarcadero y una memoria descriptiva y justificativa de las instalaciones y de la embarcación, de la cual deberán quedar definidas como mínimo las siguientes características: eslora, manga, puntal, desplazamiento en lastre y en carga, cabida máxima de personas, tipo de propulsión y potencia en su caso, y material de que esta construido el casco.
+-   b) Si se destinan al servicio publico, el Reglamento de explotación.
+
+3\. La tramitación será la *prevista en los artículos* [*52*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm) *y* [*53*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo53.htm) *del* presente Reglamento, pero se podrá suprimir la información publica en el caso de que no se prevea el uso publico de la embarcación y que, por las características de la instalación, no sea preceptiva la presentación del proyecto.
+
+4\. Se otorgará, simultáneamente con la autorización de las instalaciones, la relativa a la navegación, que se sujetará a las normas previstas para este uso en el presente Reglamento.
+
+**SECCION 5.ª: OTRAS AUTORIZACIONES**  
+**Art. 70.**
+
+1\. La utilización o aprovechamiento por los particulares de los cauces o de los bienes situados en ellos requerirá la previa concesión o autorización administrativa.
+
+2\. En el otorgamiento de concesiones o autorizaciones para aprovechamientos de áridos, pastos y vegetación arbórea o arbustiva, establecimiento de puentes o pasarelas, embarcaderos e instalaciones para baños públicos, se considerará la posible incidencia ecológica desfavorable, debiendo exigirse las adecuadas garantías para la restitución del medio (Art. 69 de la LA, *se corresponde con el actual* [*artículo 77*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_77.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 71.**
+
+Las autorizaciones para siembras, plantaciones y corta de arboles en terrenos de dominio publico hidráulico, se sujetarán a lo dispuesto en el [artículo 52](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm) y a las siguientes normas:
+
+-   1\. Se concretará expresamente la extensión superficial de la siembra o plantación en hectáreas, sus límites, tipo de arbolado y densidad. En el caso de cortas, el peticionario deberá señalar además si realizó personalmente la plantación o si tiene permiso del que la hizo para llevarlas a cabo. Si se tratara de arboles nacidos espontáneamente, indicará la cantidad de madera medida en metros cúbicos.
+-   2\. A la petición se unirá la siguiente documentación:
+    
+    -   a) Plano a escala de la zona, si la superficie fuera igual o superior a una hectárea.
+    -   b) Croquis de la zona, si fuera inferior a una hectárea.
+    -   c) En su caso, documento justificativo de que el peticionario realizo la plantación o cuenta con autorización del que la hizo.
+    
+
+**Art. 72.**
+
+1\. En el anuncio de la información publica, si se trata de autorizaciones de siembra, plantaciones o de corta de arboles nacidos espontáneamente, se advertirá la posibilidad de presentar peticiones en competencia e incompatibles con la petición inicial.
+
+2\. En el caso de que se formularan peticiones en competencia con la inicial e incompatibles con ella, se resolverá sobre la base de dar preferencia al propietario colindante con el cauce, salvo que se haya presentado petición en competencia por alguna entidad publica y para fines de utilidad publica, en cuyo caso se dará preferencia a la misma. Si la adjudicación no se hiciera a favor del peticionario inicial, el adjudicatario vendrá obligado a indemnizar al primero los gastos realizados, debidamente justificados.
+
+3\. Las autorizaciones para siembras y plantaciones se otorgaran por un plazo máximo igual al del ciclo vegetativo de la especie correspondiente.
+
+4\. Al amparo de estas autorizaciones no se podrán llevar a cabo, en ningún caso, obras de movimientos de tierras que alteren la sección del cauce o su configuración.
+
+5\. La corta de arboles nacidos espontáneamente quedara sometida al canon de utilización de los bienes de dominio publico hidráulico, establecido en el artículo 104 de la Ley de Aguas (*se corresponde con el actual* [*artículo 112*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_112.htm) *del Texto Refundido de la Ley de Aguas*).
+
+6\. Los derechos del beneficiario, en caso de revocación, se limitaran al aprovechamiento de los arboles o plantas en el Estado en que se encuentren al producirse aquella.
+
+**Art. 73.**
+
+Las autorizaciones para utilización de pastos en el dominio publico hidráulico seguirán los tramites señalados en el [artículo 52](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm), con las siguientes especialidades:
+
+-   1\. A la petición se unirá documentación análoga a la señalada en el [artículo 71](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo71.htm) para las plantaciones y cortas.
+-   2\. La información publica se practicara solamente con inserción de anuncios en los Ayuntamientos en que radique el aprovechamiento.
+-   3\. Estas autorizaciones se otorgaran por un plazo máximo de dos años.
+-   4\. Las autorizaciones para pastos, salvo que la Administración lo considere necesario para una mejor explotación, no se otorgaran con carácter de exclusividad.
+
+**Art. 74.**
+
+Las autorizaciones para establecimientos de baños o zonas recreativas y deportivas en los cauces públicos o sus zonas de policía serán tramitadas de acuerdo con lo dispuesto en el [artículo 52](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm) de este Reglamento.
+
+Además regirán las siguientes prescripciones:
+
+-   1\. La documentación técnica incluirá, como mínimo, planos y memoria explicativa y justificativa de las obras e instalaciones, señalando en aquellos la posición relativa de estas respecto a las tomas de agua para abastecimiento, azudes, presas y sus órganos de desagüe, que queden a distancia inferior a 500 metros.
+-   2\. En el caso de que se trate de instalaciones deportivas entre cuyos fines se incluya la navegación en ríos o embalses, la documentación técnica incluirá, además de los datos correspondientes a los embarcaderos, una propuesta del balizamiento de las zonas dedicadas a fondeos, mangas de salida y acceso, así como de aquellas en las que habrá de prohibirse la navegación por peligro para los bañistas, peligrosidad de las aguas, proximidad a las instalaciones propias de los embalses, azudes o tomas de abastecimiento u otras causas. Este balizamiento correrá a cargo del peticionario.
+-   3\. En este tipo de autorizaciones se establecerá el tramite de competencia de peticiones.
+-   4\. El plazo de estas autorizaciones será como máximo de veinticinco años.
+-   5\. Las autorizaciones para navegación de las embarcaciones que pretendan hacer uso de las instalaciones a que se refiere este artículo se tramitaran de forma independiente y de acuerdo con lo previsto en los artículos [55](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo55.htm) al [66](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo66.htm) de este Reglamento.
+
+**Art. 75.**
+
+1\. Las extracciones de áridos en terrenos de dominio publico que no pretendan el uso exclusivo de un tramo precisaran autorización administrativa, que se tramitara de acuerdo con lo dispuesto en el [artículo 52](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm) de este Reglamento.
+
+2\. En la petición se concretaran: Cauce, zona de extracción y termino municipal, emplazamiento de las instalaciones de clasificación y acopio, si las hubiere; puntos de salida y acceso a la red de carreteras, volumen en metros cúbicos y plazo en que ha de realizarse la extracción, medios que se utilizaran en ésta y en el transporte y tarifas de venta, en su caso.
+
+3\. A la petición reseñada se unirá la siguiente documentación:
+
+-   Para extracción de mas de 20.000 metros cúbicos, se presentara proyecto suscrito por técnico competente.
+-   Para extracciones comprendidas entre 20.000 metros cúbicos y 500 metros cúbicos, se presentara: Memoria descriptiva de la extracción, en la que se justificará que el desarrollo de los trabajos esta orientado al encauzamiento y mejor desagüe del río, contribuyendo a la minoración de las inundaciones marginales, planos de situación y topográfico de la gravera y perfiles transversales de ésta con sus cubicaciones.
+-   Para extracciones inferiores a 500 metros cúbicos, bastara con la presentación de croquis de situación y de la gravera, este ultimo acotado.
+
+4\. El plazo por el que se otorguen estas autorizaciones será proporcionado al volumen de la extracción, sin que pueda exceder de un año, pudiendo ser prorrogado por otro año previa petición justificada. Podrá prescindirse del tramite de información publica en las extracciones inferiores a 5.000 metros cúbicos.
+
+5\. En estas autorizaciones se ponderará su incidencia sobre la riqueza piscícola. Cuando la extracción se pretenda realizar en los tramos finales de los ríos y pueda ocasionar efectos perjudiciales en las playas o afecte a la disponibilidad de áridos necesarios para su aportación a las mismas, será preceptivo el informe del Organismo encargado de la gestión y tutela del dominio publico marítimo, al que se dará después traslado de la resolución que se adopte.
+
+6\. Los beneficiarios de estas autorizaciones, antes de iniciar los trabajos, vendrán obligados a constituir una fianza o aval para responder de los posibles daños al dominio publico hidráulico. El importe de esta fianza o aval será de cuantía igual al importe del canon y, como mínimo, de 5.000 pesetas. Se podrá eximir de esta fianza en las extracciones inferiores a 500 metros cúbicos. La fianza será devuelta, una vez terminados los trabajos de extracción, si no se han producido aquellos daños.
+
+**Art. 76**
+
+1\. Las solicitudes de autorización para derivaciones de agua de carácter temporal que no pretendan un derecho al uso privativo de ella, deberán hacer constar todos los datos necesarios para la adopción de la correspondiente resolución y deberán ir acompañadas de un croquis detallado de las obras de toma y del resto de las instalaciones y de una memoria descriptiva de unas y otras, en la que deberá justificarse, asimismo, el caudal solicitado y la no afección sensible a otros aprovechamientos preexistentes.
+
+2\. El Organismo de cuenca podrá recabar del interesado la presentación de un proyecto justificativo de las obras e instalaciones, suscrito por técnico competente, si por su importancia lo considerase necesario y, una vez haya estimado suficiente la documentación aportada, procederá a contrastar la compatibilidad de la petición con las disposiciones del Plan Hidrológico de cuenca.
+
+3\. En el caso de que la solicitud se estime compatible con las previsiones del Plan, se concederá sin mas tramites la autorización, que no podrá otorgarse por un plazo superior a dos años, en la que se hará constar que se concede a precario, pudiendo quedar revocada si el Organismo de cuenca lo cree conveniente para una mejor gestión del dominio publico hidráulico.
+
+**Art. 77.**
+
+1\. A los efectos de este Reglamento, la tramitación y contenido de las eventuales autorizaciones de la utilización de embalses o tramos de río por hidroaviones, se acomodará a lo previsto en el presente [capítulo](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo50.htm), siempre que sea compatible con la naturaleza y finalidad de la utilización.
+
+2\. Asimismo, serán de aplicación a las autorizaciones no específicamente reguladas en este [capítulo](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo50.htm) las disposiciones del mismo, acordes con su naturaleza y finalidad.
+
+3\. En ningún caso se autorizarán dentro del dominio público hidráulico la construcción, montaje o ubicaciones de instalaciones destinadas a albergar personas, aunque sea con carácter provisional o temporal.
+
+**SECCION 6.ª: AUTORIZACIONES EN ZONA DE POLICIA**  
+**Art. 78.**
+
+1\. Para realizar cualquier tipo de construcción en zona de policía de cauces, se exigirá la autorización previa al Organismo de cuenca, a menos que el correspondiente Plan de Ordenación Urbana, otras figuras de ordenamiento urbanístico, o planes de obras de la Administración, hubieran sido informados por el Organismo de cuenca y hubieran recogido las oportunas previsiones formuladas al efecto.
+
+2\. A la petición referida se unirá plano de planta que incluya la construcción y las márgenes del cauce, con un perfil transversal por el punto de emplazamiento de la construcción mas próximo al cauce, en el que quedaran reflejadas las posibles zonas exentas de edificios.
+
+3\. La tramitación será señalada en los artículos [52](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm) al [54](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo54.htm) de este Reglamento.
+
+4\. Los Organismos de cuenca notificarán al Ayuntamiento competente las peticiones de autorización de construcción de zona de policía de cauces, así como las resoluciones que sobre ella recaigan a los efectos del posible otorgamiento de la correspondiente licencia de obras.
+
+**Art. 79.**
+
+Para la ejecución de obras de defensa o nivelaciones de terrenos, caminos rurales, acequias y drenajes en zona de policía que alteren sensiblemente el relieve natural, la petición, documentación y tramites se ajustaran a los artículos [52](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm) al [54](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo54.htm).
+
+**Art. 80.**
+
+Las extracciones de áridos en zonas de policía de cauces, sin perjuicio de lo establecido en la legislación de minas, solo podrán ser otorgadas al propietario de la finca o a personas que gocen de su autorización. Se tramitaran de acuerdo con lo señalado en los artículos [52](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm) al [54](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo54.htm), con las peculiaridades propias del caso y con las salvedades siguientes:
+
+-   a) Se suprimirá en la documentación técnica todo lo referente a cubicaciones.
+-   b) En la misma documentación se hará resaltar cuanto corresponda a la realización de los trabajos en relación con las márgenes y sus refuerzos, con el fin de evitar la desviación del cauce como consecuencia de la depresión causada con las extracciones. Igualmente se estudiará la posible reposición del hueco ocasionado con productos sobrantes de la extracción u otros materiales.
+
+**Art. 81.**
+
+La autorización de cualquier otra actividad a que hace referencia el apartado d) del [artículo 9º](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo9.htm) de este Reglamento se tramitara por el Organismo de cuenca de acuerdo con lo dispuesto en los artículos [52](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm) al [54](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo54.htm).
+
+**Art. 82.**
+
+1\. Las acampadas colectivas en zona de policía de cauces públicos que, de acuerdo con la legislación vigente, necesiten autorización de los organismos competentes en materia de regulación de campamentos turísticos, habrán de ser autorizadas por el Organismo de cuenca, previa la correspondiente petición formulada por el interesado, al menos con un mes de antelación a la fecha en que quiera iniciarse la acampada.
+
+2\. Esta autorización señalará las limitaciones a que habrá de sujetarse la acampada, en lo referente a los riesgos para la seguridad de las personas o de contaminación de las aguas por vertidos de residuos sólidos o líquidos.
+
+**SECCION 7.ª: USOS PRIVATIVOS POR DISPOSICION LEGAL**  
+**Art. 83.**
+
+1\. El derecho al uso privativo, sea o no consuntivo, del dominio publico hidráulico, se adquiere por disposición legal o por concesión administrativa.
+
+2\. No podrá adquirirse por prescripción el derecho al uso privativo del dominio publico hidráulico (Art. 50 de la LA, *se corresponde con el actual* [*artículo 52*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_52.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 84.**
+
+1\. El propietario de una finca puede aprovechar las aguas pluviales que discurran por ella y las estancadas dentro de sus linderos, sin mas limitaciones que las establecidas en la Ley de Aguas y las que se deriven del respeto a los derechos de tercero y la prohibición del abuso del derecho (Art. 52.1 de la LA, *se corresponde con el actual* [*artículo 54.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. En las condiciones que establece este Reglamento, se podrán utilizar en un predio aguas procedentes de manantiales situados en su interior y aprovechar en el aguas subterráneas cuando el volumen total anual no sobrepase los 7.000 metros cúbicos. En los acuíferos que hayan sido declarados como sobreexplotados, o en riesgo de estarlo, no podrán realizarse nuevas obras de las amparadas por este apartado sin la correspondiente autorización (Art. 52.2 de la LA, *se corresponde con el actual* [*artículo 54.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. Las aguas a que se refieren los apartados anteriores no podrán utilizarse en finca distinta de aquellas en las que nacen, discurren o están estancadas.
+
+**Art. 85.**
+
+1\. A efectos administrativos de control, estadísticos y de inscripción en el registro de aguas, el propietario de la finca o, en su nombre, el que ejercite el derecho reconocido en el [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo84.htm), viene obligado a comunicar al Organismo de cuenca las características de la utilización que se pretende, acompañando documentación acreditativa de la propiedad de la finca.
+
+La fecha de registro de entrada en el Organismo de cuenca de la comunicación y documentación indicadas servirá de referencia para determinar los aprovechamientos con derechos preexistentes que hayan de ser respetados, así como las nuevas peticiones de concesiones que puedan resultar incompatibles.
+
+2\. En la comunicación citada deberá indicarse: el caudal máximo instantáneo y el medio equivalente si la derivación se hace en forma discontinua, volumen total anual derivado, finalidad de la derivación, termino municipal y descripción de las obras a realizar para la derivación.
+
+3\. A los mismos efectos indicados en el primer párrafo del apartado 1, se deberá comunicar al Organismo de cuenca cualquier cambio en la titularidad de la finca que afecte al aprovechamiento o a las características de este. Esta comunicación se presentará y tramitará como si se tratara de una comunicación de nuevo aprovechamiento, y en ella se deberá hacer constar los datos precisos para identificar en el registro de aguas la utilización que se modifica.
+
+**Art. 86.**
+
+1\. En los casos de utilización de aguas pluviales a que se refiere el [artículo 84](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo84.htm) se acompañará a la comunicación una copia del plano parcelario del catastro, donde se indicarán las obras y, en caso de que el destino sea el riego, la zona regada.
+
+2\. El Organismo de cuenca, con reconocimiento sobre el terreno si lo considera preciso, comprobará la suficiencia de la documentación y si la utilización cumple las condiciones legales y, en caso de conformidad, lo comunicara al dueño de la finca, procediendo a inscribir la derivación a su favor, con indicación de sus características y de la fecha de entrada en el Organismo de cuenca de la comunicación del usuario, a los efectos señalados en el [artículo 85](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo85.htm).
+
+En caso de disconformidad lo comunicará, asimismo, al dueño del predio mediante resolución motivada. El solicitante podrá reiterar su petición después de subsanar en debida forma los defectos que se le hayan puesto de manifiesto.
+
+**Art. 87.**
+
+1\. En los casos de utilización de aguas procedentes de manantiales o alumbramientos de aguas subterráneas a que se refiere al [artículo 84](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo84.htm), el derecho de utilización queda limitado a un total de 7.000 metros cúbicos anuales, aunque sean más de uno los puntos de derivación o extracción dentro del mismo predio.
+
+Cuando el volumen total anual aprovechado supere los 3.000 metros cúbicos, el interesado justificara que la dotación utilizada es acorde con el uso dado a las aguas, sin que se produzca el abuso o despilfarro, prohibido en el artículo 48.4 de la Ley de Aguas (*se corresponde con el actual* [*artículo 50.4*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_50.htm) *del Texto Refundido de la Ley de Aguas*).
+
+Si el volumen anual a derivar fuera superior a 7.000 metros cúbicos, el propietario del predio solicitara la concesión de la totalidad de aquel, siguiendo el procedimiento indicado al efecto en el presente Reglamento.
+
+2\. Cuando la extracción de las aguas sea realizada mediante la apertura de pozos, las distancias mínimas entre estos o entre pozos y manantial, serán las que señale el Plan Hidrológico de cuenca y, en su defecto, para caudales inferiores a 0,15 litros/segundo, la de diez metros en suelo urbano, de veinte metros en suelo no urbanizable, y de cien metros en caso de caudales superiores al mencionado. Iguales distancias deberán guardarse, como mínimo, entre los pozos de un predio y los estanques o acequias no impermeabilizados de los predios vecinos.
+
+3\. A la documentación se unirá copia del plano parcelario del catastro, indicando en ella las obras a realizar y la superficie regable, en su caso. También se situarán los manantiales o pozos que se pretendan aprovechar o construir, señalando la distancia entre los mismos y las que les separen de otras tomas de agua, corrientes naturales o artificiales, edificaciones, caminos, minas u otras instalaciones existentes.
+
+4\. Cuando el pozo se situase en la zona de policía de las márgenes, será necesario, en todo caso, solicitar autorización del Organismo de cuenca, que comprobara si con la extracción se distraen aguas superficiales con derecho preferente.
+
+**Art. 88.**
+
+1\. El Organismo de cuenca, con reconocimiento sobre el terreno si lo considera preciso, comprobará la suficiencia de la documentación aportada y la adecuación técnica de las obras y caudales que se pretendan derivar para la finalidad perseguida.
+
+2\. En caso de conformidad, lo comunicará al dueño de la finca, procediendo a inscribir la derivación a su favor, con indicación de sus características.
+
+3\. En caso de disconformidad lo comunicará, asimismo, al dueño del predio, señalándose las omisiones de la documentación, *la causa de inadecuación técnica de las obras* o caudales, las modificaciones que en su caso sea preciso introducir o la causa de ilegalidad de la derivación, prohibiendo al mismo tiempo la misma sin perjuicio de que el usuario pueda reiterar su petición una vez corregidas aquellas.
+
+**SECCION 8.ª: EXTINCION DEL DERECHO AL USO PRIVATIVO**  
+**Art. 89.**
+
+1\. El derecho al uso privativo de las aguas, cualquiera que sea el título de su adquisición, se extingue:
+
+-   a) Por termino del plazo de su concesión.
+-   b) Por caducidad de la concesión en los términos previstos en el artículo 64 de la Ley de Aguas (*se corresponde con el actual* [*artículo 66*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_66.htm) *del Texto Refundido de la Ley de Aguas*).
+-   c) Por expropiaciones forzosas.
+-   d) Por renuncia expresa del concesionario.
+
+2\. La declaración de la extinción del derecho al uso privativo del agua requerirá la previa audiencia de los titulares del mismo.
+
+3\. Cuando el destino dado a las aguas concedidas fuese el riego o abastecimiento de población, el titular de la concesión podrá obtener una nueva con el mismo uso y destino para las aguas, debiendo formular la solicitud en el tramite de audiencia previa en el expediente de declaración de extinción o durante los últimos cinco años de la vigencia de aquella.
+
+En caso de producirse la solicitud y siempre que a ello no se opusiere el Plan Hidrológico Nacional, el Organismo de cuenca tramitará el expediente excluyendo el tramite de proyectos en competencia.
+
+4\. Al extinguirse el derecho concesional revertirán al Estado gratuitamente y libres de cargas cuantas obras hubieran sido construidas dentro del dominio publico hidráulico para la explotación del aprovechamiento, sin perjuicio del cumplimiento de las condiciones estipuladas en el documento concesional.
+
+5\. Los derechos adquiridos por disposición legal se perderán según lo establecido en la norma que los regule o, en su defecto, por disposición normativa del mismo rango (Art. 51 de la LA, *se corresponde con el actual* [*artículo 53*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm) *del Texto Refundido de la Ley de Aguas*).
+
+6\. El expediente que se incoe a los efectos de declarar la extinción del derecho al uso privativo de las aguas seguirá la tramitación establecida en los artículos [163](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo163.htm) al [169](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo169.htm).
+
+**SECCION 9.ª: REGIMEN DE EXPLOTACION DE LOS EMBALSES SUPERFICIALES Y ACUIFEROS SUBTERRANEOS. ASIGNACIONES Y RESERVAS DE RECURSOS.**  
+**Art. 90.**
+
+1\. El Organismo de cuenca, cuando así lo exija la disponibilidad del recurso, podrá fijar el régimen de explotación de los embalses establecidos en los ríos y de los acuíferos subterráneos, régimen al que habrá de adaptarse la utilización coordinada de los aprovechamientos existentes.
+
+2\. Con carácter temporal, podrá también condicionar o limitar el uso del dominio publico hidráulico para garantizar su explotación racional. Cuando por ello se ocasione una modificación de caudales que genere perjuicios a unos aprovechamientos en favor de otros, los titulares beneficiados deberán satisfacer la oportuna indemnización, correspondiendo al Organismo de cuenca, en defecto de acuerdo entre las partes, la determinación de su cuantía.
+
+3\. Cuando existan caudales reservados o comprendidos en algún plan del Estado que no sean objeto de aprovechamiento inmediato, podrán otorgarse concesiones a precario que no consolidarán derecho alguno ni darán lugar a indemnización si el Organismo de cuenca reduce los caudales o revoca las autorizaciones (Art. 53 de la LA, *se corresponde con el actual* [*artículo 55*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_55.htm) *del Texto Refundido de la Ley de Aguas*).
+
+4\. La adopción de las medidas a que se refieren los apartados 1 y 2 de este artículo se realizara previa deliberación de la Junta de Gobierno del Organismo de cuenca.
+
+**Art. 91.**
+
+1\. La asignación de recursos establecidos en los Planes Hidrológicos de cuenca determinará los caudales que se adscriben a los aprovechamientos actuales y futuros.
+
+2\. Las concesiones existentes deberán ser revisadas cuando lo exija su adecuación a las asignaciones formuladas por los Planes Hidrológicos de cuenca.
+
+La revisión de la concesión dará lugar a indemnización cuando, como consecuencia de la misma, se irrogue un daño efectivo al patrimonio del concesionario, en los términos previstos en el [artículo 156](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo156.htm).
+
+**Art. 92.**
+
+1\. El Organismo de cuenca, de acuerdo con las previsiones de los Planes Hidrológicos, deberá reservar para regadíos, pesca, aprovechamientos hidroeléctricos o para cualquier otro servicio del Estado o fin de utilidad publica determinados tramos de corrientes, sectores de acuíferos subterráneos, o la totalidad de algunos de ellos.
+
+2\. Los caudales que deban ser reservados se inscribirán en el Registro de Aguas a nombre del Organismo de cuenca, siendo título suficiente para ello la inclusión de los recursos citados en las previsiones que para reservas formulen los Planes Hidrológicos de cuenca.
+
+En el asiento que a tal efecto se practique deberá especificarse la cuantía de los caudales, el plazo de la reserva y los servicios del Estado o fines de utilidad publica a los que se adscriben aquellos.
+
+3\. En su momento las Comunidades de usuarios, Organismos públicos o particulares, podrán solicitar la concesión de los recursos reservados, que se otorgara por el Organismo de cuenca, previa apertura de un periodo de información publica.
+
+4\. Otorgada la concesión se procederá a la inscripción de la misma en el Registro de Aguas a nombre del concesionario, debiendo detraerse el caudal concedido de la reserva inscrita a nombre del Organismo de cuenca.
+
+**CAPITULO III. AUTORIZACIONES Y CONCESIONES**  
+**SECCION 1.ª: LA CONCESION DE AGUAS EN GENERAL**  
+**Art. 93.**
+
+1\. Todo uso privativo de las aguas no incluido en el artículo 52 de la Ley de Aguas (*se corresponde con el actual* [*artículo 54*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm) *del Texto Refundido de la Ley de Aguas*) requiere concesión administrativa (Art. 57.1 de la LA, *se corresponde con el actual* [*artículo 59.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. El procedimiento ordinario de otorgamiento de concesiones se ajustará a los principios de publicidad y tramitación en competencia, prefiriéndose, en igualdad de condiciones, aquellos que proyecten la más racional utilización del agua y una mejor protección de su entorno. El principio de competencia podrá suprimirse cuando se trate de abastecimiento de agua a poblaciones (Art. 71.2 de la LA, *se corresponde con el actual* [*artículo 79.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_79.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. El otorgamiento de autorizaciones y concesiones referentes al dominio publico hidráulico es atribución del Organismo de cuenca, salvo cuando se trate de obras y actuaciones de interés general del Estado, que corresponderán al Ministerio de Obras Públicas y Urbanismo, tal como se establece en el artículo 22, a), de la Ley de Aguas (*se corresponde con el actual* [*artículo 24, a*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_24.htm)*) del Texto Refundido de la Ley de Aguas*).
+
+**Art. 94.**
+
+En aplicación de lo establecido en el artículo 71 de la Ley de Aguas (*se corresponde con el actual* [*artículo 79*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_79.htm) *del Texto Refundido de la Ley de Aguas*), llevaran implícita la declaración de utilidad publica las concesiones de agua cuando su finalidad sea el abastecimiento de población a que se refiere el párrafo primero del apartado 3 del artículo 58 de la Ley de Aguas (*se corresponde con el actual* [*artículo 60.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_60.htm) *del Texto Refundido de la Ley de Aguas*), o cuando, siendo otra su finalidad, se ajusten a las condiciones que para ello se definan en los respectivos Planes Hidrológicos de cuenca.
+
+**Art. 95.**
+
+1\. Podrán disfrutar de los beneficios implícitos en la declaración de utilidad publica las concesiones de aguas que no reúnan los requisitos señalados en el [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo94.htm), siempre que sean necesarias para el funcionamiento de una actividad que haya obtenido previamente una declaración del mismo carácter otorgada por la autoridad competente.
+
+2\. La solicitud para acogerse a esta posibilidad, que podrá ser conjunta con la de la concesión de las aguas, será presentada en el Organismo de cuenca acompañando documentación justificativa de la declaración de utilidad publica de la actividad. Los tramites se reducirán a una información publica con el mismo ámbito espacial y geográfico previsto para la concesión en el [artículo 102](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo102.htm).
+
+**Art. 96.**
+
+1\. Las concesiones se otorgarán teniendo en cuenta la explotación racional conjunta de los recursos superficiales y subterráneos, sin que el título concesional garantice la disponibilidad de los caudales concedidos (Art. 57.2 de la LA, *se corresponde con el actual* [*artículo 59.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Si para la realización de las obras de una nueva concesión fuese necesario modificar la toma o captación de otra u otras preexistentes, el Organismo de cuenca podrá imponer, o proponer en su caso, la modificación, siendo los gastos y perjuicios que se ocasionen a cargo del peticionario (Art. 57.3 de la LA, *se corresponde con el actual* [*artículo 59.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 97.**
+
+1\. Toda concesión se otorgará según las previsiones de los Planes Hidrológicos, con carácter temporal y plazo no superior a setenta y cinco años. Su otorgamiento será discrecional, pero toda resolución será motivada y adoptada en función del interés publico. Las concesiones serán susceptibles de revisión con arreglo a lo establecido en el artículo 63 de la Ley de Aguas (*se corresponde con el actual* [*artículo 65*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_65.htm) *del Texto Refundido de la Ley de Aguas*) (Art. 57.4 de la LA, *se corresponde con el actual* [*artículo 59.4*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. No obstante lo dispuesto en el apartado 1 del [artículo 93](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo93.htm) de este Reglamento, los órganos de la Administración del Estado o de las Comunidades Autónomas podrán acceder a la utilización de las aguas, previa autorización especial extendida a su favor o del Patrimonio del Estado, sin perjuicio de terceros (Art. 57.5 de la LA, *se corresponde con el actual* [*artículo 59.5*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 98.**
+
+1\. En las concesiones se observará, a efectos de su otorgamiento, el orden de preferencia que se establezca en el Plan Hidrológico de la cuenca correspondiente, teniendo en cuenta las exigencias para la protección y conservación del recurso y su entorno.
+
+2\. Toda concesión esta sujeta a expropiación forzosa, de conformidad con lo dispuesto en la legislación general sobre la materia, a favor de otro aprovechamiento que le preceda según el orden de preferencia establecido en el Plan Hidrológico de cuenca.
+
+3\. A falta de dicho orden de preferencia, regirá con carácter general el siguiente:
+
+-   1\. Abastecimiento de población, incluyendo en su dotación la necesaria para industrias de poco consumo de agua situadas en los núcleos de población y conectadas a la red municipal.
+-   2\. Regadíos y usos agrarios.
+-   3\. Usos industriales para producción de energía eléctrica.
+-   4\. Otros usos industriales no incluidos en los apartados anteriores.
+-   5\. Acuicultura.
+-   6\. Usos recreativos.
+-   7\. Navegación y transporte acuático.
+-   8\. Otros aprovechamientos.
+
+El orden de prioridades que pudiere establecerse específicamente en los Planes Hidrológicos de cuenca deberá respetar, en todo caso, la supremacía de uso consignado en el apartado 1º de la precedente enumeración.
+
+4\. Dentro de cada clase, en caso de incompatibilidad de usos, serán preferidas aquellas de mayor utilidad publica o general, o aquellas que introduzcan mejoras técnicas que redunden en un menor consumo de agua (Art. 58 de la LA, *se corresponde con el actual* [*artículo 60*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_60.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 99.**
+
+1\. Toda concesión se entenderá hecha sin perjuicio de tercero.
+
+2\. El agua que se concede queda adscrita a los usos indicados en el título concesional, sin que pueda ser aplicada a otros distintos, ni a terrenos diferentes si se trata de riegos.
+
+3\. No obstante, la Administración concedente podrá imponer la sustitución de la totalidad o de parte de los caudales concesionales por otros de distinto origen, con el fin de racionalizar el aprovechamiento del recurso.
+
+La Administración responderá únicamente de los gastos inherentes a la obra de sustitución, pudiendo repercutir estos gastos sobre los beneficiarios.
+
+4\. Cuando el destino de las aguas fuese el riego, el titular de la concesión deberá serlo también de las tierras a las que el agua vaya destinada, sin perjuicio de las concesiones otorgadas a las Comunidades de Usuarios y de lo que se establece en el [artículo siguiente](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo100.htm) (Art. 59 de la LA, *se corresponde con el actual* [*artículo 61*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_61.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 100.**
+
+1\. Podrán otorgarse concesiones de aguas para riego en régimen de servicio publico a empresas o particulares, aunque no ostenten la titularidad de las tierras eventualmente beneficiarias del riego, siempre que el peticionario acredite previamente que cuenta con la conformidad de los titulares que reunieran la mitad de la superficie de dichas tierras.
+
+2\. En este supuesto, la Administración concedente aprobará los valores máximos y mínimos de las tarifas de riego, que habrán de incorporar las cuotas de amortización de las obras.
+
+3\. El titular de una concesión para riego en régimen de servicio publico no podrá beneficiarse de lo previsto en el artículo 51.3 de la Ley de Aguas (*se corresponde con el actual* [*artículo 53.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm) *del Texto Refundido de la Ley de Aguas*), correspondiendo a los titulares de la superficie regada el derecho a instar una nueva concesión en los términos de dicho apartado.
+
+4\. Las obras e instalaciones que no hayan revertido al Estado pasarán, en su caso, a la titularidad del nuevo concesionario (Art. 60 de la LA, *se corresponde con el actual* [*artículo 62*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_62.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 101.**
+
+En las concesiones de aguas publicas y en las modificaciones de las mismas que se autoricen, se entenderá comprendida la de los terrenos de dominio publico hidráulico necesarios para su utilización.
+
+**Art. 102.**
+
+En toda concesión de aguas publicas se fijará la finalidad de ésta, su plazo, el caudal máximo cuyo aprovechamiento se concede, indicando el periodo de utilización cuando esta se haga en jornadas restringidas, el caudal medio continuo equivalente y el termino municipal y provincia donde este ubicada la toma.
+
+En las concesiones de agua para riegos se fijará, además, la extensión de la zona regable en hectáreas, términos municipales y provincias en que la misma este situada, volumen de agua máximo a derivar por hectárea y año, y volumen máximo mensual derivable que servirá para tipificar el caudal instantáneo concesional.
+
+*En las concesiones de agua para usos hidroeléctricos se fijarán, además, las características técnicas de los grupos instalados y el tramo de río afectado, entendiendo por tal el comprendido entre las cotas de máximo embalse normal en el punto de toma y de restitución al cauce público.*
+
+(Apartado redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**Art. 103.**
+
+La transmisión total o parcial de los aprovechamientos de agua que impliquen un servicio público o la constitución de gravámenes sobre los mismos requerirá autorización administrativa previa.
+
+En los demás casos solo será necesario acreditar de modo fehaciente, en el plazo y forma establecidos en este Reglamento, la transferencia o la constitución del gravamen (Art. 61 de la LA, *se corresponde con el actual* [*artículo 63*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_63.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**SECCION 2.ª: NORMAS GENERALES DE PROCEDIMIENTO**  
+**Art. 104.**
+
+Quien desee obtener una concesión de aguas superficiales presentará una instancia al Organismo de cuenca correspondiente, manifestando su pretensión y solicitando la iniciación del tramite de competencia de proyectos si ello fuera procedente, haciendo constar los siguientes extremos:
+
+-   Peticionario (persona física o jurídica).
+-   Destino del aprovechamiento.
+-   Caudal de agua solicitado.
+-   Corriente de donde se han de derivar las aguas, y
+-   Términos municipales donde radican las obras.
+
+**Art. 105.**
+
+1\. El Organismo de cuenca redactará el anuncio conforme a la petición presentada, para su publicación en los Boletines Oficiales de las provincias donde radiquen las obras. En el anuncio se indicará la apertura de un plazo de un mes, ampliable hasta tres a criterio de la Administración si por la importancia de la petición lo considera oportuno, a contar desde la publicación de la nota en el Boletín Oficial de la provincia, para que el peticionario presente su petición concreta y el documento técnico correspondiente, admitiéndose también, durante dicho plazo, otras peticiones que tengan el mismo objeto que aquella o sean incompatibles con la misma.
+
+También se indicará que, de acuerdo con lo dispuesto en el apartado siguiente, se denegará la tramitación posterior de toda petición presentada que suponga una utilización de caudal superior al doble del que figura en la petición inicial, sin perjuicio de que, el peticionario que pretenda solicitar un caudal superior al limite fijado, pueda acogerse a la tramitación indicada en el apartado 3 del presente artículo.
+
+2\. Tanto la petición del iniciador del expediente como la de otros posibles concurrentes a este tramite no podrán contemplar una utilización de caudal superior al doble del que figuraba en la petición que sirvió de base al concurso, entendiéndose que las que sobrepasasen ese límite tienen manifiesta disparidad respecto de aquella y, en consecuencia, el Organismo de cuenca denegará la tramitación de las mismas, mediante acuerdo motivado, que se notificará a los interesados con devolución de la documentación presentada.
+
+3\. Cualquier posible concurrente que proyectase utilizar un caudal superior al doble de la petición inicial podrá dirigirse por escrito al Organismo de cuenca dentro del plazo fijado en el anuncio de aquella para la presentación de peticiones, remitiendo su petición en la forma prevista en el [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo104.htm) y solicitando la paralización del tramite de la publicada inicialmente. A la petición acompañará resguardo de haber depositado una fianza para responder de la presentación del documento técnico correspondiente a su petición. El importe de esta fianza será determinado por el Organismo de cuenca de forma general, teniendo en cuenta el caudal solicitado y el destino del mismo.
+
+El Organismo de cuenca procederá a remitir el nuevo anuncio en la forma señalada anteriormente, indicando que esta petición paraliza, provisionalmente, la tramitación de la anterior, inmediatamente antes del tramite de desprecintado de los documentos técnicos que a la misma se hubieran presentado. Esta suspensión provisional del tramite se comunicará directamente al primer peticionario y a los concurrentes, una vez finalizado el plazo de admisión de peticiones.
+
+Si en la nueva competencia no fuese presentada ninguna petición, o no fuera admitida, el expediente continuará su tramitación con el desprecintado de los documentos aceptados. En caso contrario, se elevará a definitiva la suspensión, mediante acuerdo motivado, que se notificará a los interesados con devolución de sus respectivos documentos técnicos.
+
+**Art. 106.**
+
+1\. Durante el plazo señalado en el [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo105.htm), el peticionario y cuantos deseen presentar proyectos en competencia, se dirigirán al Organismo de cuenca correspondiente, mediante instancia, en la que se concrete su petición, pudiendo solicitar en ese momento la declaración de utilidad publica y la imposición de servidumbres que se consideren necesarias.
+
+2\. A la instancia se acompañará:
+
+-   a) Proyecto por cuadruplicado, debidamente precintado, suscrito por técnico competente, en el que se determinarán las obras e instalaciones necesarias, justificándose los caudales a utilizar, los plazos de ejecución y, si se tratase de riegos en régimen de servicio publico, los valores máximos y mínimos de las tarifas correspondientes, que habrán de incorporar las cuotas de amortización de las obras. El proyecto podrá ser sustituido por un anteproyecto, en el que queden definidas las características del aprovechamiento, las obras y las afecciones en grado suficiente para llevar a cabo una información publica o resolver una posible competencia de proyectos quedando obligados a completar el grado de definición si la Administración la considerase todavía insuficiente.  
+    En cualquier caso, el documento técnico presentado incluirá un ejemplar de la hoja correspondiente de un mapa del Instituto Geográfico Nacional, donde se señalará el punto o puntos de toma de agua, así como el esquema del resto de las instalaciones.  
+    En el supuesto de que se solicite la declaración de utilidad publica, a efectos de expropiación forzosa, el documento técnico deberá recoger la relación concreta e individualizada de los bienes o derechos que considere de necesaria expropiación. Si se pretende la imposición de servidumbres se cumplirán los requisitos que se señalan para esta finalidad en el [capítulo I del título II](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo16.htm) de este Reglamento.
+-   b) Cuando la concesión solicitada sea para riegos, se acompañaran, además, los documentos públicos o fehacientes que acrediten la propiedad de la tierra a regar, o en el caso de concesiones solicitadas por comunidades de usuarios régimen de servicio publico, los documentos que justifiquen haber sido aprobada la solicitud de concesión en Junta general o tener la conformidad de los titulares que reúnan la mitad de la superficie a regar, respectivamente. El documento técnico justificativo de este tipo de aprovechamientos incluirá un estudio agronómico que abarcará como mínimo un cálculo de la dotación de agua referido a cada uno de los meses en que el riego es necesario y un estudio económico de la transformación de secano a regadío que permita dictaminar sobre la procedencia o improcedencia de la misma.
+
+3\. La Administración podrá solicitar en cualquier caso, y a la vista de la importancia de las afecciones, la aportación de estudios complementarios sobre la incidencia sanitaria, social y ambiental y sus soluciones, con la valoración de cada una de ellas. Los estudios se ajustarán a los modelos normalizados, en el caso de que los mismos existan.
+
+**Art. 107.**
+
+El desprecintado de los documentos técnicos se realizará en la fecha y hora designada por el Organismo de cuenca en el anuncio de la competencia. Esta fecha habrá de fijarse para después de seis días de la conclusión del plazo de presentación de peticiones.
+
+Se levantará acta del resultado, que deberán firmar los interesados presentes y el representante del Organismo de cuenca designado para el efecto.
+
+**Art. 108.**
+
+1\. El Organismo de cuenca examinará el documento técnico y la petición de concesión presentados para apreciar su previa compatibilidad o incompatibilidad con el Plan Hidrológico de cuenca.
+
+2\. En caso de compatibilidad previa, se proseguirá la tramitación del expediente de concesión, de acuerdo con los artículos siguientes del presente Reglamento.
+
+3\. Si para la compatibilidad previa con el Plan Hidrológico de cuenca fuese preciso establecer condiciones que en alguna forma limiten la petición, o del examen indicado en el apartado 1 se dedujera que únicamente era posible otorgar una concesión a precario, de las indicadas en el artículo 53.3 de la Ley de Aguas (*se corresponde con el actual* [*artículo 55.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_55.htm) *del Texto Refundido de la Ley de Aguas*), el Organismo de cuenca pondrá en conocimiento del peticionario aquellas condiciones o la circunstancia indicada, según el caso, a fin de que el mismo, en el plazo de quince días, manifieste si desea proseguir la tramitación de la concesión, aun cuando esta pueda quedar afectada por las limitaciones citadas, sobreentendiéndose su conformidad si no hiciera manifestación en contrario durante el plazo citado.
+
+4\. En caso de incompatibilidad, sin que sea posible aplicar el artículo 53.3 de la Ley de Aguas (*se corresponde con el actual* [*artículo 55.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_55.htm) *del Texto Refundido de la Ley de Aguas*), el Organismo de cuenca resolverá o propondrá al Ministerio de Obras Públicas y Urbanismo, en su caso, la denegación de la concesión solicitada.
+
+**Art. 109.**
+
+1\. Ultimados los tramites anteriores y en caso de proseguir la tramitación de las peticiones de concesión, se someterán estas y las obras proyectadas a información publica, mediante la publicación de la correspondiente nota-anuncio en los Boletines Oficiales de las provincias afectadas por las obras y su exposición en los Ayuntamientos en cuyos términos municipales radiquen las mismas o se utilicen las aguas.
+
+El Organismo de cuenca podrá ampliar el ámbito de esta publicación, cuando lo estime pertinente en base a las circunstancias que concurran, apreciadas discrecionalmente, mediante la difusión de la nota-anuncio por otros medios adecuados de comunicación social.
+
+2\. La nota-anuncio, además del nombre del peticionario, caudal y términos municipales afectados, indicará cualquier otra característica y circunstancia precisas para definir el aprovechamiento pretendido y expresará si se ha solicitado la declaración de utilidad pública a los efectos de expropiación forzosa o la imposición de servidumbres, debiendo indicar asimismo que, durante el plazo que se señale, que en ningún caso será inferior a veinte días naturales, contados a partir de su publicación en el Boletín Oficial de la provincia, los que se consideren perjudicados podrán examinar el expediente y documentos técnicos en el Organismo de cuenca, adonde deberán dirigir por escrito las alegaciones pertinentes, por los medios establecidos en la Ley de Procedimiento Administrativo, dentro del mismo plazo.
+
+3\. Los Alcaldes de los Ayuntamientos en los que se ordene la exposición al publico de la nota-anuncio remitirán al Organismo de cuenca, al termino del plazo de exposición, un certificado acreditativo de haber cumplimentado tal tramite, con expresión del resultado del mismo.
+
+4\. De cuantas reclamaciones se presenten se dará vista al peticionario para que en el plazo de quince días manifieste, si lo desea, cuanto en relación con las mismas considere oportuno en defensa de sus intereses.
+
+**Art. 110.**
+
+1\. Simultáneamente con el tramite de información publica, el Organismo de cuenca remitirá copia del expediente y de los documentos técnicos aportados a la Comunidad Autónoma, para que ésta pueda manifestar en un plazo de tres meses lo que estime oportuno en materias de su competencia.
+
+Durante el mismo periodo se solicitará de otros organismos los informes que sean preceptivos o que se consideren necesarios para acordar lo más procedente.
+
+2\. En las concesiones de agua para riego se tendrán en cuenta los criterios generales establecidos por el Ministerio de Agricultura, Pesca y Alimentación en materias propias de su competencia, siendo preceptivo su informe en cuanto a su posible afección a los planes de actuación existentes.
+
+**Art. 111.**
+
+1\. El Organismo de cuenca, ultimada la tramitación anterior, citará con antelación suficiente a todos los interesados al acto de reconocimiento sobre el terreno, para confrontar el documento o documentos técnicos presentados, de lo que se levantará acta detallada, que suscribirán los asistentes.
+
+2\. En los casos en que no se haya presentado ninguna petición en competencia, el Organismo de cuenca podrá prescindir de este tramite cuando, por la escasa importancia de las obras a realizar y la ausencia de reclamaciones o índole estrictamente legal de estas, no se considere necesario.
+
+**Art. 112.**
+
+Previo estudio de la documentación del expediente y del resultado del reconocimiento sobre el terreno, si el mismo se realiza, el servicio encargado emitirá informe sobre los documentos técnicos presentados, viabilidad de su ejecución, petición que se considerea preferente si hubieran concurrido varias al tramite de competencias y modificaciones que convenga introducir, tanto en lo relativo al caudal solicitado como en lo concerniente a la ejecución de las obras. Informara, asimismo, lo procedente sobre las reclamaciones presentadas y estudio de tarifas, si lo hubiera, y designará, en su caso, el peticionario a favor del cual ha de resolverse la competencia y las condiciones en que podrá otorgarse la concesión.
+
+**Art. 113.**
+
+Emitidos los anteriores informes, si alguno fuera negativo o modificase las características esenciales de la concesión solicitada, o si hubiera habido proyecto en competencia, o alegaciones en el tramite de información publica, el Organismo de cuenca dará audiencia a los interesados, la forma que determina la Ley de Procedimiento Administrativo, sea o no competente para otorgar la concesión.
+
+**Art. 114.**
+
+En los casos previstos en el [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo113.htm) para el tramite de audiencia, y una vez concluido este, el Organismo de cuenca, cuando le corresponda el otorgamiento de la concesión, recabará informe de los servicios jurídicos.
+
+**Art. 115.**
+
+1\. En los expedientes de concesión cuya resolución corresponda a los Organismos de cuenca, éstos, teniendo en cuenta los informes emitidos, decidirán sobre la competencia de peticiones, si se hubiera planteado, de acuerdo con lo dispuesto en el artículo 58 de la Ley de Aguas (*se corresponde con el actual* [*artículo 60*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_60.htm) *del Texto Refundido de la Ley de Aguas*), y fijarán las condiciones que regirán la concesión, que comprenderán obligatoriamente las derivadas de los artículos 51, 53, 56, 62, 63 y 64 de la Ley de Aguas (*se corresponde con los actuales artículos* [*53*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm)*,* [*55*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_55.htm)*,* [*58*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_58.htm)*,* [*64*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_64.htm)*,* [*65*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_65.htm) *y* [*66*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_66.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Además, se exigirán en cada caso las que sean de aplicación entre las siguientes:
+
+-   a) La sujeción de las obras al documento técnico presentado con las modificaciones que se consideren procedentes y con obligación de presentar el proyecto constructivo correspondiente, si aquel no ha tenido ese carácter.
+-   b) Los plazos de comienzo, terminación y explotación.
+-   c) Modulaciones pertinentes.
+-   d) Inspección y vigilancia de las obras e instalaciones.
+-   e) Reserva de la posibilidad de utilizar caudales de la concesión por parte de la Administración para la construcción de obras publicas.
+-   f) Carácter provisional y a precario de la concesión, en épocas de estiaje, si no hay caudal disponible.
+-   g) Caudales mínimos que respetar para usos comunes o por motivos sanitarios o ecológicos, si fueran precisos.
+-   h) El condicionado que se derive del resultado del estudio de la incidencia ambiental de las obras.
+-   i) Pago de cánones.
+-   j) Integración forzosa en la zona regable dominada por canales construidos por el Estado, así como en las Comunidades de Usuarios que la Administración determine.
+-   k) Sujeción a la legislación de pesca, de industria y ambiental.
+-   l) Fijación de una fianza, no superior al 3 por 100 del presupuesto de la obras a realizar en dominio publico, para responder de los daños al dominio publico hidráulico y de la ejecución de las obras.
+-   m) Las especiales que el Organismo de cuenca estime pertinentes, de acuerdo con los informes emitidos y la naturaleza del aprovechamiento objeto de la concesión, especialmente aquellas que procedan, cuando haya vertido de aguas residuales.
+
+3\. En el condicionado de las concesiones para riego en régimen de servicio publico, además de las condiciones indicadas en el apartado anterior que les sean de aplicación, se deberán recoger las derivadas de los apartados 2, 3 y 4 del artículo 60 de la Ley de Aguas (*se corresponde con el actual* [*artículo 62*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_62.htm) *del Texto Refundido de la Ley de Aguas*).
+
+4\. En todo tipo de concesiones, se condicionará la explotación total o parcial de éstas a la aprobación del acta de reconocimiento final de las obras correspondientes.
+
+**Art. 116.**
+
+Las condiciones en que puede otorgarse la concesión se notificarán al peticionario único o al designado entre los presentados al tramite de competencia, para que en el plazo de quince días hábiles manifieste su conformidad con las mismas o formule las observaciones que estime pertinentes.
+
+Si el peticionario no contestase al ofrecimiento de condiciones en el plazo indicado, se reiterará aquel de nuevo, para que lo haga en el plazo de diez días, con la advertencia de que, en caso de no contestar, se entenderá que desiste de la petición de concesión, archivándose el expediente o prosiguiendo el mismo con los restantes peticionarios, si los hubiera.
+
+Si el peticionario aceptase las condiciones propuestas, el Organismo de cuenca otorgará la concesión de acuerdo con las mismas, desde cuyo momento surtirá efectos.
+
+Si el peticionario formulase observaciones y el Organismo de cuenca las aceptase, este otorgará la concesión y, si no las aceptase, fijará al peticionario un plazo de ocho días para que las acepte de plano, advirtiéndole que, de no hacerlo o no contestar en el plazo indicado, se procederá a denegar su petición prosiguiendo el expediente con los restantes peticionarios, si los hubiera.
+
+*El plazo para resolver las peticiones de concesión del dominio público hidráulico no podrá exceder de dieciocho meses. Transcurrido dicho plazo podrá entenderse desestimada la petición. Las resoluciones de los organismos de cuenca dependientes de la Administración General del Estado serán recurribles ante el Director General de Calidad de las Aguas.*
+
+(Párrafo añadido por el [R.D. 1771/94](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1771_94.htm))
+
+En cualquier caso, la resolución se comunicará a los interesados en la forma establecida en la Ley de Procedimiento Administrativo y se publicará la concesión en los Boletines Oficiales de las provincias a que afecten las obras.
+
+**Art. 117.**
+
+Cuando la resolución del expediente de concesión venga atribuida al Ministerio de Obras Públicas y Urbanismo, de conformidad con el artículo 15, c), de la Ley de Aguas (*se corresponde con el actual* [*artículo 17, c)*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_17.htm) *del Texto Refundido de la Ley de Aguas*), el Organismos de cuenca, una vez terminada la tramitación indicada en los artículos [104](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo104.htm) al [113](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo113.htm), emitirá su informe y elevará a dicho Departamento ministerial el expediente.
+
+El Ministerio resolverá previo informe del Servicio Jurídico, si procede, publicándose las resoluciones oportunas en el Boletín Oficial del Estado y notificándolas al Organismo de cuenca para conocimiento, a efectos de inspección y vigilancia, del cumplimiento de condiciones y de su inscripción en el Registro de Aguas.
+
+**Art. 118.**
+
+La concesión otorgada será inscrita de oficio en el Registro de Aguas del Organismo de cuenca donde radique la toma.
+
+**SECCION 3.ª: NORMAS COMPLEMENTARIAS DE PROCEDIMIENTO**  
+**Art. 119.**
+
+El procedimiento ordinario para el otorgamiento de concesiones de aguas se regirá además por las siguientes normas:
+
+-   1\. Si la solicitud inicial hubiera sido sometida al tramite de competencia y en el mismo se hubiesen presentado otras solicitudes, toda petición que durante la tramitación del expediente se formule en orden a introducir cualquier modificación en las concesiones será denegada sin mas tramite.
+-   2\. En el caso de que en el momento de la petición inicial no se hubiera realizado tramite de competencia, el peticionario podrá solicitar modificaciones en la concesión, las cuales deberán someterse a dicho tramite si superan los mínimos que para efectuar el mismo se exigen en este Reglamento.
+-   3\. Si en el momento de la petición inicial no se hubieran formulado otras, el solicitante podrá pedir que se realicen modificaciones en la concesión, debiéndose someter a tramite de competencia en el caso de que las modificaciones representen una alteración del caudal superior al 10 por 100 en mas o en menos.
+-   4\. Si no procediese el tramite de competencia, o si, una vez efectuado, no se hubiesen presentado otras peticiones, se convalidará la tramitación ya realizada con la petición inicial, excepción hecha de lo establecido en el apartado siguiente.
+-   5\. Cualquiera que sea la modificación solicitada, será denegada si, realizados los tramites indicados en el [artículo 108](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo108.htm), no se pudiera alcanzar una *compatibilidad previa con el Plan* Hidrológico de cuenca.
+-   6\. Toda modificación será sometida al tramite de información publica cuando, a juicio del Organismo de cuenca, pueda afectar a intereses de terceros, pudiendo pedirse tantos informes como se consideren necesarios a la vista de las modificaciones solicitadas.
+
+**Art. 120.**
+
+1\. Cuando un peticionario desista de su petición se decretará el archivo de expediente, sin perjuicio de que el Organismo de cuenca pueda adoptar las medidas e imponer al que desista las actuaciones que considere oportunas para la defensa del dominio publico hidráulico que hubiere resultado afectado por la actuación de aquel.
+
+2\. Si la petición fuera colectiva, o habiendo sido sometida al tramite de competencia de proyectos no se hubiera resuelto la misma, el desistimiento afectará solamente a quien lo hubiera formulado, prosiguiéndose la tramitación del expediente con los restantes interesados, previa comunicación a los mismos, a fin de que estos manifiesten, en el plazo de diez días, si alguno desea continuar el expediente. Si así fuera, se proseguirá este con los que comparezcan, decidiendo nuevamente sobre la competencia de proyectos, si fueran más de uno. En caso contrario se procederá a su archivo, con la facultad prevista en el apartado 1 de este artículo.
+
+**Art. 121.**
+
+1\. Se suspenderá provisionalmente la tramitación de toda nueva petición cuando se compruebe que la concesión cuyo otorgamiento se solicita resulta incompatible con otra que este en tramitación, salvo que la incompatibilidad pueda ser eliminada aplicando el apartado 2 del [artículo 96](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo96.htm), o si la concesión en tramite pudiera ser expropiada en caso de ser otorgada la segunda solicitada. En estos dos últimos casos se decretará la acumulación de los expedientes para su tramitación conjunta.
+
+El acuerdo de suspensión, si procede, será notificado al peticionario y quedará automáticamente revocado, en caso de archivo del expediente de la concesión primeramente solicitada o de denegación de la misma. En estos supuestos se reanudara la tramitación suspendida.
+
+Si la concesión primeramente solicitada fuese concedida, se estará a lo dispuesto en los apartados 2 y 3 de este artículo.
+
+2\. Si la incompatibilidad de la nueva petición se comprobase en relación con una concesión ya otorgada, se suspenderá de forma definitiva la tramitación en el punto en que se halle y, previa audiencia del peticionario, se denegará la concesión solicitada, a no ser que esta goce de los derechos de preferencia señalados en el [artículo 98](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo98.htm) de este Reglamento y pueda ser declarada de utilidad publica a los efectos de expropiación forzosa, o que la incompatibilidad pueda ser eliminada por aplicación del [artículo 96](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo96.htm) del mismo.
+
+3\. Todo peticionario de una concesión con derecho preferente, de acuerdo con el [artículo 98](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo98.htm) de este Reglamento, y que pueda ser declarada de utilidad publica a los efectos de expropiación forzosa, podrá solicitar del Organismo de cuenca que no autorice modificaciones en el estado de las obras o instalaciones de las concesiones eventualmente sujetas a expropiación hasta el momento de iniciarse el expediente de expropiación, siempre que se afiancen, en la forma que el Organismo de cuenca establezca, los posibles perjuicios que su petición ocasione.
+
+**SECCION 4.ª: TRAMITACION DE CONCESIONES DE AGUAS PARA ABASTECIMIENTO DE POBLACIONES Y URBANIZACIONES**  
+**Art. 122.**
+
+La tramitación de concesiones de agua para abastecimiento de poblaciones y de urbanizaciones aisladas que no puedan ser abastecidas desde la red municipal, se regirá por el procedimiento que se indica en los artículos siguientes, suprimido el tramite de competencia de proyectos.
+
+**Art. 123.**
+
+1\. Cuando se trate de concesión de aguas para el servicio publico de abastecimiento de una población, la instancia inicial del expediente deberá ser suscrita por el representante de la corporación local o de la persona jurídica que gestione el servicio, en la que se harán constar las especificaciones contenidas en el [artículo 104](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo104.htm). En la misma instancia se podrá solicitar la imposición de las servidumbres que se consideren necesarias.
+
+2\. Cuando se trate de la concesión de aguas para el abastecimiento conjunto de varias poblaciones, pertenecientes a varios municipios, la instancia deberá venir suscrita por la mancomunidad, consorcio o entidad semejante a que hace referencia el artículo 81 de la Ley de Aguas (*se corresponde con el actual* [*artículo 89*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_89.htm) *del Texto Refundido de la Ley de Aguas*). Si no se hubiera constituido todavía, y a los meros efectos de tramitación del expediente concesional, se podrá admitir la instancia suscrita por los representantes de las corporaciones, que en su día, y siempre antes de otorgar la concesión definitiva, habrán de constituir aquella.
+
+3\. A la instancia se acompañaran los siguientes documentos:
+
+-   a) Justificación de la capacidad para actuar del compareciente, acreditada de acuerdo con la legislación de régimen local o con el reglamento de la Entidad constituida por la asociación de las Corporaciones Locales, debiendo, en este ultimo caso, justificar, asimismo, la aprobación de aquel.
+-   b) Censos de población y ganadero de los núcleos de población a abastecer con la concesión solicitada.
+-   c) Cualquier otro documento que se considere conveniente, justificativo de las necesidades de agua del núcleo o núcleos de población.
+-   d) Informe sanitario de la Administración competente relativo a la idoneidad de la captación, calificación sanitaria de las aguas y mínimos precisos para su potabilización.
+-   e) El proyecto suscrito por técnico competente, por cuadruplicado, en el que se deberá proponer el sistema de potabilización de las aguas, si fuera preciso.
+
+**Art. 124.**
+
+1\. Si se trata de la concesión de aguas para abastecimiento de una urbanización aislada, la instancia inicial deberá ser suscrita por el representante de la Comunidad de Propietarios, si la misma ha sido ya constituida. Si no se hubiera constituido todavía, y a los meros efectos de la tramitación del expediente concesional, se podrá admitir la instancia suscrita por el promotor de la urbanización, o de la Entidad urbanizadora en su caso.
+
+2\. A la instancia se acompañaran los documentos señalados en el punto 3 del [artículo 123](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo123.htm), sustituyéndose el censo de población por la justificación del numero de habitantes autorizado en la urbanización y certificación, expedida por el Alcalde del municipio donde radique la urbanización, de que la misma no puede ser abastecida desde las instalaciones municipales.
+
+**Art. 125.**
+
+Los tramites subsiguientes para el otorgamiento de las concesiones indicadas en los artículos [123](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo123.htm) y [124](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo124.htm) se ajustarán a lo dispuesto en los artículos [108](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo108.htm) al [118](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo118.htm), del presente Reglamento, con las siguientes particularidades:
+
+-   1\. Dentro de los informes indicados en el [artículo 110](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo110.htm), se solicitara de las autoridades sanitarias competentes el relativo a la suficiencia de la dotación por habitante considerada, a la posibilidad de utilizar las aguas solicitadas para el abastecimiento, desde el punto de vista sanitario, a las medidas de protección en la toma y a la idoneidad de las instalaciones de potabilización proyectadas.
+-   2\. En el condicionado de la concesión deberá recogerse la responsabilidad del concesionario en la obligación de suministrar el agua del abastecimiento con arreglo a la legislación sanitaria vigente.
+-   3\. En las concesiones para el servicio publico de abastecimiento, prestado por las Corporaciones Locales en régimen de gestión indirecta, la duración de la concesión no podrá exceder de la fijada para el régimen de gestión.
+-   4\. En los mismos supuestos del apartado anterior, se hará constar en el condicionado de la concesión que el titular de la misma no podrá beneficiarse de lo previsto en el artículo 51.3 de la Ley de Aguas (*se corresponde con el actual* [*artículo 53.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm) *del Texto Refundido de la Ley de Aguas*), atribuyendo a las Corporaciones Locales correspondientes, aisladas o agrupadas en la forma prevista en el artículo 81 de la Ley de Aguas (*se corresponde con el actual* [*artículo 89*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_89.htm) *del Texto Refundido de la Ley de Aguas*), según sea el aprovechamiento individual o conjunto, el ejercicio del derecho a instar una nueva concesión, en los términos indicados en el citado artículo 51.3 de la Ley de Aguas (*se corresponde con el actual* [*artículo 53.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm) *del Texto Refundido de la Ley de Aguas*).
+-   5\. En los casos de las concesiones contempladas en esta [sección](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo122.htm), se notificará a las autoridades sanitarias competentes la resolución que proceda.
+
+**SECCION 5.ª: TRAMITACION DE CONCESIONES DE OBRAS E INSTALACIONES EN EL DOMINIO PUBLICO HIDRAULICO**  
+**Art. 126.**
+
+1\. La tramitación de los expedientes de autorización de obras dentro o sobre el domino publico hidráulico se realizara según el procedimiento normal regulado en el [artículo 52](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo52.htm) y siguientes, con las siguientes salvedades y precisiones:
+
+-   a) En el caso de obras de defensa, encauzamiento o limpieza de cauces, la documentación comprenderá, como mínimo, un plano de planta a escala de la obra a ejecutar, en el que la misma quede perfectamente definida en relación con ambas márgenes del cauce, acompañado de una sucinta memoria descriptiva. Cuando por la índole de la obra solicitada, pueda verse modificada la capacidad de evacuación del cauce, se incluirán perfiles transversales del mismo y un cálculo justificativo de la capacidad a distintos niveles. Se podrán sustituir los planos a escala por croquis acotados, si se trata de obras de poca importancia a realizar en cauces públicos de escasa entidad.
+-   b) Las obras de corta o cobertura de cauces, puentes y pasarelas u otras modificaciones no incluidas en el apartado anterior, requerirán la presentación de proyecto suscrito por técnico competente. El Organismo de cuenca podrá acordar la sustitución del proyecto por planos a escala, descriptivos de la totalidad de la obras y una memoria justificativa, cuando a su juicio se trate de obras de poca importancia a realizar en cauces públicos de escasa entidad.  
+    Cuando se trate de cortas o cobertura de cauces, el plano de planta se realizará con referencia a puntos fijos del terreno y en el quedarán definidos los cauces nuevo y antiguo, con el detalle suficiente para poder delimitar sobre aquel las líneas alcanzadas por las distintas avenidas.
+-   c) En el caso de que con las obras de defensa, encauzamientos o modificación del cauce se pretendan recuperar terrenos que hayan pertenecido al peticionario, esta circunstancia se hará constar expresamente en la solicitud inicial, debiendo justificar la propiedad de los mismos mediante la presentación del oportuno título o certificación registral, junto con una copia del plano parcelario de la finca que se pretende recuperar.
+
+2\. Podrá prescindirse de la información publica cuando se trate de trabajos de limpieza de cauces, obras de encauzamiento, o defensas longitudinales, siempre que el nivel alcanzado por las aguas en la evacuación de las máximas avenidas ordinarias no supere la cota del terreno en la margen opuesta, o bien se trate de puentes, pasarelas y coberturas de escasa importancia en cauces de pequeña entidad.
+
+3\. No necesitarán la concesión a que se refiere este artículo las obras que realice el Estado o las Comunidades Autónomas, incluidas en planes que hubieran sido informados por el Organismo de cuenca y hayan recogido sus prescripciones.
+
+**Art. 127.**
+
+1\. Los cruces de líneas eléctricas y de otro tipo sobre el dominio publico hidráulico serán tramitados por el Organismo de cuenca. La documentación técnica a presentar consistirá en una sucinta memoria, especificando las características esenciales de la línea y en planos de planta y perfil transversal, en los que queden reflejados el cauce, los apoyos y los cables, acotando la altura mínima de estos sobre el nivel de las máximas crecidas ordinarias. El expediente se tramitará sin información publica.
+
+2\. En todos los cruces la altura mínima en metros sobre el nivel alcanzado por las máximas avenidas se deducirá de las normas que a estos efectos tenga dictada sobre este tipo de gálibos el Ministerio de Industria y Energía, respetando siempre como mínimo el valor que se deduce de la formula.
+
+H = G + 2,30 + 0,01·U
+
+-   En la que H será la altura mínima en metros,
+-   G tendrá el valor de 4,70 para casos normales y de 10,50 para cruces de embalses y ríos navegables, y
+-   U será el valor de la tensión de la línea expresada en kilovoltios.
+
+**SECCION 6.ª: ESPECIALIDADES EN LA TRAMITACION DE OTRAS CONCESIONES**  
+**Art. 128.**
+
+1\. La tramitación de concesiones de agua, que no sea en régimen de servicio publico para riegos con caudal menor de 8 litros/segundo, usos domésticos hasta 2.000 personas, aun cuando no constituyan un núcleo habitado tipificado en el [artículo 123](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo123.htm), acuicultura hasta un caudal de 100 litros/segundo, o bien de un caudal inferior a 5 litros/segundo, para destinos no energéticos diferentes de los ya indicados, se regirá por el procedimiento indicado en los artículos siguientes.
+
+2\. La tramitación conjunta de las concesiones y autorizaciones relativas a los aprovechamientos hidroeléctricos de *potencia inferior a 5.000 KVA se* efectuará de conformidad con el procedimiento establecido en el Real Decreto 916/85, de 25 de mayo, con las siguientes valoraciones:
+
+-   a) Las competencias de las Comisarias de Aguas se entenderán atribuidas al Organismo de cuenca que corresponda.
+-   b) Los artículos 5 y 8 del citado Real Decreto 916/85, de 25 de mayo, quedarán respectivamente sustituidos por los artículos [108](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo108.htm) y [110](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo110.htm) de este Reglamento.
+
+3\. Si en virtud de lo dispuesto en el artículo 1 del mismo Real Decreto procediera la tramitación separada de alguna de las concesiones y autorizaciones a que el mismo se refiere, se sustanciará en la forma establecida en los artículos siguientes.
+
+**Art. 129.**
+
+*En las tramitaciones a que se refiere el apartado 1 del* [*artículo anterior*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo128.htm)*, se prescindirá del trámite de competencia de proyectos, y la información pública se realizará únicamente mediante anuncio en el boletín oficial de la provincia donde esté ubicada la toma y en los ayuntamientos de los municipios en cuyos términos municipales radique cualquier obra o instalación o se utilicen las aguas, sin perjuicio de la facultad del Organismo de cuenca de ampliar el ámbito de esta publicación, cuando discrecionalmente lo estime pertinente.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**Art. 130.**
+
+1\. En la tramitación de concesiones de aguas para aprovechamiento de riego con caudal menor de 4 litros/segundo, de usos domésticos hasta 50 personas, constituyan o no núcleo habitado, o de un caudal inferior a 2 litros/segundo para otros destinos diferentes de los indicados, además de prescindirse del tramite de competencia de proyectos y de limitar la información publica en la forma indicada en el [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo129.htm), la documentación que se deberá acompañar a la instancia de petición de la concesión será la que se indica en los apartados siguientes.
+
+2\. Para todo tipo de concesiones, se adjuntará un croquis detallado y acotado de las obras de toma y del resto de las instalaciones, con una memoria descriptiva de una y de otras, en la que se justificará, asimismo, el caudal solicitado y un ejemplar de la hoja correspondiente de un plano del Instituto Geográfico Nacional, donde se señalarán el punto o puntos de toma de agua, así como el esquema del resto de las instalaciones si la escala lo permite.
+
+3\. Cuando se trate de concesiones de agua para abastecimiento de población deberá aportarse además el informe sanitario a que hace referencia el [artículo 123.3](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo123.htm) de este Reglamento.
+
+4\. En las concesiones de agua para riegos, además de adjuntar la documentación indicada, se deberá acreditar la propiedad, a favor del peticionario, de las tierras que se pretende regar o, en el caso de concesiones solicitadas por comunidades de usuarios, haber sido aprobada la solicitud de concesión en junta general. En todo supuesto se presentará una copia del plano parcelario del catastro, donde se señalará la zona regada.
+
+5\. El Organismo de cuenca examinará la documentación presentada para apreciar la compatibilidad o incompatibilidad de la petición con el Plan Hidrológico de cuenca, procediendo en la forma indicada en el [artículo 108](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo108.htm) de este Reglamento, pudiendo recabar del peticionario la presentación de un proyecto justificativo de las obras suscrito por técnico competente, si, por las características peculiares del caso, lo considerase necesario.
+
+**Art. 131.**
+
+Ultimado el tramite anterior y en caso de proseguir la tramitación de la petición de concesión, se someterá esta y las obras a realizar a la información publica, en la forma prevista en los artículos [109](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo109.htm) y [110](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo110.htm) del Reglamento, con las particularidades señaladas en el [artículo 129](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo129.htm) del mismo.
+
+**Art. 132.**
+
+Cuando, de acuerdo con el Plan Hidrológico de cuenca, exista la posibilidad de utilizar con fines hidroeléctricos presas de embalse o los canales construidos total o parcialmente con fondos del Estado o propios del Organismo de cuenca, podrá sacarse a concurso publico la explotación de dichos aprovechamientos, de acuerdo con lo indicado en los siguientes artículos.
+
+**Art. 133.**
+
+Con carácter previo, el Organismo de cuenca redactará y aprobará el pliego de bases a que ha de sujetarse el concurso, *en el que se fijarán*, como mínimo, los siguientes puntos: Objeto del concurso; obras de la Administración que podrán ser utilizadas en el aprovechamiento; régimen normal de utilización del embalse o canal y condiciones hidráulicas a que haya de sujetarse la explotación; plazo máximo de la concesión y del comienzo y finalización de las obras; cantidad, precio y punto de entrega de la energía que ha de suministrarse para determinadas necesidades de la Administración; canon anual integrado por una cantidad fija y otra función de la energía producida; forma de revisar el canon y el precio de la energía para la Administración; medidas que garanticen la reversión al Estado de todas las instalaciones, al termino de la concesión, en las debidas condiciones de conservación, y extremos sobre los que versará la licitación, que, además de los que se consideren oportunos, deberán incluir:
+
+-   1\. Máxima utilización de la energía de posible obtención.
+-   2\. Valores de F y C que se introducirán en la siguiente formula para calcular el importe anual del canon: I = F + C x P,
+    
+    -   En la que I es el importe anual del canon en pesetas.
+    -   F, cantidad fija independiente de la energía producida y expresada en pesetas/año.
+    -   C, cantidad en pesetas por KWh generado.
+    -   P, producción anual en KWh.
+    
+-   3\. Plazo de la concesión solicitada.
+
+**Art. 134.**
+
+1\. El anuncio del concurso se publicará en el Boletín Oficial del Estado, fijando un plazo no inferior a tres meses ni superior a seis para la presentación de anteproyectos y propuestas acerca de los extremos sobre los que versa la licitación.
+
+2\. Los anteproyectos deberán dar idea exacta de las obras e instalaciones que se pretenda construir para enlazar con las obras realizadas o a realizar por la Administración y de cuantos datos y antecedentes se consideren convenientes para poder resolver el concurso. En la solicitud de la concesión, además de indicar las ofertas para los puntos objeto de licitación, se hará la declaración explícita de aceptar en todo tiempo el régimen normal de caudales determinado por el Organismo de cuenca y las variaciones que justificadamente establezca.
+
+3\. Los anteproyectos se presentarán precintados y las solicitudes cerradas y lacradas, realizándose el desprecintado y apertura en el lugar, día y hora fijado en la convocatoria.
+
+4\. Previos los tramites e informes que considere precisos, el Organismo de cuenca declarará desierta la licitación o elegirá uno de los anteproyectos presentados, aprobándole, con las prescripciones que crea conveniente y resolviendo el concurso a favor del peticionario que lo hubiere presentado, con las condiciones previstas del pliego de bases. En el segundo de los supuestos, el peticionario deberá depositar en el Organismo de cuenca, en el plazo máximo de un mes, una fianza del 1 por 100 del importe total del presupuesto de las obras e instalaciones del anteproyecto, como garantía definitiva del cumplimiento de su compromiso.
+
+También deberá presentar, en el plazo que se fije al aprobar el anteproyecto, la instancia solicitando la concesión y el proyecto de construcción de las obras e instalaciones definitivas, desarrollado de acuerdo con el anteproyecto aprobado y con las prescripciones que se hayan podido imponer en la resolución del concurso.
+
+**Art. 135.**
+
+La instancia y el proyecto serán tramitados de acuerdo con lo dispuesto en los artículos [109](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo109.htm) y siguientes con las particularidades que se indican a continuación:
+
+-   a) A los efectos señalados en este Reglamento, el tramite indicado en el [artículo 134](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo134.htm) se considerará como de competencia de proyectos.
+-   b) Entre las condiciones de la concesión, además de las indicadas en el [artículo 115](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo115.htm) que le sean de aplicación, se deberá imponer la obligación de cumplir las condiciones señaladas en la resolución aprobatoria del anteproyecto y de adjudicación del concurso. El canon ofrecido en la licitación habrá de ser abonado desde el día en que las obras debían de haber sido terminadas sin prórrogas por ningún concepto, salvo que las mismas hayan sido suspendidas o retrasadas por causas de fuerza mayor o imputables a la Administración Publica.
+-   c) Estos aprovechamientos quedan exentos de los cánones y tarifas que puedan derivarse de las mismas obras que los originan.
+
+**Art. 136.**
+
+1\. Las extracciones de áridos que se pretenda realizar con exclusividad en un tramo de río, precisaran concesión administrativa.
+
+2\. Para obtener una concesión de esta clase, el peticionario presentara ante el Organismo de cuenca correspondiente una instancia en términos similares a los señalados en el [artículo 104](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo104.htm) de este Reglamento, acompañando el correspondiente anexo, en la que necesariamente se expresarán, además de los datos referidos al peticionario, el cauce, el tramo del mismo en que se proyecta realizar la extracción, la cantidad expresada en metros cúbicos y el destino, sea uso propio o venta.
+
+3\. El Organismo de cuenca, recibida la petición y estimada conforme, iniciará los tramites de competencia de proyectos, pero indicándose expresamente en el anuncio que la competencia versará sobre:
+
+-   a) Cantidad de áridos a extraer.
+-   b) Mejora de las características hidráulicas, ecológicas y paisajísticas.
+-   c) Destino, primando el uso propio sobre la venta, y entre estas, las tarifas propuestas como criterio de selección únicamente.
+
+4\. Estas concesiones, que se tramitarán de acuerdo con los artículos [75.5](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo75.htm), [109](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo109.htm) y siguientes de este Reglamento, se otorgaran por un plazo máximo de diez años, dependiendo del volumen a extraer y características del cauce. En el condicionado se fijará un volumen mínimo de extracciones anuales y la obligación de prestar una fianza, de importe igual al canon, para responder de los posibles daños al dominio publico hidráulico, que será devuelta al terminar los trabajos si no se han producido tales daños.
+
+5\. Las extracciones realizadas estarán sujetas al pago del canon de utilización del dominio publico, previsto en el artículo 104 de la Ley de Aguas (*se corresponde con el actual* [*artículo 112*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_112.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 137.**
+
+1\. El Organismo de cuenca, cuando por las circunstancias físicas de un cauce lo estime necesario, podrá tomar la iniciativa de redactar un proyecto para someter a licitación publica la ejecución de las obras y la concesión de los áridos obtenidos con la misma.
+
+2\. El proyecto redactado por el Organismo de cuenca será sometido a los mismos tramites previstos en este Reglamento para las concesiones de extracción de áridos. Una vez aprobado, se redactará el pliego de bases para la licitación publica de la ejecución de las obras y de la concesión de los áridos obtenidos con la misma. En el se harán constar los extremos sobre los que versará aquella licitación, incluyendo como mínimo: cantidad de áridos, canon por metro cúbico y plazo de ejecución.
+
+3\. Igualmente podrá ofrecerse el concurso de proyecto y obra, mediante la publicación del correspondiente pliego de bases.
+
+4\. Los tramites subsiguientes se ajustarán a lo previsto en la legislación de contratos del Estado.
+
+**Art. 138.**
+
+1\. El Organismo de cuenca llevará un registro de concesiones de extracción de áridos, en el que se inscribirán de oficio sus características esenciales y aquellas observaciones que definan la concesión, recogiendo asimismo los cambios que se produzcan en su titularidad.
+
+2\. Como características esenciales se consideraran: El titular, cauce, termino municipal y provincia donde radique la extracción, volumen a extraer, fecha de la autorización y plazo.
+
+**Art. 139.**
+
+1\. En estas concesiones no se autorizarán otras modificaciones de características esenciales que las del cambio de titularidad, las cuales se tramitarán de acuerdo con lo previsto en los artículos [145](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo145.htm) y [146](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo146.htm), en cuanto les sea de aplicación.
+
+2\. Las modificaciones de las características no esenciales se solicitarán por el concesionario al Organismo de cuenca, que las autorizará, si procede, previos los tramites que se consideren preceptivos u oportunos. En el caso de modificación de tarifas, se realizará una información publica, por plazo no inferior a veinte días, en el Boletín Oficial de la provincia donde radique la extracción y en el de las limítrofes si se considera conveniente.
+
+**SECCION 7.ª: NOVACION DE CONCESIONES**  
+**Art. 140.**
+
+Los titulares de una concesión de aguas para riego o para abastecimiento de poblaciones, o los usuarios a que hace referencia el artículo 60.3 de la Ley de Aguas (*se corresponde con el actual* [*artículo 62.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_62.htm) *del Texto Refundido de la Ley de Aguas*), podrán obtener una nueva concesión para el mismo uso y destino, que se tramitará de acuerdo con lo establecido en los artículos siguientes.
+
+**Art. 141.**
+
+1\. La solicitud de la nueva concesión deberá formularse del modo previsto en el [artículo 89.3](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo89.htm) de este Reglamento.
+
+2\. El Organismo de cuenca examinará la compatibilidad o incompatibilidad de la petición con el Plan Hidrológico Nacional.
+
+**Art. 142.**
+
+1\. Ultimado el tramite anterior, y en caso de que se aprecie la compatibilidad con el Plan Hidrológico Nacional, se otorgará la concesión ajustando sus características al Plan Hidrológico de cuenca.
+
+2\. Sin perjuicio de lo dispuesto en el apartado anterior la Administración, para mejor proveer, podrá recabar los informes que estime pertinentes así como acordar tramite de información publica.
+
+**SECCION 8.ª: MODIFICACIONES DE LAS CARACTERISTICAS DE LAS CONCESIONES**  
+**Art. 143.**
+
+Toda modificación de las características de una concesión requerirá previa autorización administrativa del mismo órgano otorgante (Art.62 de la LA, *se corresponde con el actual* [*artículo 64*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_64.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 144.**
+
+1\. No podrán variarse las características esenciales de una derivación de aguas, ni las condiciones de la concesión, sin la autorización administrativa del mismo órgano otorgante. Esta autorización será denegada, cualquiera que sea la variación solicitada, si en el examen inicial de la modificación a realizar por el Organismo de cuenca no se pudiera alcanzar una compatibilidad previa de la misma con el Plan Hidrológico de cuenca, a través de los tramites indicados en el [artículo 108](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo108.htm).
+
+*2.* *Por características esenciales se entenderán:*
+
+-   *identidad del titular,*
+-   *caudal máximo y continuo medio equivalente a derivar,*
+-   *corriente y punto de toma,*
+-   *finalidad de la derivación,*
+-   *superficie regada en las concesiones para riego y tramo afectado en las destinadas a producción de energía eléctrica.*
+
+(Apartado redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+3\. Las solicitudes de autorización para estas modificaciones serán sometidas a información publica con el ámbito que determine el Organismo de cuenca, siempre que a juicio de este puedan suponer afecciones para terceros. También se pedirán los informes de otros Organismos que sean preceptivos en los supuestos de concesión, o que se consideren por el Organismo de cuenca imprescindibles par la resolución.
+
+4\. El Organismo de cuenca podrá incoar de oficio el expediente de modificación de características, cuando se trate de acomodar el caudal concedido a las necesidades reales del aprovechamiento, restringiendo su caudal o mateniéndolo.
+
+5\. En aquellas concesiones cuyo otorgamiento viene atribuido por la Ley de Aguas, al Ministerio de Obras Públicas y Urbanismo, la tramitación de las solicitudes de modificación de características esenciales o condiciones, siguiendo el procedimiento previsto en los artículos [145](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo145.htm) al [148](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo148.htm) se llevara a cabo por el Organismo de cuenca, el cual tramitará el expediente, elevándolo posteriormente al Ministerio de Obras Públicas y Urbanismo, para su resolución definitiva. De dicha resolución se dará traslado al Organismo de cuenca a efectos de inspección y vigilancia y de inscripción en el registro de aguas.
+
+**Art. 145.**
+
+La transmisión de aprovechamientos o la constitución de gravámenes sobre los mismos se ajustará a lo dispuesto en el [artículo 103](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo103.htm) de este Reglamento, así como a lo establecido en los artículos siguientes.
+
+**Art. 146.**
+
+1\. Cuando cambie la titularidad de una concesión, el nuevo titular deberá solicitar mediante instancia presentada ante el Organismo de cuenca la oportuna inscripción de transferencia en el Registro de Aguas regulado en la [sección 12.ª de este capítulo](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo189.htm), aportando la documentación indicada en los artículos siguientes.
+
+Especialmente, deberá acreditarse la existencia de la autorización administrativa previa a que se refiere el [artículo 145](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo145.htm), para la inscripción en dicho registro de la transmisión total o parcial de los aprovechamientos de agua que impliquen un servicio publico o de la constitución de gravámenes sobre los mismos, sin cuyo requisito no se efectuará dicha inscripción.
+
+Tal instancia deberá presentarse dentro del año siguiente a producirse el cambio de titularidad, cuando este sea debido a sucesión mortis causa, y dentro del plazo de tres meses a partir del cambio en cualquier otro supuesto.
+
+2\. En todo caso, cualquiera que sea el destino de la concesión deberá presentarse:
+
+-   a) Documento publico o fehaciente que acredite el tracto sucesivo de la concesión o su reanudación.
+-   b) Declaración jurada sobre la coincidencia o variaciones existentes, entre las características de la derivación en aquel momento y la que figuran en el Registro de Aguas, indicando asimismo si el aprovechamiento se encuentra en condiciones de explotación.
+
+3\. En el supuesto de que no sea posible acreditar fehacientemente el tracto sucesivo del derecho a la concesión por los medios ordinarios, el peticionario lo pondrá de manifiesto por declaración jurada, bastando con presentar el título o títulos fehacientes de la propiedad o derecho real del bien inmueble a que se destinan las aguas, o, en su defecto, de las instalaciones necesarias para el aprovechamiento.
+
+**Art. 147.**
+
+1\. Formulada la petición, el Organismo de cuenca estudiará la documentación aportada y, si no la estima suficiente, requerirá al peticionario para que la complete en lo necesario.
+
+2\. Una vez completada la documentación, de acuerdo con el apartado anterior, o si la misma hubiera sido considerada suficiente desde el principio, el Organismo de cuenca dictará resolución aprobando la transferencia y ordenando la inscripción de esta en el Registro de Aguas, quedando subrogado desde ese momento el nuevo titular en los derechos y obligaciones del anterior.
+
+3\. Esta inscripción tendrá carácter provisional y se hará constar este carácter en la misma, si, de acuerdo con lo indicado por el peticionario, existiesen variaciones en las características respecto a las inscritas; si el aprovechamiento no se encontase en condiciones de explotación; o si se hubiera aportado la documentación prevista en el [artículo 146.3](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo146.htm).
+
+**Art. 148.**
+
+1\. En los casos indicados en el apartados 3 del [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo147.htm), previa citación al peticionario, se realizará una visita de reconocimiento del aprovechamiento, levantando acta en la que constarán las características del mismo y su situación respecto a las condiciones de utilización.
+
+2\. Si el aprovechamiento se encontrase en condiciones de explotación y sus características coinciden con las inscritas provisionalmente, se dictará resolución elevando a definitiva la inscripción.
+
+3\. Si el aprovechamiento se encontrase en condiciones de explotación, pero se hubieran variado las características, se dictará resolución fijando al nuevo titular un plazo para que inicie expediente de modificación de características o nueva concesión, si la variación comprobada así lo exigiera.
+
+En la resolución de los expedientes citados, que se tramitarán de acuerdo con lo previsto en este Reglamento para las modificaciones objetivas, habrá de decretarse la anulación de oficio de la inscripción provisional y su sustitución, si procede, por otra definitiva con las características correspondientes.
+
+Si no procediera la nueva inscripción, por no aprobarse las variaciones o no otorgarse la concesión, se fijará un plazo al peticionario para que adapte el aprovechamiento a las características inscritas, advirtiéndole que, en caso de incumplimiento, se procederá a iniciar el correspondiente expediente de extinción del derecho al aprovechamiento de aguas.
+
+Si el aprovechamiento se pusiera en condiciones de explotación con las características de la inscripción, se elevará de oficio a definitiva la inscripción, una vez comprobadas aquellas circunstancias.
+
+4\. Si el aprovechamiento no se encontrase en condiciones de explotación y no se tuviera constancia de que la misma hubiese Estado interrumpida por un periodo superior a tres años consecutivos, se dictará resolución fijando un plazo al nuevo titular, para que lo ponga en condiciones de explotación normal, con la advertencia de que, en caso de incumplimiento, se procederá a iniciar expediente de extinción del derecho de concesión.
+
+La elevación a definitiva de la inscripción se efectuará de oficio, una vez que se haya comprobado que se ha puesto el aprovechamiento en condiciones normales de explotación.
+
+5\. En el supuesto del apartado anterior, si el peticionario pretendiera introducir modificaciones en las características de la inscripción del aprovechamiento, lo hará así constar en el acta levantada con motivo del reconocimiento previsto en el apartado 1 de este artículo y, en ese caso, en la resolución, el plazo se fijará para la iniciación del expediente de modificación de características o de nueva concesión, tal como se indica en el apartado 3, prosiguiendo la tramitación en la forma allí indicada.
+
+6\. Si con el reconocimiento del aprovechamiento efectuado, de acuerdo con el apartado 1, y con las averiguaciones que se consideren oportunas, se adquirise certeza de que la explotación del aprovechamiento había estado paralizada por un periodo de tiempo superior a tres años consecutivos, se dictará resolución iniciando el expediente de extinción de la concesión.
+
+**Art. 149.**
+
+En toda petición de autorización para modificar el objeto de la concesión, se deberá justificar su conveniencia y aportar la documentación que en cada caso se señala en este Reglamento para obtener la concesión. Los documentos técnicos que recojan las obras a realizar o justifiquen la suficiencia de las ya existentes, tendrán el mismo carácter y tipo de definición que para obtener el derecho a derivar aguas resultantes de las modificaciones se hubiera exigido de acuerdo con el Reglamento.
+
+**Art. 150.**
+
+1\. Las modificaciones de las características esenciales relativas al objeto de una concesión otorgada por procedimientos para los que este Reglamento no exige tramite de competencia, no serán sometidos tampoco a tal tramite, siempre que no superen ahora las condiciones que permitieron su exclusión, en cuyo caso se someterá la totalidad de la concesión a competencia.
+
+2\. Igual tramitación, en este aspecto, se realizará para las modificaciones indicadas en el apartado anterior, relativas a los derechos de derivación a que se refiere la [disposición transitoria primera](http://www.carreteros.org/legislacionb/aguas/ley/articulos/dtrs.htm) de la Ley de Aguas en sus apartados 1 y 2, siempre que por sus características hubieran podido tramitarse sin competencia de proyectos, de acuerdo con lo dispuesto en el presente Reglamento.
+
+**Art. 151.**
+
+1\. En todos los demás casos de modificaciones del objeto de la concesión que no queden incluidos en el [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo150.htm), se tramitará el expediente de acuerdo con las normas que siguen.
+
+*2.* *Las modificaciones que no supongan alteración del destino de las aguas, del caudal o del tramo de río afectado por los aprovechamientos hidroeléctricos se tramitarán sin someter la concesión resultante a nueva competencia de proyectos, cualquiera que sea el momento en que se soliciten.*
+
+*3\. Si las modificaciones suponen alteración del caudal, cualquiera que sea la finalidad de la concesión, o del tramo afectado en el cauce por los aprovechamientos hidroeléctricos, y aquéllas se solicitasen antes de que se hubiera ejecutado el 20 por ciento del presupuesto de las obras proyectadas, se tramitarán sin nueva competencia de proyectos, cuando la variación no supere el 10 por ciento en más o en menos, a no ser que, en caso de disminución, el Organismo de cuenca considere conveniente dicho trámite. Si las variaciones superan el 10 por ciento en más o en menos, se someterá siempre a nuevo trámite de competencia de proyectos la totalidad de la concesión, incluidas las modificaciones.*
+
+*En cualquier caso, las modificaciones, para ser tramitadas, se definirán en el proyecto de construcción, y en éste se recogerán con el mismo grado de definición las obras ya ejecutadas, si las hay, y su valoración.*
+
+(Apartados 2 y 3 redactados de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+4\. Si las modificaciones del apartado anterior se solicitasen una vez ejecutado el 20 por 100 del presupuesto de las obras proyectadas o con las obras ya concluidas y en fase de explotación, las variaciones que supongan disminución de las características indicadas se tramitarán con nueva competencia de proyectos de la totalidad de la concesión, si el Organismo de cuenca lo considera conveniente. Si supone aumento, se tramitarán con dicha competencia, limitando ésta únicamente a las diferencias que se pretendan aumentar, cuando estas diferencias superen el 10 por 100 y además superen también los límites marcados en el [artículo 128](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo128.htm) para la obligatoriedad de este tramite; en otro supuesto, se tramitarán sin competencia.
+
+*5\. Las variaciones en más o menos del 10 por ciento, indicadas en los artículos anteriores, a falta de otros criterios de valoración recogidos en el plan hidrológico de cuenca, se considerarán sobre el caudal para todas las finalidades de las concesiones, excepción hecha de las destinadas a producción hidroeléctrica, en las que esta variación se considerará sobre el denominado índice concesional, que queda definido como el producto del caudal expresado en metros cúbicos por segundo por el desnivel del tramo afectado en metros. Si el salto tuviera varias tomas o el aprovechamiento estuviera compuesto por varios saltos, el índice concesional será la suma de los productos indicados para cada toma.*
+
+*En caso de variaciones sucesivas, la comparación para determinar si aquéllas superan el 10 por ciento se hará siempre entre la concesión inicial y la resultante de la ultima variación en trámite.*
+
+(Apartado redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+6\. No obstante lo establecido en los apartados anteriores, los aprovechamientos hidroeléctricos situados en una corriente cuyo caudal este regulado por embalses, podrán ser autorizados para modificar sus instalaciones e incrementar la potencia instalada, con el fin de utilizar mejor el caudal regulado y concentrar la producción en las horas de mayor demanda, sin que para ello sea necesario el tramite de competencia.
+
+7\. Si la modificación supone un cambio en el destino de las aguas, se tramitará sin nueva competencia, siempre que se haya ejecutado el 20 por 100 del presupuesto de las obras proyectadas; en caso contrario, se someterá a nuevo tramite de competencia la concesión con su nueva finalidad, a no ser que esta no la precise de acuerdo con lo previsto en este Reglamento.
+
+**Art. 152.**
+
+1\. En los supuestos en que se ha previsto tramite de competencia, el Organismo de cuenca elegirá la petición de mayor importancia y utilidad de acuerdo con lo dispuesto en el artículo 58 de la Ley de Aguas (*se corresponde con el actual* [*artículo 60*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_60.htm) *del Texto Refundido de la Ley de Aguas*). Al concesionario primitivo se le reservará el derecho de tanteo sobre la petición preferida, si tuviera la misma finalidad, derecho que podrá ejercer en el plazo de un mes. Para hacer uso del mismo, deberá abonar al peticionario elegido el doble del coste del documento o documentos técnicos presentados. Si no utilizara el derecho de tanteo y hubiera salido a competencia de proyectos la totalidad de la concesión, caducará ésta y se otorgará nueva concesión a favor del peticionario elegido, quien deberá hacerse dueño de las obras utilizables, a juicio del Organismo de cuenca, de entre las ya ejecutadas, abonando al primitivo concesionario su importe, evaluado a los precios del proyecto.
+
+2\. Haya habido o no competencia de proyectos, si *se accediese a las modificaciones* solicitadas por el peticionario inicial o este hiciese uso del derecho de tanteo, el Organismo de cuenca fijará las condiciones de la nueva concesión y, entre ellas, la perdida de una parte proporcional de la fianza depositada, cuando haya habido reducción en las características.
+
+3\. En los restantes supuestos, se dictará resolución denegando la modificación y se mantendrán las características de la concesión inicial.
+
+4\. Al autorizar una variación, el Organismo de cuenca cuidará de que las variaciones del plazo de ejecución, si se estimarán necesarias, sean proporcionadas al aumento o disminución de obra y guarden relación con el plazo de ejecución de la concesión primitiva.
+
+**Art. 153.**
+
+*En las modificaciones que supongan aumento de caudal, cualquiera que sea la finalidad de la concesión, o aumento del tramo afectado en los aprovechamientos hidroeléctricos, se determinará el plazo resultante para la reversión de la concesión modificada, de acuerdo con la siguiente fórmula: P = (75 - T) V / 1 + V en la que V es el tanto por 1 de variación del caudal o del índice concesional; T es el plazo no transcurrido de la concesión anterior y P es el plazo que debe añadirse al que aún quedaba por disfrutar en la concesión anterior.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**Art. 154.**
+
+1\. Cuando para la normal utilización de una concesión fuese absolutamente necesaria la realización de determinadas obras, cuyo coste no pueda ser amortizado dentro del tiempo que falta por transcurrir hasta el final del plazo de la concesión, éste podrá prorrogarse por el tiempo preciso para que las obras puedan amortizarse, con un límite máximo de diez años y por una sola vez, siempre que dichas obras no se opongan al Plan Hidrológico correspondiente y se acrediten por el concesionario los perjuicios que se le irrogarían en caso contrario (Art. 57.6 de la LA, *se corresponde con el actual* [*artículo 59.6*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. A la solicitud de autorización para realizar las obras, se acompañará proyecto suscrito por técnico competente en el que se justificará la necesidad de aquéllas para la utilización normal de la concesión, se definirán y valorarán las mismas y se estudiará la prórroga precisa en el plazo concesional para su amortización, teniendo en cuenta el tiempo que le reste de disfrute de la concesión.
+
+**Art. 155.**
+
+1\. Los plazos de ejecución de las obras, podrán prorrogarse a instancia del concesionario, cuando acredite que el incumplimiento se ha debido a causas independientes de su voluntad, que apreciará la Administración, pudiendo ser denegada la prórroga cuando no se hubiese comunicado la causa generadora del retraso dentro de los treinta días siguientes a haberse producido.
+
+2\. La solicitud de prórroga, acompañada de la documentación justificativa, habrá de presentarse ante el Organismo de cuenca con anterioridad mínima de dos meses a la fecha en que expire el plazo cuya ampliación se solicita, describiendo la obra realizada y la que falta por ejecutar, con su valoración aproximada.
+
+3\. El Organismo a quien corresponda conocer de la prórroga, previos los informes que estime oportunos y vistas la documentación y circunstancias concurrentes, resolverá lo que estime pertinente. En caso de acceder a la prórroga, la concederá por el tiempo que estime necesario, pero cuidando de que las variaciones del plazo de ejecución sean proporcionadas a la obra que falta por ejecutar y al plazo primitivo. Asimismo, podrá ser impuesta una fianza complementaria.
+
+**SECCION 9.ª REVISION DE LAS CONCESIONES**  
+**Art. 156.**
+
+1\. Las concesiones podrán ser revisadas:
+
+-   a) Cuando se hayan modificado los supuestos determinantes de su otorgamiento.
+-   b) En casos de fuerza mayor a petición del concesionario.
+-   c) Cuando lo exija su adecuación a los Planes Hidrológicos.
+
+Sólo en el tercer caso, el concesionario perjudicado tendrá derecho a indemnización, de conformidad con lo dispuesto en la legislación general de expropiación forzosa (Art. 63 de la LA, *se corresponde con el actual* [*artículo 65*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_65.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Se considerará que se han modificado los supuestos a que hace referencia el epígrafe a) del apartado anterior cuando las circunstancias objetivas que sirvieron de base para el otorgamiento de la concesión hayan variado de modo que no sea posible alcanzar sustancialmente la finalidad de la concesión.
+
+3\. Por razones de tipo técnico e independientemente de las posibilidades de revisión de la concesión indicadas en el artículo 63 de la Ley de Aguas (*se corresponde con el actual* [*artículo 65*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_65.htm) *del Texto Refundido de la Ley de Aguas*), la Administración, dentro de sus facultades de inspección y vigilancia de las obras, podrá imponer modificaciones de un proyecto en curso de ejecución. Será condición precisa que las variaciones sean compatibles con todas las cláusulas de la concesión, excepción hecha de aquéllas en que se prescribe la obligación de ejecutar las obras con sujeción al proyecto aprobado.
+
+**Art. 157.**
+
+Los expedientes de revisión podrán ser iniciados de oficio o a instancia de parte, y su tramitación la realizará el Organismo de cuenca, con independencia de que la resolución corresponda al Organismo competente para el otorgamiento de la concesión de haberse tratado de una nueva petición.
+
+**Art. 158.**
+
+El Organismo de cuenca, como primer trámite, comprobará si la revisión puede implicar una modificación de las características esenciales de la concesión. Si tal modificación es imputable a causas ajenas a la voluntad del titular o no se han modificado dichas características, se tramitará de acuerdo con lo previsto en los artículos siguientes. En caso contrario, se ordenará la iniciación de un expediente de modificación de características, tramitado de acuerdo con lo dispuesto en los artículos correspondientes de este Reglamento. En todo caso, si la concesión hubiera sido otorgada por el Ministerio de Obras Públicas y Urbanismo, el expediente habrá de ser autorizado por este Departamento ministerial.
+
+**Art. 159.**
+
+Una vez acordada la iniciación del expediente de revisión, o iniciado este de oficio por el Organismo de cuenca, dicho Organismo redactará la propuesta motivada de revisión de la concesión, que será trasladada al concesionario, a fin de que, en el plazo de un mes, presente las alegaciones que crea convenientes. De estas alegaciones se dará vista al que haya solicitado la iniciación del expediente de revisión, si ésta no se ha producido de oficio, para que en el plazo de quince días manifieste lo que al respecto crea oportuno.
+
+**Art. 160.**
+
+El Organismo a quien corresponda conocer de la revisión, vistas las alegaciones de una y otra parte, si las hubiera, el resultado de la información pública realizada, si la misma se hubiera considerado necesaria por el Organismo de cuenca y los informes que estime oportunos solicitar o que sean preceptivos en los supuestos de concesión, proseguirá la tramitación según lo previsto en el [artículo 116](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo116.htm). En su caso, ordenará la iniciación del expediente de indemnización.
+
+**SECCION 10. EXTINCION DE LAS CONCESIONES**  
+**Art. 161.**
+
+1\. Las concesiones podrán declararse caducadas por incumplimiento de cualquiera de las condiciones esenciales o plazos en ellas previstos.
+
+2\. Asimismo, el derecho al uso privativo de las aguas, cualquiera que sea el título de su adquisición, podrá declararse caducado por la interrupción permanente de la explotación durante tres años consecutivos siempre que aquella sea imputable al titular (Art. 64 de la LA, *se corresponde con el actual* [*artículo 66*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_66.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. Cualquiera que sea la causa de la extinción del derecho, la misma se ajustará a lo indicado en el [artículo siguiente](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm).
+
+**Art. 162.**
+
+1\. Las concesiones se extinguirán por transcurso del plazo, por caducidad, expropiación forzosa o por renuncia del concesionario.
+
+2\. La extinción del derecho se producirá siempre sin perjuicio de tercero ni del interés publico. El Organismo que dicte la resolución en el expediente de extinción podrá imponer las condiciones que considere convenientes para evitar dichos perjuicios. El cumplimiento de estas condiciones será obligatorio para el titular del derecho extinguido y podrá exigirse por los procedimientos que la Ley de Procedimiento Administrativo señala. En el supuesto de que la extinción se haya producido por expropiación forzosa la compensación que en su caso proceda correrá a cargo del beneficiario de aquella.
+
+3\. Las servidumbres que puedan existir en favor de tercero sobre las obras que hayan de revertir al Estado deberán ser redimidas por el titular del derecho extinguido o aceptadas por el beneficiario de la expropiación, salvo que las servidumbres hayan sido impuestas con la aprobación de la Administración, en cuyo caso deberán ser respetadas o redimidas por ella o por el nuevo titular del aprovechamiento.
+
+4\. En los casos de extinción del derecho al uso privativo de aguas destinadas al riego o al abastecimiento de población, las personas físicas o jurídicas indicadas en el [artículo 140](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo140.htm) del presente Reglamento podrán solicitar una nueva concesión de aguas, cuya tramitación se ajustará a lo dispuesto en los artículos [140](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo140.htm) al [142](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo142.htm).
+
+Los usuarios de las aguas derivadas al amparo de los derechos extinguidos, indicados en el artículo 60.3 de la Ley de Aguas (*se corresponde con el actual* [*artículo 62.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_62.htm) *del Texto Refundido de la Ley de Aguas*), deberán ser considerados como parte interesada en los expedientes de extinción y, en consecuencia, ser oídos siempre antes de dictar resolución en los mismos.
+
+**Art. 163.**
+
+1\. Los expedientes de extinción podrán iniciarse de oficio o a instancia de parte y, en lo que les sea de aplicación, se ajustarán a las normas de este artículo, cualquiera que sea la causa de aquella.
+
+2\. La tramitación del expediente la llevará a cabo, en todo caso, el Organismo de cuenca, y la resolución del mismo la dictará el Organismo que haya reconocido el derecho u otorgado la concesión, de acuerdo con la Ley de Aguas. En los derechos existentes con anterioridad a la vigencia de dicha Ley, la resolución del expediente de extinción corresponderá al Organismo de cuenca, excepción hecha de aquellos relativos a concesiones otorgadas por orden ministerial.
+
+Cuando la resolución corresponda al Ministerio de Obras Públicas y Urbanismo, el Organismo de cuenca elevará al mismo el expediente de extinción con su propuesta. De la resolución se dará traslado al Organismo de cuenca a efectos de su constancia en el Registro de Aguas.
+
+3\. Todo expediente de extinción de derechos será sometido a información publica, mediante nota-anuncio que se publicará en el Boletín Oficial de la provincia o provincias donde radique la toma o se utilice el agua, así como en los Ayuntamientos correspondientes, haciendo constar en la nota-anuncio: Las características del derecho tal como figuren inscritas en el Registro de Aguas, la causa de la extinción, las servidumbres que sobre él se conozcan, sean como predio dominante o como predio sirviente y cualquier otra indicación que permita mejor identificar el derecho a extinguir. También se señalará en la misma nota-anuncio si el expediente se ha iniciado de oficio o a instancia de parte, indicando en este ultimo caso el peticionario y si este ha solicitado la concesión correspondiente. La información publica se realizará por un plazo no inferior a veinte días, durante el cual podrá comparecer por escrito ante el Organismo de cuenca cualquier persona, incluido el titular del derecho, que pueda resultar afectada por la extinción del mismo, manifestando cuanto considere conveniente.
+
+De los escritos presentados por los comparecientes se dará vista al titular del derecho a extinguir, si fuera conocido, y al que hubiera iniciado el expediente, si lo hubiera, a fin de que expongan lo que estimen oportuno.
+
+4\. En todo expediente de extinción de derechos, al mismo tiempo que se realiza la información publica, se remitirá a la Comunidad Autónoma donde radiquen las obras o se utilicen las aguas, copia de la documentación que hasta ese momento constituya el expediente, para que en el plazo de dos meses pueda manifestar lo que estime conveniente sobre las materias que sean de su competencia.
+
+5\. Las comunicaciones a los titulares de los derechos y a los restantes interesados en el tramite de audiencia previo al informe del servicio jurídico, si no se pudieran hacer directamente por no conocer su identidad o domicilio se efectuaran por medio de edictos publicados en el Boletín Oficial de la provincia o provincias afectadas, los cuales serán también expuestos en los Ayuntamientos de la ultima residencia conocida, así como del termino municipal donde radique la toma de aguas y de aquel donde las mismas sean utilizadas.
+
+**Art. 164.**
+
+1\. Los expedientes de extinción del derecho por transcurso del plazo de la concesión se podrán iniciar dos años antes de expirar su vigencia, de oficio o a instancia de parte.
+
+2\. Una vez realizada la información publica en la forma prevista en el apartado 3 del [artículo 163](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo163.htm), y previa citación del concesionario o interesados, si fueran conocidos su domicilio e identidad, el Organismo de cuenca llevara a cabo una visita de inspección de las obras e instalaciones de la concesión, levantando acta del estado de las mismas y de las manifestaciones de los presentes relativas al objeto del expediente.
+
+3\. A la vista del acta levantada y de los escritos presentados en el tramite de información publica, el servicio encargado del Organismo de cuenca informará sobre las reparaciones necesarias para las obras que deban revertir al Estado, así como sobre las obras relativas a las servidumbres a que se refiere el apartado 3 del [artículo 162](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm) y propondrá la fecha de reversión procedente, de conformidad con las condiciones de la concesión y las modificaciones que hayan podido probarse.
+
+4\. Se dará vista del expediente por plazo de quince días al concesionario y restantes interesados mediante notificación directa o por medio de edictos, en su caso efectuado el tramite de vista y audiencia y, previo informe del Servicio Jurídico, el Organismo de cuenca dictará resolución o elevará la oportuna propuesta al Ministerio de Obras Públicas y Urbanismo.
+
+**Art. 165.**
+
+1\. En los supuestos de incumplimiento de alguna de las condiciones esenciales de una concesión o de los plazos en ellas previstos, o cuando un derecho al uso privativo de las aguas, cualquiera que sea el título de su adquisición, haya permanecido sin explotar durante tres años consecutivos por causas imputables al titular, el Organismo de cuenca podrá iniciar el correspondiente expediente de extinción del derecho, notificándolo al titular del mismo, si fuera conocido, con expresión de las razones que motivan dicha iniciación, a fin de que aquel formule las alegaciones que en su defensa considere oportuno.
+
+2\. Si no se conociera la identidad y domicilio del titular del derecho, o éste no compareciera, o habiendo comparecido no se considerase suficiente lo alegado para resolver el expediente en el sentido de decretar su archivo por no haberse dado motivos de caducidad, se proseguirá la tramitación mediante la información publica indicada en el apartado 3 del [artículo 163](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo163.htm) y, una vez terminada esta, se realizará una visita de reconocimiento del aprovechamiento, citándose a los interesados, con identidad y domicilio conocidos, y a los Ayuntamientos en cuyos términos radiquen las obras o se utilicen las aguas. En la visita se levantara acta del estado de funcionamiento y de la situación de la concesión en relación con las condiciones que se presumen incumplidas, recogiéndose también en la misma las manifestaciones y comprobaciones que al respecto se hagan.
+
+3\. A la vista del acta, de los escritos presentados en el tramite de información publica y del resultado de las comprobaciones que se estime conveniente realizar, el Servicio competente del Organismo de cuenca informará sobre la existencia o no de motivos de caducidad, reparaciones necesarias en las obras que deban revertir al Estado y servidumbres a que se refiere el apartado 3 del [artículo 162](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm), así como sobre las condiciones en que podría rehabilitarse el derecho.
+
+4\. Por notificación directa o mediante edictos, en su caso, se dará tramite de vista del expediente a todos los interesados, para que en el plazo de quince días manifiesten lo que consideren conveniente.
+
+El Organismo de cuenca dictará resolución motivada o elevará propuesta al Ministerio de Obras Públicas y Urbanismo sobre el expediente, recogiendo si han existido o no motivos de caducidad que sean imputables al titular del derecho y la procedencia o no de decretar el archivo del expediente sin más consecuencias o la caducidad o rehabilitación del derecho, si esta última fuera posible y así se hubiera solicitado. Para la caducidad o rehabilitación se fijarán las condiciones que habrán de imponerse de acuerdo con lo establecido en el apartado 3 del [artículo 162](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm) y en el [artículo 168](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo168.htm) de este Reglamento.
+
+**Art. 166.**
+
+1\. Toda concesión esta sujeta a expropiación forzosa, de conformidad con lo dispuesto en la legislación general sobre la materia, a favor de otro aprovechamiento que le preceda según el orden de preferencia establecido en el Plan Hidrológico de cuenca (Art. 58.2 de la LA, *se corresponde con el actual* [*artículo 60.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_60.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Una vez acreditado el pago del justiprecio o de su equivalente, se iniciara por el Organismo de cuenca el expediente de extinción del derecho expropiado con la información pública indicada en el apartado 3 del [artículo 163](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo163.htm) y, terminada ésta y realizada visita de reconocimiento sobre el terreno con asistencia de los interesados, si aquélla se considera necesaria, el Servicio encargado del Organismo de cuenca emitirá informe sobre las condiciones a imponer al expropiante y las servidumbres a respetar por el mismo, de acuerdo con lo indicado en los apartados 2 y 3 del [artículo 162](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm) del presente Reglamento.
+
+3\. Del expediente se dará tramite de vista, por plazo de quince días, al expropiante y restantes interesados que hayan comparecido y, previo nuevo informe del Servicio encargado del Organismo de cuenca, si se considera preciso, y en todo caso el del Servicio Jurídico, el Organismo de cuenca resolverá o elevará propuesta al Ministerio de Obras Públicas y Urbanismo.
+
+4\. El expediente indicado en los apartados 2 y 3 de este artículo podrá ser tramitado antes del expediente expropiatorio, si así lo solicita el posible beneficiario de la expropiación. En este caso, el expediente no tendrá mas finalidad que determinar, para conocimiento del peticionario, la ejecución de obras, respeto de servidumbres y reposiciones a que quedará obligado si se expropia el derecho de inferior categoría.
+
+**Art. 167.**
+
+1\. El titular de un derecho al uso privativo de las aguas podrá renunciar al mismo cuando no vaya en perjuicio del interés general o de terceros. La renuncia, para causar efectos administrativos, tendrá que ser aceptada por la Administración, la cual podrá imponer las condiciones y obligaciones derivadas de lo establecido en los anteriores artículos [162](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm) y [168](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo168.htm).
+
+2\. La renuncia del titular del derecho iniciará el expediente de extinción de aquel y será sometida a información publica según lo indicado en el apartado 3 del [artículo 163](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo163.htm).
+
+3\. Una vez concluida ésta se realizará una visita de reconocimiento de las obras e instalaciones correspondientes, con asistencia del titular del derecho y de los restantes interesados que hayan comparecido. En dicha visita se levantará acta del estado de las obras e instalaciones, recogiendo también en la misma las manifestaciones de los presentes, en relación con el objeto del expediente.
+
+4\. A la vista del acta levantada y de los escritos presentados, el Servicio encargado del Organismo de cuenca informará sobre las obras y servidumbres a que se refiere el apartado 3 del [artículo 162](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm).
+
+5\. Del expediente se dará tramite de audiencia por plazo de quince días al titular y restantes interesados que hayan comparecido, para que manifiesten lo que consideren conveniente.
+
+6\. Tras nuevo informe del Servicio encargado del Organismo de cuenca, si se considera preciso, y en todo caso previo informe del Servicio Jurídico, el Organismo de cuenca dictará resolución motivada o elevará la correspondiente propuesta al Ministerio de Obras Públicas y Urbanismo.
+
+7\. No se admitirá la renuncia, ni se acordará la extinción del derecho, en tanto el titular no haya cumplido las obligaciones que se le impongan o haya afianzado su cumplimiento, en los términos que determine el Organismo de cuenca.
+
+8\. Si se trata de un aprovechamiento con distintos titulares, la renuncia afectará solamente a quienes la hubieran formulado. En este caso, el Organismo de cuenca incoará el oportuno expediente de revisión de características, que se instruirá sin tramite de competencia.
+
+**Art. 168.**
+
+1\. La declaración de caducidad de un derecho al uso privativo de las aguas o la admisión de la renuncia al mismo supondrá, sin perjuicio de lo indicado en el artículo 51 de la Ley de Aguas (*se corresponde con el actual* [*artículo 53*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm) *del Texto Refundido de la Ley de Aguas*) y cualquiera que sea su situación, el cumplimiento de las obligaciones derivadas del apartado 3 del [artículo 162](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm) o el afianzamiento del mismo en los términos que el Organismo de cuenca fije y además de la perdida la fianza constituida para responder de la ejecución de las obras, en el supuesto de que estas no se hubieran concluido.
+
+2\. La rehabilitación del derecho, si la concesión se encuentra en periodo de ejecución de obras, supondrá la perdida de la fianza inicialmente constituida para responder de aquella ejecución, y la obligación de constituir una nueva con la misma finalidad, por un importe igual al 5 por 100 del coste de las obras que falten por realizar, valorado a precios actualizados.
+
+3\. Cualquiera que sea la situación respecto a la ejecución de las obras, en los casos de caducidad o rehabilitación de los derechos, se iniciará, además, el expediente sancionador previsto en el artículo 108, c), de la Ley de Aguas (*se corresponde con el actual* [*artículo 116, c)*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_116.htm) *del Texto Refundido de la Ley de Aguas*), si procediere.
+
+**Art. 169.**
+
+1\. Los derechos al uso privativo de las aguas adquiridos por disposición legal podrán extinguirse por cualquiera de las causas indicadas en los apartados b), c) o d) del artículo 51 de la Ley de Aguas (*se corresponde con el actual* [*artículo 53*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm) *del Texto Refundido de la Ley de Aguas*) y la tramitación del expediente de extinción del derecho se ajustará a lo indicado en los artículos [162](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm), [163](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo163.htm) y [166](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo166.htm) del presente Reglamento, cuando la causa de extinción sea la expropiación forzosa.
+
+2\. Si la causa de extinción del derecho es la renuncia expresa del titular del mismo, ésta será sometida a información pública, al mismo tiempo que se remite a la Comunidad Autónoma donde radiquen las obras o se utilicen las aguas, copia del expediente, para que en el plazo de dos meses pueda manifestar lo que estime conveniente sobre las materias de su competencia. La renuncia será admitida, previo informe del Servicio Jurídico, sin más limitaciones que las que puedan derivarse de los artículos [162](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm) y [167](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo167.htm).
+
+3\. Si la causa de la extinción del derecho es la indicada en el apartado b) del artículo 51.1 de la Ley de Aguas (*se corresponde con el actual* [*artículo 53.1 b)*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm) *del Texto Refundido de la Ley de Aguas*), una vez realizadas las comprobaciones que el Organismo de cuenca considere oportunas sobre la existencia de la causa de caducidad, y con los informes indicados en el apartado anterior y la audiencia del titular, al que se dará vista del expediente mediante notificación directa o edictos, en su caso, el Organismo de cuenca resolverá o elevará al Ministerio de Obras Públicas y Urbanismo la correspondiente propuesta.
+
+**Art. 170.**
+
+1\. Las concesiones otorgadas para la extracción de áridos en cauce público, se extinguirán en los mismos supuestos previstos en el artículo 51.1 de la Ley de Aguas (*se corresponde con el actual* [*artículo 53.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm) *del Texto Refundido de la Ley de Aguas*). Las normas generales aplicables a estas extinciones y la forma de tramitar los expedientes serán similares a las recogidas en los artículos [162](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo162.htm) al [168](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo168.htm) de este Reglamento, con las peculiaridades derivadas de la naturaleza de estas concesiones.
+
+2\. Sin perjuicio de lo dispuesto en el artículo 51.4 de la Ley de Aguas (*se corresponde con el actual* [*artículo 53.4*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_53.htm) *del Texto Refundido de la Ley de Aguas*), al extinguirse las concesiones para extracción de áridos en cauce público, el Organismo de cuenca velará especialmente por el cumplimiento de las condiciones fijadas en el documento concesional referentes a los aspectos hidráulico, ecológico y paisajístico.
+
+**SECCION 11. ALUMBRAMIENTO Y UTILIZACION DE AGUAS SUBTERRANEAS**  
+**Art. 171**
+
+*1\. El Organismo de cuenca competente, oído el Consejo del Agua, podrá declarar que los recursos hidráulicos subterráneos de una zona están sobreexplotados o en riesgo de estarlo. En estas zonas el Organismo de cuenca, de oficio o a propuesta de la comunidad de usuarios u órgano que la sustituya, conforme al* [*artículo 87.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_87.htm) *del texto refundido de la Ley de Aguas, aprobará, en el plazo máximo de dos años desde la declaración, un plan de ordenación para la recuperación del acuífero o unidad hidrogeológica. Hasta la aprobación del plan, el Organismo de cuenca podrá establecer las limitaciones de extracción que sean necesarias como medida preventiva y cautelar.*
+
+*El referido plan ordenará el régimen de extracciones para lograr una explotación racional de los recursos, y podrá establecer la sustitución de las captaciones individuales preexistentes por captaciones comunitarias, transformándose, en su caso, los títulos individuales con sus derechos inherentes en uno colectivo que deberá ajustarse a lo dispuesto en el plan de ordenación, de acuerdo con lo dispuesto en el* [*artículo 56.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_56.htm) *del texto refundido de la Ley de Aguas.*
+
+*2\. A los efectos previstos en el apartado anterior, se considerará que los recursos subterráneos de una zona están sobreexplotados o en riesgo de estarlo cuando se dé alguna de las siguientes condiciones:*
+
+-   *a) Que se esté poniendo en peligro la subsistencia de los aprovechamientos de aguas subterráneas existentes o de los actuales ecosistemas directamente asociados a estas aguas que hayan sido objeto de delimitación y posterior declaración conforme a la legislación ambiental, como consecuencia de que se vinieran realizando en los acuíferos de la zona extracciones medias anuales superiores o muy próximas al volumen medio interanual de recarga.*
+-   *b) Que se vengan realizando extracciones que generen un deterioro significativo de la calidad del agua.*
+-   *c) Que el régimen y concentración de las extracciones sea tal que, aun no existiendo un balance global desequilibrado, se esté poniendo en peligro la sostenibilidad de los aprovechamientos a largo plazo.*
+
+*3\. El procedimiento de declaración se iniciará de oficio, por acuerdo de la Junta de Gobierno del Organismo de cuenca, a instancia de la comunidad de usuarios del acuífero, o a instancia de usuarios que acrediten estar utilizando, al menos, la mitad del volumen medio interanual extraído legalmente.*
+
+*4\. Iniciado el procedimiento, el Organismo de cuenca elaborará un estudio sobre la situación del acuífero en el que se justifique, en su caso, la procedencia de la declaración y podrá solicitar al efecto informe del Instituto Geológico y Minero de España. Para la elaboración del estudio se considerarán los datos y determinaciones de los planes hidrológicos que procedan, así como la posible información existente que pudiera complementarlos o actualizarlos.*
+
+*5\. Elaborado el estudio, se someterá a dictamen del Consejo del Agua de la cuenca, en cuyo informe deberán indicarse tanto la procedencia de la declaración como, en su caso, las rectificaciones sugeridas para la adaptación parcial del plan hidrológico de cuenca correspondiente, de acuerdo con lo establecido para el proceso de revisión de los planes. A estos efectos, será suficiente la constatación motivada de la sobreexplotación, sin que deban incluirse propuestas que resulten propias del plan de ordenación. Examinado este informe, la Junta de Gobierno resolverá expresa y motivadamente sobre la declaración de acuífero sobreexplotado o en riesgo de estarlo.*
+
+*Esta declaración delimitará el perímetro de la zona afectada y llevará aparejados los siguientes efectos:*
+
+-   *a) Paralización de todos los expedientes de autorización de investigación o de concesión de aguas subterráneas dentro de aquél, excepto las destinadas a abastecimiento de población que no puedan ser atendidas con otros recursos alternativos.*
+-   *b) Suspensión del derecho establecido en el* [*artículo 54.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm) *del texto refundido de la Ley de Aguas para la apertura de nuevas captaciones. Este tipo de uso queda sometido, durante la vigencia de la situación de sobreexplotación, al régimen de autorización que se haya establecido expresamente para ésta en la declaración, sin que ello dé lugar a indemnización.*
+-   *c) Paralización de todos los expedientes de modificación de características de las concesiones de aguas subterráneas que se encuentren en tramitación, excepto aquellas cuyo objetivo sea el mero mantenimiento del caudal extraído en el momento de la declaración.*
+-   *d) Establecimiento de las limitaciones de extracción o criterios de explotación que sean necesarios como medida preventiva y cautelar hasta la aprobación del plan de ordenación.*
+-   *e) Constitución forzosa de la comunidad de usuarios de los acuíferos de la zona, si no existiese, por aplicación del* [*artículo 87*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_87.htm) *del texto refundido de la Ley de Aguas. La definición del perímetro de la comunidad se basará en el ámbito territorial de la utilización de los recursos hídricos y en la definición hidrogeológica de las unidades o acuíferos afectados según el plan hidrológico de cuenca, y podrá, de forma motivada, matizarse esta definición con otras consideraciones locales tendentes a facilitar un uso más racional de los recursos disponibles o una mayor protección del dominio público hidráulico.*
+-   *f) Remisión al Gobierno de la propuesta del Consejo del Agua sobre modificaciones del plan hidrológico, de conformidad con lo regulado en el proceso de seguimiento y revisión de los planes hidrológicos de cuenca.*
+-   *g) Redacción por el Organismo de cuenca, oída la comunidad de usuarios, de un plan de ordenación de las extracciones para lograr una explotación racional de los recursos, procurando el mantenimiento de los aprovechamientos existentes y la sostenibilidad de ecosistemas actuales directamente vinculados a los acuíferos de la zona.*
+
+*6\. El plan de ordenación a que se refiere el apartado anterior:*
+
+-   *a) Ordenará el régimen de extracciones del perímetro delimitado, pudiendo establecer la sustitución de las captaciones individuales existentes por captaciones comunitarias, transformándose, en su caso, los títulos individuales con sus derechos inherentes en uno colectivo que deberá ajustarse a lo que el propio plan establezca.*
+-   *b) Podrá proponer las medidas técnicas y administrativas que estime oportunas para la mejor utilización del dominio público hidráulico en la zona afectada.*
+-   *c) Será de obligado cumplimiento para todos los aprovechamientos existentes, incluyendo los reconocidos en el* [*artículo 54.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm) *del texto refundido de la Ley de Aguas y los derechos sobre aguas privadas a que se refiere la disposición transitoria tercera de la Ley 29/85, de 2 de agosto, de Aguas, sin que ello dé derecho a indemnización.*
+-   *d) Podrá proponer la celebración de convenios con la comunidad de usuarios u órgano representativo equivalente, en los que se prevea, entre otras determinaciones, el apoyo económico y técnico del Organismo de cuenca a la comunidad de usuarios u órgano representativo para el cumplimiento de los términos del plan.*
+-   *e) Fijará su plazo de ejecución y de vigencia de sus determinaciones, y podrán adoptarse diferentes fases de implantación según los resultados que se vayan obteniendo.*
+-   *f) Será sometido a información pública e informe del Consejo del Agua de la cuenca, y será aprobado por la Junta de Gobierno del Organismo en el plazo máximo de dos años desde la declaración de sobreexplotación.*
+
+*7\. Una vez aprobado, el control de la ejecución del plan corresponderá a una junta de explotación cuya constitución se acordará junto con la aprobación. Esta junta elaborará un informe anual de seguimiento, con las propuestas de modificación que estime procedentes. La Junta de Gobierno del Organismo de cuenca podrá acordar dichas modificaciones, previo informe de la comunidad de usuarios u órgano representativo equivalente.*
+
+*8\. Si al término del plazo establecido para la ejecución del plan se hubiesen alcanzado los objetivos fijados en éste, las ordenanzas de la comunidad se adaptarán al nuevo régimen de explotación. En caso contrario, la Junta de Gobierno del Organismo de cuenca deberá acordar prórrogas bianuales del plan, con las modificaciones que estimara oportunas.*
+
+*9\. Las principales determinaciones y efectos conseguidos por el plan de ordenación deberán incorporarse a la siguiente revisión completa del plan hidrológico de la cuenca.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**Art. 172.**
+
+1\. El Organismo de cuenca podrá determinar perímetros dentro de los cuales no será posible el otorgamiento de nuevas concesiones de aguas subterráneas, a menos que los titulares de las preexistentes estén constituidos en Comunidades de Usuarios, de acuerdo con lo dispuesto en el capítulo IV del título IV de la Ley de Aguas (Art. 54.2 de la LA, *se corresponde con el actual* [*artículo 56.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_56.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. La determinación de estos perímetros se efectuará mediante resolución motivada de la Junta de Gobierno del Organismo. El expediente se incoará, bien de oficio, bien a instancia de los usuarios que acrediten estar utilizando el 50 por 100 del volumen de agua extraído del acuífero que se pretende proteger. Será preceptiva la audiencia expresa del Consejo del Agua del Organismo de cuenca.
+
+3\. Constituida la Comunidad de Usuarios, el Organismo de cuenca le transferirá la titularidad única de todas las concesiones de aguas subterráneas interiores al perímetro.
+
+Las sucesivas concesiones de aguas subterráneas que pudieran producirse se otorgarán, dentro del perímetro, a nombre de la Comunidad de Usuarios.
+
+**Art. 173.**
+
+1\. El Organismo de cuenca podrá determinar perímetros de protección del acuífero en los que será necesaria su autorización para la realización de obras de infraestructura, extracción de áridos u otras actividades e instalaciones que puedan afectarlo (Art. 54.3 de la LA, *se corresponde con el actual* [*artículo 56.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_56.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Los perímetros a que se refiere el apartado anterior tendrán por finalidad la protección de captaciones de agua para abastecimiento a poblaciones o de zonas de especial interés ecológico, paisajístico, cultural o económico.
+
+3\. La delimitación de los perímetros se efectuara por la Junta de Gobierno del Organismo de cuenca, previo informe del Consejo de Agua. El procedimiento se iniciará de oficio en las áreas de actuación del Organismo de cuenca, o a solicitud de la autoridad medioambiental, municipal o cualquier otra en que recaigan competencias sobre la materia.
+
+4\. Dentro del perímetro establecido, el Organismo de cuenca podrá imponer limitaciones al otorgamiento de nuevas concesiones de aguas y autorizaciones de vertido, con objeto de reforzar la protección del acuífero. Dichas limitaciones se expresarán en el documento de delimitación del perímetro y se incluirán en el Plan Hidrológico de la cuenca.
+
+5\. Asimismo, podrán imponerse condicionamientos en el ámbito del perímetro a ciertas actividades o instalaciones que puedan afectar a la cantidad o a la calidad de las aguas subterráneas. Dichas actividades o instalaciones se relacionarán en el documento de delimitación del perímetro y precisarán para ser autorizadas por el organismo competente el informe favorable del Organismo de cuenca.
+
+6\. Las instalaciones o actividades a que se refiere el apartado anterior serán las siguientes:
+
+-   a) Obras de infraestructura: minas, canteras, extracción de áridos.
+-   b) Actividades urbanas: fosas sépticas, cementerios, almacenamiento, transporte y tratamiento de residuos sólidos o aguas residuales.
+-   c) Actividades agrícolas y ganaderas: deposito y distribución de fertilizantes y plaguicidas, riego con aguas residuales y granjas.
+-   d) Actividades industriales: almacenamiento, transporte y tratamiento de hidrocarburos líquidos o gaseosos, productos químicos, farmacéuticos y radiactivos, industrias alimentarias y mataderos.
+-   e) Actividades recreativas: campings, zonas de baños.
+
+7\. Los condicionamientos establecidos en los perímetros de protección a que se refiere el artículo 54.3 de la Ley de Aguas (*se corresponde con el actual* [*artículo 56.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_56.htm) *del Texto Refundido de la Ley de Aguas*) y este Reglamento, deberán ser tenidos en cuenta en los diferentes planes urbanísticos o de ordenación del territorio con los que se relacionen.
+
+**Art. 174.**
+
+1\. Los titulares de aprovechamientos mineros previstos en la legislación de minas podrán utilizar las aguas que capten con motivo de las explotaciones, dedicándolas a finalidades exclusivamente mineras. A estos efectos, deberán solicitar la correspondiente concesión, tramitada conforme a lo previsto en la Ley de Aguas (artículo 55.1, *se corresponde con el actual* [*artículo 57.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_57.htm) *del Texto Refundido de la Ley de Aguas*)) y en el presente Reglamento.
+
+2\. La solicitud se dirigirá al Organismo de cuenca correspondiente, y deberá acompañarse de la siguiente documentación:
+
+-   a) Memoria expresiva de la titularidad del derecho minero correspondiente, de las labores mineras realizadas y de todas las circunstancias de la captación de agua.
+-   b) Proyecto de utilización del agua para fines exclusivamente mineros.
+
+3\. El procedimiento para el otorgamiento de la concesión será en todo lo demás el previsto para las aguas superficiales en los artículos [104](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo104.htm) y siguientes.
+
+**Art. 175.**
+
+1\. Si existieran aguas sobrantes, el titular del aprovechamiento minero las pondrá a disposición del Organismo de cuenca, que determinará el destino de las mismas o las condiciones en que deba realizarse el desagüe, atendiendo especialmente a su calidad (Art. 55.2 de la LA, *se corresponde con el actual* [*artículo 57.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_57.htm) *del Texto Refundido de la Ley de Aguas*). A este ultimo fin, será de aplicación lo dispuesto en la Ley de minas y en el presente Reglamento.
+
+2\. Los gastos inherentes al desagüe de la explotación minera correrán por cuenta del titular de la explotación.
+
+3\. El Organismo de cuenca podrá otorgar concesiones de aprovechamiento de las aguas sobrantes de explotaciones mineras que sean puestas a su disposición. Tales concesiones serán siempre a precario, sin que su titular consolide derecho alguno ni pueda reclamar indemnización en el caso de reducción o modificación de las características de los caudales concedidos derivadas del aprovechamiento minero.
+
+**Art. 176.**
+
+1\. Cuando las aguas captadas en labores mineras afecten a otras concesiones, se estará a lo dispuesto al efecto en la Ley de Aguas (Art. 55.3 de la LA, *se corresponde con el actual* [*artículo 57.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_57.htm) *del Texto Refundido de la Ley de Aguas*) y en el presente Reglamento.
+
+2\. Lo establecido en el punto anterior no será de aplicación a los concesionarios de aguas otorgadas dentro de cuadriculas mineras preexistentes, los cuales no tendrán derecho a indemnización si sus caudales se ven afectados por el normal desarrollo de las labores mineras.
+
+**Art. 177.**
+
+1\. Se entiende por investigación de aguas subterráneas, a efectos del presente Reglamento, al conjunto de operaciones destinadas a determinar su existencia, incluyendo las labores de profundización en el terreno, de alumbramiento y de aforo de los caudales obtenidos.
+
+2\. La investigación de aguas subterráneas requiere autorización previa del Organismo de cuenca, excepto para las captaciones sometidas al artículo 52.2 de la Ley de Aguas (*se corresponde con el actual* [*artículo 54.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. No quedarán sometidas al régimen previsto en esta [sección 11](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo171.htm) las investigaciones de aguas subterráneas que lleve a cabo la Administración como parte integrante de estudios generales sobre acuíferos, sin perjuicio de su notificación previa al Organismo de cuenca.
+
+**Art. 178.**
+
+1\. Los propietarios de terrenos afectados por las peticiones de investigación de aguas subterráneas gozarán de preferencia para el otorgamiento de la autorización, dentro del mismo orden de prelación al que se refiere el artículo 58 de la Ley de Aguas (*se corresponde con el actual* [*artículo 60*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_60.htm) *del Texto Refundido de la Ley de Aguas*) (Art. 65 de la LA, *se corresponde con el actual* [*artículo 73*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_73.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. No podrán autorizarse peticiones de investigación de aguas subterráneas en los terrenos objeto de concesiones de explotación minera, ni dentro de los perímetros de protección de recursos que establece la Legislación de Minas, sin conocimiento de su titular o de los Organismos interesados y previa estipulación de resarcimiento de daños y perjuicios. En caso de desavenencia, la autoridad minera fijara las condiciones de la indemnización a que hubiera lugar.
+
+**Art. 179.**
+
+1\. El Organismo de cuenca podrá otorgar autorización para investigación de aguas subterráneas con el fin de determinar la existencia de caudales aprovechables, previo trámite de competencia entre los proyectos de investigación concurrentes que pudieran presentarse (Art. 66.1 de la LA, *se corresponde con el actual* [*artículo 74.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_74.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Cualquier persona natural o jurídica podrá solicitar autorización de investigación de aguas subterráneas. La solicitud deberá dirigirse al Organismo de cuenca correspondiente, indicando los datos relativos a la persona o entidad solicitante y acreditando ostentar la propiedad de los terrenos en que se pretende realizar las labores o, si no fuese así, incluyendo el nombre y domicilio de los propietarios. Dicha solicitud deberá acompañarse de un proyecto de investigación que recoja:
+
+-   a) Memoria explicativa del objeto a que hayan de ser dedicadas las aguas, zonas a que alcance y términos a que afecten, situación, características y duración prevista de las obras, descripción de las labores necesarias para llevar a cabo las obras proyectadas y el sistema y puntos de evacuación de detritus y caudales.
+-   b) Plano general del terreno o zona de alumbramiento, en el que se señalen los aprovechamientos existentes, las corrientes de agua naturales y artificiales, los manantiales y los pozos, los caminos y minas que existan en toda la extensión de dichas zonas, planos de detalle de las obras y sus circunstancias, diámetros y profundidades, así como cualquier otra dimensión de las obras que se proyecten.
+-   c) Presupuesto aproximado de las obras.
+-   d) Usos y finalidades del aprovechamiento. Si el uso fuera el riego, informe agronómico suscrito por técnico competente sobre conveniencia de la transformación y compromiso de acreditar su condición de titular de los terrenos a que se destinará el agua, o de la conformidad de los titulares que reúnan la mitad de la superficie regable.
+-   e) Régimen de explotación con indicación del caudal máximo instantáneo y volumen anual que se prevé utilizar.
+-   f) Documento acreditativo de haber constituido fianza o aval a disposición del Organismo de cuenca para el caso de que se le otorgue la autorización y con el fin de garantizar el cumplimiento de las obligaciones derivadas de la misma. El importe de la fianza o aval será equivalente al 4 por 100 del presupuesto de las obras.
+
+3\. Recibida la solicitud, el Organismo de cuenca la tramitará por el procedimiento previsto en los artículos [105](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo105.htm) y siguientes, con la salvedad de que deberá comunicar individualmente la iniciación del procedimiento al propietario del terreno donde se pretenda la investigación si éste no fuese el solicitante, informándole del derecho de prioridad que le asiste para obtener la autorización.
+
+4\. Los titulares de proyectos en competencia que no hubiesen obtenido autorización de investigación, podrán retirar las fianzas constituidas una vez obtenido el correspondiente certificado del Organismo de cuenca.
+
+**Art. 180.**
+
+1\. El plazo de autorización no podrá exceder de dos años y su otorgamiento llevara implícita la declaración de utilidad pública a efectos de la ocupación temporal de los terrenos necesarios para la realización de las labores (Art. 66.2 de la LA, *se corresponde con el actual* [*artículo 74.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_74.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. El Organismo de cuenca establecerá las condiciones que procedan en las autorizaciones de investigación que otorgue, que, en su caso, se ajustarán a las normas fijada para cada acuífero o unidad hidrogeológica en el Plan Hidrológico de cuenca. En particular, podrá establecer:
+
+-   a) La duración de la autorización.
+-   b) Caudal máximo instantáneo y volumen anual máximo explotable.
+-   c) Normas técnicas de ejecución, como situación de zonas filtrantes, sellado de acuíferos, aislamientos y aquellas otras que resulten convenientes para la mejor conservación de los acuíferos.
+-   d) Aforos, ensayos y análisis a realizar.
+-   e) Para el caso de que la investigación resultase negativa o no interesase la explotación, las normas para el sellado de la perforación y la restitución del terreno a las condiciones iniciales.
+
+3\. Antes de transcurridos los dos meses siguientes a la finalización del plazo de la autorización de investigación, el titular de la misma esta obligado a comunicar al Organismo de cuenca los resultados obtenidos, presentando documentación sobre los siguientes extremos:
+
+-   a) Corte geológico de los terrenos atravesados.
+-   b) Niveles piezométricos encontrados.
+-   c) Características de las obras realizadas en cuanto a profundidades, diámetros, entubación, zonas de filtros y demás características de orden técnico.
+-   d) Aforos, ensayos o análisis, si su realización ha sido fijada preceptivamente en la autorización de investigación.
+-   e) Características de las instalaciones elevadoras y caudales máximos extraibles, en su caso.
+
+4\. Si la investigación fuera favorable, el interesado deberá, en un plazo de seis meses, formalizar la petición de concesión, que se tramitará sin competencia de proyectos (Art. 66.3 de la LA, *se corresponde con el actual* [*artículo 74.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_74.htm) *del Texto Refundido de la Ley de Aguas*).
+
+La autorización de investigación concede a su titular el derecho a que, si solicitara concesión de aprovechamiento y no se presumiera la existencia de perjuicios a terceros, se le otorgará en los mismos términos contenidos en aquella sobre el volumen de aguas extraible y destino de las mismas.
+
+**Art. 181.**
+
+El Organismo de cuenca, por propia iniciativa o en cumplimiento de lo dispuesto en el Plan Hidrológico, podrá convocar concurso para investigación de aguas subterráneas.
+
+La convocatoria se hará publica de acuerdo con el procedimiento general establecido para las concesiones en el presente Reglamento, y en la misma se indicaran las particularidades de las obras a realizar, de los terrenos en que deban desarrollarse las labores, volumen de agua a alumbrar y demás circunstancias que hayan motivado el concurso. De igual modo, contendrá cuantas previsiones disponga el Plan Hidrológico, así como el plazo para la presentación de proyectos.
+
+**Art. 182.**
+
+Los expedientes que se tramiten para el otorgamiento de autorizaciones de investigación se archivaran por las siguientes causas:
+
+-   a) Si la solicitud no reuniera los requisitos establecidos y no se subsanaran sus defectos en el plazo concedido para ello.
+-   b) Desistimiento del interesado o incumplimiento de los plazos señalados.
+-   c) Faltas de prestación, por el peticionario, de la fianza o el aval reglamentarios en la cuantía, forma y plazo anteriormente determinados.
+-   d) Aquellas, distintas de las anteriores, que, previstas en la Ley de Procedimiento Administrativo, Ley de Aguas o este Reglamento, determinen la terminación del procedimiento.
+
+La terminación de los expedientes se hará publica del mismo modo que la convocatoria de proyectos de investigación y, además, se notificará individualmente a todos los licitadores en competencia.
+
+**Art. 183.**
+
+1\. Las autorizaciones de investigación de aguas subterráneas se extinguen:
+
+-   a) Por renuncia voluntaria y expresa de su titular, aceptada por el Organismo de cuenca.
+-   b) Por falta de comunicación, en los plazos reglamentarios, de los resultados de la investigación.
+-   c) Por incumplimiento de las condiciones impuestas en el otorgamiento de la autorización.
+-   d) Por cualquier otra causa prevista en la Ley de Procedimiento Administrativo, Ley de Aguas o este Reglamento, siempre que lleve aparejada la caducidad.
+
+La declaración de extinción de las autorizaciones de investigación se adoptará por el Organismo de cuenca que deberá, con carácter previo, comunicarlo a su titular concediéndole un plazo de quince días para formular alegaciones. La resolución se hará publica del mismo modo que la convocatoria de proyectos en competencia y, además, se notificará individualmente a quienes los hubieran presentado.
+
+2\. El titular de una autorización que se hubiese extinguido, deberá dejar el lugar donde se realizaron los trabajos en las mismas condiciones en que estaba y, en todo caso, en las previstas en el otorgamiento de la autorización. Una vez cumplida esta obligación, el Organismo de cuenca expedirá el oportuno certificado, para que pueda ser retirado el aval o fianza constituido.
+
+**Art. 184.**
+
+1\. Todo aprovechamiento de aguas subterráneas distinto a los considerados en el artículo 52.2 de la Ley de Aguas (*se corresponde con el actual* [*artículo 54.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm) *del Texto Refundido de la Ley de Aguas*), requiere previa concesión administrativa. La concesión deberá ajustarse a las siguientes condiciones:
+
+-   a) Las que fije, en su caso, el Plan Hidrológico de cuenca para cada acuífero o unidad hidrogeológica. Dichas condiciones se referirán al caudal máximo instantáneo, distancias a otros aprovechamientos y corrientes de agua naturales o artificiales, profundidad de la obra y de la colocación de la bomba y demás características técnicas que se consideren en dicho plan.
+-   b) A falta de definición en el Plan Hidrológico, la distancia entre los nuevos pozos y los existentes o manantiales no podrá ser inferior a 100 metros sin el permiso del titular del aprovechamiento preexistente legalizado. Excepcionalmente, se podrán otorgar concesiones a menor distancia si el interesado acredita la no afección a los aprovechamientos anteriores legalizados. Si, una vez otorgada la concesión en las condiciones señaladas en este párrafo, resultaren afectados los aprovechamientos anteriores, se clausurará el nuevo sin derecho a indemnización.
+-   c) Para establecer el volumen máximo a otorgar en cada acuífero o unidad hidrogeológica se tendrán en cuenta las disponibilidades estimadas, en su caso, en el Plan Hidrológico, así como la evolución de los niveles piezométricos y de la calidad del agua.
+-   d) Cuando en el Plan Hidrológico se haya aceptado la sobreexplotación temporal de algún acuífero o unidad hidrogeológica se tendrán en cuenta para la fijación del plazo de la concesión las reglas establecidas para la sobreexplotación.
+
+2\. Los expedientes de concesión de aguas subterráneas se tramitarán conforme a lo dispuesto en el presente Reglamento con carácter general para las concesiones.
+
+3\. Los proyectos que se presenten para obtener una concesión de aguas subterráneas tanto por el solicitante como por los que participen en el tramite de competencia, contendrán análogos documentos a los indicados para las autorizaciones de investigación.
+
+Cuando se trate de una concesión para riesgos será preceptivo, además, acreditar la titularidad de los terrenos a que vaya destinada el agua, o la conformidad de los titulares que reúnan, al menos, la mitad de la superficie regable.
+
+Asimismo, deberá incluirse un programa del desarrollo de la explotación, previsto para alcanzar el volumen anual de agua solicitado.
+
+4\. A falta de Plan Hidrológico de cuenca, o de definición suficiente en el mismo, la Administración concedente considerará, para el otorgamiento de concesiones de aguas subterráneas, su posible afección a captaciones anteriores legalizadas, debiendo, en todo caso, el titular de la nueva concesión indemnizar los perjuicios que pudieran causarse a los aprovechamientos preexistentes, como consecuencia del acondicionamiento de las obras e instalaciones que sea necesario efectuar para asegurar la disponibilidad de los caudales anteriormente explotados (Art. 68 de la LA, *se corresponde con el actual* [*artículo 76*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_76.htm) *del Texto Refundido de la Ley de Aguas*).
+
+5\. La indemnización se fijará de común acuerdo entre los titulares interesados, resolviendo en caso de discrepancia el Organismo de cuenca, a la vista de las valoraciones presentadas por aquellos.
+
+6\. Se entiende por afección, a efectos del presente Reglamento, una disminución del caudal realmente aprovechado o un deterioro de su calidad que lo haga inutilizable para el fin a que se dedicaba, y que sea consecuencia directa y demostrada del nuevo aprovechamiento, pero no la simple variación del nivel del agua en un pozo, o la merma de caudal en una galería o manantial, si el remanente disponible es igual o superior al anteriormente aprovechado.
+
+7\. Cuando después de otorgada una concesión se denunciase su afección a aprovechamientos legalizados preexistentes, el Organismo de cuenca verificará la realidad del hecho denunciado y levantará acta en que se harán constar las características de la prueba y, en su caso, de la afección directa comprobada. De resultar positiva dicha verificación, y si algunos de los titulares de los aprovechamientos afectados lo hubiese solicitado de forma expresa, se suspenderá temporalmente el nuevo aprovechamiento, hasta tanto se haya resuelto el expediente.
+
+8\. El Organismo de cuenca determinará las obras, instalaciones u operaciones que deban efectuarse para tratar de asegurar la disponibilidad de los caudales anteriormente aprovechados, con indicación de las circunstancias de fechas de comienzo, forma y plazo de ejecución, notificándolo a los interesados.
+
+Una vez finalizado el acondicionamiento sufragado por el nuevo concesionario se determinará si la continuidad integra de los aprovechamientos preexistentes es posible, manteniéndose el más reciente, en cuyo caso se levantará la suspensión de este ultimo dándose por terminado el expediente y notificándose así a los interesados.
+
+9\. Si no fuera posible la subsistencia ni aun con el acondicionamiento de las obras e instalaciones, el titular de la concesión más reciente podrá optar entre la revisión de la misma de modo que no produzca afección o la restitución a los afectados de los caudales mermados en iguales condiciones de volumen y tiempo en que éstos eran obtenidos. Si optara por la devolución de caudales, deberá garantizarla previamente a satisfacción del Organismo de cuenca.
+
+10\. Los titulares de autorizaciones de investigación de aguas subterráneas que soliciten del Organismo de cuenca la concesión de aguas subterráneas de acuerdo con lo dispuesto en el artículo 66.3 de la Ley de Aguas (*se corresponde con el actual* [*artículo 74.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_74.htm) *del Texto Refundido de la Ley de Aguas*) y en el presente Reglamento, formularán su petición sin necesidad de acompañar aquellos documentos que ya obren en poder del Organismo de cuenca, bastando la reseña de los mismos.
+
+Si la concesión tuviera que ser denegada, el interesado tendrá derecho a la indemnización del importe justificado de las obras y trabajos realizados desde que obtuvo la autorización de investigación.
+
+**Art. 185.**
+
+Cuando el concesionario no sea propietario del terreno en que se realice la captación y el aprovechamiento hubiese sido declarado de utilidad pública, el Organismo de cuenca determinará el lugar de emplazamiento de las instalaciones, con el fin de que sean mínimos los posibles perjuicios, cuya indemnización se fijara con arreglo a la legislación de expropiación forzosa (Art. 67 de la LA, *se corresponde con el actual* [*artículo 75*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_75.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 186.**
+
+1\. El procedimiento para la tramitación de los expedientes de concesiones de aguas subterráneas de escasa importancia, será, en lo que resulte de aplicación, el fijado en los artículos [130](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo130.htm) y siguientes.
+
+Se considerarán concesiones de escasa importancia las que reúnan las características que se fijen, a tal efecto, en los Planes Hidrológicos, para cada acuífero o unidad hidrogeológica.
+
+De no existir tales previsiones, el Organismo de cuenca podrá acordar la aplicación del procedimiento simplificado para aquellas solicitudes de concesión de aguas subterráneas que no excedan de los limites establecidos en el [artículo 130](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo130.htm).
+
+2\. Las autorizaciones de investigación y las concesiones de aguas subterráneas con destino a abastecimiento de población, podrán otorgarse por el Organismo de cuenca eliminando el tramite de competencia de proyectos. Dicho otorgamiento llevará implícita la declaración de utilidad pública y de necesidad de ocupación a efectos de expropiación de aprovechamientos anteriores, no siendo de aplicación en este caso las normas contenidas en el presente Reglamento sobre distancias mínimas y afecciones.
+
+**Art. 187.**
+
+Las concesiones de aguas subterráneas deberán indicar:
+
+-   a) Volumen anual concedido y caudal máximo instantáneo.
+-   b) Uso y destino de las aguas.
+-   c) Profundidad máxima de la obra y profundidad máxima de la instalación de la bomba de elevación.
+-   d) La exigencia de instalar instrumentos adecuados para el control del nivel del agua y de los caudales extraídos de los pozos, cuando se consideren relevantes por su situación hidrogeológica, cuantía de su extracción o a efectos de policía del acuífero.
+-   e) El plazo de la concesión.
+-   f) La fijación de plazos parciales para el desarrollo del programa previsto de explotación, en su caso.
+-   g) Las demás condiciones que se estimen oportunas en atención al tipo de uso de las aguas alumbradas o para protección del acuífero.
+-   h) Aquellas otras que pudieran resultar pertinentes a tenor de lo dispuesto en el [artículo 115](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo115.htm) de este Reglamento.
+
+**Art. 188.**
+
+1\. El titular de una concesión de aguas subterráneas que pretenda su ampliación o modificación, deberá formular solicitud al mismo organismo otorgante, a la que acompañará la descripción de la ampliación o modificación de las obras a realizar, volumen máximo aprovechable y demás circunstancias que alteren la concesión inicial.
+
+El Organismo de cuenca hará publica la documentación presentada en la misma forma que las solicitudes de concesión, indicando si considera aplicable, en atención a las circunstancias, el procedimiento de tramitación ordinario o el correspondiente a concesiones de escasa importancia.
+
+2\. En la concesión de nuevos aprovechamientos o modificación de los existentes se considerará como una sola unidad de explotación, a efectos de volúmenes anuales y caudales instantáneos, la constituida por varias captaciones cuyas distancias sean menores que las mínimas fijadas para ese acuífero o unidad hidrogeológica en el Plan Hidrológico.
+
+**SECCION 12ª. DEL REGISTRO DE AGUAS Y DEL CATALOGO DE AGUAS PRIVADAS**
+
+(Sección redactada de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Subsección 1.ª Del Registro de Aguas***  
+***Artículo 189. Registro de Aguas del Organismo de cuenca.***
+
+*1\. Los Organismos de cuenca llevarán un Registro de Aguas en el que se inscribirán de oficio las concesiones y otros títulos de derecho para la utilización de las aguas, así como los cambios autorizados que se produzcan en su titularidad o en sus características.*
+
+*2\. Las referidas inscripciones se harán en el registro del Organismo de cuenca en cuya circunscripción territorial radique la toma o captación del recurso.*
+
+*3\. La organización y funcionamiento del Registro de Aguas serán determinados por el Ministro de Medio Ambiente.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 190. Estructura del Registro de Aguas.***
+
+*En cada Organismo de cuenca existirá un único Registro de Aguas, formado por una estructura informática de datos y un libro de Inscripciones, organizado en tres secciones que se designan con las letras A, B y C, anotándose en ellas, respectivamente, los siguientes tipos de aprovechamientos:*
+
+-   *a) Sección A: concesiones de aguas superficiales o subterráneas; reservas legalmente constituidas a favor de las Confederaciones Hidrográficas; derechos adquiridos por prescripción o por otro título legal; autorizaciones especiales a las que se refiere el* [*artículo 59.5*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm) *del texto refundido de la Ley de Aguas y otros derechos provenientes del anterior Libro de Registro de Aprovechamientos de Aguas Públicas.*
+-   *b) Sección B: aprovechamientos dentro de la misma finca catastral de aguas procedentes de manantiales situados en su interior y de aguas subterráneas cuando el volumen total anual no sobrepase los 7.000 metros cúbicos, así como las aguas pluviales que discurran por ella y las estancadas dentro de sus linderos, a que se refiere el* [*artículo 54*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm) *del texto refundido de la Ley de Aguas.*
+-   *c) Sección C: aprovechamientos temporales de aguas privadas a las que se refieren las disposiciones transitorias segunda y tercera del texto refundido de la Ley de Aguas.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 191. El libro de inscripciones.***
+
+*El Registro de Aguas estará compuesto por una estructura informática de datos y su transcripción en papel que se denomina libro de inscripciones, que estará integrado por hojas móviles foliadas y selladas por el Organismo de cuenca, consignándose en ellas el tomo y nombre del registro. En la primera hoja de cada libro se extenderá una certificación fechada, en la que se hará constar el número de inscripciones que lo componen.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 192. Inscripciones.***
+
+*1\. Cada aprovechamiento abrirá folio registral en el libro de inscripciones.*
+
+*A los efectos de inscripción, se entiende por aprovechamiento el derecho a utilizar un volumen determinado de agua que se toma de uno o varios puntos, para uno o varios usos, dentro de una misma concesión o derecho al uso privativo de las aguas.*
+
+*2\. La primera inscripción de un aprovechamiento será la de inmatriculación y contendrá los siguientes apartados:*
+
+-   *a) Sección: A, B o C.*
+-   *b) Número de inscripción. Se mantendrá invariable para los distintos tractos o modificaciones de un mismo aprovechamiento.*
+-   *c) Clave. Identificará como mínimo el número de expediente con el que se ha tramitado el derecho.*
+-   *d) Corriente o acuífero del que procedan las aguas.*
+-   *e) Lugar, término municipal y provincia en la que se capta el agua. Se incluirá las coordenadas Universal Transversa de Mercator (U.T.M.), y el huso a que están referidas, de cada una de las tomas.*
+-   *f) Identificación del concesionario o titular del derecho que se inscribe.*
+-   *g) Tipo de aprovechamiento. Se consignará el uso o usos a que se destina el agua: abastecimiento, riego, hidroeléctrico, recreativo, industrial u otro de los especificados en el* [*artículo 60*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_60.htm) *del texto refundido de la Ley de Aguas.*
+-   *h) Características. En función del tipo de aprovechamiento se indicarán los datos que definan claramente el uso del agua, tales como el número de habitantes, cabezas de ganado, superficie de riego en hectáreas o tramo afectado en los aprovechamientos hidroeléctricos, y el lugar de su aplicación.*
+-   *i) Plazo por el que se otorga la concesión o se mantiene el derecho.*
+-   *j) Volumen máximo anual, en metros cúbicos y modulación establecida.*
+-   *k) Caudal máximo instantáneo a derivar por toma, expresado en litros por segundo.*
+-   *l) Título que ampara el derecho, con expresión de la fecha y autoridad que lo haya otorgado.*
+-   *m) Condiciones específicas de la concesión o del derecho que se inscribe.*
+
+*3\. Las referencias cartográficas de las tomas de agua y de sus lugares de aplicación se realizarán mediante la definición de puntos o recintos, en su caso. Las coordenadas a utilizar serán, de acuerdo con los sistemas de referencia y geodésico oficiales, las de la proyección Universal Transversa de Mercator (U.T.M.), con indicación del huso correspondiente.*
+
+*4\. Todos los asientos posteriores al inicial y relativos al mismo aprovechamiento se practicarán a continuación, numerándolos correlativamente. Se hará constar el número de expediente si es distinto del inicial. Asimismo, se consignará el número correspondiente del antiguo Libro Registro de Aprovechamientos de Aguas Públicas, cuando se produzca el traslado de asiento.*
+
+*Se incluirá la referencia del posible contrato de cesión de derechos de uso del agua, tanto en el asiento correspondiente al adquirente como en el del cedente.*
+
+*5\. Cuando se complete la primera hoja destinada a una inscripción se continuará en otra que se abrirá a continuación de la anterior, que mantendrá el mismo número de inscripción y la identificación correlativa que corresponda.*
+
+*6\. En el supuesto de que la concesión o derecho que vaya a inscribirse requiera la realización de determinadas obras o contenga condiciones suspensivas, se anotará la resolución que corresponda. En caso de incumplimiento de estas condiciones o de que no se aprueben las obras, se cancelará la inscripción, con base, asimismo, en la oportuna resolución administrativa.*
+
+*Cuando se apruebe el acta de reconocimiento parcial o final de las obras, se reflejará en la inscripción, con indicación expresa de la fecha de extinción del derecho por transcurso de plazo.*
+
+*7\. En cada hoja de inscripción deberá figurar un apartado destinado a anotar, en su caso, la constitución, modificación o extinción de gravámenes que afecten a la respectiva concesión o derecho y sean compatibles con su especial naturaleza. Asimismo, se harán constar, en su caso, las limitaciones del derecho de uso derivadas de medidas correctoras de la sobreexplotación u otras situaciones anómalas o excepcionales contempladas en el* [*artículo 56*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_56.htm) *del texto refundido de la Ley de Aguas.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 193. Efectos jurídicos de la inscripción en el registro.***
+
+*1\. La inscripción registral se considerará medio de prueba de la existencia y situación de la concesión, de acuerdo con el* [*artículo 80.4*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_80.htm) *del texto refundido de la Ley de Aguas, así como de la existencia y situación de los contratos de cesión de derechos suscritos por el concesionario.*
+
+*2\. La inscripción registral será, también, medio de prueba de los derechos reconocidos en el* [*artículo 54*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_54.htm) *del texto refundido de la Ley de Aguas y de los aprovechamientos temporales de aguas privadas inscritos conforme a las disposiciones transitorias segunda y tercera de la Ley 29/85 de 2 de agosto, de Aguas.*
+
+*3\. Los titulares de concesiones de aguas y otros derechos inscritos en el Registro de Aguas correspondiente podrán interesar la intervención del Organismo de cuenca competente en defensa de sus derechos, de acuerdo con el contenido de la concesión o título administrativo que ampare su derecho y de lo establecido en la legislación en materia de aguas.*
+
+*4\. Esta protección se ejercerá por el Organismo de cuenca frente a quien, sin derecho inscrito, se oponga al derecho del titular o perturbe su ejercicio, aplicando los procedimientos y medidas previstos al efecto en el texto refundido de la Ley de Aguas y en este reglamento.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 194. Carácter público del Registro de Aguas.***
+
+*1\. El Registro de Aguas tendrá carácter público y podrán interesarse del Organismo de cuenca las oportunas certificaciones sobre su contenido, de acuerdo con el* [*artículo 80.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_80.htm) *del texto refundido de la Ley de Aguas.*
+
+*2\. Las certificaciones podrán ser positivas o negativas, según que en el registro aparezca o no inscrito el aprovechamiento sobre el que ha de versar la certificación.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 195. Expedición de certificaciones.***
+
+*1\. Las certificaciones, tanto literales como en extracto, se podrán expedir directamente a partir de los datos existentes en las bases de datos informatizadas.*
+
+*2\. El Ministro de Medio Ambiente establecerá los mecanismos de solicitud y expedición de certificaciones por medios telemáticos, en el marco de lo establecido por el Real Decreto 209/03, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Subsección 2.ª Catálogo de Aguas Privadas***  
+***Artículo 196. Catálogo de Aguas Privadas.***
+
+*1\. Los Organismos de cuenca llevarán un Catálogo de Aguas Privadas que estará compuesto por una estructura informática y un libro, y en el que figurarán inscritos los aprovechamientos de aguas calificadas como privadas por la Ley de Aguas de 1879, cuyos titulares optaron por mantenerlas en tal régimen, declarando su existencia al Organismo de cuenca dentro de los plazos establecidos al efecto.*
+
+*2\. Las inscripciones en el Catálogo de Aguas Privadas contendrán los siguientes apartados:*
+
+-   *a) Número de inscripción.*
+-   *b) Clave. Identificará como mínimo el número de expediente con el que se ha tramitado la inscripción.*
+-   *c) Acuífero o lugar del que procedan las aguas.*
+-   *d) Lugar, término municipal y provincia en la que se toma el agua. Se incluirán las coordenadas U.T.M. de la toma y el huso al que están referidas.*
+-   *e) Identificación del titular del aprovechamiento.*
+-   *f) Tipo de aprovechamiento. Se consignará el uso o usos a que se destina el agua.*
+-   *g) Características. En función del tipo de aprovechamiento se indicarán los datos que definan el uso del agua, tales como superficie de riego en hectáreas, y su lugar de aplicación.*
+-   *h) Volumen máximo anual, en metros cúbicos.*
+-   *i) Condiciones específicas del aprovechamiento que se inscribe.*
+-   *j) Limitaciones del derecho de uso derivadas de medidas correctoras de la sobreexplotación u otras situaciones anómalas o excepcionales contempladas en el* [*artículo 56*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_56.htm) *del texto refundido de la Ley de Aguas.*
+
+*3\. Los titulares de aguas privadas inscritas en el catálogo no podrán gozar de la protección administrativa que se deriva del Registro de Aguas.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Subsección 3.ª Base central de datos***  
+***Artículo 197. Base central de datos.***
+
+*1\. En el Ministerio de Medio Ambiente se crea la Base central de datos, formada por los existentes en los Registros de Aguas, Catálogo de Aguas Privadas y demás censos o registros que se lleven en los Organismos de cuenca y en las Administraciones hidráulicas de las comunidades autónomas que tengan transferidas sus competencias.*
+
+*2\. Los Organismos de cuenca y las Administraciones hidráulicas de las comunidades autónomas remitirán en soporte informático a la Dirección General de Obras Hidráulicas y Calidad de las Aguas la información precisa para la actualización de la Base central de datos, en las condiciones y plazos que determine el Ministro de Medio Ambiente.*
+
+*3\. El Ministerio de Medio Ambiente dispondrá lo necesario para atender las solicitudes formuladas para obtener información de la Base central de datos.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**CAPITULO IV. COMUNIDADES DE USUARIOS**  
+**SECCION 1.ª NORMAS GENERALES**  
+**Art. 198.**
+
+1\. Los usuarios del agua y otros bienes del dominio publico hidráulico de una misma toma o concesión deberán constituirse en Comunidades de Usuarios. Cuando el destino dado a las aguas fuese principalmente el riego, se denominarán Comunidades de Regantes; en otro caso, las Comunidades recibirán el calificativo que caracterice el destino del aprovechamiento colectivo.
+
+Los estatutos u ordenanzas se redactarán y aprobarán por los propios usuarios y deberán ser sometidos, para su aprobación administrativa, al Organismo de cuenca.
+
+Los estatutos u ordenanzas regularán la organización de las Comunidades de Usuarios, así como la explotación en régimen de autonomía interna de los bienes hidráulicos inherentes al aprovechamiento.
+
+El Organismo de cuenca no podrá denegar la aprobación de los Estatutos y Ordenanzas, ni introducir variantes en ellos, sin previo dictamen del Consejo de Estado (Art. 73.1 de la LA, *se corresponde con el actual* [*artículo 81.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_81.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Tienen la obligación de constituirse en Comunidad todos los usuarios que, de forma colectiva, utilicen la misma toma de aguas procedentes o derivadas de manantiales, pozos, corrientes naturales o canales construidos por el Estado o usen un mismo bien o conjunto de bienes de dominio publico hidráulico. Si la concesión de las aguas comprendiera varias tomas, el Organismo de cuenca determinará si todos los usuarios han de integrarse en una sola Comunidad o en varias Comunidades independientes y la relación que entre ellas ha de existir.
+
+3\. La titularidad de las obras que son parte integrante del aprovechamiento de la Comunidad de Usuarios quedará definida en el propio título que faculte para su construcción o utilización (Art. 78 de la LA, *se corresponde con el actual* [*artículo 86*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_86.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 199.**
+
+1\. Las Comunidades de Usuarios tienen el carácter de Corporaciones de Derecho Publico adscritas al Organismo de cuenca, que velará por el cumplimiento de sus Estatutos u Ordenanzas y por el buen orden del aprovechamiento (Art. 74.1 de la LA, *se corresponde con el actual* [*artículo 82.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_82.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Las Comunidades de Usuarios realizan, por mandato de la Ley y con la autonomía que en ella les reconoce, las funciones de policía, distribución y administración de las aguas que tengan concedidas por la Administración.
+
+**Art. 200.**
+
+1\. Los Estatutos u Ordenanzas de las Comunidades de Usuarios incluirán la finalidad y el ámbito territorial de la utilización de los bienes de dominio publico hidráulico, regularán la participación y representación obligatoria y en relación a sus respectivos intereses de los titulares actuales y sucesivos de bienes y servicios y de los participantes en el uso del agua y obligarán a que todos los titulares contribuyan a satisfacer, asimismo, en equitativa proporción, los gastos comunes de explotación, conservación, reparación y mejora, así como los cánones y tarifas que correspondan (Art. 74.2 de la LA, *se corresponde con el actual* [*artículo 82.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_82.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Los Estatutos u Ordenanzas contendrán, asimismo, el correspondiente régimen de policía del aprovechamiento colectivo.
+
+**Art. 201.**
+
+1\. Para la constitución de una Comunidad de Usuarios, la persona que estos designen, o, en su defecto, el Alcalde de la población en cuyo termino radique la mayor parte del aprovechamiento convocara a Junta General a todos los interesados, al menos, con quince días de antelación. La convocatoria se hará por medio de edictos municipales y anuncio en el Boletín Oficial de la provincia o provincias en que radique el aprovechamiento, señalando el objeto, local, día y hora en que ha de celebrarse la Junta, para decidir sobre la constitución y características de la Comunidad.
+
+2\. En la Junta se formalizará la relación nominal de usuarios con expresión de caudal que cada uno pretenda utilizar y se acordarán las bases a las que, dentro de la legislación vigente, han de ajustarse los proyectos de Ordenanzas y Reglamentos por los que se regirá la Comunidad de Usuarios.
+
+3\. En esta misma Junta se nombrará la Comisión encargada de redactar los proyectos de Ordenanzas y Reglamentos, y su Presidente.
+
+4\. El Presidente de la Comisión, en el plazo máximo de dos meses, convocará a nueva Junta General con las mismas formalidades que para la anterior, a fin de examinar y, en su caso, aprobar los proyectos que se hayan redactado, utilizándose para ello una o varias sesiones, si fuese necesario. En el acta de las reuniones se hará constar el resultado de los debates y votaciones que se hayan realizado.
+
+5\. Para esta primera votación se computara a cada interesado el número de votos que corresponda según la tabla que figura [anexa a este título](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/anexoii.htm) del Reglamento, en función del caudal teórico que deba utilizar en su aprovechamiento, pudiendo agruparse los Usuarios que sean precisos para alcanzar conjuntamente el primer escalón de votos.
+
+6\. Una vez aprobados los proyectos, se depositarán por término de treinta días en el local de la Comunidad si lo tuviera o, en su defecto, en la Secretaría del Ayuntamiento o Ayuntamientos para que puedan ser examinados por quienes tengan interés en ello, a cuyo efecto se anunciara previamente en el Boletín Oficial de la provincia o provincias y en los tablones de anuncios de los Ayuntamientos.
+
+Terminado el plazo de exposición, el Presidente de la Comunidad remitirá al Organismo de cuenca tres ejemplares de los proyectos de Ordenanzas y Reglamentos, un ejemplar de cada uno de los Boletines Oficiales que anuncian las convocatorias a Juntas y la exposición al público, certificación de las actas correspondientes a las Juntas celebradas y del resultado de la información pública, con las reclamaciones presentadas e informe de la Comisión sobre las mismas, relación de los Usuarios y plano o croquis de situación de los aprovechamientos de la Comunidad más otro de detalle de la toma o tomas.
+
+7\. El Organismo de cuenca, previo los informes que estime pertinentes, dictará resolución denegatoria si no se han cumplido las formalidades exigidas o si en los Estatutos se contiene alguna norma que vaya contra la la legislación vigente; en otro caso, la resolución declarará constituida la Comunidad y aprobará sus Ordenanzas y Reglamentos. Diligenciados los tres ejemplares de los proyectos, archivará el original en el expediente y remitirá el segundo a la Comunidad para que los ponga en vigor y el tercero a la Dirección General de Obras Hidráulicas.
+
+8\. El Organismo de cuenca no podrá denegar la aprobación de los Estatutos u Ordenanzas y Reglamentos, si no infringen la legislación vigente, y no podrá introducir variantes en ellos sin previo dictamen del Consejo de Estado. Se considerará que en cualquier caso no esta cumplida la legislación vigente si, además de cuanto se exige en la Ley de Aguas y se desarrolla en este Reglamento, no se atienden en las propuestas de Ordenanzas los siguientes requisitos mínimos:
+
+-   a) Todos los propietarios de los bienes adscritos al aprovechamiento colectivo, y únicamente ellos o sus representantes legales tendrán derecho a participar en la constitución o funcionamiento de la Comunidad y a ser elegidos para desempeñar cualquier cargo la misma.
+-   b) La representación voluntaria deberá ser conferida en todo caso expresamente y por escrito. Salvo limitación en contrario establecida al otorgarle la representación, el representante voluntario se considerará facultado para participar en la adopción de cualquier acuerdo de la Comunidad, pero en ningún caso podrá sustituir al representado en el desempeño de un cargo de la propia Comunidad ni ser elegido para ocuparlo.
+-   c) Cualquiera que sea su cuota de participación en los elementos comunes, todos los propietarios tendrán derecho a voto de acuerdo con lo consignado en las Ordenanzas de la Comunidad, pudiendo agruparse, en todo caso, hasta alcanzar el mínimo exigido para el ejercicio directo del derecho de voto.
+-   d) A ningún propietario podrá corresponderle un número de votos que alcance el 50 por 100 del conjunto del de todos los comuneros, cualquiera que sea la participación de aquel en los elementos comunes y, consiguientemente,en los gastos de la Comunidad.
+-   e) Ningún comunero podrá ser exonerado por entero de las obligaciones y cargas inherentes a su participación en el aprovechamiento colectivo de aguas y en los demás elementos comunes.
+-   *f) Con independencia de lo establecido en su régimen estatutario, es obligatorio para todos los comuneros el pago de la parte que les corresponda de todas las obras que la comunidad acuerde realizar, entre ellas las correspondientes a mejoras y modernizaciones de regadío. Todo comunero se verá obligado a adecuar la utilización de las aguas a los procedimientos que estas obras o instalaciones pudieran exigir.* (Punto añadido por el el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+Tampoco podrán establecerse pactos o cláusulas estatutarias prohibitivas de la realización de las derramas necesarias para subvenir a los gastos de la Comunidad y al cumplimiento de las demás obligaciones de la misma, o por los que se exima de responsabilidad a los cargos de la Comunidad.
+
+*9\. Se entenderán denegados los estatutos u ordenanzas sobre los que no haya sido notificada la resolución expresa en el plazo de seis meses contados a partir de su presentación en el Organismo de cuenca.*
+
+(Apartado añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**Art. 202.**
+
+1\. Cuando en una Comunidad de regantes ya constituida existan varias tomas en cauce publico y que atiendan a zonas regables independientes, sus titulares podrán ser autorizados por el Organismo de cuenca a separarse para constituirse en Comunidad independiente, cuando las circunstancias del caso lo aconsejen para una mejor utilización del dominio publico hidráulico. En la solicitud, se certificará la decisión de la mayoría de votos correspondiente a la zona regable que pretenda separarse, y se garantizara el cumplimiento, en su caso, de todas las obligaciones contraidas con anterioridad. En el expediente oportuno se dará audiencia a la Comunidad originaria.
+
+2\. Cuando existan varias Comunidades de Usuarios en zonas contiguas, podrán agruparse o fusionarse en una sola Comunidad si así lo acuerdan las Juntas Generales respectivas, elevando las actas correspondientes y las nuevas Ordenanzas y Reglamentos al Organismo de cuenca para su aprobación.
+
+**Art. 203.**
+
+1\. Cuando la modalidad o las circunstancias y características del aprovechamiento lo aconsejen, o cuando el número de participes sea reducido, el régimen de Comunidad podrá ser sustituido por el que se establezca en convenios específicos, que deberán ser aprobados por el Organismo de cuenca (Art. 73.5 de la LA, *se corresponde con el actual* [*artículo 81.5*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_81.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Se aplicará, en todo caso, este artículo cuando el número de participes sea inferior a veinte. Cualquier otro supuesto exigirá la adecuada justificación ante el Organismo de cuenca.
+
+Es condición esencial para su aprobación por el Organismo de cuenca que el convenio sea suscrito por todos los usuarios.
+
+3\. El convenio contendrá:
+
+-   a) La denominación de la Comunidad de Usuarios.
+-   b) La relación de los participes con expresión del tipo de sus respectivos aprovechamientos y caudales que utilicen.
+-   c) Somera descripción de las obras de toma de aguas y conducciones.
+-   d) Definición de los cargos de la Comunidad y procedimiento para su designación y renovación.
+-   e) En su caso, turnos en la utilización de las aguas.
+-   f) Régimen de explotación y conservación y de distribución de sus gastos.
+-   g) Relación de infracciones y sanciones previstas.
+
+**Art. 204.**
+
+1\. Las Comunidades de Usuarios de aguas superficiales o subterráneas, cuya utilización afecte a intereses que les sean comunes, podrán formar una Comunidad General para la defensa de sus derechos y conservación y fomento de dichos intereses (Art. 73.2 de la LA, *se corresponde con el actual* [*artículo 81.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_81.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Del mismo modo, los usuarios individuales y las Comunidades de Usuarios podrán formar por Convenio una Junta Central de Usuarios, con la finalidad de proteger sus derechos e intereses frente a terceros y ordenar y vigilar el uso coordinado de sus propios aprovechamientos (artículo 73.3 de la LA, *se corresponde con el actual* [*artículo 81.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_81.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. El Organismo de cuenca podrá imponer, cuando el interés General lo exija, la constitución de los distintos tipos de Comunidades y Juntas Centrales de Usuarios (artículo 73.4 de la LA, *se corresponde con el actual* [*artículo 81.4*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_81.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 205.**
+
+1.Las Comunidades Generales y las Juntas Centrales de Usuarios se compondrán de representantes de los Usuarios interesados. Sus Ordenanzas y Reglamentos deberán ser aprobados por el Organismo de cuenca (artículo 74.3 de la LA, *se corresponde con el actual* [*artículo 82.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_82.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. La representatividad se establecerá en proporción a los caudales teóricos que tenga reconocidos cada Comunidad de Usuarios. Salvo acuerdo en contrario, los usuarios hidroeléctricos asumirán la equivalencia de una hectárea por cada caballo de vapor de su potencia instalada.
+
+3\. Los representantes en la Comunidad General serán los respectivamente elegidos por cada Comunidad integrada hasta cubrir el número que en las Ordenanzas de la Comunidad General se establezca.
+
+En las Juntas Centrales de Usuarios la representación corresponde a los Presidentes de las Comunidades integradas, más los que cada una haya elegido al efecto y los representantes de los demás usuarios, procurando establecer criterios de proporcionalidad, atendiendo los diversos intereses y la naturaleza de los aprovechamientos.
+
+4\. Las Comunidades de Usuarios que carezcan de Ordenanzas vendrán obligadas a presentarlas para su aprobación en el plazo de seis meses a partir del momento en que fueran requeridas para ello por el Organismo de cuenca. En caso de incumplimiento, este organismo podrá establecer las que considere procedentes, previo dictamen del Consejo de Estado (artículo 74.4 de la LA, *se corresponde con el actual* [*artículo 82.4*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_82.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 206.**
+
+Para la constitución de una Comunidad General, el Presidente de la Comunidad que utilice mayor caudal convocará, con citación personal, a los Presidentes de las demás Comunidades a Junta General, en la que se nombrará la Comisión encargada de redactar los proyectos de Ordenanzas y Reglamentos, de acuerdo con las bases que establezcan y se determinará el número de representantes que cada Comunidad ha de tener en las sucesivas Juntas Generales, guardando siempre proporcionalidad con el caudal utilizado por cada una.
+
+**Art. 207.**
+
+1\. Las bases mínimas a las que han de ajustarse las Ordenanzas y Reglamentos de a Comunidad General serán:
+
+-   a) Denominación de la Comunidad General y relación nominal de las Comunidades que la integren, y términos municipales que comprende.
+-   b) Relación de los aprovechamientos correspondientes a las Comunidades integradas, con descripción de sus obras y de las propias de la Comunidad General.
+-   c) Características de los aprovechamientos, de acuerdo con las inscripciones registrales.
+-   d) Cargos de la Comunidad General y procedimiento y requisitos para designación, renovación y funciones.
+-   e) En su caso, turnos en la utilización de las aguas por cada Comunidad integrada.
+-   f) Régimen de conservación y mantenimiento de las obras comunes y distribución de los gastos.
+-   g) Régimen sancionador.
+
+2\. Serán de aplicación las demás formalidades establecidas para la constitución de las Comunidades de Usuarios, si bien, en la información pública, los proyectos de Estatutos se depositarán para su examen en la sede de cada una de las Comunidades que se integran en la General.
+
+3\. En ningún caso podrá una Comunidad General intervenir en las atribuciones privativas de las Comunidades ordinarias en ella integradas.
+
+**Art. 208.**
+
+La constitución formal de las Juntas Centrales de Usuarios se ajustará a las normas generales establecidas en los artículos anteriores para las Comunidades Generales.
+
+**Art. 209.**
+
+1\. Las Comunidades podrán ejecutar por si mismas y con cargo al usuario los acuerdos incumplidos que impongan una obligación de hacer. El coste de la ejecución subsidiaria será exigible por la vía administrativa de apremio. Quedarán exceptuadas del régimen anterior aquellas obligaciones que revistan un carácter personalisimo (artículo 75.1 de la LA, *se corresponde con el actual* [*artículo 83.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_83.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Las Comunidades de Usuarios podrán solicitar del Organismo de cuenca el auxilio necesario para el cumplimiento de sus acuerdos, relacionados con las funciones de administración, policía y distribución de las aguas y cumplimiento de las Ordenanzas.
+
+3\. Las obligaciones de hacer, impuestas reglamentariamente a los comuneros, que no tuvieran carácter personalisimo, podrán ser ejecutadas subsidiariamente en caso de incumplimiento por la Comunidad, transformándose la obligación de hacer en la de abonar los gastos y perjuicios correspondientes, que podrán exigirse por la vía administrativa de apremio.
+
+4\. Para la aplicación del procedimiento de apremio, las Comunidades tendrán facultad de designar sus agentes recaudadores, cuyo nombramiento se comunicará al Ministerio de Economía y Hacienda, quedando sometidos a las autoridades delegadas de dicho Departamento en todo lo que haga referencia a la tramitación del procedimiento, si bien la providencia de apremio habrá de ser dictada por el Presidente de la Comunidad. Las Comunidades podrán solicitar de dicho Ministerio que la recaudación se realice por medio de los órganos ejecutivos del mismo.
+
+**Art. 210.**
+
+1\. Las Comunidades de Usuarios serán beneficiarias de la expropiación forzosa y de la imposición de las servidumbres que exijan su aprovechamiento y el cumplimiento de sus fines (Art. 75.2 de la LA, *se corresponde con el actual* [*artículo 83.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_83.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Podrán solicitar del Organismo de cuenca que, conforme a las disposiciones vigentes, se declaren de utilidad pública los aprovechamientos de que son titulares o la ejecución singularizada de determinadas obras o proyectos.
+
+3\. Obtenida la declaración de utilidad pública podrán solicitar del Organismo de cuenca la expropiación forzosa de los bienes y derechos afectados por las obras o proyectos declarados de utilidad pública, tramitándose los respectivos expedientes de acuerdo con la legislación de expropiación forzosa.
+
+**Art. 211.**
+
+1\. Las Comunidades vendrán obligadas a realizar las obras e instalaciones que la Administración les ordene, a fin de evitar el mal uso del agua o el deterioro del dominio publico hidráulico, pudiendo el Organismo de cuenca competente suspender la utilización del agua hasta que aquellas se realicen (Art. 75.3 de la LA, *se corresponde con el actual* [*artículo 83.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_83.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Cuando los gastos de las obras e instalaciones superen el 75 por 100 del presupuesto ordinario de las obras de la Comunidad, el Organismo de cuenca, de oficio o a instancia de la misma, podrá prestar las ayudas técnicas y financieras pertinentes, de acuerdo con el ordenamiento jurídico vigente.
+
+**Art. 212.**
+
+1\. Las deudas a la Comunidad de Usuarios por gastos de conservación, limpieza o mejoras, así como cualquier otra motivada por la administración y distribución de las aguas, gravarán la finca o industria en cuyo favor se realizaron, pudiendo la Comunidad de Usuarios exigir su importe por la vía administrativa de apremio, y prohibir el uso del agua mientras no se satisfagan, aun cuando la finca o industria hubiese cambiado de dueño. El mismo criterio se seguirá cuando la deuda provenga de multas e indemnizaciones impuestas por los tribunales o Jurados de riego (Art. 75.4 de la LA, *se corresponde con el actual* [*artículo 83.4*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_83.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. En las concesiones de aprovechamientos colectivos para riegos, todos los terrenos comprendidos en el plano general aprobado quedarán sujetos al pago de las obligaciones aunque los propietarios rehusen el agua.
+
+3\. Los gastos de construcción de presas, sistemas de captación y conducción, así como los de explotación y conservación, serán sufragados por los beneficiarios en la proporción que determinen los Estatutos u Ordenanzas.
+
+4\. Ningún miembro de la Comunidad podrá separarse de ella sin renunciar al aprovechamiento de las aguas y cumplir las obligaciones que con la misma hubieran contraído.
+
+**Art. 213.**
+
+Los conflictos de atribuciones que surjan entre las Comunidades de Usuarios serán resueltos, sin ulterior recurso administrativo:
+
+-   a) Por la Comunidad General cuando se susciten entre Comunidades integradas en ella.
+-   b) Por la Junta Central de Usuarios cuando el conflicto se suscite entre sus miembros.
+-   c) Por la Dirección General de Obras Hidráulicas cuando las Comunidades pertenezcan a diferentes cuencas hidrográficas.
+-   d) Por el Organismo de cuenca cuando no se den las circunstancias previstas en los apartados anteriores.
+
+**Art. 214.**
+
+Las Comunidades de Usuarios se extinguirán en los siguientes casos:
+
+-   a) Por expiración del plazo de concesión, si no ha sido prorrogado.
+-   b) Por caducidad de la concesión.
+-   c) Por expropiación forzosa de la concesión.
+-   d) Por fusión en otra Comunidad.
+-   e) Por resolución del Organismo de cuenca adoptado en expediente sancionador.
+-   f) Por desaparición total o en sus tres cuartas partes, al menos, de los elementos objetivos o reales, salvo que los comuneros no afectados acuerden mantener la Comunidad, modificando para ello sus Estatutos y la correspondiente inscripción registral.
+-   g) Por renuncia al aprovechamiento, formulada al menos por las tres cuartas partes de los comuneros, a menos que los que no hubieran renunciado acuerden mantener la Comunidad con la modificación de sus Estatutos y de la inscripción registral.
+
+Una vez aprobada la extinción de la Comunidad, procederá esta a la liquidación de sus bienes patrimoniales, con arreglo a lo dispuesto en el Código Civil para la liquidación de las Sociedades.
+
+**Art. 215.**
+
+1\. Los aprovechamientos colectivos que hasta ahora hayan tenido un régimen consignado en Ordenanzas debidamente aprobadas, continuarán sujetos a las mismas mientras los usuarios no decidan su modificación de acuerdo con ellas.
+
+Del mismo modo, allí donde existan Jurados o Tribunales de riego, cualquiera que sea su denominación peculiar, continuarán con su organización tradicional (Art. 77 de la LA, *se corresponde con el actual* [*artículo 85*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_85.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Para la modificación de los Estatutos por los propios usuarios será necesario que el acuerdo se adopte en Junta General extraordinaria convocada al efecto, sometiendo la nueva redacción a la aprobación del Organismo de cuenca. Bastará comunicarlo al mismo y que el acuerdo se adopte en la Junta General ordinaria cuando la modificación consista únicamente en la actuación de la cuantía de las sanciones a imponer por el Jurado.
+
+3\. El Organismo de cuenca, por causa justificada y derivada de la necesidad de garantizar el buen orden del aprovechamiento colectivo, podrá obligar a las Comunidades existentes a actualizar sus Ordenanzas y Reglamentos, quedando facultado para redactar y aprobar, previo dictamen del Consejo de Estado, las modificaciones en caso de incumplimiento.
+
+**SECCION 2.ª ORGANOS DE LAS COMUNIDADES DE USUARIOS Y REGIMEN DE SUS ACUERDOS**  
+**Art. 216.**
+
+1\. Toda Comunidad de Usuarios tendrá una Junta General o Asamblea, una Junta de Gobierno y uno o varios Jurados (Art. 76.1 de la LA, *se corresponde con el actual* [*artículo 84.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_84.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. La Junta General, constituida por todos los usuarios de la Comunidad, es el órgano soberano de la misma, correspondiéndole todas las facultades no atribuidas específicamente a algún otro órgano (Art. 76.2 de la LA, *se corresponde con el actual* [*artículo 84.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_84.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. Es competencia de la Junta General, o Asamblea, de la Comunidad de Usuarios:
+
+-   a) La elección del Presidente y vicepresidente de la Comunidad, la de los vocales titulares y suplentes de la Junta de Gobierno y del Jurado, las del vocal o vocales que, en su caso, hayan de representarla en la Comunidad General o Junta Central, la de sus representantes en el Organismo de cuenca y otros organismos, de acuerdo con la legislación especifica en la materia, y el nombramiento y separación del Secretario de la Comunidad. Los cargos de Presidente, Vicepresidente y Secretario de la Comunidad pueden recaer en quienes lo sean en la Junta de Gobierno.
+-   b) El examen de la memoria y aprobación de los presupuestos de gastos e ingresos de la Comunidad y el de las cuentas anuales, presentados ambos por la Junta de Gobierno.
+-   c) La redacción de los proyectos de Ordenanzas de la Comunidad y Reglamentos de la Junta de Gobierno y del Jurado, así como sus modificaciones respectivas.
+-   d) La imposición de derramas y la aprobación de los presupuestos adicionales.
+-   e) La adquisición y enajenación de bienes, sin perjuicio de las facultades que, en este aspecto, competen a la Junta de Gobierno.
+-   f) La aprobación de los proyectos de obras preparados por la Junta de Gobierno y la decisión de su ejecución.
+-   g) La aprobación del ingreso en la Comunidad de cualquiera que, con derecho al uso del agua, lo solicite, y el informe para el Organismo de cuenca en los supuestos de que algunos usuarios pretendan separarse de la Comunidad para constituir otra nueva.
+-   h) La autorización previa, sin perjuicio de la que corresponda otorgar al Organismo de cuenca, a Usuarios o terceras personas para realizar obras en las presas, captaciones, conducciones e instalaciones de la Comunidad con el fin de mejor utilizar el agua.
+-   i) La autorización previa, sin perjuicio de lo que se resuelva por el Organismo de cuenca en el expediente concesional que proceda, para utilizar para producción de energia a los desniveles existentes en las conducciones propias de la Comunidad.
+-   j) La solicitud de nuevas concesiones o autorizaciones.
+-   k) La solicitud de los beneficios de expropiación forzosa o la imposición de servidumbres en beneficio de la Comunidad.
+-   l) La decisión sobre asuntos que le haya sometido la Junta de Gobierno o cualquiera de los comuneros.
+-   m) Cualquier otra facultad atribuida por las Ordenanzas y disposiciones legales vigentes.
+
+**Art. 217.**
+
+1\. El Presidente, y en su defecto el Vicepresidente, es el representante legal de la Comunidad de Usuarios. Para ser Presidente o Vicepresidente de la Comunidad es necesaria la condición de participe y, además, reunir los requisitos exigidos para ser Presidente o vocal de la Junta de Gobierno.
+
+La duración del cargo se fijará en las Ordenanzas y será renovado al mismo tiempo que los vocales de la Junta de Gobierno y del Jurado. Cuando los cargos de Presidente de la Comunidad y de la Junta de Gobierno no recaigan en la misma persona, la renovación no será simultanea. En cualquiera de los dos casos se procurará, asimismo, que los cargos de Presidente y de Vicepresidente no se renueven al mismo tiempo.
+
+2\. El Secretario de la Comunidad ejercerá las facultades y obligaciones que le señalen las Ordenanzas y Reglamentos o la Junta General.
+
+Ejercerá el cargo por tiempo indefinido, teniendo el Presidente la facultad de suspenderlo en sus funciones y proponer a la Junta General su separación definitiva.
+
+**Art. 218.**
+
+1\. La Junta General se reunirá con carácter ordinario, al menos, una vez al año, y con carácter extraordinario cuando lo acuerde la Junta de Gobierno, lo pida la mayoría de los votos de la Comunidad o lo determinen las Ordenanzas. En la Junta General no podrá tratarse ningún asunto que haya sido incluido previamente en el orden del día.
+
+2\. La convocatoria se hará por el Presidente de la Comunidad, al menos, con quince días de anticipación, mediante edictos municipales y anuncios en la sede de la Comunidad y en el Boletín Oficial de la provincia. Cuando se trate de Comunidades regidas por el convenio o de Mancomunidades o Consorcios, la convocatoria a Junta General se hará por citación personal.
+
+En los supuestos de reforma de Estatutos y Ordenanzas o de asuntos que, a juicio de la Junta de Gobierno, puedan comprometer la existencia de la Comunidad o afectar gravemente a sus intereses, la convocatoria tendrá la adecuada publicidad mediante notificación personal, o anuncios insertados en los diarios de mayor difusión en la zona.
+
+3\. La Junta General adoptará sus acuerdos por mayoría absoluta de votos, computados con arreglo a la Ley y lo establecido en las Ordenanzas si se celebra en primera convocatoria y bastando la mayoría de votos de los participes asistentes o debidamente representados si se celebra en segunda convocatoria. Los Estatutos y Ordenanzas podrán exigir, no obstante, mayorías cualificadas para la adopción de determinados acuerdos.
+
+4\. Las votaciones podrán ser públicas o secretas, y los participes podrán ejercer su derecho personalmente o por medio de sus representantes legales o voluntarios; para estos últimos será suficiente la autorización escrita, bastanteada por el Secretario de la Comunidad.
+
+**Art. 219.**
+
+1\. La Junta de Gobierno, elegida por la Junta General, es la encargada de la ejecución de las Ordenanzas y de los acuerdos propios y de los adoptados por la Junta General (Art. 76.3 de la LA, *se corresponde con el actual* [*artículo 84.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_84.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Estará constituida por vocales entre los que figurará la representación de los usuarios que por su situación u orden establecido sean los últimos en recibir el agua. Cuando en una Comunidad haya diversos tipos de aprovechamientos deberá estar representado cada uno de ellos al menos por un Vocal.
+
+3\. El Presidente de la Junta de Gobierno será designado de acuerdo con lo dispuesto en los Estatutos u Ordenanzas y, en su defecto, entre los vocales de dicha Junta por mayoría de votos.
+
+Por el mismo procedimiento se designará un Vicepresidente, a quien corresponderán las funciones del Presidente en los casos de vacante, ausencia o enfermedad.
+
+4\. Corresponde a la propia Junta de Gobierno elegir, entre sus vocales, un Tesorero-Contador, responsable de los fondos comunitarios y designar al Secretario, si no lo fuera el de la Comunidad.
+
+**Art. 220.**
+
+Son atribuciones de la Junta de Gobierno:
+
+-   a) Velar por los intereses de la Comunidad, promover su desarrollo y defender sus derechos.
+-   b) Nombrar y separar los empleados de la Comunidad en la forma que establezca su Reglamento y la legislación laboral.
+-   c) Redactar la memoria, elaborar los presupuestos, proponer las derramas ordinarias y extraordinarias y rendir las cuentas, sometiendo unos y otras a la Junta General.
+-   d) Presentar a la Junta General la lista de los vocales de la Junta de Gobierno y del Jurado que deben cesar en sus cargos con arreglo a los Estatutos.
+-   e) Ordenar la inversión de fondos con sujeción a los presupuestos aprobados.
+-   f) Formar el inventario de la propiedad de la Comunidad, con los padrones generales, planos y relaciones de bienes.
+-   g) Acordar la celebración de Junta General extraordinaria de la Comunidad cuando lo estime conveniente.
+-   h) Someter a la Junta General cualquier asunto que estime de interés.
+-   i) Conservar los sistemas de modulación y reparto de las aguas.
+-   j) Disponer la redacción de los proyectos de reparación o de conservación que juzgue conveniente y ocuparse de la dirección e inspección de las mismas.
+-   k) Ordenar la redacción de los proyectos de obras nuevas, encargándose de su ejecución una vez que hayan sido aprobados por la Junta General. En casos extraordinarios y de extrema urgencia que no permitan reunir a la Junta General, podrá acordar y emprender, bajo su responsabilidad la ejecución de una obra nueva, convocando lo antes posible a la Asamblea para darle cuenta de su acuerdo.
+-   l) Dictar las disposiciones convenientes para mejor distribución de las aguas, respetando los derechos adquiridos.
+-   ll) Establecer, en su caso, los turnos de agua, conciliando los intereses de los diversos aprovechamientos y cuidando que, en momentos de escasez, se distribuya el agua del modo mas conveniente para los intereses comunitarios.
+-   m) Hacer que se cumpla la legislación de aguas, las Ordenanzas de la Comunidad y sus Reglamentos y las ordenes que le comunique el Organismo de cuenca, recabando su auxilio en defensa de los intereses de la Comunidad.
+-   n) Resolver las reclamaciones previas al ejercicio de las acciones civiles y laborales que se formulen contra la Comunidad, de acuerdo con la Ley de Procedimiento Administrativo.
+-   ñ) Proponer a la aprobación de la Junta General las Ordenanzas y Reglamentos, así como su modificación y reforma.
+-   o) Cuantas otras facultades le delegue la Junta General o le sean atribuidas por las Ordenanzas de la Comunidad y disposiciones vigentes y, en general, cuanto fuere conveniente para el buen Gobierno y administración de la Comunidad.
+
+**Art. 221.**
+
+Son atribuciones especificas del Presidente:
+
+-   a) Convocar, presidir y dirigir las sesiones de la Junta de Gobierno, decidiendo votaciones en caso de empate.
+-   b) Autorizar las actas y acuerdos de la Junta, así como firmar y expedir los libramientos de tesorería.
+-   c) Actuar en nombre y representación de la Junta de Gobierno, en toda clase de asuntos propios de la competencia de dicha Junta.
+-   d) Cualquier otra facultad que le venga atribuida por las disposiciones legales y por las Ordenanzas y Reglamentos de la Comunidad.
+
+**Art. 222.**
+
+1\. Puede ser Secretario de la Junta de Gobierno cualquier vocal de la misma por el plazo que se le señale.
+
+Si en el Secretario no concurriera la condición de vocal ejercerá su cargo por tiempo indeterminado, teniendo la Junta la facultad de suspenderlo en sus funciones y proponer a la Junta General su cese definitivo, mediante la incoación de expediente. Su retribución, así como la de los demás empleados, se fijará por la propia Junta de Gobierno.
+
+2\. Corresponde al Secretario:
+
+-   a) Extender y anotar en un libro foliado y rubricado por el Presidente las actas y acuerdos adoptados por la Junta de Gobierno con su firma y la del Presidente.
+-   b) Expedir certificaciones con el visto bueno del Presidente.
+-   c) Conservar y custodiar los libros y demás documentos, así como ejecutar todos los trabajos propios de su cargo y los que le encomiende la Junta de Gobierno o su Presidente.
+
+**Art. 223.**
+
+Al Jurado corresponde conocer en las cuestiones de hecho que se susciten entre los usuarios de la Comunidad en el ámbito de las Ordenanzas e imponer a los infractores las sanciones reglamentarias, así como fijar las indemnizaciones que deban satisfacer a los perjudicados y las obligaciones de hacer que puedan derivarse de la infracción.
+
+Los procedimientos serán públicos y verbales en la forma que determine la costumbre y este Reglamento. Sus fallos serán ejecutivos (artículo 76.6 de la LA, *se corresponde con el actual* [*artículo 84.6*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_84.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 224.**
+
+1\. El Jurado estará constituido por un Presidente, que será uno de los vocales de la Junta de Gobierno, designado por ésta y por el número de vocales y suplentes que, determinado por las Ordenanzas, elija la Junta General. Actuará de Secretario el que lo sea de la Junta de Gobierno o el que designen las Ordenanzas.
+
+2\. El Presidente convocará las sesiones del Jurado. Estas se celebraran a iniciativa de aquel, en virtud de denuncia o a solicitud de la mayoría de los vocales.
+
+**Art. 225.**
+
+1\. Los procedimientos del Jurado serán públicos y verbales y sus fallos, que serán ejecutivos, se consignarán por escrito con expresión de los hechos y de las disposiciones de las Ordenanzas en que se funden, así como de la cuantía de la sanción, de la indemnización y de las costas, en su caso.
+
+Tomará sus acuerdos y dictará sus fallos por mayoría absoluta, siendo necesario para su validez la concurrencia del número de vocales que exijan los Estatutos. En caso de empate decidirá el voto del Presidente.
+
+2\. Las sanciones que imponga el Jurado según las Ordenanzas serán pecuniarias, y su importe, que en ningún caso excederá el limite fijado en el Código Penal para las faltas, se aplicará a los fondos de la Comunidad.
+
+**Art. 226.**
+
+1\. En una misma Comunidad de Usuarios podrá haber más de un Jurado, si así lo exige su amplitud.
+
+2\. El Jurado de una Comunidad General no tiene funciones revisoras de los fallos dictados por los Jurados de las Comunidades que la integran.
+
+**Art. 227.**
+
+1\. Los acuerdos de la Junta General y de la Junta de Gobierno, en el ámbito de sus competencias serán ejecutivos en la forma y con los requisitos establecidos en la Ley de Procedimiento Administrativo, sin perjuicio de su posible impugnación en alzada ante el Organismo de cuenca (artículo 76.5 de la LA, *se corresponde con el actual* [*artículo 84.5*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_84.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Los acuerdos adoptados por la Junta General o por la Junta de Gobierno serán recurribles en alzada en el plazo de quince días ante el Organismo de cuenca, cuya resolución agotara la vía administrativa, siendo en todo caso revisables por la jurisdicción contencioso-administrativa.
+
+Las resoluciones del Jurado solo son revisables en reposición ante el propio Jurado como requisito previo al recurso contencioso-administrativo.
+
+**SECCCION 3.ª: NORMAS COMPLEMENTARIAS**  
+**Art. 228.**
+
+1\. Los Usuarios de una misma unidad hidrogeológica o de un mismo acuífero estarán obligados a requerimiento del Organismo de cuenca, a constituir una Comunidad de Usuarios, correspondiendo a dicho organismo, a instancia de parte o de oficio, determinar sus límites y establecer el sistema de utilización conjunta de las aguas (artículo 79 de la LA, *se corresponde con el actual* [*artículo 87*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_87.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. El Organismo de cuenca podrá obligar a la constitución de Comunidades que tengan por objeto el aprovechamiento conjunto de aguas superficiales y subterráneas cuando así lo aconseje la mejor utilización de los recursos de una misma zona (artículo 80 de la LA, *se corresponde con el actual* [*artículo 88*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_88.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. Cuando, sin causa debidamente justificada, no se diera cumplimiento al requerimiento del Organismo para la constitución de la Comunidad de Usuarios exigida en los artículos 79 y 80 de la Ley (*se corresponde con los actuales artículos* [*87*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_87.htm) *y* [*88*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_88.htm) *del Texto Refundido de la Ley de Aguas*), cualquiera que sea el tipo de Comunidad, podrá dicho Organismo, sin perjuicio de aplicar el procedimiento sancionador, convocar y presidir las Juntas Generales, redactar de oficio los Estatutos y proceder a su aprobación, con dictamen del Consejo de Estado si la Junta General no hubiera llegado a ninguna decisión.
+
+4\. Cuando la constitución de una Comunidad o Junta viniera impuesta por una cláusula concesional, su incumplimiento motivará la caducidad de la concesión.
+
+**Art. 229.**
+
+1\. El otorgamiento de las concesiones para abastecimiento a varias poblaciones estará condicionado a que las corporaciones locales estén constituidas a estos efectos en Mancomunidades, Consorcios y otras Entidades semejantes, de acuerdo con la legislación por la que se rijan, o a que todas ellas reciban el agua a través de la misma empresa concesionaria.
+
+2\. Con independencia de su especial Estatuto jurídico, el Consorcio o Comunidad de que se trate elaborarán las Ordenanzas previstas en el artículo 74 de la Ley de Aguas (*se corresponde con el actual* [*artículo 82*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_82.htm) *del Texto Refundido de la Ley de Aguas*) (artículo 81 de la LA, *se corresponde con el actual* [*artículo 89*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_89.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. Las Mancomunidades o Consorcios elaborarán las Ordenanzas por las que habrá de regirse el aprovechamiento del agua, que deberán someter al Organismo de cuenca para su aprobación.
+
+**Art. 230.**
+
+Las Entidades públicas, Corporaciones o particulares que tengan necesidad de verter agua o productos residuales podrán constituirse en Comunidad para llevar a cabo el estudio, construcción, explotación y mejora de colectores, estaciones depuradoras y elementos comunes que les permitan efectuar el vertido en el lugar más idóneo y en las mejores condiciones técnicas y económicas, considerando la necesaria protección del entorno natural. El Organismo de cuenca podrá imponer justificadamente la constitución de esta clase de Comunidades de Usuarios (artículo 82 de la LA, *se corresponde con el actual* [*artículo 90*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_90.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 231.**
+
+Las disposiciones contenidas en los artículos anteriores podrán ser aplicadas a otros tipos de Comunidades no mencionadas expresamente y, entre ellas, a las de avenamiento o a las que se constituyan para la construcción, conservación y mejora de obras de defensa contra las aguas (artículo 83 de la LA, *se corresponde con el actual* [*artículo 91*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_91.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**TITULO III. DE LA PROTECCION DEL DOMINIO PUBLICO HIDRAULICO Y DE LA CALIDAD DE LAS AGUAS CONTINENTALES**  
+**CAPITULO PRIMERO. NORMAS GENERALES, APEO Y DESLINDE DEL DOMINIO PUBLICO Y ZONAS DE PROTECCION**  
+**SECCION 1.ª NORMAS GENERALES**  
+**Art. 232.**
+
+Son objetivos de la protección del dominio publico hidráulico contra su deterioro:
+
+-   a) Conseguir y mantener un adecuado nivel de calidad de las aguas.
+-   b) Impedir la acumulación de compuestos tóxicos o peligrosos en el subsuelo, capaces de contaminar las aguas subterráneas.
+-   c) Evitar cualquier otra actuación que pueda ser causa de su degradación (Art. 84 de la LA, *se corresponde con el actual* [*artículo 92*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_92.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 233.**
+
+*1\. Se entiende por contaminación, a los efectos de la Ley de Aguas, la acción y el efecto de introducir materias o formas de energía, o inducir condiciones en el agua que, de modo directo o indirecto, impliquen una alteración perjudicial de su calidad en relación con los usos posteriores o con su función ecológica.*
+
+*El concepto de degradación del dominio público hidráulico a efectos de esta Ley incluye las alteraciones perjudiciales del entorno afecto a dicho dominio (artículo 85 de la LA,* *se corresponde con el actual* [*artículo 93*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_93.htm) *del Texto Refundido de la Ley de Aguas**).*
+
+*2\. Entre los usos posteriores mencionados en el apartado anterior, serán objeto de especial protección aquellos que corresponden a los abastecimientos de agua potable, impliquen afección a la salud humana o tengan asignada una función ecológica para la protección de zonas vulnerables o sensibles.*
+
+(Artículo redactado de conformidad con el [R.D. 1315/92](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1315_92.htm))
+
+**Art. 234.**
+
+Queda prohibido con carácter general y sin perjuicio de lo dispuesto en el artículo 92 de la Ley de Aguas (*se corresponde con el actual* [*artículo 100*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_100.htm) *del Texto Refundido de la Ley de Aguas*):
+
+-   a) Efectuar vertidos directos o indirectos que contaminen las aguas.
+-   b) Acumular residuos sólidos, escombros o sustancias, cualquiera que sea su naturaleza y el lugar en que se depositen, que constituyan o puedan constituir un peligro de contaminación de las aguas o de degradación de su entorno.
+-   c) Efectuar acciones sobre el medio físico o biológico afecto al agua que constituyan o puedan constituir una degradación del mismo.*Cuando el Organismo de cuenca compruebe la degradación del medio receptor como consecuencia de prácticas agropecuarias inadecuadas, lo comunicará a la Administración competente, sin perjuicio de la exigencia de responsabilidad por acciones causantes de daños al dominio público hidráulico derivadas del incumplimiento del* [*artículo 97.b)*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_97.htm) *del texto refundido de la Ley de Aguas*. (Párrafo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+-   d) El ejercicio de actividades dentro de los perímetros de protección fijados en los planes hidrológicos, cuando pudiera constituir un peligro de contaminación o degradación del dominio publico hidráulico (Art. 89 de la LA, *se corresponde con el actual* [*artículo 97*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_97.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 235.**
+
+1\. La policía de las aguas superficiales y subterráneas y de sus cauces y depósitos naturales, zonas de servidumbre y perímetros de protección se ejercerá por la Administración hidráulica competente (Art. 86 de la LA, *se corresponde con el actual* [*artículo 94*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_94.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. El apeo y deslinde de los cauces de dominio público corresponde a la Administración del Estado, que los efectuará por los Organismos de cuenca, según el procedimiento que se establece en el presente Reglamento (Art. 87 de la LA, *se corresponde con el actual* [*artículo 95*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_95.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 236.**
+
+En la tramitación de concesiones y autorizaciones que afecten al dominio publico hidráulico y pudieren implicar riesgos para el medio ambiente, será preceptiva la presentación de una evaluación de sus efectos.(Art. 90 de la LA, *se corresponde con el actual* [*artículo 98*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_98.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 237.**
+
+1\. Las concesiones o autorizaciones administrativas, en relación con obras o actividades en el dominio publico hidráulico, que, a juicio del Organismo de cuenca, se consideren susceptibles de contaminar o degradar el medio ambiente, causando efectos sensibles en el mismo, requerirán la presentación por el peticionario de un estudio para evaluación de tales efectos.
+
+2\. Los estudios de evaluación de efectos medioambientales identificarán, preverán y valorarán las consecuencias o efectos que las obras o actividades que el peticionario pretenda realizar puedan causar a la salubridad y al bienestar humanos y al medio ambiente, e incluirán las cuatro fases siguientes:
+
+-   a) Descripción y establecimiento de las relaciones causa-efecto.
+-   b) Predicción y cálculo en su caso de los efectos y cuantificación de sus indicadores.
+-   c) Interpretación de los efectos.
+-   d) Previsiones a medio y largo plazo y medidas preventivas de efectos indeseables.
+
+Si la entidad de las obras o acciones a realizar así lo aconseja, el Organismo de cuenca podrá admitir los estudios a que se refiere el presente artículo, redactados de forma simplificada.
+
+En cualquier caso estos estudios deberán ser redactados por titulado superior competente.
+
+*3\. Si la supuesta contaminación o degradación del medio implicase afección de aguas subterráneas, el estudio incluirá la evaluación de las condiciones hidrogeológicas de la zona afectada, del eventual poder depurador del suelo y del subsuelo, y de los riesgos de contaminación y de alteración de la calidad de las aguas subterráneas por el vertido, determinando si la solución que se propone es adecuada, especialmente si se tratase de vertidos directos o indirectos.*
+
+(Apartado añadido por el [R.D. 1315/92](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1315_92.htm))
+
+**Art. 238.**
+
+Los estudios de evaluación de efectos medioambientales contenidos en las peticiones de concesiones o autorizaciones, como documentos que forman parte de los correspondientes expedientes, se verán sometidos a la tramitación normal regulada para estos, debiendo ser recabados los informes correspondientes, en relación con la afección a la salud o al medio ambiente, si por la índole de la obra o acción previstas por el peticionario, así lo estimara el Organismo de cuenca.
+
+**Art. 239.**
+
+Los programas, planes, anteproyectos y proyectos de obras o acciones a realizar por la propia Administración, deberán también incluir los correspondientes estudios de evaluación de efectos medioambientales cuando razonablemente puedan presumirse riesgos para el medio ambiente, como consecuencia de su realización. Asimismo, deberán incorporarse dichos estudios a los expedientes de todas las obras de regulación.
+
+Estos estudios deberán adaptarse, en este caso, a lo preceptuado en el [artículo 237](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo237.htm), en lo relativo a su entidad y contenido.
+
+**SECCION 2.ª APEO Y DESLINDE**
+
+(Sección redactada de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**Artículo 240. Cuestiones generales.**
+
+*1\. El apeo y deslinde de los cauces de dominio público hidráulico corresponde a la Administración General del Estado, que los efectuará por los Organismos de cuenca, según el procedimiento regulado en esta sección.*
+
+*2\. Para la delimitación del dominio público hidráulico habrán de considerarse como elementos coadyuvantes a su determinación, además del cauce natural determinado con arreglo al artículo 4 de este reglamento, la observación del terreno y de las condiciones topográficas y geomorfológicas del tramo correspondiente de cauce fluvial, las alegaciones y manifestaciones de los propietarios de los terrenos ribereños, de los prácticos y de los técnicos del ayuntamiento y comunidad autónoma y, en general, cuantos datos y referencias resulten oportunos.*
+
+*3\. En los casos de tramos de cauce próximos a su desembocadura en el mar, se tendrá en cuenta el deslinde del dominio público marítimo terrestre si se hubiera practicado. En caso contrario, la línea probable de deslinde será facilitada por el Servicio Periférico de Costas, en los términos previstos en la* [*disposición transitoria decimoctava*](http://www.carreteros.org/legislacionb/costas/reglamento/articulos/dts.htm) *del Reglamento general para el desarrollo y ejecución de la Ley 22/88, de 28 de julio, de Costas, aprobado por el* [*Real Decreto 1471/89*](http://www.carreteros.org/legislacionb/costas/reglamento/articulos/rd.htm)*, de 1 de diciembre.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**Artículo 241. Incoación del procedimiento de apeo y deslinde.**
+
+*1\. El procedimiento se iniciará mediante acuerdo del Organismo de cuenca, ya sea por propia iniciativa o a instancia de los interesados. En este último caso, todos los gastos que se deriven de la tramitación del procedimiento y de las operaciones sobre el terreno que correspondan correrán a cargo del solicitante.*
+
+*2\. La incoación del procedimiento faculta al Organismo de cuenca para realizar o autorizar, incluso en terrenos privados, previa comunicación al propietario, los trabajos necesarios para la toma de datos y fijación de puntos, sin perjuicio de las indemnizaciones a que pudiera dar lugar por daños y perjuicios, debidamente contrastados, y a resultas del deslinde que se apruebe definitivamente.*
+
+*3\. El acuerdo de incoación definirá claramente el tramo de cauce que se ha de deslindar, referido a puntos fijos sobre el terreno, y dispondrá la suspensión cautelar del otorgamiento de concesiones y autorizaciones que puedan afectar al dominio público hidráulico o dificulten los trabajos que deben realizarse para su delimitación.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**Artículo 242. Instrucción del procedimiento.**
+
+*1\. El Organismo de cuenca elaborará el presupuesto aproximado del coste de todos los trabajos necesarios hasta completar el apeo y deslinde del tramo.*
+
+*Si el procedimiento se inicia a instancia de los interesados, el peticionario deberá depositar la totalidad del importe estimado en concepto de provisión de fondos, así como abonar las tasas correspondientes, sin perjuicio de la liquidación final que se realice una vez terminado el procedimiento.*
+
+*2\. El acuerdo de incoación se publicará en el boletín oficial de la provincia, se comunicará a los ayuntamientos de los municipios en cuyo término municipal se sitúe el tramo que se ha de deslindar, se notificará a los titulares registrales afectados y se publicará en algún medio de amplia difusión en la zona, todo ello para que los interesados puedan aportar cuanta información estimen conveniente sobre el tramo de cauce que se ha de deslindar, en el plazo de un mes y sin perjuicio del trámite de información pública regulado en el apartado 4.*
+
+*3\. A partir de la información aportada y de la disponible en el Organismo de cuenca, éste preparará la siguiente documentación:*
+
+-   *a) Memoria descriptiva que incluya: objeto del deslinde, características del tramo y de la propiedad en los terrenos colindantes así como los estudios realizados en la zona.*
+-   *b) Solicitud a los ayuntamientos y al Centro de Gestión Catastral y Cooperación Tributaria de los planos y relación de titulares de las fincas colindantes con sus domicilios respectivos, para su posterior remisión al Registro de la Propiedad, a fin de que el registrador manifieste su conformidad con dicha relación o formule las observaciones que estime pertinentes. Transcurridos 15 días sin que se reciba contestación expresa, se entenderá otorgada.*
+-   *c) Levantamiento topográfico de la zona, a escala no inferior a 1/1.000.*
+-   *d) Estudio de la hidrología del tramo que se ha de deslindar, con base en la información pluviométrica y foronómica disponibles, estudios del terreno, de mareas en zonas próximas a su desembocadura en el mar, y mediante los modelos matemáticos que sean de aplicación y permitan deducir el caudal teórico de la máxima crecida ordinaria.*
+-   *e) Estudio hidráulico que permita fijar el área ocupada por la máxima crecida ordinaria, considerando asimismo otros criterios de aplicación para delimitar los terrenos de dominio público* *hidráulico.*
+-   *f) Propuesta de deslinde definida mediante línea poligonal referida a puntos fijos.*
+
+*4\. Completada la documentación a que se refiere el apartado anterior, se realizará el trámite de información pública mediante anuncios en el boletín oficial de la provincia, en el ayuntamiento y en algún otro medio de amplia difusión con apertura de plazo de un mes para examinar, en las oficinas del Organismo de cuenca donde se instruye el procedimiento, la documentación preparada conforme al apartado anterior y, en su caso, formular alegaciones y aportar o proponer pruebas.*
+
+*5\. Simultáneamente a la apertura del trámite de información pública, el Organismo de cuenca remitirá la información necesaria a la comunidad autónoma y al ayuntamiento, con solicitud de informe en relación con las cuestiones propias de sus respectivas competencias. De no emitirse el informe en el plazo de un mes, continuará la tramitación.*
+
+*Además del informe, el Organismo de cuenca solicitará al ayuntamiento la suspensión cautelar del otorgamiento de licencias de obras en el ámbito afectado por el deslinde.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**Artículo 242 bis. Proyecto de deslinde y resolución del procedimiento.**
+
+*1\. El Organismo de cuenca, una vez examinadas las alegaciones e informes aportados, convocará con antelación mínima de 10 días hábiles, conjuntamente o agrupados por tramos, a todos los interesados y a los representantes del ayuntamiento, de la comunidad autónoma y, si les afecta, de otros órganos de la Administración General del Estado, para la celebración del acto de reconocimiento sobre el terreno, en donde se replanteará la línea teórica definida en planos, mediante estaquillas. De estas operaciones se levantará acta, en la que se hará constar la conformidad o disconformidad de los asistentes, quienes, en este último caso, dispondrán de un plazo de 15 días para formular alegaciones y proponer motivadamente una delimitación alternativa.*
+
+*2\. Cuando los interesados en el expediente aporten títulos inscritos en el Registro de la Propiedad sobre terrenos que pudieran resultar incluidos en el dominio público, el Organismo de cuenca lo comunicará al registrador, al objeto de practicar la anotación preventiva correspondiente, en donde se hará constar, además de las circunstancias previstas con carácter general en la legislación hipotecaria, las específicas que acrediten la tramitación de un expediente de deslinde, y la advertencia, según proceda, de que en su virtud la finca puede resultar en todo o en parte de dominio público.*
+
+*Sin perjuicio de lo anterior, una vez iniciado el procedimiento de deslinde, el Organismo de cuenca podrá solicitar al registrador que extienda anotación preventiva acreditativa de la existencia de aquél en las fincas que pudieran resultar afectadas. Si las fincas no estuvieran inscritas, la anotación preventiva se tomará, además, por la falta de previa inscripción.*
+
+*3\. Practicadas las actuaciones anteriores, se formulará el proyecto de deslinde que se compondrá de los siguientes documentos:*
+
+-   *a) Memoria descriptiva de los trabajos efectuados, con análisis de los informes y alegaciones presentadas y justificación de la línea de deslinde propuesta, así como anejos.*
+-   *b) Planos a escala no inferior a 1/1.000 con el trazado propuesto de la línea de deslinde replanteada sobre el terreno.*
+-   *c) Cuando la línea de deslinde establecida en este proyecto suponga una modificación sustancial de la propuesta inicial, a juicio del Organismo de cuenca, éste podrá retrotraer el expediente al trámite de información pública, si así lo estimase oportuno para la mejor delimitación del dominio público hidráulico.*
+
+*4\. Dicho proyecto se pondrá de manifiesto a los interesados, en los términos del artículo 84 de la Ley 30/92, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, durante un plazo máximo de 15 días, para que puedan alegar y presentar los documentos y justificaciones que estimen pertinentes a propósito de cualquier modificación que pretendan introducir sobre la línea de deslinde replanteada sobre el terreno.*
+
+*5\. El Organismo de cuenca, previo informe de la Abogacía del Estado, dictará resolución que acuerde el deslinde, que deberá ser publicada en el boletín oficial de la provincia o provincias afectadas, notificada a los titulares registrales de los terrenos colindantes y a cuantos hayan comparecido como interesados en el expediente, y comunicada al ayuntamiento, a la comunidad autónoma, al Centro de Gestión Catastral y Cooperación Tributaria y al Registro de la Propiedad.*
+
+*6\. La aprobación del deslinde llevará implícito el levantamiento de la suspensión de otorgamiento de concesiones o autorizaciones en el dominio público hidráulico que, en su caso, se hubiesen producido. Asimismo, llevará implícita la cancelación de las anotaciones preventivas practicadas en el Registro de la Propiedad con motivo del deslinde, relativas a fincas que hayan resultado incluidas total o parcialmente en el dominio público hidráulico, en virtud de aquél.*
+
+*7\. Una vez amojonada la línea definitiva del deslinde, el Organismo de cuenca procederá al levantamiento de acta a la que se adjuntará el plano de definición de la poligonal del deslinde.*
+
+*El Organismo de cuenca deberá aprobar el acta, lo que permitirá efectuar la liquidación definitiva de los gastos, en el supuesto de que el expediente se hubiera incoado a instancia de parte.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**Artículo 242 ter. Efectos de la aprobación del deslinde.**
+
+*1\. El deslinde aprobado declara la posesión y la titularidad dominical a favor del Estado, dando lugar al amojonamiento, de acuerdo con el* [*artículo 95.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_95.htm) *del texto refundido de la Ley de Aguas.*
+
+*2\. La resolución de aprobación del deslinde será título suficiente para rectificar las inscripciones del Registro de la Propiedad contradictorias con aquél, siempre que haya intervenido en el expediente el titular registral, conforme a la legislación hipotecaria.*
+
+*En todo caso, los titulares de los derechos inscritos afectados podrán ejercitar las acciones que estimen pertinentes en defensa de sus derechos, y será susceptible de anotación preventiva la correspondiente reclamación judicial.*
+
+*3\. A efectos de lo dispuesto en el apartado anterior, se considera que el titular registral ha intervenido en el expediente cuando el Organismo de cuenca le haya notificado su incoación con arreglo a los artículos 58 y 59 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, aunque no haya comparecido.*
+
+*4\. La resolución de aprobación del deslinde será título suficiente para que la Administración proceda a la inmatriculación de los bienes de dominio público cuando lo estime conveniente, a la vista de las circunstancias físicas o jurídicas concurrentes y, en todo caso, cuando la posesión no sea ostensible por sus características naturales o cuando exista un riesgo de invasión del dominio público.*
+
+*5\. El Organismo de cuenca podrá ejercer de oficio la facultad de recuperación posesoria cuando exista invasión efectiva del dominio público hidráulico, aun cuando no esté deslindado, siempre que sea evidente el carácter demanial del bien objeto de invasión y sin perjuicio de incoar el oportuno procedimiento sancionador.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**SECCION 3.ª ZONAS DE PROTECCION**  
+**Art. 243.**
+
+1\. A fin de proteger adecuadamente la calidad del agua, el Gobierno podrá establecer alrededor de los lechos de lagos, lagunas y embalses, definidos en el [artículo 9](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_9.htm) de la Ley de Aguas, un área en la que se condicionará el uso del suelo y las actividades que se desarrollen.
+
+2\. Alrededor de los embalses superficiales, el Organismo de cuenca podrá prever en sus proyectos las zonas de servicio necesarias para su explotación.
+
+3\. En todo caso, las márgenes de lagos, lagunas y embalses quedarán sujetas a las zonas de servidumbre y policía fijadas para las corrientes de agua (Art. 88 de la LA, *se corresponde con el actual* [*artículo 96*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_96.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 244.**
+
+1\. La protección de las aguas subterráneas frente a intrusiones de aguas salinas de origen continental o marítimo se realizará, entre otras acciones, mediante la limitación de la explotación de los acuíferos afectados y, en su caso, la redistribución espacial de las captaciones existentes. Los criterios básicos para ellos serán incluidos en los Planes Hidrológicos de cuenca, correspondiendo al Organismo de cuenca la adopción de las medidas oportunas (Art. 91 de la LA, *se corresponde con el actual* [*artículo 99*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_99.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. El Organismo de cuenca podrá declarar que un acuífero o zona esta en proceso de salinización y con ello imponer una ordenación de todas las extracciones de agua para lograr su explotación más racional.
+
+3\. Se considerará que un acuífero o zona esta en proceso de salinización cuando, como consecuencia directa de las extracciones que se realicen, se registre un aumento progresivo y Generalizado de la concentración salina de las aguas captadas, con peligro claro de convertirlas en inutilizables.
+
+4\. El procedimiento para la adopción del acuerdo y para las subsiguientes actuaciones será similar al que se establece para la declaración de acuíferos sobreexplotados en este Reglamento, con las modificaciones que en cada caso la Junta de Gobierno estime procedentes en lo referente a los efectos de la declaración provisional y a los plazos estipulados para la ejecución del Plan de Ordenación de las extracciones.
+
+**CAPITULO II. DE LOS VERTIDOS**
+
+(Capítulo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***SECCIÓN 1.ª AUTORIZACIONES DE VERTIDO***  
+***Artículo 245. Autorización.***
+
+*1\. A los efectos de la Ley de Aguas, se consideran vertidos los que se realicen directa o indirectamente en las aguas continentales, así como en el resto del dominio público hidráulico, cualquiera que sea el procedimiento o técnica utilizada.*
+
+*Son vertidos directos la emisión directa de contaminantes a las aguas continentales o a cualquier otro elemento del dominio público hidráulico, así como la descarga de contaminantes en el agua subterránea mediante inyección sin percolación a través del suelo o del subsuelo.*
+
+*Son vertidos indirectos tanto los realizados en aguas superficiales a través de azarbes, redes de colectores de recogida de aguas residuales o de aguas pluviales o por cualquier otro medio de desagüe, o a cualquier otro elemento del dominio público hidráulico, así como los realizados en aguas subterráneas mediante filtración a través del suelo o del subsuelo.*
+
+*2\. Queda prohibido con carácter general el vertido directo o indirecto de aguas y productos residuales susceptibles de contaminar las aguas continentales o cualquier otro elemento del dominio público hidráulico, salvo que se cuente con la previa autorización. Dicha autorización corresponde al Organismo de cuenca tanto en el caso de vertidos directos a aguas superficiales o subterráneas como en el de vertidos indirectos a aguas subterráneas. Cuando se trate de vertidos indirectos a aguas superficiales, la autorización corresponderá al órgano autonómico o local competente.* (Apartado declarado nulo por [SENTENCIA DEL TRIBUNAL SUPREMO de 18-10-06](http://www.carreteros.org/legislacionb/aguas/rdph/otros/s18_10_06.htm))
+
+*3\. La autorización de vertido tendrá como objeto la consecución del buen estado ecológico de las aguas, de acuerdo con las normas de calidad, los objetivos ambientales y las características de emisión e inmisión establecidas en este reglamento y en el resto de la normativa en materia de aguas. Estas normas y objetivos podrán ser concretados para cada cuenca por el respectivo plan hidrológico, de acuerdo con lo dispuesto en el* [*artículo 100.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_100.htm) *del texto refundido de la Ley de Aguas.*
+
+*4\. Los vertidos indirectos a aguas superficiales con especial incidencia para la calidad del medio receptor, según los criterios señalados en el apartado anterior, han de ser informados favorablemente por el Organismo de cuenca previamente al otorgamiento de la preceptiva autorización.*
+
+*5\. A los efectos de este reglamento, se entiende por:*
+
+-   *a) Norma de calidad ambiental: la concentración de un determinado contaminante o grupo de contaminantes en el agua, en los sedimentos o en la biota, que no debe superarse con el fin de proteger la salud humana y el medio ambiente.*
+-   *b) Valor límite de emisión: la cantidad o la concentración de un contaminante o grupo de contaminantes, cuyo valor no debe superarse por el vertido. En ningún caso el cumplimiento de los valores límites de emisión podrá alcanzarse mediante técnicas de dilución.*
+-   *c) Contaminante: cualquier sustancia que pueda causar contaminación y en particular las que figuran en el* [*anexo II*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/anexoii.htm)*.*
+-   *d) Sustancia peligrosa: las sustancias o grupos de sustancias que son tóxicas, persistentes y bioacumulables, así como otras sustancias o grupos de sustancias que entrañan un nivel de riesgo análogo.*
+-   *e) Objetivo medioambiental: para las aguas continentales, la prevención del deterioro de las distintas masas de agua, su protección, mejora y regeneración, con el fin de alcanzar un buen estado de las aguas.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 246. Iniciación del procedimiento de autorización de vertidos.***
+
+*1\. El procedimiento para obtener la autorización de vertido se iniciará mediante solicitud del titular de la actividad, con los datos requeridos en el artículo 70 de la Ley de Régimen Jurídico de las Administraciones Públicas y del procedimiento Administrativo Común, y con la declaración de vertido según modelo aprobado por el Ministerio de Medio Ambiente.*
+
+*2\. La declaración de vertido contendrá los siguientes extremos:*
+
+-   *a) Características de la actividad causante del vertido.*
+-   *b) Localización exacta del punto donde se produce el vertido.*
+-   *c) Características cualitativas (con indicación de todos los valores de los parámetros contaminantes del vertido), cuantitativas y temporales del vertido.*
+-   *d) Descripción de las instalaciones de depuración y evacuación del vertido.*
+-   *e) Proyecto, suscrito por técnico competente, de las obras e instalaciones de depuración o eliminación que, en su caso, fueran necesarias para que el grado de depuración sea el adecuado para la consecución de los valores límite de emisión del vertido, teniendo en cuenta las normas de calidad ambiental determinadas para el medio receptor.*
+-   *f) Petición, en su caso, de imposición de servidumbre forzosa de acueducto o de declaración de utilidad pública, a los efectos de expropiación forzosa, acompañada de la identificación de predios y propietarios afectados.*
+
+*3\. En el caso de solicitudes formuladas por entidades locales, la declaración de vertido deberá incluir además:*
+
+-   *a) Inventario de vertidos industriales con* [*sustancias peligrosas*](http://www.carreteros.org/legislacionb/aguas/rdph/otros/sp.htm) *recogidos por la red de saneamiento municipal.*
+-   *b) Contenido y desarrollo del plan de saneamiento y control de vertidos a la red de saneamiento municipal. En el caso de que las instalaciones de depuración y el sistema de evacuación formen parte de un plan o programa de saneamiento aprobado por otra Administración pública, se incluirá la información correspondiente a tal circunstancia.*
+
+*4\. En el caso de que el solicitante de la autorización de vertido deba solicitar, además, una concesión para el aprovechamiento privativo de las aguas, la documentación a que se refieren los apartados anteriores se presentará conjuntamente con la que resulte necesaria a los efectos de obtener dicha concesión.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 247. Subsanación y mejora.***
+
+*1\. Si la solicitud no reúne los requisitos establecidos en el* [*artículo anterior*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo246.htm)*, el Organismo de cuenca requerirá la subsanación al solicitante, en los términos del artículo 71.1 de la Ley 30/92, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.*
+
+*2\. Con independencia de la subsanación, los servicios técnicos del Organismo de cuenca comprobarán los datos consignados en la declaración de vertido presentada, y emitirán informe sobre si la solicitud es adecuada al cumplimiento de las normas de calidad y objetivos ambientales y sobre las características de emisión e inmisión. Si del informe se desprende la improcedencia del vertido, el Organismo de cuenca denegará la autorización dictando resolución motivada, previa audiencia del solicitante, o bien requerirá a éste para que introduzca las correcciones oportunas en el plazo de 30 días.*
+
+*Transcurrido este plazo sin que el solicitante haya introducido las correcciones requeridas, el Organismo de cuenca denegará la autorización mediante resolución motivada y previa audiencia del solicitante.*
+
+*3\. El Organismo de cuenca deberá notificar las resoluciones a que se refiere el apartado 2 en el plazo de seis meses a partir de la recepción de la solicitud. Transcurrido este plazo, las solicitudes que no hayan sido denegadas se tramitarán con arreglo a lo establecido en los artículos siguientes.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 248. Información pública e informes.***
+
+*1\. El Organismo de cuenca someterá a información pública las solicitudes no denegadas en aplicación del* [*artículo 247.2*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo247.htm) *por un plazo de 30 días, mediante anuncio en el boletín oficial de la provincia.*
+
+*El anuncio expresará las características fundamentales de la solicitud y, en su caso, la petición de declaración de utilidad pública o de imposición de servidumbre.*
+
+*2\. Simultáneamente, el Organismo de cuenca recabará el informe de la comunidad autónoma y aquellos otros que procedan en cada caso.*
+
+*3\. De las alegaciones e informes se dará traslado al peticionario para que manifieste lo que a su derecho convenga en plazo de 10 días.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 249. Resolución.***
+
+*1\. Finalizado el plazo a que se refiere el* [*artículo 248.3*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo249.htm)*, el Organismo de cuenca formulará la propuesta de resolución y la notificará al solicitante y, si los hubiera, a los restantes interesados, que podrán presentar alegaciones en el plazo de 10 días.*
+
+*La propuesta de resolución favorable al otorgamiento de la autorización deberá expresar el condicionado.*
+
+*2\. El Organismo de cuenca notificará la resolución motivada en el plazo máximo de un año y, de no hacerlo, podrá entenderse desestimada la solicitud de autorización.*
+
+*3\. Si el condicionado de la autorización comporta la ejecución de obras o instalaciones, la autorización de vertido no producirá plenos efectos jurídicos hasta que el Organismo de cuenca apruebe el acta de reconocimiento final favorable de aquellas, aplicándose, durante el período de ejecución, el coeficiente de mayoración correspondiente a un tratamiento no adecuado. Aprobada el acta de reconocimiento, será exigible, en su totalidad, el objetivo de calidad que en cada caso corresponda.*
+
+*4\. Las autorizaciones de vertido tendrán un plazo máximo de vigencia de cinco años, entendiéndose renovadas por plazos sucesivos de igual duración al autorizado, siempre que el vertido no sea causa de incumplimiento de las* [*normas de calidad ambiental*](http://www.carreteros.org/legislacionb/aguas/rdph/otros/nca.htm) *exigibles en cada momento. La renovación no impide que cuando se den otras circunstancias, el Organismo de cuenca proceda a su revisión. En este último caso se notificará al titular con seis meses de antelación.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 250. Autorización de vertido de las entidades locales y de las comunidades autónomas.***
+
+*La autorización de vertido solicitada por entidades locales y por comunidades autónomas se ajustará a lo establecido en los artículos anteriores, con las especialidades señaladas a continuación:*
+
+-   *a) La solicitud de autorización incluirá también:*
+    
+    -   *1.º Un plan de saneamiento y control de vertidos a colectores que incluirá, en su caso, los programas de reducción de* [*sustancias peligrosas*](http://www.carreteros.org/legislacionb/aguas/rdph/otros/sp.htm)*, así como el correspondiente reglamento u ordenanza de vertidos. En el caso de que las instalaciones de depuración y evacuación necesarias formen parte de un plan o programa de saneamiento aprobado por otra Administración pública, se hará constar así en la solicitud.*
+    -   *2.º Información sobre la existencia de vertidos en los colectores de* [*sustancias peligrosas*](http://www.carreteros.org/legislacionb/aguas/rdph/otros/sp.htm) *a que se refiere el* [*artículo 256*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo256.htm)*.*
+    
+-   *b) Una vez concedida la autorización, las entidades locales y comunidades autónomas autorizadas están obligadas:*
+    
+    -   *1.º A informar anualmente a la Administración hidráulica sobre la existencia de vertidos en los colectores de* [*sustancias peligrosas*](http://www.carreteros.org/legislacionb/aguas/rdph/otros/sp.htm) *a que se refiere el* [*artículo 256*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo256.htm)*.*
+    -   *2.º A informar sobre el funcionamiento de las estaciones de depuración de aguas residuales urbanas, a los fines previstos en el* [*Real Decreto 509/96*](http://www.carreteros.org/legislacionb/aguas/residuales/rd/indice.htm)*, de 15 de marzo, por el que se desarrolla el* [*Real Decreto Ley 11/95*](http://www.carreteros.org/legislacionb/aguas/residuales/indice.htm)*, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas.*
+    
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 251. Condicionado de las autorizaciones de vertido.***
+
+*1\. Las autorizaciones de vertido establecerán las condiciones en que éstos deben realizarse, concretando especialmente los extremos siguientes:*
+
+-   *a) Origen de las aguas residuales y localización geográfica del punto de vertido.*
+-   *b) El caudal y los valores límite de emisión del efluente, determinados con arreglo a las siguientes reglas generales:*
+    
+    -   *1.ª Las características de emisión del vertido serán tales que resulten adecuadas para el cumplimiento de las* [*normas de calidad ambiental*](http://www.carreteros.org/legislacionb/aguas/rdph/otros/nca.htm) *del medio receptor. Se podrá establecer una aplicación gradual de aquéllas hasta su completa consecución.*
+    -   *2.ª Se exigirán valores límite de emisión para los parámetros característicos de la actividad causante del vertido.*
+    -   *3.ª Los valores límite de emisión no podrán alcanzarse mediante técnicas de dilución.*
+    
+-   *c) Las instalaciones de depuración y evacuación que el Organismo de cuenca considere suficientes para cumplir la normativa sobre la calidad del agua del medio receptor.*
+-   *d) Las fechas de iniciación y terminación de las obras e instalaciones, fases parciales previstas y entrada en servicio de aquéllas, así como las medidas que, en caso necesario, se deban adoptar para reducir la contaminación durante el plazo de ejecución de aquéllas.*
+-   *e) Los elementos de control de las instalaciones de depuración y los sistemas de medición del caudal y de la toma de muestras, así como la periodicidad en la que es obligatorio analizar y acreditar los parámetros y condiciones del vertido, así como cualesquiera otras declaraciones y acreditaciones a que venga obligado ante el Organismo de cuenca.*
+-   *f) El plazo de vigencia de la autorización.*
+-   *g) El importe del canon de control de vertidos que corresponda en aplicación del* [*artículo 113*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_113.htm) *del texto refundido de la Ley de Aguas, especificando el precio unitario y sus componentes.*
+-   *h) Las causas de modificación y revocación de la autorización.*
+-   *i) Las actuaciones y medidas que, en casos de emergencia, deban ser puestas en práctica por el titular de la autorización.*
+-   *j) En su caso, el establecimiento de los programas de reducción de la contaminación para la progresiva adecuación de las características del vertido a los valores límite de emisión a que se refiere el párrafo b) anterior, así como sus correspondientes plazos.*
+-   *k) Cualquier otra condición que el Organismo de cuenca considere oportuna en razón de las características específicas del caso y del cumplimiento de la finalidad de las instalaciones de depuración y evacuación.*
+
+*2\. El condicionado de las autorizaciones de vertido que puedan afectar a las aguas subterráneas se ajustarán, además, a lo dispuesto en el* [*artículo 259*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo259.htm) *de este reglamento.*
+
+*3\. El incumplimiento de las condiciones de la autorización podrá dar lugar a su revocación en los términos previstos en el* [*artículo 263*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo263.htm)*.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 252. Control de las autorizaciones de vertido.***
+
+*Con independencia de los controles impuestos en el condicionado de la autorización, el Organismo de cuenca podrá efectuar cuantos análisis e inspecciones estime convenientes para comprobar las características del vertido y el rendimiento de las instalaciones de depuración y evacuación. A tales efectos, las instalaciones de toma de muestras se ejecutarán de forma que se facilite el acceso a éstas por parte de la Administración, que, en su caso, hará entrega de una muestra alícuota al representante o persona que se encuentre en las instalaciones y acredite su identidad, para su análisis contradictorio. De no hacerse cargo de la muestra, se le comunicará que ésta se encuentra a su disposición en el lugar que se indique.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 253. Vertido de núcleos aislados de población, de polígonos industriales, urbanizaciones y otras agrupaciones sin personalidad jurídica.***
+
+*1\. En los supuestos de vertidos de naturaleza urbana o asimilable procedentes de núcleos aislados de población inferior a 250 habitantes-equivalentes y sin posibilidad de formar parte de una aglomeración urbana, en los términos del* [*Real Decreto Ley 11/95*](http://www.carreteros.org/legislacionb/aguas/residuales/indice.htm)*, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas, la autorización se ajustará a lo establecido en este artículo.*
+
+*2\. Los titulares de los vertidos a que se refiere el apartado anterior presentarán ante el Organismo de cuenca una declaración de vertido simplificada, según modelo aprobado por el Ministro de Medio Ambiente, en el que figurarán, como mínimo, la situación del vertido y una memoria descriptiva de las instalaciones de depuración y evacuación del vertido.*
+
+*Comprobado que el vertido es compatible con los objetivos de calidad del medio receptor y con los derechos de terceros, el Organismo de cuenca otorgará la autorización adecuada a las características del vertido. Si, por el contrario, no concurre esa compatibilidad, se seguirá el procedimiento establecido en los artículos* [*247*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo247.htm) *y siguientes.*
+
+*3\. Cuando no exista un titular único de la actividad causante del vertido, el Organismo de cuenca podrá requerir a los titulares de los establecimientos industriales o de cualquier otra naturaleza que tengan necesidad de verter aguas o productos residuales y se encuentren situados en una misma zona o polígono industrial, así como a los titulares de las urbanizaciones u otros complejos residenciales, a los efectos de la autorización de vertidos de naturaleza doméstica, para que se constituyan en una comunidad de vertidos en el plazo de seis meses.*
+
+*El incumplimiento del requerimiento a constituirse en comunidad tendrá la consideración de infracción administrativa con arreglo al* [*artículo 116.g)*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_116.htm) *en relación con el* [*90*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_90.htm)*, ambos del texto refundido de la Ley de Aguas.*
+
+*4\. La comunidad constituida de conformidad con el* [*artículo 90*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_90.htm) *del texto refundido de la Ley de Aguas, ya sea por iniciativa de los propios titulares de la actividad causante del vertido, ya sea por requerimiento del Organismo de cuenca, será la titular de la preceptiva autorización de vertido.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 254. Censos de vertidos.***
+
+*1\. Los Organismos de cuenca llevarán un censo de los vertidos autorizados. Rigen para este censo las mismas condiciones de publicidad establecidas para el Registro de Aguas en los artículos* [*194*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo194.htm) *y* [*195*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo195.htm) *de este reglamento.*
+
+*2\. El censo de vertidos deberá contener, al menos, la siguiente información relativa a las autorizaciones:*
+
+-   *a) Titular y localización del vertido.*
+-   *b) Naturaleza y características de la actividad causante del vertido.*
+-   *c) Características del vertido, con indicación de la presencia de* [*sustancias peligrosas*](http://www.carreteros.org/legislacionb/aguas/rdph/otros/sp.htm) *en los efluentes.*
+-   *d) Naturaleza del medio receptor, con especial referencia a zonas protegidas.*
+
+*3\. El Ministerio de Medio Ambiente, a través de la Dirección General de Obras Hidráulicas y Calidad de las Aguas, elaborará y mantendrá el censo nacional de vertidos, en el que figurarán los datos correspondientes a los vertidos cuya autorización corresponde a los Organismos de cuenca y a las Administraciones hidráulicas autonómicas.*
+
+*Asimismo, figurarán en el censo nacional de vertidos los vertidos efectuados desde tierra al mar, según los datos proporcionados por las comunidades autónomas.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***SECCIÓN 2.ª ENTIDADES COLABORADORAS***  
+***Artículo 255. Normas generales sobre entidades colaboradoras.***
+
+*1\. Son entidades colaboradoras las que, en virtud del título correspondiente, están habilitadas para las labores de apoyo a la Administración hidráulica en materia de control y vigilancia de la calidad de las aguas. Constituirá la actividad fundamental de estas entidades la certificación de los datos a que se refiere el* [*artículo 101.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_101.htm) *del texto refundido de la Ley de Aguas.*
+
+*2\. El Ministro de Medio Ambiente establecerá las condiciones requeridas para obtener el título de entidad colaboradora, así como el procedimiento para revalidarlo y las fórmulas de control por parte de la Administración del cumplimiento de las condiciones en que fue otorgado. No dará derecho a indemnización la pérdida de la condición de entidad colaboradora cuando obedezca a un incumplimiento de las condiciones exigidas.*
+
+*3\. En todo caso, la obtención del título de entidad colaboradora requiere acreditar previamente la concurrencia de los requisitos mínimos siguientes:*
+
+-   *a) Los relativos a la demostración de los precisos méritos de capacidad técnica y económica, independencia e imparcialidad necesarios para las actuaciones a realizar.*
+-   *b) Suscripción de una póliza de seguro de responsabilidad civil, un aval u otra garantía financiera con entidad debidamente autorizada por importe suficiente para garantizar los perjuicios que pudieran derivarse de las actuaciones que desarrolle.*
+-   *c) El cumplimiento de los requisitos establecidos en las normas de la serie UNE-EN ISO/IEC 17025 o la que en el futuro la sustituya que sea de aplicación en función de su ámbito de actuación.*
+
+*4\. Se crea a estos fines un registro especial de entidades colaboradoras en el que figurarán las entidades que hayan obtenido el título.*
+
+*El registro estará bajo la dependencia de la Dirección General de Obras Hidráulicas y Calidad de las Aguas y en él se inscribirán todos los actos administrativos referentes al otorgamiento, modificación o extinción del título.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***SECCIÓN 3.ª SUSTANCIAS PELIGROSAS***  
+***Artículo 256. Valores límite de emisión y normas de calidad ambiental.***
+
+*~1\. Las autorizaciones de vertido limitarán las~* [*~sustancias peligrosas~*](http://www.carreteros.org/legislacionb/aguas/rdph/otros/sp.htm) *~propias de la actividad causante del vertido para asegurar el cumplimiento de los valores límite de emisión, así como de las~* [*~normas de calidad ambiental~*](http://www.carreteros.org/legislacionb/aguas/rdph/otros/nca.htm) *~y objetivos de calidad previstos en los planes hidrológicos de cuenca y en las restantes disposiciones legales de aplicación.~*
+
+*~2\. A efectos de lo previsto en el apartado anterior, las autorizaciones de vertido:~*
+
+-   *~a) Establecerán los límites de emisión de las sustancias incluidas en la relación I del~* [*~anexo III~*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/anexoiii.htm) *~que cuenten con regulación específica, con la finalidad de eliminar la contaminación del medio receptor.~*
+-   *~b) Fijarán los valores límite de emisión de las sustancias recogidas en el Real Decreto 995/00, de 2 de junio, con el fin de que puedan cumplirse los objetivos de calidad establecidos en él.~*
+-   *~c) Tendrán en cuenta, para el resto de sustancias mencionadas en el~* [*~anexo III~*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/anexoiii.htm)*~, las limitaciones previstas en el apartado 1 de este artículo.~*
+
+*~3\. Lo dispuesto en los apartados anteriores será de aplicación en todos los ámbitos de planificación hidrológica, sin perjuicio de que los planes puedan establecer valores o normas más rigurosas.~*
+
+~(Artículo redactado de conformidad con el~ [~R.D. 606/03~](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm)~)~
+
+(Artículo derogado por el [R.D. 907/07](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd907_07.htm))
+
+***SECCIÓN 4.ª VERTIDOS A LAS AGUAS SUBTERRÁNEAS***  
+***Artículo 257. Vertidos de sustancias peligrosas a las aguas subterráneas.***
+
+*1\. Los Organismos de cuenca adoptarán las medidas necesarias para impedir que se introduzcan en las aguas subterráneas las sustancias que figuran en la relación I del* [*anexo III*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/anexoiii.htm)*, así como para limitar la introducción de las sustancias de la relación II del mismo anexo.*
+
+*2\. A efectos de lo previsto en el apartado anterior, se prohibe el vertido directo de las sustancias de dicha relación I. La autoridad competente exigirá para la autorización de acciones de eliminación, o depósito de residuos o productos que pudiesen contener estas sustancias, un estudio hidrogeológico previo, con el fin de evitar su introducción en las aguas subterráneas. A tal fin, el Organismo de cuenca podrá solicitar informe del Instituto Geológico y Minero de España.*
+
+*3\. Con carácter general, si se desprendiese de un estudio hidrogeológico previo que las aguas subterráneas en las que se prevé el vertido de sustancias de la citada relación I son inadecuadas de forma permanente para cualquier uso, en particular para usos domésticos o agrícolas, se podrá autorizar el vertido de dichas sustancias.*
+
+*En ningún caso, el vertido de las sustancias podrá obstaculizar la explotación de los recursos del suelo.*
+
+*Se exigirá asimismo que dichas sustancias no puedan llegar a otros sistemas acuáticos o dañar otros ecosistemas, para lo cual deberán adoptarse las precauciones técnicas necesarias.*
+
+*4\. Para limitar la introducción de sustancias de la citada relación II, se someterá al estudio hidrogeológico previo no sólo el vertido directo de dichas sustancias, sino también las acciones de eliminación o depósito capaces de ocasionar un vertido indirecto.*
+
+*Se podrá autorizar el vertido cuando el estudio hidrogeológico previo demostrase su inocuidad, sin perjuicio de incluir en el condicionado la adopción de las precauciones técnicas necesarias.*
+
+*5\. Quedan sometidas a autorización las recargas artificiales de acuíferos, que sólo podrán otorgarse cuando con ellas no se provoque la contaminación de las aguas subterráneas.*
+
+*6\. Los vertidos a las aguas subterráneas que no contengan* [*sustancias peligrosas*](http://www.carreteros.org/legislacionb/aguas/rdph/otros/sp.htm) *se autorizarán de acuerdo con el procedimiento regulado en los artículos* [*245*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo245.htm) *y siguientes de este reglamento, si bien se exigirá el estudio hidrogeológico previo que demuestre la inocuidad del vertido.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 258. Estudio hidrogeológico previo.***
+
+*1\. El estudio hidrogeológico previo a que se refiere el* [*artículo anterior*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo257.htm) *contemplará, como mínimo, el estudio de las características hidrogeológicas de la zona afectada, el eventual poder depurador del suelo y subsuelo y los riesgos de contaminación y de alteración de la calidad de las aguas subterráneas por el vertido. Asimismo, determinará si, desde el punto de vista medioambiental, el vertido en esas aguas es inocuo y constituye una solución adecuada.*
+
+*2\. Este estudio deberá estar suscrito por técnico competente y deberá aportarse en la declaración de vertido prevista en el* [*artículo 246*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo246.htm) *o ser requerido por el Organismo de cuenca cuando se presuma que el vertido puede ocasionar una contaminación de las aguas subterráneas. El estudio se incorporará al expediente de autorización de vertido, y sobre éste podrá solicitar el Organismo de cuenca informe del Instituto Geológico y Minero de España.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 259. Condicionado de las autorizaciones de vertido a aguas subterráneas.***
+
+*1\. En las autorizaciones de vertido se establecerán, además de las condiciones previstas en el* [*artículo 251*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo251.htm)*, las siguientes:*
+
+-   *a) La técnica para llevar a cabo el vertido.*
+-   *b) Las precauciones que resulten indispensables teniendo en cuenta la naturaleza y concentración de las sustancias presentes en los efluentes, las características del medio receptor, así como la proximidad de captaciones de agua, y, en particular, las de agua potable, termal y mineral.*
+-   *c) La cantidad máxima admisible de una sustancia en los efluentes, así como la concentración de dicha sustancia.*
+-   *d) Los dispositivos para controlar los efluentes evacuados en las aguas subterráneas.*
+-   *e) Las medidas que permitan la vigilancia de las aguas subterráneas y, en particular, de su calidad.*
+
+*2\. Las autorizaciones de vertido de* [*sustancias peligrosas*](http://www.carreteros.org/legislacionb/aguas/rdph/otros/sp.htm) *a las aguas subterráneas se otorgarán por un plazo de cuatro años renovables por períodos iguales.*
+
+*3\. En el caso de vertidos a aguas subterráneas transfronterizas, el Organismo de cuenca que tramite la autorización lo notificará al Ministerio de Medio Ambiente, a fin de que pueda informar a los demás Estados afectados antes de otorgarse la autorización.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***SECCIÓN 5.ª ESTABLECIMIENTO DE INSTALACIONES INDUSTRIALES***  
+***Artículo 260. Limitaciones a las actuaciones industriales contaminantes.***
+
+*1\. Las autorizaciones administrativas sobre establecimiento, modificación o traslado de instalaciones o industrias que originen o puedan originar vertidos se otorgarán condicionadas a la obtención de la correspondiente autorización de vertido.*
+
+*El Gobierno podrá prohibir, en zonas concretas, aquellas actividades y procesos industriales cuyos efluentes, a pesar del tratamiento a que sean sometidos, puedan constituir riesgo de contaminación grave para las aguas, bien sea en su funcionamiento normal, bien en caso de situaciones excepcionales previsibles, de acuerdo con lo dispuesto en el* [*artículo 103*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_103.htm) *del texto refundido de la Ley de Aguas.*
+
+*2\. Las autorizaciones de vertido tendrán, en todo caso, el carácter de previas para la implantación y entrada en funcionamiento de la industria o actividad que se trata de establecer, modificar o trasladar, y precederán a las licencias de apertura o de actividad que hayan de otorgar las Administraciones local o autonómica en razón de su competencia.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***SECCIÓN 6.ª REVISIÓN DE LAS AUTORIZACIONES***  
+***Artículo 261. Supuestos de revisión de las autorizaciones de vertido.***
+
+*1\. El Organismo de cuenca podrá revisar las autorizaciones de vertido en los siguientes casos:*
+
+-   *a) Cuando sobrevengan circunstancias que, de haber existido anteriormente, habrían justificado su denegación o el otorgamiento en términos distintos.*
+-   *b) Cuando se produzca una mejora en las características del vertido o una variación en su volumen y así lo solicite el interesado.*
+-   *c) Para adecuar el vertido a las* [*normas de calidad ambiental*](http://www.carreteros.org/legislacionb/aguas/rdph/otros/nca.htm) *correspondientes al medio receptor contemplados en el respectivo plan hidrológico de cuenca o, en su defecto, a las normas de emisión y de calidad ambiental que se dicten con carácter general.*
+
+*2\. En casos excepcionales, por razones de sequía o en situaciones hidrológicas extremas, los Organismos de cuenca podrán modificar, las condiciones de vertido a fin de garantizar los objetivos de calidad, de acuerdo con lo previsto en el* [*artículo 104*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_104.htm) *del texto refundido de la Ley de Aguas.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 262. Modificación del condicionado.***
+
+*1\. Mediante resolución motivada y previa audiencia a los interesados, el Organismo de cuenca acordará la modificación del condicionado que resulte pertinente a consecuencia de la revisión practicada con arreglo al* [*artículo 261*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo261.htm)*.*
+
+*2\. La modificación del condicionado no dará lugar a indemnización.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***SECCIÓN 7.ª VERTIDOS NO AUTORIZADOS O QUE INCUMPLEN LAS CONDICIONES DE LA AUTORIZACIÓN***  
+***Artículo 263. Normas de actuación.***
+
+*1\. Comprobada la existencia de un vertido no autorizado, o que no cumpla las condiciones de la autorización, el Organismo de cuenca realizará las siguientes actuaciones:*
+
+-   *a) Incoará un procedimiento sancionador y procederá a la determinación del daño causado a la calidad de las aguas.*
+-   *b) Liquidará el canon de control de vertido, de conformidad con lo establecido en el* [*artículo 113*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_113.htm) *del texto refundido de la Ley de Aguas.*
+
+*2\. Además de las actuaciones contempladas en el apartado 1, el Organismo de cuenca podrá acordar la iniciación de los siguientes procedimientos:*
+
+-   *a) De revocación de la autorización de vertido, cuando la hubiera, en los casos de incumplimiento de alguna de sus condiciones.  
+    Cuando la autorización de vertido en cuencas intercomunitarias se hubiera incluido en la autorización ambiental integrada, a la que se refiere la Ley 16/02, de 1 de julio, de prevención y control integrados de la contaminación, el Organismo de cuenca comunicará a la comunidad autónoma competente, a efectos de su cumplimiento, la revocación mediante la emisión de un informe preceptivo y vinculante.*
+-   *b) De autorización de vertido, si no la hubiera, cuando éste sea susceptible de legalización.*
+-   *c) De declaración de caducidad de la concesión para aquellos casos especialmente cualificados de incumplimiento de las condiciones o de inexistencia de autorización, de los que resulten daños muy graves para el dominio público hidráulico.*
+
+*3\. Las revocaciones y declaraciones de caducidad acordadas conforme al apartado anterior no darán derecho a indemnización, de conformidad con el* [*artículo 105*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_105.htm) *del texto refundido de la Ley de Aguas.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 264. Revocación y legalización de las autorizaciones de vertido.***
+
+*1\. Previo requerimiento al titular para que ajuste el vertido a las condiciones bajo las que fue otorgada la autorización y no atendido aquél en el plazo concedido, el Organismo de cuenca podrá acordar la revocación de la autorización de acuerdo con el* [*artículo 263.2.a)*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo263.htm)*, con informe del Consejo del Agua de la cuenca y mediante resolución motivada.*
+
+*2\. A efectos de lo dispuesto en el* [*artículo 263.2.b)*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo263.htm)*, el Organismo de cuenca requerirá al titular del vertido para que formule la solicitud de autorización con arreglo al* [*artículo 246*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo246.htm)*, en el plazo de un mes. Si fuera preciso adoptar medidas cautelares, el requerimiento lo será también para la realización de éstas en un plazo determinado en cada caso.*
+
+*La solicitud de autorización formulada en cumplimiento de ese requerimiento ha de ajustarse a lo dispuesto para cada caso de vertido y se tramitará conforme a lo dispuesto en los artículos* [*247*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo247.htm) *y siguientes.*
+
+*En caso de que el titular no atienda el requerimiento para solicitar la autorización o para realizar las medidas cautelares, el Organismo de cuenca acordará sin más trámite el archivo de las actuaciones para la legalización del vertido, sin perjuicio de ejecutar esas medidas y repercutir su importe en el requerido.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 265. Supuestos de suspensión de actividades que originan vertidos no autorizados.***
+
+*El Gobierno, en el ámbito de sus competencias y previo informe del Organismo de cuenca y audiencia al interesado, podrá ordenar la suspensión de las actividades que den origen a vertidos no autorizados, de no estimar más procedente adoptar las medidas precisas para su corrección, que serán de cuenta del titular, sin perjuicio de la responsabilidad civil, penal o administrativa en que hubieran podido incurrir los causantes de los vertidos.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***SECCIÓN 8.ª SUPUESTOS ESPECIALES DE INTERVENCIÓN DEL ORGANISMO DE CUENCA***  
+***Artículo 266. Procedimiento de intervención en instalaciones de depuración.***
+
+*1\. El Organismo de cuenca practicará las inspecciones pertinentes en las instalaciones de depuración de aguas residuales correspondientes a un vertido autorizado.*
+
+*Cuando de esas inspecciones resulte el mal funcionamiento de una estación depuradora de aguas residuales, y sin perjuicio de la incoación del procedimiento sancionador, podrá requerir al titular para que tome las medidas necesarias que permitan el correcto funcionamiento de las instalaciones, en el plazo determinado en cada caso.*
+
+*Si el titular no atiende el requerimiento, el Organismo de cuenca propondrá al órgano competente la suspensión cautelar y temporal de las actividades que producen el vertido.*
+
+*2\. El Organismo de cuenca podrá hacerse cargo directa o indirectamente, por razones de interés general y con carácter temporal, de la explotación de las instalaciones de depuración de aguas residuales, cuando no fuera posible la paralización de las actividades que producen el vertido y se derivasen graves inconvenientes del incumplimiento de las condiciones autorizadas.*
+
+*En este supuesto, el Organismo de cuenca reclamará del titular de la autorización, incluso por vía de apremio:*
+
+-   *a) Las cantidades necesarias para modificar o acondicionar las instalaciones en los términos previstos en la autorización.*
+-   *b) Los gastos de explotación, mantenimiento y conservación de las instalaciones, de acuerdo con lo dispuesto en el* [*artículo 107*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_107.htm) *del texto refundido de la Ley de Aguas.*
+
+*3\. Cuando el Organismo de cuenca se haga cargo de modo indirecto de la explotación de las instalaciones, podrá contar para ello con la colaboración de las empresas de vertido, o de cualquier otro ente público o privado que considere idóneo, corriendo a cuenta del titular de la autorización los gastos que se deriven de tal colaboración.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***SECCIÓN 9.ª EMPRESAS DE VERTIDO***  
+***Artículo 267. Empresas de vertido.***
+
+*Podrán constituirse empresas de vertido para conducir, tratar y verter aguas residuales de terceros. Las autorizaciones de vertido que a su favor se otorguen incluirán, además de las condiciones exigidas con carácter general, las siguientes:*
+
+-   *a) Las de admisibilidad de los vertidos que van a ser tratados por la empresa.*
+-   *b) Las tarifas máximas y el procedimiento de su actualización periódica.*
+-   *c) La obligación de constituir una fianza para responder de la continuidad y eficacia de los tratamientos, de acuerdo con lo dispuesto en el* [*artículo 108*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_108.htm) *del texto refundido de la Ley de Aguas.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 268. Requisitos de las empresas de vertido.***
+
+*El Ministro de Medio Ambiente establecerá los requisitos necesarios para que las empresas de vertido puedan ser inscritas en el registro que se creará a tal efecto.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 269. Condiciones de vertido.***
+
+*1\. Las empresas de vertido redactarán y propondrán a los Organismos de cuenca para su aprobación, en la misma resolución de la autorización del vertido, las correspondientes condiciones de vertido, en las que se especificarán detalladamente los caudales y valores límite de emisión de los parámetros representativos de la composición de las aguas de terceros que han de ser tratadas.*
+
+*2\. Las empresas de vertido serán responsables de la vigilancia y control de los vertidos que traten, en orden al cumplimiento de las condiciones a que se refiere el apartado anterior.*
+
+*3\. Del mismo modo, redactarán y propondrán las tarifas que incluirán necesariamente la fórmula para su actualización periódica, los plazos y los procedimientos para su entrada en vigor.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 270. Fianza.***
+
+*1\. La fianza que se menciona en el* [*artículo 108.c)*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_108.htm) *del texto refundido de la Ley de Aguas será equivalente al triplo del importe del canon de control de vertidos que se fije en la autorización otorgada a la empresa de vertido.*
+
+*2\. Serán responsables subsidiarios los causantes de los vertidos.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 271. Revocación de la autorización de las empresas de vertido.***
+
+*1\. La revocación de la autorización se podrá producir por el incumplimiento de las condiciones bajo las que fue concedida y de aquéllas que sean de aplicación entre las establecidas, para la resolución del contrato, por la legislación de contratos de las Administraciones públicas.*
+
+*2\. Si se produjera dicha revocación y no fuese posible la subrogación en otra empresa de vertido, el Organismo de cuenca podrá acordar la suspensión del vertido o proponer la paralización de la actividad. También podrá hacerse cargo de forma directa o indirecta de la explotación de las instalaciones. En ambos casos se estará a lo dispuesto en el* [*artículo 266*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo266.htm)*. Con independencia de lo anterior, el Organismo de cuenca podrá imponer justificadamente la constitución de una comunidad de vertidos que integre a los causantes de los vertidos, que se constituirá en titular de la autorización de acuerdo con lo preceptuado en el* [*artículo 90*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_90.htm) *del texto refundido de la Ley de Aguas.*
+
+*3\. La revocación de la autorización otorgada a una empresa de vertidos podrá llevar aparejada la pérdida de la fianza a que se refieren los artículos anteriores, previa la tramitación del correspondiente procedimiento en el que se dará audiencia al interesado.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**CAPITULO III. DE LA REUTILIZACION DE AGUAS DEPURADAS**  
+**Art. 272.**
+
+(Artículo derogado por el [R.D. 1620/07](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1620_07.htm))
+
+**Art. 273.**
+
+(Artículo derogado por el [R.D. 1620/07](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1620_07.htm))
+
+**CAPITULO IV. DE LOS AUXILIOS DEL ESTADO**  
+**Art. 274.**
+
+El Gobierno, mediante Real Decreto, a propuesta conjunta de los Ministerios de Economía y Hacienda y de los Departamentos interesados por razón de la materia, especificará y fijará en cada caso el régimen de ayudas técnica, financieras y fiscales que podrán concederse a quienes procedan al desarrollo, implantación o modificación de tecnologías, procesos, instalaciones o equipos, así como a cambios en la explotación que signifiquen una disminución en los usos y consumos de agua o bien una menor aportación en origen de cargas contaminantes a las aguas utilizadas. Asimismo podrán concederse ayudas a quienes realicen plantaciones forestales, cuyo objetivo sea la protección de los recursos hidráulicos.
+
+Estas ayudas se extenderán a quienes procedan a la potabilización y desalinización de aguas y a la depuración de aguas residuales mediante procesos o métodos mas adecuados, a la implantación de sistemas de reutilizacion de aguas residuales o desarrollen actividades de investigación en estas materias (Art. 102 de la LA, *se corresponde con el actual* [*artículo 110*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_110.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**CAPITULO V. DE LAS ZONAS HUMEDAS**  
+**Art. 275.**
+
+1\. Las zonas pantanosas o encharcadizas, incluso las creadas artificialmente, tendrán la consideración de zonas húmedas (Art. 103.1 de la LA*, se corresponde con el actual* [*artículo 111.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_111.htm) *del Texto Refundido de la Ley de Aguas*)
+
+2\. Se entienden en particular comprendidos en el apartado anterior:
+
+-   a) Las marismas, turberas o aguas rasas, ya sean permanentes o temporales, estén integradas por aguas remansadas o corrientes y ya se trate de aguas dulces, salobres o salinas, naturales o artificiales.
+-   b) Las márgenes de dichas aguas y las tierras limítrofes en aquellos casos en que, previa la tramitación del expediente administrativo oportuno, fuera así declarado, por ser necesario para evitar daños graves a la fauna y a la flora.
+
+3\. Cuando en estas zonas existan valores ecológicos merecedores de una protección especial, la normativa aplicable a las mismas será la prevista en la disposición legal especifica.
+
+**Art. 276.**
+
+1\. La delimitación de las zonas húmedas se efectuará de acuerdo con la correspondiente legislación especifica (Art. 103.2 de la LA, *se corresponde con el actual* [*artículo 111.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_111.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Los Organismos de cuenca realizarán un inventario de las zonas húmedas, que incluirá:
+
+-   a) Las zonas húmedas existentes en el territorio.
+-   b) Las superficies que, mediante las adaptaciones correspondientes, pudieran recuperar o adquirir la condición de zonas húmedas.
+
+**Art. 277.**
+
+En relación con las zonas húmedas del apartado a) del [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo276.htm), el inventario incluirá, en la medida en que se disponga de ellas, las siguientes especificaciones:
+
+-   a) Delimitación o perímetro de la zona.
+-   b) Características actuales de cada zona considerada incluyendo las comunidades biológicas que en su caso las habiten.
+-   c) Estado de conservación y amenazas de deterioro.
+-   d) Aprovechamientos o utilizaciones que se llevan a cabo.
+-   e) Medidas necesarias para su conservación.
+-   f) Medidas y trabajos precisos para proceder a su protección.
+-   g) Posibles aprovechamientos que puedan realizarse, considerando la utilización sostenida de los recursos naturales.
+
+**Art. 278.**
+
+Al delimitarse el ámbito territorial de una zona húmeda, podrá fijarse un entorno natural o perímetro de protección a los efectos que se prevén en esta norma, mediante expediente en el que se dará audiencia a los propietarios afectados.
+
+**Art. 279.**
+
+1\. Toda actividad que afecte a las zonas húmedas requerirá autorización o concesión administrativa (Art. 103.3 de la LA, *se corresponde con el actual* [*artículo 111.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_111.htm) *del Texto Refundido de la Ley de Aguas*), en los términos previstos en el presente y en los siguientes artículos.
+
+2\. Están sujetas a previa autorización o concesión administrativa:
+
+-   a) Las obras, actividades y aprovechamientos que pretendan realizarse en la zona.  
+    Cuando dichas obras o actividades puedan perjudicar sensiblemente la integridad de una zona húmeda se requerirá evaluación previa de su incidencia ecológica.
+-   b) El aprovechamiento de los recursos existentes en la zona o dependientes de ella.
+
+El procedimiento en ambos casos será uno de los previstos en el [capítulo II del título II](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo50.htm), en función del contenido de la autorización o concesión de que se trate.
+
+3\. Están también sujetas a previa autorización aquellas obras, actividades o aprovechamientos que se desarrollen en el entorno natural a que se refiere el [artículo 278](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo278.htm) en orden a impedir la degradación de las condiciones de la zona, exigiéndose, en su caso, un estudio sobre su incidencia ambiental.
+
+4\. La Administración controlará particularmente los vertidos y el peligro de disminución de aportación de agua en la zona.
+
+En ambos casos se adoptarán las medidas necesarias en orden a preservar la cantidad y calidad de las aguas que afluyen a la zona, todo ello sin perjuicio de las prohibiciones y medidas generales establecidas en la Ley de Aguas.
+
+**Art. 280.**
+
+1\. Los Organismos de cuenca y la Administración medioambiental competente coordinarán sus actuaciones para una protección eficaz de las zonas húmedas de interés natural o paisajistico (Art. 103.4 de la LA, *se corresponde con el actual* [*artículo 111.4*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_111.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Los Organismos de cuenca podrán promover la declaración de determinadas zonas húmedas como de especial interés para su conservación y protección, de acuerdo con la legislación medioambiental (Art. 103.5 de la LA, *se corresponde con el actual* [*artículo 111.5*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_111.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. Los criterios y actuaciones correspondientes se establecen en los artículos siguientes y deberán ajustarse a la legislación medioambiental.
+
+**Art. 281.**
+
+1\. Las actuaciones a que se refiere el apartado b) del [artículo 276.2](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo276.htm) de este Reglamento se llevará a cabo mediante programas específicos de actuación, sin perjuicio de que puedan aplicarse las medidas del [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo280.htm), siempre de acuerdo con las normas emanadas de la legislación medioambiental.
+
+2\. En la construcción de nuevos embalses se estudiará la conveniencia de realizar las adaptaciones necesarias en sus bordes o colas, estableciendo las condiciones precisas para su habilitación como zonas húmedas, en orden, particularmente, al albergue de comunidades biológicas.
+
+**Art. 282.**
+
+1\. De acuerdo con el inventario a que se refiere el [artículo 276](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo276.htm), la Administración realizará los estudios necesarios, en orden a rehabilitar o restaurar como zonas húmedas, si procede, aquellas que hubieran sido desecadas por causas naturales o artificiales.
+
+2\. Sin perjuicio de las indemnizaciones a que haya lugar, la rehabilitación o restauración podrá declararse obligatoria en algunos de los siguientes casos.
+
+-   a) Cuando sobre la antigua zona húmeda no existan aprovechamientos en la actualidad.
+-   b) Cuando, aun existiendo aprovechamientos, estos sean de escasa importancia.
+-   c) Cuando, tratándose de aprovechamientos agrarios, cuando los rendimientos previstos inicialmente y que hubieran dado lugar a la desecación no se alcanzasen habitualmente, con sensible desmerecimiento.
+
+3\. La rehabilitación o restauración de zonas húmedas se acordará por el Gobierno del Estado o de las Comunidades Autónomas, según los casos, previo informe de los Órganos competentes.
+
+El acuerdo llevará consigo la declaración de utilidad pública, a efectos de expropiación forzosa de bienes o derechos, y de ocupación temporal de los bienes que sean necesarios para los trabajos de rehabilitación.
+
+**Art. 283.**
+
+1\. Los Organismos de cuenca, previo informe favorable del Órgano competente en materia de medio ambiente, podrá promover la desecación de aquellas zonas húmedas declaradas insalubres o cuyo saneamiento se considera de interés publico (Art. 103.6 de la LA, *se corresponde con el actual* [*artículo 111.6*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_111.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. En los supuestos de insalubridad, el acuerdo de desecación o saneamiento se adoptará por la Junta de Gobierno del Organismo de cuenca o el Órgano competente de la Comunidad Autónoma, previa la correspondiente declaración emitida por la autoridad sanitaria y sin perjuicio del informe favorable referido en el apartado anterior.
+
+3\. El saneamiento de zonas húmedas por razones de interés publico solo podrá acordarse por el Gobierno del Estado o, en su caso, de la Comunidad Autónoma, previos fundados motivos de este carácter, que deberán estar debidamente acreditados en el expediente y avalados por los estudios técnicos e informes necesarios.
+
+**TITULO IV. DEL REGIMEN ECONOMICO-FINANCIERO DE LA UTILIZACION DEL DOMINIO PUBLICO HIDRAULICO**  
+**CAPITULO PRIMERO. CANON DE OCUPACION**  
+**Art. 284.**
+
+1\. La ocupación o utilización que requiera autorización o concesión de los bienes del dominio publico hidráulico en los cauces de corrientes naturales, continuas o discontinuas, y en los lechos de los lagos y lagunas y los de los embalses superficiales en cauces públicos, se gravará con un canon destinado a la protección y mejora de dicho dominio, cuya aplicación se hará pública por el Organismo de cuenca. Los concesionarios de aguas estarán *exentos del pago del canon por la ocupación* o utilización de los terrenos de dominio publico necesarios para llevar a cabo la concesión (Art. 104.1 de la LA, *se corresponde con el actual* [*artículo 112.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_112.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. La base imponible de esta exacción será el valor del bien utilizado, teniendo en cuenta el rendimiento que reporte. El tipo de gravamen anual será el 4 por 100 sobre el valor de la base imponible (Art. 104.2 de la LA, *se corresponde con el actual* [*artículo 112.2, 3, 4 y 5*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_112.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. Este canon será gestionado y recaudado, en nombre del Estado, por los Organismos de cuenca, quienes informarán al Ministerio de Economía y Hacienda periódicamente en la forma que el mismo determine (Art. 104.3 de la LA, *se corresponde con el actual* [*artículo 112.6*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_112.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 285.**
+
+El canon que se establece en el artículo 104 de la Ley de Aguas (*se corresponde con el actual* [*artículo 112*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_112.htm) *del Texto Refundido de la Ley de Aguas*) se denominará canon de utilización de bienes de dominio publico hidráulico, y es objeto del mismo la ocupación de terrenos o utilización de bienes de dominio publico hidráulico a que se refieren los apartados b) y c) del [artículo 2](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_2.htm) de la Ley de Aguas, incluyendo el aprovechamiento de sus materiales que requieran concesiones o autorizaciones del Organismo de cuenca.
+
+**Art. 286.**
+
+Están obligados al pago de canon, en la cuantía y condiciones que se determinan en este Reglamento, los titulares de las concesiones o autorizaciones antes mencionadas o personas que se subroguen en sus derechos y obligaciones.
+
+**Art. 287.**
+
+1\. El valor del bien utilizado y, en consecuencia, la base imponible, según los distintos casos que puedan presentarse, se determinará de la siguiente forma:
+
+-   a) Ocupación de terrenos de dominio publico hidráulico.  
+    La base de la tasa es el valor del terreno ocupado, habida cuenta del valor de los terrenos contiguos y de los beneficios que los concesionarios obtengan por su proximidad a vías de comunicación y obras marítimas o hidráulicas.
+-   b) Utilización del dominio publico hidráulico.  
+    Cuando esta utilización se pueda valorar se empleará este valor como base; en otro caso se aplicará el beneficio obtenido en la utilización.
+-   c) Aprovechamiento de materiales.  
+    Si se consumen, se empleará como base el valor de los materiales consumidos; si no se consumen, se aplicará como base la utilidad que reporte su aprovechamiento.
+
+En todos los casos la fijación de la base imponible será efectuada por el Organismo de cuenca.
+
+2\. El canon podrá ser revisado por el Organismo de cuenca proporcionalmente a los aumentos que experimente el valor de la base utilizada para fijarlo, si bien estas revisiones solo podrán realizarse al término de los periodos que en cada caso se especifiquen en las condiciones de la concesión.
+
+3\. El canon tendrá carácter anual, debiendo reducirse proporcionalmente si la concesión o la autorización fuese otorgada por un periodo inferior.
+
+**Art. 288.**
+
+La obligación de satisfacer el canon nace para los usuarios con el carácter que fije la concesión o autorización en el momento de la firma de la misma o de la revisión del propio canon por el Organismo de cuenca.
+
+El canon será exigible, por la cuantía que corresponda y por los plazos que se señalen en las condiciones de la concesión o autorización, en el periodo voluntario, dentro de los treinta días siguientes a la fecha de la notificación de la liquidación de la cuota.
+
+**CAPITULO II. CANON DE VERTIDO**
+
+(Capítulo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 289. Concepto y hecho imponible.***
+
+*1\. Los vertidos al dominio público hidráulico estarán gravados con una tasa destinada al estudio, control, protección y mejora del medio receptor de cada cuenca hidrográfica, que se denominará canon de control de vertidos, de acuerdo con lo preceptuado en el* [*artículo 113.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_113.htm) *del texto refundido de la Ley de Aguas.*
+
+*El canon de control de vertidos será independiente de los cánones o tasas que puedan establecer las comunidades autónomas o las corporaciones locales para financiar obras de saneamiento y depuración, de acuerdo con lo preceptuado en el* [*artículo 113.7*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_113.htm) *del texto refundido de la Ley de Aguas.*
+
+*2\. Constituye el hecho imponible del canon de control de vertidos la realización de vertidos al dominio público hidráulico.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 290. Sujeto pasivo.***
+
+*Serán sujetos pasivos del canon de control de vertidos quienes lleven a cabo el vertido, según lo dispuesto en el* [*artículo 113.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_113.htm) *del texto refundido de la Ley de Aguas, ya sea como titulares de las autorizaciones de vertido, ya sea como responsables de vertidos no autorizados.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 291. Importe.***
+
+*1\. El importe del canon de control de vertidos será el resultado de multiplicar el volumen de vertido autorizado por el precio unitario de control de vertido.*
+
+*2\. Dicho precio unitario se calculará multiplicando el precio básico por metro cúbico, 0,01202 euros para agua residual urbana, y 0,03005 euros para agua residual industrial, por un coeficiente de mayoración o minoración determinado con arreglo a la escala del* [*anexo IV*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/anexoiv.htm) *de este reglamento.*
+
+*3\. El coeficiente de mayoración del precio básico no podrá ser superior a 4.*
+
+*4\. El importe del canon, calculado conforme a lo establecido en los apartados precedentes, habrá de constar en la autorización de vertido.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 292. Importe para vertidos no autorizados.***
+
+*En caso de vertidos no autorizados, el importe del canon se fijará según lo establecido en el* [*artículo 291*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo291.htm)*, aunque con las siguientes particularidades:*
+
+-   *a) El volumen de vertido a considerar para el cálculo se determinará por estimación indirecta, utilizando para ello cualquiera de estos métodos:*
+    
+    -   *1.º Aplicando los datos y antecedentes disponibles que sean relevantes al efecto.*
+    -   *2.º Utilizando aquellos elementos que indirectamente acrediten la existencia de los vertidos tales como tipo y volumen de la actividad, consumos de agua, número de habitantes, instalaciones de depuración y cualquier otro elemento que permita determinar el volumen de aguas residuales vertido.*
+    -   *3.º Valorando los volúmenes de los vertidos, u otros signos y circunstancias que se den en los sujetos pasivos del canon de control de vertidos, por comparación con datos o antecedentes de supuestos similares que cuenten con autorización.*
+    
+-   *b) En todo caso se aplicará el coeficiente 4 de mayoración.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 293. Recaudación.***
+
+*En las cuencas intercomunitarias y en las intracomunitarias no transferidas, el canon de control de vertidos será recaudado por el Organismo de cuenca. No obstante, la Agencia Estatal de Administración Tributaria podrá asumir la recaudación mediante una encomienda de gestión, con arreglo a lo dispuesto en el artículo 15 de la Ley 30/92, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.*
+
+*El Organismo de cuenca y la Agencia Estatal de Administración Tributaria formalizarán la encomienda de gestión en un convenio que habrá de fijar las condiciones para llevar a cabo la recaudación y en el que constará el compromiso del aquél de proporcionar a ésta los datos y censos que precise para la recaudación.*
+
+*El canon recaudado será puesto a disposición del Organismo de cuenca en los términos señalados en el convenio suscrito.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 294. Devengo y liquidación.***
+
+*1\. El canon de control de vertidos se devenga el 31 de diciembre de cada año. Durante el primer trimestre de cada año natural debe liquidarse el canon correspondiente al año anterior.*
+
+*2\. El periodo impositivo coincide con el año natural, con dos excepciones:*
+
+-   *a) El canon se calculará proporcionalmente al número de días de vigencia de la autorización, en relación con el total del ejercicio en que se produzca la autorización del vertido o su caducidad.*
+-   *b) El canon se calculará proporcionalmente al número de días durante los que resulte acreditado el vertido no autorizado, en relación con el total del ejercicio en que se produzca el inicio o el fin del vertido.*
+
+*3\. El Organismo de cuenca practicará la liquidación que proceda cuando el titular de la autorización acredite fehacientemente que en un determinado período impositivo el vertido real no coincide con el autorizado como consecuencia de inactividad producida debida a circunstancias sobrevenidas.*
+
+*4\. En caso de vertidos no autorizados, se practicará una sola liquidación, comprensiva de todos los ejercicios no prescritos. Cuando, además, los vertidos no sean susceptibles de autorización, la liquidación se practicará en la resolución que ordene el cese de los vertidos.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 295. Liquidaciones complementarias.***
+
+*En caso de incumplimiento de las condiciones de la autorización de vertido, el Organismo de cuenca dictará una liquidación complementaria, correspondiente al período del incumplimiento que esté acreditado en el procedimiento sancionador. El importe del canon se calculará con sujeción a los criterios establecidos en el* [*artículo 292*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo292.htm)*.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**CAPITULO III. CANON DE REGULACION Y TARIFAS**  
+**Art. 296.**
+
+1\. Los beneficiados por las obras de regulación de aguas superficiales o subterráneas realizadas total o parcialmente a cargo del Estado, satisfarán un canon destinado a compensar la aportación del Estado y atender a los gastos de explotación y conservación de tales obras.
+
+2\. Los beneficiados por otras obras hidráulicas especificas realizadas íntegramente a cargo del Estado, incluidas las de corrección del deterioro del dominio publico hidráulico, derivado de su utilización, satisfarán por la disponibilidad o uso del agua una exacción destinada a compensar los costes de inversión y atender a los gastos de explotación y conservación de tales obras.
+
+3\. La cuantía de cada una de las exacciones se fijará, para cada ejercicio presupuestario, sumando las siguientes cantidades:
+
+-   a) El total previsto de gastos de funcionamiento y conservación de las obras realizadas.
+-   b) Los gastos de administración del Organismo gestor, imputables a dichas obras.
+-   c) El 4 por 100 del valor de las inversiones realizadas por el Estado, debidamente actualizado, teniendo en cuenta la amortización técnica de las obras e instalaciones y la depreciación de la moneda.
+
+4\. La distribución individual de dicho importe global entre todos los beneficiados por las obras, se realizará con arreglo a criterios de racionalización del uso del agua, equidad en el reparto de las obligaciones y autofinanciación del servicio.
+
+5\. Estas exacciones serán gestionadas y recaudadas en nombre del Estado por los Organismos de cuenca, quienes informarán al Ministerio de Economía y Hacienda periódicamente en la forma en que el mismo determine (artículo 106 de la LA, *se corresponde con el actual* [*artículo 114*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_114.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 297.**
+
+El canon que se establece en el artículo 106.1 de la Ley de Aguas (*se corresponde con el actual* [*artículo 114.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_114.htm) *del Texto Refundido de la Ley de Aguas*) se denominara canon de regulación y son objeto del mismo las mejoras producidas por la regulación de los caudales de agua sobre los regadíos, abastecimientos de poblaciones, aprovechamientos industriales o usos e instalaciones de cualquier tipo que utilicen los caudales que resulten beneficiados o mejorados por dichas obras hidráulicas de regulación.
+
+**Art. 298.**
+
+La obligación de satisfacer el canon tendrá carácter periódico y anual y nace en el momento en que se produzca la mejora o beneficio de los usos o bienes afectados, bien sea directa o indirectamente, como se especifica en este Reglamento.
+
+**Art. 299.**
+
+Están obligados al pago del canon de regulación, las personas naturales o jurídicas y demás Entidades titulares de derechos al uso del agua, beneficiadas por la regulación de manera directa o indirecta.
+
+Se considera que lo son de manera directa los que, beneficiándose de la regulación, tienen su toma en los embalses o aguas abajo de los mismos, o se abastecen de un acuífero recargado artificialmente.
+
+Se considera que lo son de manera indirecta los concesionarios de aguas públicas cuyos títulos de derecho al uso del agua estén fundamentados en la existencia de una regulación que permita la reposición de los caudales concedidos.
+
+**Art. 300.**
+
+El cálculo de las cantidades que han de sumarse para obtener la cuantía del canon para cada ejercicio presupuestario se efectuará con arreglo a los siguientes criterios:
+
+-   a) El total previsto de los gastos de funcionamiento y conservación de las obras realizadas referentes a la regulación.  
+    Dicho total se deducirá del presupuesto del ejercicio correspondiente, *asignando la parte adecuada* de los conceptos o artículos presupuestarios a los que se prevea imputar los gastos correspondientes a las obras de regulación.  
+    El desglose será el suficiente para poder efectuar el cálculo de los distintos cánones aplicables para cada obra o grupo de obras que el Organismo de cuenca defina a efectos de este canon.  
+    A las cantidades así deducidas se añadirá las diferencias en más o en menos que pudieran resultar entre las cantidades previstas para el ejercicio anterior y los gastos realmente producidos.
+-   b) Los gastos de administración del Organismo gestor imputables a las obras de regulación.  
+    Se procederá para su cálculo de una forma análoga al procedimiento establecido para determinar los gastos de funcionamiento y conservación del apartado a).
+-   c) El 4 por 100 de las inversiones realizadas por el Estado. El importe de las inversiones incluirá los gastos motivados por la redacción de los proyectos, la construcción de las obras principales y las complementarias, las expropiaciones o indemnizaciones necesarias y, en general, todos los gastos de inversión sean o no de primer establecimiento.  
+    Serán deducibles de dicho importe de las inversiones la parte correspondiente a la reposición de los servicios afectados que constituya una mejora de los mismos.
+
+El periodo total de amortización técnica para las inversiones de regulación se fija en cincuenta años, durante los cuales persiste la obligación del pago del apartado c) del canon de regulación. La base imponible se obtendrá restando de la inversión total la amortización técnica lineal durante dicho periodo, lo que se traduce en la formula siguiente:
+
+Base imponible del año n = \[(50 - n + 1)/50\] · Inversión total
+
+Se considerara año 1 el primer ejercicio económico siguiente a la puesta en marcha de las obras.
+
+La base imponible del año n se ha de actualizar mediante la aplicación sucesiva a esta base de los incrementos monetarios experimentados cada año, desde el primero, estimándose estos incrementos porcentuales en el exceso sobre el 6 por 100 del interés legal del dinero que tuvo vigencia en cada anualidad transcurrida, resultando así la base imponible definitiva del año n.
+
+Para las obras de regulación de aguas superficiales o subterráneas, realizadas o total o parcialmente a cargo del Estado, y con un régimen económico de aportación al coste de las obras regulado por la normativa anterior a la entrada en vigor de la Ley de Aguas, el periodo pendiente de pago será el resultante del régimen fijado en su día para la financiación de las obras. Las anualidades restantes por satisfacer serán las correspondientes a dicho régimen de financiación, pero sujetas a una actualización porcentual acumulativa, teniendo en cuenta la amortización técnica y depreciación de la moneda, a partir de la entrada en vigor de la Ley de Aguas, de acuerdo con la siguiente formula:
+
+Valor actualizado de la anualidad = A ·\[1+(interés legal - 6 - b)/100)\]
+
+En la que:
+
+-   a = anualidad que resultaría del régimen de financiación anterior fijado en su día para las obras.
+-   b = el porcentaje de amortización técnica, cuyo valor se fija en 4.
+
+Y sin que en ningún caso el valor actualizado pueda ser inferior a la anualidad que resultaría del régimen de financiación anterior.
+
+**Art. 301.**
+
+A los efectos de cálculo, las cantidades resultantes de los apartados a) y b) del [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo300.htm) se repartirán entre la totalidad de usuarios o beneficiarios actuales obligados al pago del canon de regulación, aunque podrá establecerse en régimen transitorio cuando la puesta en servicio se efectúe gradualmente.
+
+Las cantidades resultantes del apartado c) del [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo300.htm) se repartirán entre los usuarios o beneficiarios actuales y previsibles de las obras de regulación existentes.
+
+Los citados repartos se harán equitativamente en razón a la participación en los beneficios o mejoras producidas por las obras. El valor unitario de aplicación individual a cada sujeto obligado vendrá dado en unidades de superficie cultivable, caudal, consumo de agua, energía o cualquier otro tipo de unidad adecuada al uso de que se trate, estableciendo el Ministerio de Obras Públicas y Urbanismo, a propuesta del Organismo de cuenca, oídos los órganos representativos de los usuarios o beneficiarios existentes en su seno las equivalencias necesarias.
+
+**Art. 302.**
+
+Para las obras hidráulicas explotadas por el Organismo de cuenca, este determinará los cánones de regulación correspondientes a cada ejercicio, efectuando la liquidación conforme a lo indicado en los artículos siguientes.
+
+El Organismo de cuenca fijará los cánones correspondientes a cada ejercicio, para las obras hidráulicas a su cargo. Su cálculo irá acompañado del correspondiente estudio económico efectuado con participación de los órganos representativos de los usuarios o beneficiarios existentes en el Organismo gestor correspondiente.
+
+El valor propuesto se someterá a información pública por un plazo de quince días, anunciada en el Boletín Oficial de las provincias afectadas, a efecto de que puedan formularse las reclamaciones que procedan.
+
+Si no existieran reclamaciones durante el periodo de información pública, el canon de regulación se considerara automáticamente aprobado al finalizar la misma; en caso contrario, el Organismo de cuenca resolverá lo que proceda.
+
+**Art. 303.**
+
+El canon podrá ser puesto al cobro a partir de la aplicación del presupuesto del ejercicio correspondiente o de la prórroga del anterior.
+
+En el caso de que el canon de regulación no pudiera ser puesto al cobro en el ejercicio corriente, debido a retrasos motivados por tramitación de impugnaciones o recursos, o por otras causas, el Organismo gestor podrá aplicar provisionalmente y a buena cuenta el ultimo aprobado que haya devenido firme.
+
+**Art. 304.**
+
+La exacción que se establece en el artículo 106.2 de la Ley de Aguas (*se corresponde con el actual* [*artículo 114.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_114.htm) *del Texto Refundido de la Ley de Aguas*) se denominará tarifa de utilización del agua y son objeto de la misma el aprovechamiento o disponibilidad del agua hecha posible por obras hidráulicas especificas. Los ocasionales fallos en el suministro producidos por sequía o causa de fuerza mayor no producirán exención de la tarifa.
+
+**Art. 305.**
+
+La obligación de satisfacer la tarifa tendrá carácter periódico y anual y nace en el momento en que puedan utilizarse las instalaciones de las obras hidráulicas especificas, conducirse el agua y suministrarse a los terrenos o usuarios afectados.
+
+**Art. 306.**
+
+Están obligados al pago de la tarifa las personas naturales o jurídicas y demás entidades titulares de derechos al uso del agua que utilicen las obras hidráulicas especificas realizadas íntegramente a cargo del Estado.
+
+La obra hidráulica especifica comprenderá el conjunto de las obras e instalaciones interrelacionadas que constituyan un sistema capaz de proporcionar un servicio completo de suministro de agua.
+
+**Art. 307.**
+
+El cálculo de las cantidades que han de sumarse para obtener la cuantía de la tarifa para cada ejercicio presupuestario se efectuará con arreglo a los siguientes criterios:
+
+-   a) El total previsto de los gastos de funcionamiento y conservación de las obras hidráulicas especificas.  
+    Dicho total se deducirá del presupuesto del ejercicio correspondiente, asignando la parte adecuada de los conceptos o artículos presupuestarios a los que se prevea imputar los gastos correspondientes a cada obra hidráulica especifica. El desglose será el suficiente para poder efectuar el cálculo de las distintas tarifas aplicables para cada uno de los grupos de usuarios que se sirvan de cada obra hidráulica específica en distintas situaciones.  
+    A las cantidades así deducidas se añadirán las diferencias en más o en menos que pudieran resultar entre las cantidades previstas para el ejercicio anterior y los gastos realmente producidos y acreditados en la liquidación de dicho ejercicio.
+-   b) Los gastos de administración del Organismo gestor imputables a las obras de que se trate.  
+    Se procederá para su cálculo de una forma análoga al procedimiento establecido para determinar los gastos de funcionamiento y conservación del apartado anterior.
+-   c) El 4 por 100 de las inversiones realizadas por el Estado.  
+    El importe de las inversiones incluirá los gastos motivados por la redacción de los proyectos, la construcción de las obras principales y las complementarias, las expropiaciones o indemnizaciones necesarias y, en general, todos los gastos de inversión, sean o no de primer establecimiento.
+
+Serán deducibles de dicho importe de las inversiones la parte correspondiente a la reposición de los servicios afectados que constituyan una mejora de los mismos.
+
+La amortización técnica para las obras hidráulicas especificas realizadas íntegramente a cargo del Estado se concretará en cuanto al periodo total, fijando en veinticinco anualidades la duración de la obligación del pago del apartado c) de la tarifa de utilización del agua; en cuanto a la determinación de la parte no amortizada de la inversión se concretará suponiendo una depreciación lineal en el periodo de amortización, según la formula:
+
+Base imponible del año n = \[(25 - n + 1) /25\] · Base imponible inicial
+
+Se considerará año 1 el primer ejercicio económico después de que se hayan dado las condiciones previstas en el [artículo 305](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo305.htm).
+
+La actualización del valor de las inversiones se determinará en todos los casos incrementando cada año la base imponible, calculada de la forma establecida, en la suma de las cantidades resultantes de aplicar a cada una de las bases imponibles de las anualidades ya devengadas un porcentaje igual a lo que exceda del 6 por 100 el del interés legal del dinero vigente del ejercicio económico correspondiente.
+
+Para las obras hidráulicas especificas realizadas íntegramente a cargo del Estado, con un régimen económico de aportación al coste de las obras regulado por la normativa anterior a la entrada en vigor de la Ley de Aguas, el periodo pendiente de pago será el resultante del régimen fijado en su día para la financiación de las obras. Las anualidades restantes por satisfacer serán las correspondientes a dicho régimen de financiación, pero sujetas a una actualización porcentual acumulativa, teniendo en cuenta la amortización técnica y depreciación de la moneda a partir de la entrada en vigor de la Ley de Aguas de acuerdo con la siguiente formula:
+
+Valor actualizado de la anualidad = A \[1+\[(interés legal - 6) - b\]/100\]
+
+En la que:
+
+-   A = Anualidad que resultaría del régimen de financiación anterior fijado en su día para las obras.
+-   b = el porcentaje de amortización técnica, cuyo valor se fija en 4.
+
+Y sin que en ningún caso el valor actualizado pueda ser inferior a la anualidad que resultaría del régimen de financiación anterior.
+
+**Art. 308.**
+
+A los efectos de cálculo, las cantidades resultantes de los apartados a), b) y c) del [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo307.htm) se repartirán entre la totalidad de usuarios o beneficiarios actuales obligados al pago de la tarifa, aunque podrá establecerse un régimen transitorio cuando la puesta en servicio se efectúe gradualmente.
+
+Los citados repartos se harán equitativamente en razón a la participación en beneficios o mejoras producidas por las obras. El valor unitario de aplicación individual a cada sujeto obligado vendrá dado en unidades de superficie cultivable, caudal, consumo de agua, energía o cualquier otro tipo de unidad adecuada al uso de que se trate, estableciendo el Ministerio de Obras Públicas y Urbanismo, a propuesta del Organismo de cuenca, oídos los órganos representativos de los usuarios o beneficiarios existentes en su seno las equivalencias necesarias. También podrá establecerse una tarifa binomia que contemple dos unidades de medida cuando el Organismo de cuenca lo considere oportuno.
+
+**Art. 309.**
+
+Para las obras hidráulicas explotadas por el Organismo de cuenca este determinará las tarifas de utilización del agua correspondientes a cada ejercicio, efectuando la liquidación conforme a lo indicado en el [artículo 311](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo311.htm).
+
+El Organismo de cuenca fijará las tarifas para cada obra hidráulica a su cargo correspondientes a cada ejercicio, que deberán ir acompañadas del correspondiente estudio económico efectuado con participación de los órganos representativos de los usuarios o beneficiarios existentes en el Organismo gestor correspondiente.
+
+El valor propuesto se someterá a información pública por un plazo de quince días anunciada en el Boletín Oficial de las provincias afectadas a efecto de que puedan formularse las reclamaciones que procedan.
+
+Si no existieran reclamaciones durante el periodo de información pública, la tarifa se considerará automáticamente aprobada al finalizar la misma; en caso contrario, el Organismo de cuenca resolverá el expediente aprobando la tarifa si procediera.
+
+**Art. 310.**
+
+La tarifa podrá ser puesta al cobro a partir de la aplicación del presupuesto del ejercicio correspondiente o de la prorroga del anterior.
+
+En el caso de que la tarifa no pudiera ser puesta al cobro en el ejercicio corriente debido a retrasos motivados por tramitación de impugnaciones o recursos o por otras causas, el Organismo gestor podrá aplicar provisionalmente y a buena cuenta la ultima aprobada que haya devenido firme.
+
+**Art. 311.**
+
+Una vez aprobados los cánones de regulación y las tarifas de utilización de agua, el Organismo de cuenca formulará las correspondientes liquidaciones y las notificará a los interesados en la forma prevista en la Ley de Procedimiento Administrativo.
+
+A los sujetos de la tarifa de utilización del agua se les incluirá en la liquidación anual el importe del canon de regulación que les correspondiera.
+
+El Organismo de cuenca podrá exigir el pago directamente a los obligados o, si así lo decidiere, a través de las Comunidades de Usuarios o de cualquier otro Organismo representativo de los mismos.
+
+**Art. 312.**
+
+La recaudación se hará efectiva por ingreso directo en la cuenta de cada Organismo de cuenca, abierta a este fin en la entidad de crédito designada en la forma que disponga la legislación aplicable a la materia.
+
+El periodo voluntario de ingreso será de un mes, contado a partir de la fecha de recepción de la notificación de la liquidación. Transcurrido el plazo para realizar el ingreso voluntario, se procederá a la recaudación por el procedimiento ejecutivo de apremio, conforme a lo dispuesto en el Reglamento General de la Recaudación.
+
+Dentro del periodo voluntario el sujeto obligado podrá solicitar demora o fraccionamiento del pago, a cuyos efectos se faculta el Organismo de cuenca para decidir sobre su procedencia y concesión, en su caso, de las mismas condiciones establecidas en el Reglamento General de Recaudación.
+
+**CAPITULO IV. ACTOS DE LIQUIDACION**  
+**Art. 313.**
+
+1\. El Gobierno, por Real Decreto, a propuesta de los Ministros de Economía y Hacienda y de Obras Públicas y Urbanismo, podrá establecer un sistema de autoliquidacion de los cánones o exacciones previsto en la Ley en función de la peculiaridad de los mismos.
+
+2\. Los actos de aprobación y liquidación de estos cánones o exacciones tendrán carácter económico-administrativo. Sin perjuicio de lo dispuesto en las normas reguladoras de los procedimientos aplicables, la impugnación de los actos no suspenderá su eficacia, siendo exigible el abono del débito por la vía administrativa de apremio. El impago podrá motivar la suspensión o perdida del derecho a la utilización o aprovechamiento del dominio publico hidráulico (Art. 107.2 de la LA, *se corresponde con el actual* [*artículo 115.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_115.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**TITULO V. DE LAS INFRACCIONES Y SANCIONES Y DE LA COMPETENCIA DE LOS TRIBUNALES**  
+**CAPITULO PRIMERO. INFRACCIONES Y SANCIONES**  
+**Art. 314.**
+
+De conformidad con lo dispuesto en los artículo 108 y 109 de la Ley de Aguas (*se corresponde con los actuales artículos* [*116*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_116.htm) *y* [*117*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_117.htm) *del Texto Refundido de la Ley de Aguas*), se consideran infracciones administrativas en materia de aguas las que se definen en los artículos siguientes.
+
+**Art. 315.**
+
+*Constituirán infracciones administrativas leves:*
+
+-   *a) Las acciones u omisiones que causen daños a los bienes del dominio público hidráulico, siempre que la valoración de aquellos no supere los 450,76 euros (75.000 pesetas).*
+-   *b) El incumplimiento de las condiciones impuestas en las concesiones y autorizaciones administrativas a que se refiere la Ley de Aguas en los supuestos en que no dieran lugar a caducidad o revocación de las mismas.*
+-   *c) La ejecución sin la debida autorización administrativa de obras, trabajos, siembras o plantaciones en los cauces públicos o en las zonas sujetas legalmente a algún tipo de limitación en su uso, en los supuestos en que no se derivaran de tales actuaciones daños para el dominio hidráulico o, de producirse, su valoración no superara los 450,76 euros (75.000 pesetas).*
+-   *d) La invasión o la ocupación de los cauces o la extracción de áridos en los mismos, sin la correspondiente autorización, cuando no se derivaran daños para el dominio hidráulico o de producirse éstos la valoración no superara los 450,76 euros (75.000 pesetas).*
+-   *e) El daño a las obras hidráulicas o plantaciones y la sustracción y daños a los materiales acopiados para su construcción, conservación, limpieza y monda en los supuestos en que la valoración de tales daños, o de lo sustraído, no superara los 450,76 euros (75.000 pesetas).*
+-   *f) El corte de árboles, ramas, raíces o arbustos en los cauces, riberas o márgenes sometidos al régimen de policía sin autorización administrativa.*
+-   *g) La navegación sin autorización legal.*
+-   *h) El cruce de canales o cauces, en sitio no autorizado, por personas, ganado o vehículos.*
+-   *i) La desobediencia a las órdenes o requerimiento de los funcionarios de los servicios del Organismo de cuenca en el ejercicio de las funciones que tiene conferidas por la legislación vigente.*
+-   *j) El incumplimiento de cualquier prohibición establecida en la Ley de Aguas y en el presente Reglamento o la omisión de los actos a que obligan, siempre que no estén consideradas como infracciones menos graves, graves o muy graves.*
+
+(Artículo redactado de conformidad con el [R.D. 419/93](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd419_93.htm) y la [resolución de 21 de noviembre de 2001](http://www.carreteros.org/legislacionb/aguas/ley/otros/refundido/res21_11_01.htm))
+
+**Art. 316.**
+
+*Tendrán la consideración de infracciones administrativas menos graves:*
+
+-   *a) Las acciones u omisiones que causen daños a los bienes del dominio público hidráulico, siempre que la valoración de aquellos esté comprendida entre 450,77 y 4.507,59 euros (entre 75.001 y 750.000 pesetas).*
+-   *b) El incumplimiento de las condiciones impuestas en las concesiones y autorizaciones administrativas en los supuestos en que hubiera lugar a la declaración de caducidad o revocación de las mismas.*
+-   *c) La derivación de aguas de sus cauces y el alumbramiento de aguas subterráneas sin la correspondiente concesión o autorización cuando sea precisa, así como la realización de trabajos o mantenimiento de cualquier medio que hagan presumir la continuación de la captación abusiva de las mismas, siempre que, en estos últimos supuestos, exista requerimiento previo del Organismo de cuenca en contrario.*
+-   *d) La ejecución sin la debida autorización administrativa de obras, trabajos, siembras o plantaciones en los cauces públicos o en las zonas sujetas legalmente a algún tipo de limitación en su uso, en los supuestos en que, de producirse daños para el dominio hidráulico, su valoración estuviera comprendida entre 450,77 y 4.507,59 euros (entre 75.001 y 750.000 pesetas).*
+-   *e) La invasión o la ocupación de los cauces o la extracción de áridos en los mismos sin la correspondiente autorización, cuando se produjeran como consecuencia de ello daños para el dominio público cuya valoración estuviera comprendida entre 450,77 y 4.507,59 euros (entre 75.001 y 750.000 pesetas).*
+-   *f) Los daños a las obras hidráulicas o plantaciones y la sustracción o daños a los materiales acopiados para su construcción, conservación, limpieza y monda, en los supuestos en que la valoración de tales daños o de los bienes sustraídos estuviera comprendida entre 450,77 y 4.507,59 euros (entre 75.001 y 750.000 pesetas).*
+-   *g) Los vertidos que puedan deteriorar la calidad del agua o las condiciones de desagüe del cauce receptor, efectuados sin contar con la autorización correspondiente y siempre que los daños derivados para el dominio público no fueran superiores a 4.507,59 euros (750.000 pesetas).*
+
+(Artículo redactado de conformidad con el [R.D. 419/93](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd419_93.htm) y la [resolución de 21 de noviembre de 2001](http://www.carreteros.org/legislacionb/aguas/ley/otros/refundido/res21_11_01.htm))
+
+**Art. 317.**
+
+*Se considerarán infracciones graves o muy graves las enumeradas en los artículos anteriores cuando de los actos y omisiones en ellos previstos se deriven para el dominio público hidráulico daños cuya valoración supere los 4.507,59 euros (750.000 pesetas ) y los 45.075,91 euros (7.500.000 pesetas), respectivamente.*
+
+*Asimismo, podrán ser calificadas de graves o muy graves, según los casos, las infracciones consistentes en los actos y omisiones contemplados en el artículo 108, g), de la Ley de Aguas* (*se corresponde con el actual* [*artículo 116 g)*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_116.htm) *del Texto Refundido de la Ley de Aguas*)*, en función de los perjuicios que de ellos se deriven para el buen orden y aprovechamiento del dominio público hidráulico, la trascendencia de los mismos para la seguridad de las personas y bienes y el beneficio obtenido por el infractor, atendiendo siempre las características hidrológicas específicas de la cuenca y el régimen de explotación del dominio público hidráulico en el tramo del río o término municipal donde se produzca la infracción.*
+
+(Artículo redactado de conformidad con el [R.D. 419/93](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd419_93.htm) y la [resolución de 21 de noviembre de 2001](http://www.carreteros.org/legislacionb/aguas/ley/otros/refundido/res21_11_01.htm))
+
+**Art. 318.**
+
+1\. Las infracciones enumeradas en los artículos anteriores podrán ser sancionadas con las siguientes multas:
+
+-   *a. Infracciones leves, multa de hasta 6.010,12 euros (1.000.000 de pesetas).*
+-   *b. Infracciones menos graves, multa de 6.010,13 a 30.050,61 euros (de 1.000.001 a 5.000.000 de pesetas).*
+-   *c. Infracciones graves, multa de 30.050,62 a 300.506,05 euros (de 5.000.001 a 50.000.000 de pesetas).*
+-   *d. Infracciones muy graves, multa de 300.506,06 a 601.012,10 euros (de 50.000.001 a 100.000.000 de pesetas).*
+
+(Cantidades actualizadas en el [R.D. 419/93](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd419_93.htm) y posteriormente en la [LEY 42/94](http://www.carreteros.org/legislacionb/aguas/ley/otros/refundido/ley42_94.htm). Actualizadas a euros en la [resolución de 21 de noviembre de 2001](http://www.carreteros.org/legislacionb/aguas/ley/otros/refundido/res21_11_01.htm))
+
+2\. Los cómplices y encubridores podrán ser sancionados con multas que oscilarán entre el tercio y los dos tercios de las que correspondan a los autores de la infracción.
+
+**Art. 319.**
+
+*1\. El régimen de sanciones establecido en el* [*artículo 318.1*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo318.htm) *se acomodará a lo dispuesto en el presente y siguientes artículos.*
+
+*2\. Podrán sancionarse con multa de hasta 240,40 euros (40.000 pesetas) las infracciones leves del* [*artículo 315*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo315.htm) *contempladas en sus apartados c), d) y e), siempre que no se derivaran de ellas daños para los bienes del dominio público hidráulico, así como las previstas en los apartados b), f), g), h), i) y j) del citado artículo.*
+
+*3\. Podrán corresponder multas de hasta 450,76 euros (75.000 pesetas) a las infracciones tipificadas en los apartados a), c), d) y e) del mismo artículo cuando, de producirse daños para el dominio público hidráulico, éstos no superaran los 450,76 euros (75.000 pesetas). La sanción de este supuesto podrá alcanzar el doble del importe de los mismos hasta un máximo de 901,52 euros (150.000 pesetas).*
+
+(Artículo redactado de conformidad con el [R.D. 419/93](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd419_93.htm) y la [resolución de 21 de noviembre de 2001](http://www.carreteros.org/legislacionb/aguas/ley/otros/refundido/res21_11_01.htm))
+
+**Art. 320.**
+
+*1\. Podrán sancionarse con multa de hasta 1.803,04 euros (300.000 pesetas) las infracciones menos graves del* [*artículo 316*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo316.htm) *contenidas en sus apartados a), d), e), f) y g), cuando se derivaran daños para el dominio público hidráulico superiores a 450,76 euros (75.000 pesetas) y no sobrepasaran los 901,52 euros (150.000 pesetas). La sanción que corresponda a esos casos ascenderá al doble del importe de los daños producidos.*
+
+*2\. Podrán corresponder multas de hasta 4.507,59 euros (750.000 pesetas) a las infracciones contempladas en los apartados b) y c) del citado* [*artículo 316*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo316.htm)*, así como a las enumeradas en el apartado anterior, siempre que en estos supuestos los daños ocasionados al dominio público hidráulico estuvieran comprendidos entre 901,53 y 2.253,80 euros (150.001 y 375.000 pesetas), pudiendo sancionarse en este último supuesto la infracción con multa equivalente al doble del valor del daño producido.*
+
+*3\. En los casos en que de las infracciones contempladas en el* [*artículo 316*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo316.htm) *se derivaran daños para el dominio público hidráulico superiores a 2.253,80 euros (375.000 pesetas), la sanción podrá ascender al triple del daño producido hasta un máximo de 9.015,18 euros (1.500.000 pesetas).*
+
+(Artículo redactado de conformidad con el [R.D. 419/93](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd419_93.htm) y la [resolución de 21 de noviembre de 2001](http://www.carreteros.org/legislacionb/aguas/ley/otros/refundido/res21_11_01.htm))
+
+**Art. 321.**
+
+Con carácter general, tanto para la calificación de las infracciones como para la fijación del importe de las sanciones previstas en los artículos anteriores, además de los criterios expuestos, se considerarán en todo caso las circunstancias concurrentes previstas en el artículo 109.1 de la Ley de Aguas (*se corresponde con el actual* [*artículo 117.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_117.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 322.**
+
+1\. La sanción de las infracciones leves y menos graves corresponderá al Organismo de cuenca. Será competencia del Ministro de Obras Públicas y Urbanismo la sanción de las infracciones graves y quedará reservada al Consejo de Ministros la imposición de multa por infracciones muy graves (artículo 109.2 de la LA, *se corresponde con el actual* [*artículo 117.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_117.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. El Gobierno podrá mediante Real Decreto proceder a la actualización del importe de las sanciones previsto en el artículo 109.1 de la Ley de Aguas (*se corresponde con el actual* [*artículo 117.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_117.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 323.**
+
+1\. Con independencia de las sanciones que les sean impuestas, los infractores podrán ser obligados a reparar los daños y perjuicios ocasionados al dominio publico hidráulico, así como a reponer las cosas a su estado anterior. El órgano sancionador fijará ejecutoriamente las indemnizaciones que procedan (artículo 110.1 de la LA, *se corresponde con el actual* [*artículo 118.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_118.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Tanto el importe de las sanciones como el de las responsabilidades a que hubiera lugar podrán ser exigidas por la vía administrativa de apremio (artículo 110.2 de la LA, *se corresponde con el actual* [*artículo 118.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_118.htm) *del Texto Refundido de la Ley de Aguas*).
+
+3\. La exigencia de reponer las cosas a su primitivo estado obligará al infractor a destruir o demoler toda clase de instalaciones u obras ilegales y a ejecutar cuantos trabajos sean precisos para tal fin, de acuerdo con los planos, forma y condiciones que fije el organismo sancionador competente.
+
+4\. Si fuera necesario se procederá a la ejecución subsidiaria, previo apercibimiento al infractor y establecimiento de un plazo para ejecución voluntaria.
+
+**Art. 324.**
+
+1\. Los órganos sancionadores podrán imponer multas coercitivas en los supuestos considerados en la Ley de Procedimiento Administrativo. La cuantía de cada multa no superará en ningún caso el 10 por 100 de la sanción máxima fijada para la infracción cometida (artículo 111 de la LA, *se corresponde con el actual* [*artículo 119*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_119.htm) *del Texto Refundido de la Ley de Aguas*).
+
+2\. Será requisito previo a la imposición de multas coercitivas el apercibimiento al infractor, en el que se fijará un plazo para la ejecución voluntaria de lo ordenado, que será establecido por el Organismo sancionador, atendiendo a las circunstancias concretas de cada caso.
+
+**Art. 325.**
+
+1\. Cuando no puedan las cosas ser repuestas a su estado anterior y, en todo caso, cuando como consecuencia de una infracción prevista en este Reglamento subsistan daños para el dominio publico, el infractor vendrá obligado, además de al pago de la multa correspondiente, a indemnizar los daños y perjuicios ocasionados.
+
+2\. Las obligaciones de reponer las cosas a su primitivo estado y las de reparar daños serán exigibles de forma solidaria, en primer lugar, a los responsables directos, y, sucesiva y subsidiariamente, a los cómplices y encubridores.
+
+**Art. 326.**
+
+*1\. La valoración de los daños al dominio público hidráulico se realizará por el órgano sancionador. A tal efecto y sin perjuicio de las competencias de las Juntas de Gobierno, el Ministro de Medio Ambiente establecerá los criterios técnicos para su determinación.*
+
+*2\. Si los daños se hubiesen producido en la calidad del agua, para su valoración se atenderá al coste del tratamiento del vertido, a su peligrosidad y a la sensibilidad del medio receptor.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**Art. 327.**
+
+*1\. La acción para sancionar las infracciones previstas en este Reglamento prescribirá en los plazos establecidos en el artículo 132 de la Ley 30/92, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. La obligación de reponer las cosas a su estado primitivo o de reparar los daños causados al dominio público prescribirá a los quince años.*
+
+*2\. El procedimiento para sancionar las infracciones previstas en el presente Reglamento será el regulado por el Reglamento del procedimiento para el ejercicio de la potestad sancionadora, aprobado por el Real Decreto 1398/93, de 4 de agosto, con las especialidades que se recogen en los artículos siguientes.*
+
+(Artículo redactado de conformidad con el [R.D. 1771/94](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1771_94.htm))
+
+**Art. 328.**
+
+1\. El procedimiento sancionador se incoará por el Organismo de cuenca, de oficio o como consecuencia de orden superior o denuncia.
+
+2\. Las denuncias se formularán voluntariamente por cualquier persona o entidad y obligatoriamente:
+
+-   a) Por la guardería fluvial del Organismo de cuenca.
+-   b) Por los Agentes de la autoridad.
+-   c) Por los funcionarios que tengan encomendadas la inspección y vigilancia de las aguas u obras públicas.
+-   d) Por las Comunidades de Usuarios u órganos con competencia similar, cuando se cometan infracciones de las especificadas en este Reglamento que afecten a las aguas por ellas administradas y, en General, por cuantos funcionarios o empleados presten servicios de guardería, inspección o análogos, en canales, embalses o acequias de aguas públicas o derivadas en su origen de cauces de dominio publico.
+
+**Art. 329.**
+
+1\. Si la infracción es observada por el Servicio de Guardería Fluvial, el denunciante entregará, si el es posible, al denunciado duplicado del parte de denuncia que curse. Cuando no fuere posible dicha entrega se procederá a dar curso al parte de denuncia.
+
+Cuando la denuncia se formule por las restantes personas incluidas en el [artículo anterior](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo328.htm) bastará que estas cursen el correspondiente parte al Organismo de cuenca.
+
+2\. Los particulares podrán formular las denuncias, verbalmente o por escrito, ante cualquiera de las personas incluidas en el [artículo 328](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo328.htm) y, preferentemente, al Guarda fluvial de la zona, quien deberá comprobarla personalmente y, en su caso, remitir al Organismo de cuenca el correspondiente parte de denuncia detallando las circunstancias personales del infractor y las que concurran en el hecho denunciado. El Guarda fluvial estará obligado a entregar copia del parte de denuncia al denunciante, a requerimiento de este.
+
+**Art. 330.**
+
+*Acordada, en su caso, la incoación del expediente, se designará instructor que formalizará el pliego de cargos. En él se harán constar los hechos que se imputen al presunto responsable, los preceptos infringidos, los daños causados y las posibles sanciones, así como la identidad del instructor y de la autoridad competente para imponer la sanción con especificación de la norma que atribuya la competencia.*
+
+*El pliego de cargos será notificado al interesado, que podrá, en el plazo de diez días, formular las alegaciones y proponer las pruebas que estime pertinentes.*
+
+(Artículo redactado de conformidad con el [R.D. 1771/94](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1771_94.htm))
+
+**Art. 331.**
+
+*1\. El instructor ordenará, de oficio o a instancia de parte, la práctica de cuantas pruebas estime puedan conducir al esclarecimiento de los hechos y a determinar las responsabilidades susceptibles de sanción, fijando el plazo al efecto de acuerdo con la naturaleza de las mismas. Será de aplicación en materia de prueba lo dispuesto en el artículo 17 del Reglamento del procedimiento para el ejercicio de la potestad sancionadora. Si la naturaleza de la prueba así lo exigiera podrá ampliarse el plazo máximo de un mes previsto en el citado artículo.*
+
+*2\. El organismo de cuenca podrá recabar, a propuesta del instructor, si lo estimara necesario, los informes que procedan de otros organismos, autoridades, agentes de la autoridad y Comunidades de Usuarios, quienes deberán evacuarlos de acuerdo con lo establecido a este respecto en la citada Ley.*
+
+(Artículo redactado de conformidad con el [R.D. 1771/94](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1771_94.htm))
+
+**Art. 332.**
+
+*En todo expediente sancionador, una vez contestado el pliego de cargos, realizada, en su caso, la práctica de las pruebas, completado el expediente con las alegaciones y documentos que procedan y previa audiencia del interesado, el instructor formulará la propuesta de resolución en los términos previstos en el artículo 18 del Reglamento del procedimiento para el ejercicio de la potestad sancionadora.*
+
+*El Organismo de cuenca dictará la resolución que proceda o remitirá el expediente a la Dirección General correspondiente para su elevación al órgano que tuviera atribuida la competencia. El plazo para resolver no excederá de un año, contado a partir de la incoación del expediente.*
+
+(Artículo redactado de conformidad con el [R.D. 1771/94](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1771_94.htm))
+
+**Art. 333.**
+
+Los Organismos de cuenca podrán utilizar el acceso a través de propiedades privadas, siempre que no constituyan domicilio de las personas, para inspeccionar las obras e instalaciones de aprovechamientos de aguas o bienes de dominio publico, sitas en aquellas propiedades, y para hacer efectivas las resoluciones dictadas como consecuencia del procedimiento sancionador.
+
+**Art. 334.**
+
+La dilación por los particulares en la ejecución o cumplimiento de lo ordenado por la Administración se pondrá, en su caso, en conocimiento de la jurisdicción competente, sin perjuicio de las responsabilidades administrativas a que hubiere lugar.
+
+**Art. 335.**
+
+Para el ejercicio de sus facultades de inspección y ejecución los Organismos de cuenca podrán interesar la colaboración de los Alcaldes y Gobernadores civiles, quienes prestarán el auxilio y el apoyo necesarios.
+
+**Art. 336.**
+
+Las Resoluciones se dictarán y notificarán de acuerdo con lo establecido en la Ley de Procedimiento Administrativo.
+
+La Resolución fijará, en su caso, los plazos para hacer efectivas las sanciones que se impongan y las obligaciones derivadas de la infracción.
+
+**Art. 337.**
+
+Cuando el infractor en su recurso solicite la suspensión del acto deberá constituir fianza o prestar aval suficientes para garantizar el pago de la sanción y restantes obligaciones o bien consignar su importe en la Caja General de Depósitos, sin perjuicio de lo que establece el artículo 116 de la Ley de Procedimiento Administrativo.
+
+**Art. 338.**
+
+1\. Cuantos depósitos pecuniarios hayan de hacerse se constituirán a disposición del Organismo de cuenca en la Caja General de Depósitos o en la sucursal de la misma que corresponda. En el supuesto de ser firme la sanción pasara su importe definitivamente al tesoro, devolviéndose al interesado en caso contrario, previo mandamiento de la autoridad a cuya disposición fue constituido el deposito.
+
+2\. En el supuesto de que resultara necesaria la ejecución subsidiaria por parte de la administración, se formulará el correspondiente presupuesto que se trasladará al responsable a fin de que consigne su importe en el Banco de España a resultas de la liquidación definitiva.
+
+**Art. 339.**
+
+*El importe de las sanciones así como el resto de las obligaciones pecuniarias, se ingresará en la cuenta especial habilitada al efecto en el Banco de España, en los plazos previstos en el Reglamento General de Recaudación, destinándose su importe a efectuar las reparaciones o inversiones que requiera la mejora del dominio público hidráulico afectado y, en todo caso, la restitución de éste a su estado primitivo.*
+
+(Artículo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+**Art. 340.**
+
+Si la Resolución contuviera algún pronunciamiento sobre otras responsabilidades derivadas de la infracción, fijará el plazo pertinente para que se hagan efectivas, señalando, asimismo, en su caso, la fianza a constituir.
+
+**CAPITULO II. COMPETENCIAS DE LOS TRIBUNALES**  
+**Art. 341.**
+
+En los supuestos en que las infracciones pudieran ser constitutivas de delito o falta, la Administración pasará el tanto de culpa a la jurisdicción competente y se abstendrá de proseguir el procedimiento sancionador mientras la autoridad judicial no se haya pronunciado. La sanción de la autoridad judicial excluirá la imposición de multa administrativa. De no haberse estimado la existencia de delito o falta, la Administración podrá continuar el expediente sancionador en base a los hechos que los Tribunales hayan considerado probados (artículo 112 de la LA, *se corresponde con el actual* [*artículo 120*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_120.htm) *del Texto Refundido de la Ley de Aguas*).
+
+**Art. 342.**
+
+Corresponde a la jurisdicción contencioso-administrativa el conocimiento de las pretensiones que se deduzcan en relación con los actos de cualesquiera Administraciones públicas, en materia de aguas, sujetos al Derecho Administrativo (artículo 113 de la LA, *se corresponde con el actual* [*artículo 121*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_121.htm) *del Texto Refundido de la Ley de Aguas*).
+
+***TÍTULO VI Contrato de cesión de derechos al uso privativo de las aguas públicas***
+
+(Título añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***CAPÍTULO I Del contrato de cesión***  
+***Artículo 343. Cesión de derechos.***
+
+*1\. Los concesionarios o titulares de algún derecho al uso privativo de las aguas podrán ceder con carácter temporal a otro concesionario o titular de derecho de igual o mayor rango según el orden de preferencia establecido en el plan hidrológico de la cuenca correspondiente o, en su defecto, en el* [*artículo 60*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_60.htm) *del texto refundido de la Ley de Aguas, previa autorización administrativa, la totalidad o parte de los derechos de uso que les correspondan, de acuerdo con lo previsto en el* [*artículo 67.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_67.htm) *del texto refundido de la Ley de Aguas.*
+
+*La cesión de derechos al uso privativo del agua se ejercitará, en todo caso, con sujeción a las limitaciones establecidas en la legislación vigente respecto de la utilización del dominio público hidráulico.*
+
+*La cesión de derechos al uso privativo del agua sin la autorización regulada en esta sección será constitutiva de la infracción tipificada en el* [*artículo 116.g)*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_116.htm) *en relación con el* [*67.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_67.htm)*, ambos del texto refundido de la Ley de Aguas, sin perjuicio de la caducidad del derecho concesional del cedente.*
+
+*2\. A efectos de lo previsto en el apartado anterior, son concesionarios y titulares de derechos al uso privativo de las aguas, los siguientes:*
+
+-   *a) Los concesionarios de aguas superficiales y subterráneas.*
+-   *b) Los titulares de aprovechamientos temporales de aguas privadas inscritos en el Registro de Aguas conforme a las disposiciones transitorias segunda y tercera del texto refundido de la Ley de Aguas.*
+
+*3\. No podrán celebrar el contrato de cesión de derechos al uso privativo de las aguas:*
+
+-   *a) Los titulares de concesiones o autorizaciones concedidas a precario.*
+-   *b) Los titulares de las autorizaciones especiales a las que se refiere el* [*artículo 59.5.*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_59.htm) *del texto refundido de la Ley de Aguas.*
+
+*Los concesionarios o titulares de derechos de usos privativos de carácter no consuntivo solamente podrán ceder sus derechos para usos que tengan el mismo carácter.*
+
+*4\. Los titulares de derechos incluidos en el catálogo de aprovechamientos de aguas privadas no pueden acogerse a lo establecido en este capítulo, salvo que previamente transformen su derecho en una concesión de aguas públicas e insten su inscripción en el Registro de Aguas.*
+
+*En estos casos, dicha solicitud de inscripción deberá constar en el contrato de cesión y en la solicitud de la autorización del contrato requerida por el* [*artículo 346*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo346.htm)*.*
+
+*5\. Los acuerdos entre usuarios de una misma comunidad constituida con arreglo al* [*artículo 81*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_81.htm) *del texto refundido de la Ley de Aguas, celebrados para la utilización del agua asignada a cada uno de ellos como miembros de la comunidad concesionaria, se consideran como actos internos, si a ello no se opusieran las ordenanzas y estatutos de la propia comunidad, y no están sujetos a lo establecido en esta sección.*
+
+*6\. En las comunidades de usuarios constituidas con arreglo a los artículos* [*87*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_87.htm) *y* [*88*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_88.htm) *del texto refundido de la Ley de Aguas, son titulares de derechos cada uno de los usuarios que tenga inscrito su derecho en el Registro de Aguas.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 344. Formalización y contenido de los contratos de cesión.***
+
+*1\. Los contratos de cesión deben ser formalizados por escrito y en ellos se recogerán, como mínimo, las siguientes especificaciones:*
+
+-   *a) Identificación de los contratantes.*
+-   *b) Concesión administrativa o título jurídico en virtud del cual cada parte ha adquirido el derecho a usar privativamente las aguas objeto del contrato, debidamente inscritos en el Registro de Aguas.*
+-   *c) Volumen anual susceptible de cesión y apreciación del volumen susceptible de reutilización.*
+-   *d) Compensación económica que, en su caso, se establezca.*
+-   *e) Uso al que se va a destinar el caudal cedido.*
+-   *f) En el caso de cesiones entre usuarios de agua para riego, la identificación expresa de los predios que el cedente renuncia a regar o se compromete a regar con menos dotación durante la vigencia del contrato, así como la de los predios que regará el adquirente con el caudal cedido.*
+-   *g) Período al que se refiere el contrato de cesión.*
+-   *h) Instalaciones o infraestructuras hidráulicas necesarias para la realización material de la cesión.*
+
+*2\. Dentro de los 15 días siguientes a su firma, el cedente y el cesionario deben remitir una copia del contrato de cesión a la comunidad de usuarios a que pertenezca uno y otro.*
+
+*A partir de la recepción de la copia del contrato, las comunidades de usuarios pueden formular ante el Organismo de cuenca las alegaciones que estimen convenientes sobre la cesión contratada, en el plazo de 15 días.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 345. Objeto del contrato de cesión y compensación económica.***
+
+*1\. El volumen anual susceptible de cesión en ningún caso podrá superar al realmente utilizado por el cedente y se calculará atendiendo a los siguientes criterios:*
+
+-   *a) Se tendrán en cuenta los valores del volumen realmente utilizado durante los cinco últimos años.*
+-   *b) El valor resultante podrá ser corregido, en su caso, atendiendo a la dotación objetivo que fije el plan hidrológico de cuenca, los retornos que procedan, las circunstancias hidrológicas extremas y el respeto a los caudales medioambientales establecidos o, en su defecto, al buen uso del agua.  
+    En ningún caso el volumen susceptible de cesión podrá ser superior al que resulte de los acuerdos que adopte el Organismo de cuenca en función de la situación hidrológica de cada año.*
+
+*2\. La compensación económica derivada de la cesión de derechos al uso de aguas se fijará de mutuo acuerdo por los contratantes. Atendiendo a la situación del mercado y a sus desviaciones, el Ministro de Medio Ambiente podrá establecer el importe máximo de la compensación.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 346. Solicitud de autorización.***
+
+*1\. Dentro de los 15 días siguientes a la firma, el cedente y el cesionario, conjuntamente, deben remitir una copia del contrato al Organismo de cuenca y solicitar la autorización requerida por el* [*artículo 343.1.*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo343.htm)
+
+*2\. Cuando las aguas objeto del contrato de cesión vayan a destinarse al abastecimiento de poblaciones, se acompañará a la solicitud de autorización informe de la autoridad sanitaria sobre la idoneidad del agua para dicho uso.*
+
+*3\. Cuando la cesión de derechos se refiera a una concesión para regadíos y usos agrarios, el Organismo de cuenca dará traslado de la copia del contrato a la correspondiente comunidad autónoma y al Ministerio de Agricultura, Pesca y Alimentación, para que emitan informe previo en el ámbito de sus respectivas competencias en el plazo de 10 días.*
+
+*4\. El Organismo de cuenca concederá trámite de audiencia a los solicitantes para que en el plazo de 15 días puedan formular alegaciones a la vista de las alegaciones que hayan podido formular las comunidades de usuarios de acuerdo con el* [*artículo 344.2*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo344.htm)*, de los informes a que se refiere el apartado inmediato precedente y de cuantas actuaciones se hubieran practicado a consecuencia de la solicitud.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 347. Autorización.***
+
+*1\. Mediante resolución motivada, el Organismo de cuenca concederá la autorización de la cesión previa comprobación de que el cedente y el cesionario tienen debidamente inscrito su derecho legítimo al uso privativo del agua y de que el contrato se ajusta a lo establecido en este capítulo.*
+
+*La resolución por la que se autorice la cesión de derechos establecerá el volumen máximo anual susceptible de cesión así como la obligación de instalar un contador homologado que mida el caudal realmente cedido.*
+
+*2\. Transcurridos dos meses desde que la entrada de la solicitud en el Organismo de cuenca sin que éste se haya pronunciado, se podrá entender concedida la autorización. Dicho plazo será de un mes cuando se trate de cesiones entre miembros de la misma comunidad de usuarios.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 348. Denegación.***
+
+*1\. Mediante resolución motivada, el Organismo de cuenca denegará la autorización cuando el cedente o el cesionario no tengan debidamente inscrito su derecho legítimo al uso privativo del agua, y cuando concurran las circunstancias señaladas en el* [*artículo 68.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_68.htm) *del texto refundido de la Ley de Aguas.*
+
+*2\. La denegación de la autorización solicitada no dará derecho a indemnización alguna en favor de los contratantes.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 349. Adquisición preferente.***
+
+*En los mismos plazos y casos establecidos en el* [*artículo 347.2*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo347.htm)*, el Organismo de cuenca podrá acordar la adquisición del aprovechamiento de los caudales objeto del contrato, en virtud del derecho de adquisición preferente reconocido en el* [*artículo 68.3*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_68.htm) *del texto refundido de la Ley de Aguas.*
+
+*Si el contrato incluye una compensación económica, la adquisición queda condicionada al abono por el Organismo de cuenca al cedente de una cantidad igual, en un plazo de tres meses, a partir del acuerdo de adquisición.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 350. Inscripción en el Registro de Aguas.***
+
+*Se inscribirán en el Registro de Aguas los contratos de cesión de derechos al uso privativo del agua, así como el rescate de los aprovechamientos mediante la adquisición regulada en el* [*artículo 349*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo349.htm)*, en los términos que establezca el Ministro de Medio Ambiente.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 351. Instalaciones e infraestructuras hidráulicas.***
+
+*1\. Cuando la realización material de las cesiones acordadas requiera el empleo de instalaciones o infraestructuras hidráulicas de las que fuesen titulares terceros, su uso se establecerá por libre acuerdo entre las partes.*
+
+*2\. En el caso de que las instalaciones o infraestructuras hidráulicas necesarias sean de titularidad del Organismo de cuenca, o bien tenga éste encomendada su explotación, los contratantes deberán solicitar, a la vez que dan traslado de la copia del contrato para su autorización, la determinación del régimen de utilización de dichas instalaciones o infraestructuras, así como la fijación de las exacciones económicas que correspondan de acuerdo con la legislación vigente.*
+
+*3\. Si para la realización material de las cesiones acordadas fuese necesario construir nuevas instalaciones o infraestructuras hidráulicas, los contratantes deberán presentar, a la vez que solicitan la autorización, el documento técnico que defina adecuadamente dichas obras e instalaciones. Cuando las aguas cedidas se vayan a destinar al abastecimiento de poblaciones, se presentará también informe de la autoridad sanitaria sobre la idoneidad del agua para dicho uso.*
+
+*4\. La autorización del contrato de cesión no implicará por sí misma la autorización para el uso o construcción de infraestructuras a que se refiere este artículo.*
+
+*La resolución del Organismo de cuenca sobre el uso o construcción de infraestructuras a que se refiere el párrafo anterior será independiente de la decisión que adopte sobre la autorización o no del contrato de cesión, y no se le aplicarán los plazos a que se refiere el* [*artículo 347*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo347.htm) *de este reglamento de acuerdo con lo dispuesto en el* [*artículo 70*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_70.htm) *del texto refundido de la Ley de Aguas.*
+
+*5\. Transcurrido el plazo de cuatro meses desde la entrada de la solicitud en el Organismo de cuenca sin que éste se haya pronunciado, se podrá entender concedida la autorización para el uso o construcción de infraestructuras.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 352. Compensaciones económicas.***
+
+*1\. Cuando las infraestructuras precisas para los contratos de cesión fueran de titularidad pública, se devengarán las tasas o precios que resulten de aplicación.*
+
+*2\. Si las infraestructuras necesarias fuesen de titularidad privada, los contratantes podrán pactar libremente las compensaciones económicas.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 353. Autorización de vertido en los contratos de cesión.***
+
+*1\. En el caso de que el cedente o el cesionario fuesen titulares de la autorización de vertido a que se refieren los* [*artículos 245*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo245.htm) *y siguientes de este reglamento, deberán hacer constar esta circunstancia en la documentación remitida con la solicitud de autorización del contrato, que deberá venir acompañada de un estudio de los posibles efectos que, respecto de aquélla, comporte la cesión de derechos.*
+
+*2\. El Organismo de cuenca tramitará la oportuna modificación de la autorización o autorizaciones de vertido en los términos del* [*artículo 262*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo262.htm)*.*
+
+*3\. En el caso de que se considere que la nueva situación derivada de la cesión de derechos comporta un vertido de aguas o productos residuales no autorizado, se comunicará así a los interesados y se revocará la autorización del contrato, previa audiencia de aquéllos, sin derecho a indemnización.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***CAPÍTULO II Centros de Intercambio***  
+***Artículo 354. Centros de intercambio de derechos de uso del agua.***
+
+*1\. Al amparo del* [*artículo 71*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_71.htm) *del texto refundido de la Ley de Aguas, se podrán constituir centros de intercambio de derechos de uso del agua, mediante acuerdo del Consejo de Ministros, a propuesta del Ministro de Medio Ambiente, en las situaciones reguladas en los artículos* [*55*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_55.htm)*,* [*56*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_56.htm) *y* [*58*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_58.htm) *del mismo texto legal.*
+
+*2\. Podrán participar en las operaciones de los centros de intercambio, para ceder sus derechos, los concesionarios y los titulares de aprovechamiento al uso privativo de las aguas que tengan inscritos sus derechos en el Registro de Aguas o en el catálogo de aprovechamientos de la cuenca, respectivamente.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***Artículo 355. La oferta pública de adquisición de derechos.***
+
+*1\. La aprobación por el Consejo de Ministros de la constitución del centro de intercambio de derechos de uso del agua facultará al Organismo de cuenca para realizar ofertas públicas de adquisición de derechos.*
+
+*2\. El Organismo de cuenca deberá publicar la oferta pública de adquisición de derechos de uso del agua en el "Boletín Oficial del Estado", en el diario oficial de las comunidades autónomas afectadas y, al menos, en dos diarios de amplia difusión. En el anuncio se hará referencia a la existencia de un folleto explicativo de la oferta, que estará a disposición de los interesados en la sede del Organismo de cuenca.*
+
+*3\. En la oferta pública de adquisición se concretarán necesariamente los siguientes extremos:*
+
+-   *a) El volumen máximo susceptible de cesión y las características de los aprovechamientos que pueden ceder derechos.*
+-   *b) Los requisitos técnicos necesarios para poder acudir a la oferta pública de adquisición y, en especial, los referentes a la calidad del recurso y a los criterios relativos al retorno de las aguas susceptibles de cesión.*
+-   *c) Los importes máximos y mínimos de la compensación económica que deben satisfacerse por la cesión de los derechos al uso privativo de las aguas y las condiciones y formas de pago.*
+-   *d) El carácter temporal o definitivo de la cesión y, en su caso, plazo que se establezca.*
+-   *e) Los criterios en virtud de los cuales el Organismo de cuenca, respetando los principios de publicidad y concurrencia, procederá a seleccionar los derechos que sean objeto de adquisición, así como la determinación del precio de la cesión que podrá incluir un porcentaje para gastos de gestión, no superior al cinco por ciento del citado precio. En la determinación de los volúmenes y compensaciones objeto de intercambio se tendrán en cuenta, en primer lugar, las prioridades de usos y la compatibilidad con los planes hidrológicos de cuenca y los sistemas de explotación del recurso y, en segundo lugar, el menor coste de la adquisición de los derechos susceptibles de cesión.*
+-   *f) El plazo, a contar desde la publicación de la oferta en el "Boletín Oficial del Estado", para la presentación de solicitudes por parte de los concesionarios o titulares de derechos interesados.*
+
+*4\. En las solicitudes que se dirijan al Organismo de cuenca para ceder derechos al uso privativo, los solicitantes deberán hacer constar necesariamente los siguientes datos:*
+
+-   *a) Identificación del concesionario o titular que desea ceder.*
+-   *b) Título jurídico que ampara el derecho al uso privativo de las aguas que ostenta el solicitante.*
+-   *c) Volumen de agua que está dispuesto a ceder.*
+-   *d) Justificación del cumplimiento del resto de los requisitos fijados por el Organismo de cuenca para poder acudir a la oferta pública de adquisición, en especial los referentes a la calidad del recurso y a los criterios relativos al retorno de las aguas susceptibles de cesión.*
+
+*5\. Recibidas las solicitudes en los plazos previstos en la oferta pública de adquisición, el Organismo de cuenca resolverá sobre la determinación de los derechos que han resultado adjudicatarios de la oferta.*
+
+*6\. La resolución se notificará a los afectados, se publicará en el "Boletín Oficial del Estado" y se inscribirá en el Registro de Aguas.*
+
+*7\. Los pagos e ingresos que deba realizar el Organismo de cuenca para adquirir o ceder derechos de uso del agua se contabilizarán separadamente respecto al resto de actos en que el Organismo pueda intervenir.*
+
+(Artículo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***TÍTULO VII. DE LA SEGURIDAD DE PRESAS, EMBALSES Y BALSAS***
+
+(Título añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+**CAPÍTULO I. DISPOSICIONES GENERALES**  
+***Artículo 356. Ámbito de aplicación.***
+
+*1\. Las disposiciones contenidas en este título serán de aplicación a las presas, embalses y balsas que cumplan alguna de las siguientes condiciones:*
+
+-   *a) Que en función de sus dimensiones estén clasificadas como grandes presas, de acuerdo con lo que se establece en el* [*artículo 358.a).*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo358.htm)
+-   *b) Que aún no siendo grandes presas, en función de su riesgo potencial sean clasificadas en las categorías A o B, de acuerdo con lo que se establece en el* [*artículo 358.b)*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo358.htm)*.*
+
+*2\. Se exceptúan del ámbito de aplicación de este título los depósitos de agua, las cámaras de carga, las chimeneas de equilibrio, los diques de encauzamiento de ríos y canales y otras estructuras hidráulicas que, tanto por su tipología como por su función, difieran sustancialmente de las presas y embalses de agua.*
+
+*3\. A efectos de solicitud de clasificación y registro, quedan asimismo incluidas en el ámbito de aplicación de este título las presas y balsas cuyas dimensiones superen los límites establecidos en el* [*artículo 367.1*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo367.htm)*.*
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+***Artículo 357. Definiciones.***
+
+*A los efectos de este título, se entenderá por:*
+
+-   *a) Presa: Estructura artificial que, limitando en todo o en parte el contorno de un recinto enclavado en el terreno, esté destinada al almacenamiento de agua dentro del mismo. A los exclusivos efectos de seguridad, también se entenderán como tales las balsas de agua.*
+-   *b) Altura de la presa: Diferencia de cota entre el punto más bajo de la cimentación y el punto más alto de la estructura resistente, sin tener en cuenta los rastrillos, pantallas de impermeabilización, rellenos de grietas u otros elementos semejantes.*
+-   *c) Balsa: Obra hidráulica consistente en una estructura artificial destinada al almacenamiento de agua situada fuera de un cauce y delimitada, total o parcialmente, por un dique de retención.*
+-   *d) Altura de balsa: Diferencia de cota entre el punto más bajo de la cimentación del talud exterior del dique de cierre y el punto más alto de la estructura resistente.*
+-   *e) Embalse: Obra hidráulica consistente en un recinto artificial para el almacenamiento de agua limitado, en todo o en parte, por la presa. También puede referirse al conjunto de terreno, presa y agua almacenada, junto con todas las estructuras auxiliares relacionadas con estos elementos y con su funcionalidad.*
+-   *f) Titular: Será considerado como tal la persona física o jurídica, de derecho público o privado, que tenga inscrito en el Registro de Seguridad de Presas y Embalses el título para construir o explotar una presa o un embalse. En ausencia de inscripción o cuando, por cualquier circunstancia, la inscripción no estuviera actualizada y así se acreditara, se considerará titular a la persona física o jurídica que realice la construcción o lleve a cabo la explotación.*
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+**CAPÍTULO II. CLASIFICACIÓN DE LAS PRESAS Y EMBALSES. FASES**  
+***Artículo 358. Clasificación de las presas y embalses.***
+
+*Las presas y embalses se clasifican en las siguientes categorías:*
+
+-   *a) En función de sus dimensiones se considera gran presa aquella cuya altura es superior a 15 metros y la que, teniendo una altura comprendida entre 10 y 15 metros, tenga una capacidad de embalse superior a 1 hectómetro cúbico. Se considera pequeña presa aquella que no cumple las condiciones de gran presa.*
+-   *b) En función del riesgo potencial que pueda derivarse de su posible rotura o funcionamiento incorrecto, se clasificarán en una de las tres categorías siguientes:*
+    
+    -   *1.º Categoría A: Presas cuya rotura o funcionamiento incorrecto pueden afectar gravemente a núcleos urbanos o a servicios esenciales, o producir daños materiales o medioambientales muy importantes.*
+    -   *2.º Categoría B: Presas cuya rotura o funcionamiento incorrecto puede ocasionar daños materiales o medioambientales importantes o afectar a un número reducido de viviendas.*
+    -   *3.º Categoría C: Presas cuya rotura o funcionamiento incorrecto puede producir daños materiales de moderada importancia y sólo incidentalmente pérdidas de vidas humanas. En todo caso, a esta categoría pertenecerán todas las presas no incluidas en las categorías A o B.*
+    
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+***Artículo 359. Fases en la vida de la presa.***
+
+*1\. Se entiende por fases en la vida de la presa las distintas situaciones que se diferencian en el desarrollo y utilización de las presas y los embalses.*
+
+*En función de la actividad principal desarrollada durante el período correspondiente, las fases de la presa se denominan: proyecto, construcción, puesta en carga, explotación y puesta fuera de servicio.*
+
+*2\. Los criterios para delimitar cada una de las mencionadas fases se fijarán en las Normas Técnicas de Seguridad a que se refiere el* [*artículo 364*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo364.htm)*.*
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+**CAPÍTULO III. ÓRGANOS COMPETENTES**  
+***Artículo 360. Competencias en materia de seguridad.***
+
+*1\. La Administración General del Estado es competente en materia de seguridad en relación a las presas, embalses y balsas situados en el dominio público hidráulico en las demarcaciones hidrográficas intercomunitarias, así como cuando constituyan infraestructuras de interés general del Estado, siempre que le corresponda su explotación.*
+
+*2\. Las comunidades autónomas designarán a los órganos competentes en materia de seguridad en relación con las presas, embalses y balsas situados en el dominio público hidráulico cuya gestión les corresponda, y en todo caso en relación con las presas, embalses y balsas ubicados fuera del dominio público hidráulico.*
+
+*3\. La Administración General del Estado y la de las comunidades autónomas podrán celebrar convenios de colaboración en materia de seguridad de presas, balsas y embalses.*
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+***Artículo 361. Comisión Técnica de Seguridad de Presas.***
+
+*1\. Se crea una Comisión Técnica de Seguridad de Presas, como comisión técnica especializada de la Comisión Nacional de Protección Civil.*
+
+*2\. La Comisión Técnica de Seguridad de Presas tendrá las siguientes funciones:*
+
+-   *a) Informar los proyectos de disposiciones de carácter general aplicables en todo el territorio nacional, en materia de seguridad de presas, embalses y balsas.*
+-   *b) Informar las Normas Técnicas de Seguridad.*
+-   *c) Promover la celebración de convenios de colaboración en materia de seguridad de presas, embalses y balsas, así como el intercambio de información entre las administraciones competentes.*
+-   *d) Elevar a las administraciones competentes propuestas relativas al intercambio de información de los datos proporcionados por los registros de seguridad de presas y embalses, así como a la colaboración y puesta en común de experiencias de dichos registros.*
+-   *e) Elevar a las administraciones competentes propuestas relativas a las condiciones y procedimiento para obtener y renovar el título de entidad colaboradora en materia de control de la seguridad de presas y embalses.*
+
+*3\. La Comisión estará presidida por el Secretario General para el Territorio y la Biodiversidad. La Vicepresidencia primera corresponderá al Director General del Agua, que sustituirá al Presidente en caso de ausencia, y la Vicepresidencia segunda al Director General de Protección Civil y Emergencias. Actuará como Secretario de la Comisión uno de los vocales designados por el Ministerio de Medio Ambiente, que para tal fin será nombrado por éste. La Comisión tendrá los siguientes vocales:*
+
+-   *a) Por la Administración General del Estado: cinco vocales designados por cada uno de los Ministerios de Medio Ambiente e Interior; y tres vocales designado por cada uno de los Ministerios de Industria, Turismo y Comercio y de Agricultura, Pesca y Alimentación.*
+-   *b) Un vocal designado por cada comunidad autónoma.*
+-   *c) Un vocal designado por cada una de las ciudades de Ceuta y Melilla.*
+-   *d) Un vocal representante de las entidades locales, designado por la asociación de ámbito estatal con mayor implantación.*
+-   *e) Tres vocales en representación de los usuarios.*
+-   *f) Tres vocales en representación de asociaciones con intereses en el ámbito de las presas, embalses y balsas.*
+
+*Los vocales de los apartados e) y f) serán nombrados por el Ministerio de Medio Ambiente, previa consulta a las asociaciones de los sectores correspondientes.*
+
+*4\. La Comisión adoptará su propio reglamento de funcionamiento.*
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+**CAPÍTULO IV. RÉGIMEN JURÍDICO DE LA SEGURIDAD DE LAS PRESAS, EMBALSES Y BALSAS**  
+***Artículo 362. Control de la seguridad de la presa y embalse.***
+
+*1\. Se entiende por control de la seguridad de la presa y su embalse el conjunto de actuaciones que deben realizar las administraciones públicas competentes en materia de seguridad para verificar el cumplimiento por parte del titular de la presa, de las diferentes Normas Técnicas de Seguridad.*
+
+*2\. En materia de seguridad de presas y embalses, corresponde a las administraciones públicas competentes:*
+
+-   *a) Aprobar la clasificación de la presa.*
+-   *b) Informar los proyectos, así como las circunstancias concretas que se presenten en el momento de proceder a un cambio de fase o etapa en la vida de la presa, o de producirse el otorgamiento o la renovación de la concesión.*
+-   *c) Inspeccionar la construcción de nuevas presas, informando sobre el cumplimiento de los requisitos de seguridad exigidos en el proyecto.*
+-   *d) Aprobar las normas de explotación y los planes de emergencia de la presa y embalse, previo informe favorable preceptivo, en este último caso, de la comisión correspondiente de protección civil.*
+-   *e) Evaluar el contenido de las revisiones de seguridad y de los informes de seguridad.*
+-   *f) Establecer, por razones de seguridad, condicionantes a la explotación ordinaria y ordenar vaciados parciales o totales.*
+-   *g) Velar por el cumplimiento de todas y cada una de las obligaciones que en materia de seguridad corresponden al titular de la presa.*
+-   *h) Mantener actualizado el Registro de Seguridad de Presas y Embalses.*
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+***Artículo 363. Registro de Seguridad de Presas y Embalses.***
+
+*1\. La administración pública competente en materia de seguridad de presas y embalses creará un Registro de Seguridad de Presas y Embalses, en el que inscribirán todas las presas y embalses de su competencia que superen los límites establecidos en el* [*artículo 367.1*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo367.htm)*.*
+
+*El contenido mínimo de este Registro, en el ámbito de la Administración General del Estado, será establecido por el Ministro de Medio Ambiente mediante orden.*
+
+*2\. En dicho Registro se anotarán, en todo caso, las resoluciones administrativas que se dicten en relación con la seguridad de las presas y embalses, así como los informes emitidos en materia de control de seguridad.*
+
+*3\. A efectos estadísticos, cada una de las administraciones públicas competentes en materia de seguridad de presas y embalses remitirá anualmente al Ministerio de Medio Ambiente los datos de sus correspondientes registros para la elaboración y mantenimiento de un Registro Nacional de Seguridad de Presas y Embalses.*
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+***Artículo 364. Normas Técnicas de Seguridad de Presas y Embalses.***
+
+*1\. Las Normas Técnicas de Seguridad, que serán aprobadas mediante real decreto, previo informe de la Comisión Técnica de Seguridad de Presas y de la Comisión de Normas para Grandes Presas, establecerán las exigencias mínimas de seguridad de las presas y embalses, graduándolas según su clasificación y determinarán los estudios, comprobaciones y actuaciones que el titular debe realizar y cumplimentar en cada una de las fases de la presa.*
+
+*Las exigencias de seguridad son aquellas condiciones que deben cumplir las presas y embalses en todas sus fases. El criterio básico para determinar las exigencias de seguridad será el riesgo potencial que pueda derivarse de la rotura o el funcionamiento incorrecto de la misma, evaluado en el proceso de clasificación de la presa.*
+
+*2\. Asimismo, las Normas Técnicas de Seguridad establecerán los criterios básicos para la convalidación o adaptación, en su caso, de las actuaciones y exigencias de seguridad en las presas y embalses existentes, que se hubiesen realizado de acuerdo con las normas dictadas antes de la entrada en vigor de aquéllas.*
+
+*3\. Deberán aprobarse las siguientes Normas Técnicas de Seguridad:*
+
+-   *a) Norma Técnica de Seguridad para la clasificación de las presas y para la elaboración e implantación de los planes de emergencia de presas y embalses.*
+-   *b) Norma Técnica de Seguridad para el proyecto, construcción y puesta en carga de presas y llenado de embalses.*
+-   *c) Norma Técnica de Seguridad para la explotación, revisiones de seguridad y puesta fuera de servicio de presas.*
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+***Artículo 365. Entidades colaboradoras en materia de control de la seguridad de presas y embalses.***
+
+*1\. Las Entidades colaboradoras en materia de control de la seguridad de presas y embalses son aquellas entidades públicas o privadas, que, mediante la obtención del título correspondiente, quedan autorizadas a colaborar con la Administración pública competente en las labores de control, de carácter técnico o especializado, relativas a la seguridad de presas y embalses. Su colaboración con la Administración pública competente exigirá la celebración del correspondiente contrato.*
+
+*2\. En el ámbito de la Administración General del Estado, las condiciones y el procedimiento para obtener y renovar el título de entidad colaboradora, las actividades a las que se puede extender su colaboración, así como las facultades y competencias de su personal que, en todo caso, estará facultado para acceder a las instalaciones correspondientes, serán las que establezca el Ministro de Medio Ambiente mediante orden.*
+
+*3\. Las administraciones públicas competentes crearán un Registro de entidades colaboradoras en materia de control de la seguridad de presas y embalses.*
+
+*En el ámbito de la Administración General del Estado, el contenido del citado registro será establecido por el Ministerio de Medio Ambiente mediante orden.*
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+***Artículo 366. Sujetos obligados en materia de seguridad de presas y embalses.***
+
+*1\. El titular de la presa será el responsable de su seguridad, para lo que estará sujeto a las correspondientes Normas Técnicas de Seguridad.*
+
+*2\. Sin perjuicio de lo establecido en el apartado 1, en el ámbito de la Administración General del Estado, tendrán la consideración de responsables de la seguridad de las presas y embalses:*
+
+-   *a) Las sociedades estatales, cuando así se establezca en el convenio por el que se rigen sus relaciones con la Administración General del Estado, en aquellas presas y embalses cuya construcción y explotación se le encomienden conforme establece el* [*artículo 132.2*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_132.htm) *del texto refundido de la Ley de Aguas.*
+-   *b) Las comunidades autónomas, cuando gestionen la construcción o explotación de presas o embalses de interés general, en virtud de convenio específico o encomienda de gestión, de acuerdo con lo que dispone el* [*artículo 124.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_124.htm) *del texto refundido de la Ley de Aguas.*
+-   *c) Las Comunidades de Usuarios o Juntas Centrales de Usuarios, cuando tengan encomendada la explotación o mantenimiento de presas, balsas y embalses, en virtud de convenio de encomienda de gestión conforme establece el* [*artículo 125.1*](http://www.carreteros.org/legislacionb/aguas/ley/articulos/articulo_125.htm) *del texto refundido de la Ley de Aguas.*
+
+*3\. El convenio que se suscriba en cada uno de los supuestos anteriores, establecerá con precisión los términos de la encomienda respecto de las obligaciones relativas a la seguridad de presas y embalses, de forma que se asegure el estricto cumplimiento de las obligaciones que se imponen en este reglamento.*
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+***Artículo 367. Obligaciones del titular.***
+
+*1\. Los titulares de presas y balsas de altura superior a 5 metros o de capacidad de embalse mayor de 100.000 m**<sup><font size="4">3</font></sup>**, de titularidad privada o pública, existentes, en construcción o que se vayan a construir, estarán obligados a solicitar su clasificación y registro. La resolución de clasificación deberá dictarse en el plazo máximo de un año.*
+
+*2\. A los efectos previstos en el* [*artículo anterior*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo366.htm)*, el titular deberá disponer de los medios humanos y materiales necesarios para garantizar el cumplimiento de sus obligaciones en materia de seguridad.*
+
+*3\. Además de lo indicado en los anteriores apartados, al titular de la presa que se encuentre dentro del ámbito de aplicación establecido en el* [*artículo 356*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo356.htm) *le corresponden las siguientes obligaciones:*
+
+-   *a) Cumplir las Normas Técnicas de Seguridad a que se refiere el* [*artículo 364*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo364.htm)*.*
+-   *b) Contar con solvencia económica suficiente para hacer frente a las exigencias de seguridad de sus presas y embalses.*
+-   *c) Asumir las condiciones y adoptar las medidas que, a juicio de la administración pública competente, puedan ser precisas en las distintas fases de la vida de la presa por motivos de seguridad.*
+-   *d) Facilitar a la administración pública competente, si es requerido para ello, cualquier información de la que disponga en relación con la seguridad de la presa y el embalse.*
+-   *e) Permitir el acceso de los representantes de la administración pública competente y, en su caso, de las entidades colaboradoras, a todas las instalaciones cuando fuera necesario para el ejercicio de las funciones previstas en este Reglamento.*
+-   *f) Comunicar a la administración pública competente en materia de seguridad cualquier actuación que pueda alterar el nivel de seguridad de la presa o embalse.*
+
+*4\. En el ámbito de la Administración General del Estado, las condiciones, procedimientos y plazos para que el titular pueda cumplir las obligaciones impuestas por este título serán las que establezca el Ministerio de Medio Ambiente mediante orden.*
+
+*En el supuesto de que se transmita la titularidad de la presa, el nuevo titular se subrogará en todas las responsabilidades y obligaciones que este título atribuye al anterior titular. El titular deberá comunicar a la administración pública competente la transmisión de la presa que se propone realizar y solicitar su inscripción en el Registro de Seguridad de Presas y Embalses.*
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+***Artículo 368. Régimen sancionador aplicable en materia de seguridad de presas, embalses y balsas.***
+
+*El incumplimiento de las obligaciones en materia de seguridad previstas en este título dará lugar a la aplicación del régimen sancionador previsto en el texto refundido de la Ley de Aguas, y desarrollado en el título V de este reglamento.*
+
+(Artículo añadido por el [R.D. 9/08](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+***DISPOSICIÓN ADICIONAL ÚNICA. Régimen jurídico de las presas, embalses y balsas mineras***
+
+*Las presas, balsas y embalses que almacenen estériles mineros y las de residuos se regirán por su legislación específica.*
+
+(Disposición añadida por el [R.D. 9/2008](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd9_08.htm))
+
+**DISPOSICIONES TRANSITORIAS**  
+**PRIMERA**
+
+1\. Antes del 1 de enero de 1989, las Comunidades de Usuarios o Colectividades ya constituidas a la entrada en vigor de este Reglamento procederán, de acuerdo con lo establecido en la disposición final cuarta de la Ley de Aguas, a la revisión de sus Estatutos u Ordenanzas para adaptarlos, en su caso, a los principios de representatividad y estructura democrática, tal como se recogen y desarrollan para estas Corporaciones de derecho publico en dicha Ley y en el presente Reglamento.
+
+2\. El expediente de revisión podrá iniciarse bien por el procedimiento previsto en sus Ordenanzas, bien a iniciativa del Organo de Gobierno o bien a instancia de la quinta parte al menos de los miembros de la Comunidad o Colectividad o de cualquier número de éstos que totalicen un mínimo del 20 por 100 de las cuotas de participación.
+
+3\. El computo de los votos para la ratificación de los Estatutos vigentes o aprobación de los nuevos se llevará a cabo conforme a lo previsto en el apartado 5 del [artículo 201](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo201.htm) de este Reglamento, dándose cuenta del acuerdo que recaiga al Organismo de cuenca, a efectos de su homologación o aprobación, si procediera.
+
+4\. En el supuesto de que el Organismo de cuenca no aprobase la revisión propuesta por la Comunidad de Usuarios, remitirá el expediente al Consejo de Estado para dictamen con su propuesta razonada de modificación de Ordenanzas.
+
+5\. A partir del 1 de enero de 1989, el Organismo de cuenca podrá acordar de oficio, y a los efectos previstos en esta disposición transitoria, la revisión de los Estatutos y Ordenanzas que no hayan sido objeto de revisión, para acomodarlos, previo dictamen, asimismo, del Consejo de Estado, a lo establecido en el apartado primero de esta disposición.
+
+6\. Las instituciones como Comunidades Generales, Sindicatos Centrales u otras que engloben Comunidades de Usuarios o Colectividades, procederán, asimismo, en el periodo fijado, a la revisión de sus Estatutos u Ordenanzas para adaptarlos, en su caso, a las exigencias que se pudieran derivar del proceso a que se refiere el apartado 1 de este artículo, al ser aplicado a las Comunidades o colectividades que las integran.
+
+**Segunda.**
+
+La excepción contemplada en el apartado 2 del [artículo 84](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo84.htm) de este Reglamento se aplicará, durante el año 1986, aun cuando los acuíferos no hubieran sido declarados como sobreexplotados o en riesgo de estarlo, en aquellas zonas que, con anterioridad a la entrada en vigor de la Ley de Aguas, estaban sujetas a algún régimen especial de limitaciones de alumbramiento y explotación de aguas subterráneas. En estas zonas será necesaria autorización para la extracción de aguas subterráneas, cuando el volumen total anual no sobrepase los 7.000 metros cúbicos. Todo ello sin perjuicio de que, una vez realizado el estudio a que se refiere el apartado 3 del [artículo 171](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo171.htm) de este Reglamento, el Organismo de cuenca correspondiente, pueda restablecer, en su caso, el régimen ordinario previsto en el Reglamento.
+
+**DISPOSICION FINAL**
+
+Las listas y relaciones que figuran en los anexos de este Reglamento se modificarán cuando así lo exija su adecuación a la normativa de la Comunidad Económica Europea, o lo aconsejen las circunstancias medio ambientales o los avances de la tecnología.
+
+***ANEXO I***
+
+(Con anterioridad al [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm) este anexo, con igual contenido, se denominaba anexo al Título II)
+
+Número de votos que corresponden a cada comunero en la Junta General constitutiva de la Comunidad de Usuarios ([artículo 201](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo201.htm)):
+
+<!-- tabla 02: tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-02.json -->
+
+| Caudal virtual *<br>l/s | Número de votos |
+| --- | --- |
+| De 0,5 hasta 1 | 1 |
+| De 1 hasta 2 | 2 |
+| De 2 hasta 3 | 3 |
+| De 3 hasta 5 | 4 |
+| De 5 hasta 8 | 5 |
+| De 8 hasta 12 | 6 |
+| De 12 hasta 16 | 7 |
+| De 16 hasta 20 | 8 |
+| De 20 hasta 25 | 9 |
+| De 25 hasta 30 | 10 |
+| De 30 hasta 35 | 11 |
+| De 35 hasta 40 | 12 |
+| De 40 hasta 48 | 13 |
+| De 48 hasta 56 | 14 |
+| De 56 hasta 64 | 15 |
+| De 64 hasta 72 | 16 |
+| De 72 hasta 80 | 17 |
+| De 80 hasta 90 | 18 |
+| De 90 hasta 100 | 19 |
+| De 100 en adelante | 19 más un voto por cada 25 l/s o por fracción |
+
+(\*)  
+Cuando se trate de regadíos, el caudal virtual será igual al caudal teórico concedido. Si éste no estuviese determinado, se considerará como caudal virtual el de 0,8 l/s por cada hectárea con derecho a riego.  
+Cuando se trate de abastecimiento de agua en poblaciones, el caudal virtual será igual a 10 veces el caudal teórico concedido. Si éste no estuviese determinado, se considerará como caudal virtual el de 25 l/s por cada 1.000 habitantes.  
+Cuando se trate de aprovechamientos industriales que no consuman agua, el caudal virtual será igual a la décima parte del caudal teórico.  
+Para cualquier otro tipo de aprovechamiento, el caudal virtual será igual al caudal teórico.
+
+***ANEXO II. Contaminantes***
+
+-   *1\. Compuestos organohalogenados y sustancias que puedan dar origen a compuestos de esta clase en el medio acuático.*
+-   *2\. Compuestos organofosforados.*
+-   *3\. Compuestos organoestánnicos.*
+-   *4\. Sustancias y preparados o productos derivados de ellos, para las que se ha demostrado que poseen propiedades cancerígenas, mutagénicas o propiedades que puedan afectar a la función esteroidogénica, al tiroides, a la reproducción o a otras funciones endocrinas, en el medio acuático o a través del medio acuático.*
+-   *5\. Hidrocarburos persistentes y sustancias orgánicas tóxicas persistentes y bioacumulables.*
+-   *6\. Cianuros.*
+-   *7\. Metales y sus compuestos.*
+-   *8\. Arsénico y sus compuestos.*
+-   *9\. Biocidas y productos fitosanitarios.*
+-   *10\. Materias en suspensión.*
+-   *11\. Sustancias que contribuyen a la eutrofización (en particular nitratos y fosfatos).*
+-   *12\. Sustancias que ejercen una influencia desfavorable sobre el balance de oxígeno (y que pueden ser medidas mediante parámetros tales como DBO o DQO).*
+
+(Anexo añadido por el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+***ANEXO III***
+
+(Con anterioridad al [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm) este anexo, con igual contenido salvo el apartado 1 de la relación II, se denominaba anexo al Título III)
+
+**Relación I de sustancias contaminantes**
+
+-   1\. Compuestos organohalogenados y sustancias que puedan dar origen a compuestos de esta clase en el medio acuático.
+-   2\. Compuestos organofosfóricos.
+-   3\. Compuestos organoestánnicos.
+-   4\. *Sustancias que posean un poder cancerígeno, mutágeno o teratógeno en el medio acuático o a través del mismo.* (Apartado redactado de conformidad con el [R.D. 1315/92](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd1315_92.htm))
+-   5\. Mercurio y compuestos de mercurio.
+-   6\. Cadmio y compuestos de cadmio.
+-   7\. Aceites minerales persistentes e hidrocarburos de origen petrolífero persistentes.
+-   8\. Sustancias sintéticas persistentes que puedan flotar, permanecer en suspensión o hundirse causando con ello perjuicio a cualquier utilización de las aguas.
+
+**Relación II de sustancias contaminantes**
+
+-   *1\. Sustancias que forman parte de las categorías y grupos enumerados en la relación I para las que no se hayan fijado límites según el* [*artículo 256*](http://www.carreteros.org/legislacionb/aguas/rdph/articulos/articulo256.htm) *de este reglamento, excepto cuando se trate de vertidos a aguas subterráneas.* (Apartado redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+-   2\. Sustancias o tipos de sustancias comprendidos en el siguiente apartado y que, aun teniendo efectos perjudiciales, puedan quedar limitados en zonas concretas según las características de las aguas receptoras y su localización.
+-   3.
+    
+    -   a) Los metaloides y metales siguientes y sus compuestos:
+        
+        -   1\. Cinc.
+        -   2\. Cobre.
+        -   3\. Níquel.
+        -   4\. Cromo.
+        -   5\. Plomo.
+        -   6\. Selenio.
+        -   7\. Arsénico.
+        -   8\. Antimonio.
+        -   9\. Molibdeno.
+        -   10\. Titanio.
+        -   11\. Estaño.
+        -   12\. Bario.
+        -   13\. Berilio.
+        -   14\. Boro.
+        -   15\. Uranio.
+        -   16\. Vanadio.
+        -   17\. Cobalto.
+        -   18\. Talio.
+        -   19\. Teluro.
+        -   20\. Plata.
+        
+    -   b) Biocidas y sus derivados no incluidos en la relación I.
+    -   c) Sustancias que tengan efectos perjudiciales para el sabor y/o el olor de productos de consumo humano derivados del medio acuático, así como los compuestos susceptibles de originarlos en las aguas.
+    -   d) Compuestos organosilícicos tóxicos o persistentes y sustancias que puedan originarlos en las aguas, excluidos los biológicamente inofensivos o que dentro del agua se transforman rápidamente en sustancias inofensivas.
+    -   e) Compuestos inorgánicos de fósforo y fósforo elemental.
+    -   f) Aceites minerales no persistentes o hidrocarburos de origen petrolífero no persistente.
+    -   g) Cianuros, fluoruros.
+    -   h) Sustancias que influyen desfavorablemente en el balance de oxígeno, especialmente las siguientes:
+        
+        -   Amoníaco.
+        -   Nitritos.
+        
+    
+
+**ANEXO IV. Cálculo del coeficiente de mayoración o minoración del canon de control de vertidos**
+
+(Con anterioridad al [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm) este anexo se denominaba anexo al Título IV)
+
+*A) El cálculo del coeficiente de mayoración o minoración se obtiene, para cada uno de los dos tipos de vertido indicados en el apartado 1, Naturaleza del vertido, del resultado de multiplicar los factores correspondientes a cada clase de los apartados 2, 3 y 4 siguientes.*
+
+*Los vertidos de piscifactorías, de aguas de achique procedentes de actividades mineras y de aguas de refrigeración son aguas residuales industriales.*
+
+*Para el cálculo del coeficiente de minoración se siguen las indicaciones establecidas en los apartados B), C) y D) de este anexo.*
+
+*1\. Naturaleza del vertido.*
+
+-   *Agua residual urbana o asimilable (\*).*
+-   *Agua residual industrial.*
+
+*2\. Características del vertido.*
+
+-   *Urbanos hasta 1.999 habitantes-equivalentes (\*\*) = 1.*
+-   *Urbanos entre 2.000 y 9.999 habitantes-equivalentes (\*\*) = 1,14.*
+-   *Urbanos a partir de 10.000 habitantes-equivalentes (\*\*) = 1,28.*
+-   *Industrial clase 1 (\*\*\*) = 1.*
+-   *Industrial clase 2 (\*\*\*) = 1,09.*
+-   *Industrial clase 3 (\*\*\*) = 1,18.*
+-   *Clase 1,2 ó 3 con sustancias peligrosas (\*\*\*\*) = 1,28.*
+
+*3\. Grado de contaminación del vertido.*
+
+-   *Urbanos con tratamiento adecuado (\*\*) = 0,5.*
+-   *Urbanos sin tratamiento adecuado (\*\*) = 2,5.*
+-   *Industrial con tratamiento adecuado (\*\*) = 0,5.*
+-   *Industrial sin tratamiento adecuado (\*\*) = 2,5.*
+
+*4\. Calidad ambiental del medio receptor (\*\*\*\*\*).*
+
+-   *Vertido en zona de categoría I =1,25.*
+-   *Vertido en zona de categoría II = 1,12.*
+-   *Vertido en zona de categoría III = 1.*
+    
+    *Notas:*-   *(\*) Se entiende por agua residual urbana o asimilable aquélla que no contenga un volumen de aguas residuales industriales mayor de un 30%.*
+    -   *(\*\*) Las definiciones de habitante-equivalente, y de tratamiento adecuado, son las que se encuentran en el Real Decreto-ley 11/1995. En consecuencia, y a los efectos del cálculo del canon de control de vertidos, se extiende la definición de tratamiento adecuado a los vertidos industriales. Se clasificará el vertido urbano considerando el número total de habitantes de la entidad de población (núcleo) a que pertenece. En el caso de que un vertido reciba las aguas residuales de varios núcleos de población, se clasificará por la suma total de sus habitantes.*
+    -   *(\*\*\*) Clasificación de los vertidos según la actividad industrial.*
+        
+        <!-- tabla 03: tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-03.json -->
+
+| Clase | Grupo |  |
+| --- | --- | --- |
+| *Clase 1* | *0* | *Servicios* |
+|  | *1* | *Energia y agua* |
+|  | *2* | *Metal* |
+|  | *3* | *Alimentación* |
+|  | *4* | *Conservera* |
+|  | *5* | *Confección* |
+|  | *6* | *Madera* |
+|  | *7* | *Manufacturas diversas* |
+| *Clase 2* | *8* | *Mineria* |
+|  | *9* | *Química* |
+|  | *10* | *Materiales de construcción* |
+|  | *11* | *Bebidas y tabaco* |
+|  | *12* | *Aceites, carnes y lácteos* |
+|  | *13* | *Textil* |
+|  | *14* | *Papel* |
+| *Clase 3* | *15* | *Curtidos* |
+|  | *16* | *Tratamiento de superficies* |
+|  | *17* | *Zootecnia* |
+
+        
+    
+
+*Clasificación de los vertidos grupos de actividad  
+clasificación por CNAE*
+
+<!-- tabla 04: tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-04.json -->
+
+| CNAE | TITULO | GRUPO | CLASE |
+| --- | --- | --- | --- |
+| *01.21* | *Explotación de ganado bovino y producción de leche cruda* | *17* | *3* |
+| *01.22* | *Explotación de ganado ovino, caprino y equino* | *17* | *3* |
+| *01.23* | *Explotación de ganado porcino* | *17* | *3* |
+| *01.24* | *Avicultura* | *17* | *3* |
+| *01.25* | *Otras explotaciones de ganado* | *17* | *3* |
+| *01.30* | *Producción agraria combinada con la producción ganadera* | *17* | *3* |
+| *01.41* | *Actividades de servicios relacionados con la agricultura* | *0* | *1* |
+| *01.42* | *Actividades de servicios relacionados con la ganadería, excepto actividades  <br>veterinarias* | *0* | *1* |
+| *05.02* | *Acuicultura* | *17* | *3* |
+| *10.10* | *Extracción y aglomeración de antracita y hulla* | *8* | *2* |
+| *10.20* | *Extracción y aglomeración de lignito pardo* | *8* | *2* |
+| *10.30* | *Extracción y aglomeración de turba* | *8* | *2* |
+| *11.10* | *Extracción de crudos de petróleo y gas natural* | *8* | *2* |
+| *11.20* | *Actividades de los servicios relacionados con las explotaciones petrolíferas  <br>y de gas, excepto actividades de prospección* | *8* | *2* |
+| *12.00* | *Extracción de minerales de uranio y torio* | *8* | *2* |
+| *13.10* | *Extracción de minerales de hierro* | *8* | *2* |
+| *13.20* | *Extracción de minerales metálicos no férreos, excepto minerales de uranio  <br>y torio* | *8* | *2* |
+| *14.11* | *Extracción de piedra para la construcción* | *8* | *2* |
+| *14.12* | *Extracción de piedra caliza, yeso y creta* | *8* | *2* |
+| *14.13* | *Extracción de pizarras* | *8* | *2* |
+| *14.21* | *Extracción de gravas y arenas* | *8* | *2* |
+| *14.22* | *Extracción de arcilla y caolín* | *8* | *2* |
+| *14.30* | *Extracción de minerales para abonos y productos químicos* | *8* | *2* |
+| *14.40* | *Producción de sal* | *8* | *2* |
+| *14.50* | *Extracción de otros minerales no metálicos ni energéticos* | *8* | *2* |
+| *15.11* | *Sacrificio de ganado y conservación de carne* | *12* | *2* |
+| *15.12* | *Sacrificio y conservación de volatería* | *12* | *2* |
+| *15.13* | *Fabricación de productos cárnicos* | *4* | *1* |
+| *15.20* | *Elaboración y conservación de pescados y productos a base de pescado* | *12* | *2* |
+| *15.31* | *Preparación y conservación de patatas.* | *3* | *1* |
+| *15.32* | *Fabricación de jugos de frutas y hortalizas* | *4* | *1* |
+| *15.33* | *Fabricación de conservas de frutas y hortalizas* | *4* | *1* |
+| *15.41* | *Fabricación de aceites y grasas sin refinar* | *12* | *2* |
+| *15.42* | *Fabricación de aceites y grasas refinadas* | *3* | *1* |
+| *15.43* | *Fabricación de margarina y grasas comestibles similares* | *3* | *1* |
+| *15.51* | *Fabricación de productos lácteos* | *12* | *2* |
+| *15.52* | *Elaboración de helados* | *12* | *2* |
+| *15.61* | *Fabricación de productos de molinería* | *3* | *1* |
+| *15.62* | *Fabricación de almidones y productos amiláceos* | *3* | *1* |
+| *15.71* | *Fabricación de productos para la alimentación de animales de granja* | *3* | *1* |
+| *15.72* | *Fabricación de productos para la alimentación de animales de compañía* | *3* | *1* |
+| *15.81* | *Fabricación de pan y productos de panadería y pastelería frescos* | *3* | *1* |
+| *15.82* | *Fabricación de galletas y de productos de panadería y pastelería de larga duración* | *3* | *1* |
+| *15.83* | *Industria del azúcar* | *3* | *1* |
+| *15.84* | *Industria del cacao, chocolate y confitería* | *3* | *1* |
+| *15.85* | *Fabricación de pastas alimenticias* | *3* | *1* |
+| *15.86* | *Elaboración de café, té e infusiones* | *3* | *1* |
+| *15.87* | *Elaboración de especias, salsas y condimentos* | *3* | *1* |
+| *15.88* | *Elaboración de preparados para la alimentación infantil y preparados dietéticos* | *3* | *1* |
+| *15.89* | *Elaboración de otros productos alimenticios* | *3* | *1* |
+| *15.91* | *Destilación de bebidas alcohólicas* | *11* | *2* |
+| *15.92* | *Destilación de alcohol etílico procedente de fermentación* | *11* | *2* |
+| *15.93* | *Elaboración de vinos* | *11* | *2* |
+| *15.94* | *Elaboración de sidra y otras bebidas fermentadas a partir de frutas* | *11* | *2* |
+| *15.95* | *Elaboración de otras bebidas no destiladas, procedentes de fermentación* | *11* | *2* |
+| *15.96* | *Fabricación de cerveza* | *11* | *2* |
+| *15.97* | *Fabricación de malta* | *11* | *2* |
+| *15.98* | *Producción de aguas minerales y bebidas analcohólicas* | *11* | *1* |
+| *16.00* | *Industria del tabaco* | *11* | *2* |
+| *17.11* | *Preparación e hilado de fibras de algodón y sus mezclas* | *13* | *2* |
+| *17.12* | *Preparación e hilado de fibras de lana cardada y sus mezclas* | *13* | *2* |
+| *17.13* | *Preparación e hilado de fibras de lana peinada y sus mezclas* | *13* | *2* |
+| *17.14* | *Preparación e hilado de fibras de lino y sus mezclas* | *13* | *2* |
+| *17.15* | *Torcido y preparación de la seda; torcido y textura de filamentos sintéticos y artificiales* | *13* | *2* |
+| *17.16* | *Fabricación de hilo de coser* | *13* | *2* |
+| *17.17* | *Preparación e hilado de otras fibras textiles* | *13* | *2* |
+| *17.21* | *Fabricación de tejidos de algodón y sus mezclas* | *13* | *2* |
+| *17.22* | *Fabricación de tejidos de lana cardada y sus mezclas* | *13* | *2* |
+| *17.23* | *Fabricación de tejidos de lana peinada y sus mezclas* | *13* | *2* |
+| *17.24* | *Fabricación de tejidos de seda* | *13* | *2* |
+| *17.25* | *Fabricación de otros tejidos textiles* | *13* | *2* |
+| *17.30* | *Acabado de textiles* | *13* | *2* |
+| *17.40* | *Fabricación de otros artículos confeccionados con textiles, excepto prendas de vestir* | *13* | *2* |
+| *17.51* | *Fabricación de alfombras y moquetas* | *13* | *2* |
+| *17.52* | *Fabricación de cuerdas, cordeles, bramantes y redes* | *13* | *2* |
+| *17.53* | *Fabricación de telas no tejidas y artículos confeccionados con éstas, excepto prendas de vestir* | *13* | *2* |
+| *17.54* | *Fabricación de otros artículos textiles* | *13* | *2* |
+| *17.60* | *Fabricación de tejidos de punto* | *13* | *2* |
+| *17.71* | *Fabricación de calcetería* | *13* | *2* |
+| *17.72* | *Fabricación de otros artículos en tejidos de punto* | *13* | *2* |
+| *18.10* | *Confección de prendas de cuero* | *5* | *1* |
+| *18.21* | *Confección de ropa de trabajo* | *5* | *1* |
+| *18.22* | *Confección de otras prendas exteriores* | *5* | *1* |
+| *18.23* | *Confección de ropa interior* | *5* | *1* |
+| *18.24* | *Confección de otras prendas de vestir y accesorios* | *5* | *1* |
+| *18.30* | *Preparación y teñido de pieles de peletería; fabricación de artículos de peletería* | *5* | *1* |
+| *19.10* | *Preparación, curtido y acabado del cuero* | *15* | *3* |
+| *19.20* | *Fabricación de artículos de marroquinería y viaje, artículos de guarnicionería y talabartería* | *15* | *3* |
+| *19.30* | *Fabricación de calzado* | *5* | *1* |
+| *20.10* | *Aserrado y cepillado de la madera; preparación industrial de la madera* | *6* | *1* |
+| *20.20* | *Fabricación de chapas, tableros contrachapados, alistonados, de partículas aglomeradas, de fibras y otros tableros y chapados* | *6* | *1* |
+| *20.30* | *Fabricación de estructuras de madera y piezas de carpintería y ebanistería para la construcción* | *6* | *1* |
+| *20.40* | *Fabricación de envases y embalajes de madera* | *6* | *1* |
+| *20.51* | *Fabricación de otros productos de madera* | *6* | *1* |
+| *20.52* | *Fabricación de productos de corcho, cestería y espartería* | *6* | *1* |
+| *21.11* | *Fabricación de pasta papelera* | *14* | *2* |
+| *21.12* | *Fabricación de papel y cartón* | *14* | *2* |
+| *21.21* | *Fabricación de papel y cartón ondulados; fabricación de envases y embalajes de papel y cartón* | *14* | *2* |
+| *21.22* | *Fabricación de artículos de papel y cartón para uso doméstico y sanitario* | *14* | *2* |
+| *21.23* | *Fabricación de artículos de papelería* | *14* | *2* |
+| *21.24* | *Fabricación de papeles pintados* | *14* | *2* |
+| *21.25* | *Fabricación de otros artículos de papel y cartón* | *14* | *2* |
+| *22.11* | *Edición de libros* | *7* | *1* |
+| *22.12* | *Edición de periódicos* | *7* | *1* |
+| *22.13* | *Edición de revistas* | *7* | *1* |
+| *22.14* | *Edición de soportes de sonido grabado* | *7* | *1* |
+| *22.15* | *Otras actividades de edición* | *7* | *1* |
+| *22.21* | *Impresión de periódicos* | *7* | *1* |
+| *22.22* | *Otras actividades de impresión* | *7* | *1* |
+| *22.23* | *Encuadernación y acabado* | *7* | *1* |
+| *22.24* | *Composición y fotograbado* | *7* | *1* |
+| *22.25* | *Otras actividades gráficas* | *7* | *1* |
+| *22.31* | *Reproducción de soportes de sonido grabado* | *7* | *1* |
+| *22.32* | *Reproducción de soportes de vídeo grabado* | *7* | *1* |
+| *22.33* | *Reproducción de soportes de informática grabados* | *7* | *1* |
+| *23.10* | *Coquerías* | *8* | *2* |
+| *23.20* | *Refino de petróleo* | *8* | *2* |
+| *23.30* | *Tratamiento de combustibles nucleares y residuos radiactivos* | *8* | *2* |
+| *24.11* | *Fabricación de gases industriales* | *9* | *2* |
+| *24.12* | *Fabricación de colorantes y pigmentos* | *9* | *2* |
+| *24.13* | *Fabricación de productos básicos de química inorgánica* | *9* | *2* |
+| *24.14* | *Fabricación de productos básicos de química orgánica* | *9* | *2* |
+| *24.15* | *Fabricación de abonos y compuestos nitrogenados fertilizantes* | *9* | *2* |
+| *24.16* | *Fabricación de primeras materias plásticas* | *9* | *2* |
+| *24.17* | *Fabricación de caucho sintético en forma primaria* | *9* | *2* |
+| *24.20* | *Fabricación de pesticidas y otros productos agroquímicos* | *9* | *2* |
+| *24.30* | *Fabricación de pinturas, barnices y revestimientos similares; tintas de imprenta y masillas* | *9* | *2* |
+| *24.41* | *Fabricación de productos farmacéuticos de base* | *9* | *2* |
+| *24.42* | *Fabricación de preparaciones farmacéuticas y otros productos farmacéuticos de uso medicinal* | *9* | *2* |
+| *24.51* | *Fabricación de jabones, detergentes y otros artículos de limpieza y abrillantamiento* | *9* | *2* |
+| *24.52* | *Fabricación de perfumes y productos de belleza e higiene* | *9* | *2* |
+| *24.61* | *Fabricación de explosivos y artículos pirotécnicos* | *9* | *2* |
+| *24.62* | *Fabricación de colas y gelatinas* | *9* | *2* |
+| *24.63* | *Fabricación de aceites esenciales* | *9* | *2* |
+| *24.64* | *Fabricación de material fotográfico virgen y preparados químicos para fotografía* | *9* | *2* |
+| *24.65* | *Fabricación de soportes vírgenes para grabación* | *9* | *2* |
+| *24.66* | *Fabricación de otros productos químicos* | *9* | *2* |
+| *24.70* | *Fabricación de fibras artificiales y sintéticas* | *9* | *2* |
+| *25.11* | *Fabricación de neumáticos y cámaras de caucho* | *9* | *2* |
+| *25.12* | *Reconstrucción y recauchutado de neumáticos* | *9* | *2* |
+| *25.13* | *Fabricación de otros productos de caucho* | *9* | *2* |
+| *25.21* | *Fabricación de placas, hojas, tubos y perfiles de materias plásticas* | *9* | *2* |
+| *25.22* | *Fabricación de envases y embalajes de materias plásticas* | *9* | *2* |
+| *25.23* | *Fabricación de productos de materias plásticas para la construcción* | *9* | *2* |
+| *25.24* | *Fabricación de otros productos de materias plásticas* | *9* | *2* |
+| *26.11* | *Fabricación de vidrio plano* | *10* | *2* |
+| *26.12* | *Manipulado y transformación de vidrio plano* | *10* | *2* |
+| *26.13* | *Fabricación de vidrio hueco* | *10* | *2* |
+| *26.14* | *Fabricación de fibra de vidrio* | *10* | *2* |
+| *26.15* | *Fabricación y manipulado de otro vidrio (incluido el vidrio técnico)* | *10* | *2* |
+| *26.21* | *Fabricación de artículos cerámicos de uso doméstico y ornamental* | *10* | *2* |
+| *26.22* | *Fabricación de aparatos sanitarios cerámicos* | *10* | *2* |
+| *26.23* | *Fabricación de aisladores y piezas aislantes de material cerámico* | *10* | *2* |
+| *26.24* | *Fabricación de otros productos cerámicos de uso técnico* | *10* | *2* |
+| *26.25* | *Fabricación de otros productos cerámicos* | *10* | *2* |
+| *26.26* | *Fabricación de productos cerámicos refractarios* | *10* | *2* |
+| *26.30* | *Fabricación de azulejos y baldosas de cerámica* | *10* | *2* |
+| *26.40* | *Fabricación de ladrillos, tejas y productos de tierras cocidas para la construcción* | *10* | *2* |
+| *26.51* | *Fabricación de cemento* | *10* | *2* |
+| *26.52* | *Fabricación de cal* | *10* | *2* |
+| *26.53* | *Fabricación de yeso* | *10* | *2* |
+| *26.61* | *Fabricación de elementos de hormigón para la construcción* | *10* | *2* |
+| *26.62* | *Fabricación de elementos de yeso para la construcción* | *10* | *2* |
+| *26.63* | *Fabricación de hormigón fresco* | *10* | *2* |
+| *26.64* | *Fabricación de mortero* | *10* | *2* |
+| *26.65* | *Fabricación de fibrocemento* | *10* | *2* |
+| *26.66* | *Fabricación de otros productos de hormigón, yeso y cemento* | *10* | *2* |
+| *26.70* | *Industria de la piedra* | *10* | *2* |
+| *26.81* | *Fabricación de productos abrasivos* | *10* | *2* |
+| *26.82* | *Fabricación de otros productos minerales no metálicos* | *10* | *2* |
+| *27.10* | *Fabricación de productos básicos de hierro, acero y ferroaleaciones (CECA).* | *2* | *1* |
+| *27.21* | *Fabricación de tubos de hierro* | *2* | *1* |
+| *27.22* | *Fabricación de tubos de acero* | *2* | *1* |
+| *27.31* | *Estirado en frío* | *2* | *1* |
+| *27.32* | *Laminación en frío* | *2* | *1* |
+| *27.33* | *Producción de perfiles en frío por conformación con plegado* | *2* | *1* |
+| *27.34* | *Trefilado en frío* | *2* | *1* |
+| *27.35* | *Producción de ferroaleaciones no CECA y otros procesos de transformación del hierro y del acero* | *2* | *1* |
+| *27.41* | *Producción y primera transformación de metales preciosos* | *2* | *1* |
+| *27.42* | *Producción y primera transformación de aluminio* | *2* | *1* |
+| *27.43* | *Producción y primera transformación de plomo, zinc y estaño* | *2* | *1* |
+| *27.44* | *Producción y primera transformación de cobre* | *2* | *1* |
+| *27.45* | *Producción y primera transformación de otros metales no férreos* | *2* | *1* |
+| *27.51* | *Fundición de hierro* | *2* | *1* |
+| *27.52* | *Fundición de acero* | *2* | *1* |
+| *27.53* | *Fundición de metales ligeros* | *2* | *1* |
+| *27.54* | *Fundición de otros metales no férreos* | *2* | *1* |
+| *28.11* | *Fabricación de estructuras metálicas y sus partes* | *2* | *1* |
+| *28.12* | *Fabricación de carpintería metálica* | *2* | *1* |
+| *28.21* | *Fabricación de cisternas, grandes depósitos y contenedores de metal* | *2* | *1* |
+| *28.22* | *Fabricación de radiadores y calderas para calefacción central* | *2* | *1* |
+| *28.30* | *Fabricación de generadores de vapor* | *2* | *1* |
+| *28.40* | *Forja, estampación y embutición de metales; metalurgia de polvos* | *2* | *1* |
+| *28.51* | *Tratamiento y revestimiento de metales* | *16* | *3* |
+| *28.52* | *Ingeniería mecánica general por cuenta de terceros* | *2* | *1* |
+| *28.61* | *Fabricación de artículos de cuchillería y cubertería* | *2* | *1* |
+| *28.62* | *Fabricación de herramientas y de útiles intercambiables para máquinas-herramienta* | *2* | *1* |
+| *28.63* | *Fabricación de cerraduras y herrajes* | *2* | *1* |
+| *28.71* | *Fabricación de bidones y toneles de hierro o acero* | *2* | *1* |
+| *28.72* | *Fabricación de envases y embalajes ligeros, en metal* | *2* | *1* |
+| *28.73* | *Fabricación de productos de alambre* | *2* | *1* |
+| *28.74* | *Fabricación de pernos, tornillos, cadenas y muelles* | *2* | *1* |
+| *28.75* | *Fabricación de otros productos metálicos* | *2* | *1* |
+| *29.11* | *Fabricación de motores y turbinas, excepto los destinados a aeronaves, vehículos automóviles y ciclomotores* | *2* | *1* |
+| *29.12* | *Fabricación de bombas, compresores y sistemas hidráulicos* | *2* | *1* |
+| *29.13* | *Fabricación de válvulas y grifería* | *2* | *1* |
+| *29.14* | *Fabricación de cojinetes, engranajes y órganos mecánicos de transmisión* | *2* | *1* |
+| *29.21* | *Fabricación de hornos y quemadores* | *2* | *1* |
+| *29.22* | *Fabricación de maquinaria de elevación y manipulación* | *2* | *1* |
+| *29.23* | *Fabricación de maquinaria de ventilación y refrigeración no doméstica* | *2* | *1* |
+| *29.24* | *Fabricación de otra maquinaria de uso general* | *2* | *1* |
+| *29.31* | *Fabricación de tractores agrícolas* | *2* | *1* |
+| *29.32* | *Fabricación de otra maquinaria agraria* | *2* | *1* |
+| *29.40* | *Fabricación de máquinas-herramienta* | *2* | *1* |
+| *29.51* | *Fabricación de maquinaria para la industria metalúrgica* | *2* | *1* |
+| *29.52* | *Fabricación de maquinaria para las industrias extractivas y de las construcción* | *2* | *1* |
+| *29.53* | *Fabricación de maquinaria para la industria de la alimentación, bebidas y tabaco* | *2* | *1* |
+| *29.54* | *Fabricación de maquinaria para la industria textil, de la confección y del cuero* | *2* | *1* |
+| *29.55* | *Fabricación de maquinaria para la industria del papel y del cartón* | *2* | *1* |
+| *29.56* | *Fabricación de otra maquinaria para usos específicos* | *2* | *1* |
+| *29.60* | *Fabricación de armas y municiones* | *2* | *1* |
+| *29.71* | *Fabricación de aparatos electrodomésticos* | *2* | *1* |
+| *29.72* | *Fabricación de aparatos domésticos no eléctricos* | *2* | *1* |
+| *30.01* | *Fabricación de máquinas de oficina* | *2* | *1* |
+| *30.02* | *Fabricación de ordenadores y otro equipo informático* | *2* | *1* |
+| *31.10* | *Fabricación de motores eléctricos, transformadores y generadores* | *2* | *1* |
+| *31.20* | *Fabricación de aparatos de distribución y control eléctricos* | *2* | *1* |
+| *31.30* | *Fabricación de hilos y cables eléctricos aislados* | *2* | *1* |
+| *31.40* | *Fabricación de acumuladores y pilas eléctricas* | *2* | *1* |
+| *31.50* | *Fabricación de lámparas eléctricas y aparatos de iluminación* | *2* | *1* |
+| *31.61* | *Fabricación de material y equipo eléctrico para motores y vehículos* | *2* | *1* |
+| *31.62* | *Fabricación de otro equipo y material eléctrico* | *2* | *1* |
+| *32.10* | *Fabricación de válvulas, tubos y otros componentes electrónicos* | *2* | *1* |
+| *32.20* | *Fabricación de transmisores de radiodifusión y televisión y de aparatos para la radiotelefonía y radiotelegrafía con hilos* | *2* | *1* |
+| *32.30* | *Fabricación de aparatos de recepción, grabación y reproducción de sonido e imagen* | *2* | *1* |
+| *33.10* | *Fabricación de equipo e instrumentos médico-quirúrgicos y de aparatos ortopédicos* | *2* | *1* |
+| *33.20* | *Fabricación de instrumentos y aparatos de medida, verificación, control, navegación y otros fines, excepto equipos de control para procesos industriales* | *2* | *1* |
+| *33.30* | *Fabricación de equipo de control de procesos industriales* | *2* | *1* |
+| *33.40* | *Fabricación de instrumentos de óptica y de equipo fotográfico* | *2* | *1* |
+| *33.50* | *Fabricación de relojes* | *2* | *1* |
+| *34.10* | *Fabricación de vehículos de motor* | *2* | *1* |
+| *34.20* | *Fabricación de carrocerías para vehículos de motor, de remolques y semirremolques* | *2* | *1* |
+| *34.30* | *Fabricación de partes, piezas y accesorios no eléctricos para vehículos de motor y sus motores* | *2* | *1* |
+| *35.11* | *Construcción y reparación de barcos (excepto recreo y deporte)* | *2* | *1* |
+| *35.12* | *Construcción y reparación de embarcaciones de recreo y deporte* | *2* | *1* |
+| *35.20* | *Fabricación de material ferroviario* | *2* | *1* |
+| *35.30* | *Construcción aeronáutica y espacial* | *2* | *1* |
+| *35.41* | *Fabricación de motocicletas* | *2* | *1* |
+| *35.42* | *Fabricación de bicicletas* | *2* | *1* |
+| *35.43* | *Fabricación de vehículos para inválidos* | *2* | *1* |
+| *35.50* | *Fabricación de otro material de transporte* | *2* | *1* |
+| *36.11* | *Fabricación de sillas y otros asientos* | *6* | *1* |
+| *36.12* | *Fabricación de muebles de oficina y establecimientos comerciales* | *6* | *1* |
+| *36.13* | *Fabricación de muebles de cocina y baño* | *6* | *1* |
+
+<!-- tabla 05: tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-05.json -->
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| *36.14* | *Fabricación de otros muebles* | *6* | *1* |
+| *36.15* | *Fabricación de colchones* | *7* | *1* |
+| *36.21* | *Fabricación de monedas y medallas* | *7* | *1* |
+| *36.22* | *Fabricación de artículos de joyería, orfebrería y platería* | *7* | *1* |
+| *36.30* | *Fabricación de instrumentos musicales* | *7* | *1* |
+| *36.40* | *Fabricación de artículos de deporte* | *7* | *1* |
+| *36.50* | *Fabricación de juegos y juguetes* | *7* | *1* |
+| *36.61* | *Fabricación de bisutería* | *7* | *1* |
+| *36.62* | *Fabricación de escobas, brochas y cepillos* | *7* | *1* |
+| *36.63* | *Fabricación de otros artículos* | *7* | *1* |
+| *37.10* | *Reciclaje de chatarra y deshechos de metal* | *2* | *1* |
+| *37.20* | *Reciclaje de deshechos no metálicos* | *10* | *2* |
+| *40.10* | *Producción y distribución de energía eléctrica* | *1* | *1* |
+| *40.20* | *Producción de gas; distribución de combustibles gaseosos por conductos urbanos, excepto gasoductos* | *1* | *1* |
+| *40.30* | *Producción y distribución de vapor y agua caliente* | *1* | *1* |
+| *41.00* | *Captación, depuración y distribución de agua* | *1* | *1* |
+| *50.20* | *Mantenimiento y reparación de vehículos de motor* | *0* | *1* |
+| *50.50* | *Venta al por menor de carburantes para la automoción* | *0* | *1* |
+| *73.10* | *Investigación y desarrollo sobre ciencias naturales y técnicas* | *0* | *1* |
+| *74.30* | *Ensayos y análisis técnicos* | *0* | *1* |
+| *74.81* | *Actividades de fotografía* | *9* | *2* |
+| *85.11* | *Actividades hospitalarias* | *0* | *1* |
+| *93.01* | *Lacado, limpieza y teñido de prendas textiles y de piel* | *15* | *3* |
+| *93.03* | *Pompas fúnebres y actividades relacionadas con ellas* | *0* | *1* |
+
+*Las aguas de procedencia urbana no asimilables a aguas urbanas, por contener más de un 30% de volumen de agua industrial, se clasificarán en dos tramos:*
+
+-   *Vertidos con un porcentaje de aguas industriales entre el 30% y el 70% del total: el conjunto del vertido se clasificará como industrial de clase 1.*
+-   *Vertidos con un porcentaje de aguas industriales superior al 70% del total: el conjunto del vertido se considerará industrial y se clasificará según las clases industriales de las actividades de que se trate, aplicando los criterios siguientes: en el caso de polígonos industriales u otros vertidos que reúnan los efluentes procedentes de distintas actividades industriales, se aplicará al conjunto del vertido el mayor de los coeficientes que corresponderían a cada una de las actividades si vertieran individualmente. No obstante, si la solicitud de autorización de vertido desglosa los volúmenes de las distintas clases industriales, se ponderará el correspondiente coeficiente que debe aplicarse.*
+
+*(\*\*\*\*) Para la inclusión en esta clase bastará con que se constate en el vertido la presencia de una de las sustancias peligrosas en concentración superior al límite de cuantificación analítica. A los solos efectos de la aplicación de este factor, se consideran sustancias peligrosas las que figuran en las siguientes normas:*
+
+-   *a) Orden de 12 de noviembre de 1987, sobre normas de emisión, objetivos de calidad y métodos de medición de referencia relativos a determinadas sustancias nocivas o peligrosas contenidas en los vertidos de aguas residuales, modificada por las Órdenes de 13 de marzo de 1989, 27 de febrero de 1991, 28 de junio 1991 y 25 de mayo de 1992.*
+-   *b) Real Decreto 995/00, de 2 de junio, por el que se fijan objetivos de calidad para determinadas sustancias contaminantes y se modifica el Reglamento del Dominio Público Hidráulico, aprobado por el Real Decreto 849/86, de 11 de abril.*
+-   *c) Decisión n.º 2455/2001/CE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2001, por la que se aprueba la lista de sustancias prioritarias en el ámbito de la política de aguas, y por la que se modifica la Directiva 2000/60/CE.*
+
+*Estas normas se mantienen en vigor hasta tanto no sean modificadas por las normas que, sobre sustancias peligrosas, sean aprobadas en aplicación de la Directiva 2000/60/CE, por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas.*
+
+*Las sustancias seleccionadas se clasifican en lista I, lista II y lista prioritaria de la siguiente forma:*
+
+*Lista I: integrada por las sustancias contenidas en la Orden de 12 de noviembre de 1988, modificada por las Órdenes de 13 de marzo de 1989, 27 de febrero de 1991, 28 de junio de 1991 y 25 de mayo de 1992.*
+
+<!-- tabla 06: tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-06.json -->
+
+| CAS(1) | Sustancia |
+| --- | --- |
+| *7439-97-6* | *Mercurio* |
+| *7440-43-9* | *Cadmio* |
+| *608-73-1* | *Hexaclorociclohexano (HCH)* |
+| *56-23-5* | *Tetracloruro de Carbono* |
+| *50-29-3* | *Diclorodifeniltricloroetano (DDT)* |
+| *87-86-5* | *Pentaclorofenol* |
+| *309-00-2* | *Aldrín, Dieldrín, Endrín, Isodrín* |
+| *118-74-1* | *Hexaclorobenceno* |
+| *87-68-3* | *Hexaclorobutadieno* |
+| *67-66-3* | *Cloroformo* |
+| *107-06-2 1,2* | *dicloroetano* |
+| *79-01-6* | *Tricloroetileno* |
+| *127-18-4* | *Percloroetileno* |
+| *12002-48-1* | *Triclorobencenos* |
+
+*(1) CAS: número de registro del Chemical Abstract Services.*
+
+*Lista II: integrada por las sustancias contenidas en el Real Decreto 995/00, de 2 de junio, por el que se fijan objetivos de calidad para determinadas sustancias contaminantes y se modifica el Reglamento de Dominio Público Hidráulico, aprobado por el Real Decreto 849/1986, de 11 de abril.*
+
+<!-- tabla 07: tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-07.json -->
+
+| CAS(1) | Sustancia |
+| --- | --- |
+| *1912-24-9* | *Atrazina* |
+| *71-43-2* | *Benceno* |
+| *108-90-7* | *Clorobenceno* |
+| *25321-22-6* | *Diclorobenceno (**S* *isómeros orto, meta y para)* |
+| *100-41-4* | *Etilbenceno* |
+| *51218-45-2* | *Metolacloro* |
+| *91-20-3* | *Naftaleno* |
+| *122-34-9* | *Simazina* |
+| *5915-41-3* | *Terbutilazina* |
+| *108-88-3* | *Tolueno* |
+| *No aplicable* | *Tributilestaño (**S* *compuestos de butilestaño)* |
+| *71-55-6* | *1,1,1-Tricloroetano* |
+| *1330-20-7* | *Xileno (**S* *isómeros orto, meta, para)* |
+| *74-90-8* | *Cianuros totales* |
+| *16984-48-8* | *Fluoruros* |
+| *7440-38-2* | *Arsénico total* |
+| *7440-50-8* | *Cobre disuelto* |
+| *7440-47-3* | *Cromo total disuelto* |
+| *7440-02-0* | *Níquel disuelto* |
+| *7439-92-1* | *Plomo disuelto* |
+| *7782-49-2* | *Selenio disuelto* |
+| *7440-66-6* | *Zinc total* |
+
+*(1) CAS: número de registro del Chemical Abstract Services.*
+
+*Lista prioritaria: integrada por las sustancias contenidas en la Decisión n.º 2455/2001/CE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2001, por la que se aprueba la lista de sustancias prioritarias en el ámbito de la política de aguas, y por la que se modifica la Directiva 2000/60/CE.*
+
+<!-- tabla 08: tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-08.json -->
+
+| CAS(1) | Sustancia |
+| --- | --- |
+| *15972-60-8* | *Alacloro* |
+| *120-12-7* | *Antraceno* |
+| *1912-24-9* | *Atrazina* |
+| *71-43-2* | *Benceno* |
+| *no aplicable* | *Difeniléteres bromados* |
+| *7440-43-9* | *Cadmio y sus compuestos* |
+| *85535-84-8* | *C**<sub><font size="4" color="#0000FF">10-13</font></sub>**\-cloroalcanos* |
+| *470-90-6* | *Clorofenvinfos* |
+| *2921-88-2* | *Cloropirifos* |
+| *107-06-2* | *1,2-dicloroetanos* |
+| *75-09-2* | *Diclorometano* |
+| *117-81-7* | *Di(2-etilhexil)ftalato (DEHP)* |
+| *330-54-1* | *Diurón* |
+| *115-29-7* | *Endosulfán* |
+| *959-98-8* | *(alfa-endosulfán)* |
+| *206-44-0* | *Fluoranteno* |
+| *118-74-1* | *Hexaclorobenceno* |
+| *87-68-3* | *Hexaclorobutadieno* |
+| *608-73-1* | *Hexaclorociclohexano* |
+| *58-89-9* | *(isómero gamma-lindano)* |
+| *34123-59-6* | *Isoproturón* |
+| *7439-92-1* | *Plomo y sus compuestos* |
+| *7439-97-6* | *Mercurio y sus compuestos* |
+| *91-20-3* | *Naftaleno* |
+| *7440-02-0* | *Níquel y sus compuestos* |
+| *25154-52-3* | *Nonilfenoles* |
+| *104-40-5* | *4-(para)-nonilfenol* |
+| *1806-26-4* | *Octilfenoles* |
+| *140-66-9* | *(Para-ter-octilfenol)* |
+| *608-93-5* | *Pentaclorobenceno* |
+| *87-86-5* | *Pentaclorofenol* |
+| *no aplicable* | *Hidrocarburos poliaromáticos* |
+| *50-32-8* | *(Benzo(a)pireno)* |
+| *205-99-2* | *(Benzo(b)fluoranteno)* |
+| *191-24-2* | *(Benzo(g,h,i)perileno)* |
+| *207-08-9* | *(Benzo(k)fluoroanteno)* |
+| *193-39-5* | *(Indeno(1,2,3-cd)pireno)* |
+| *122-34-9* | *Simazina* |
+| *688-73-3* | *Compuestos del tributilestaño* |
+| *36643-28-4* | *Tributiltín catión de tributilestaño* |
+| *12002-48-1* | *Triclorobencenos* |
+| *120-82-1* | *(1,2,4-triclorobenceno)* |
+| *67-66-3* | *Triclorometano (cloroformo)* |
+| *1582-09-8* | *Trifluralina* |
+
+*(1) CAS: número de registro del Chemical Abstract Services.*
+
+*(\*\*\*\*\*) Se incluyen en las zonas de categoría I: las destinadas a la producción de agua potable, las zonas aptas para el baño, las zonas aptas para la vida de los salmónidos, las zonas declaradas de protección especial y los perímetros de protección contemplados en el artículo 56.3 del texto refundido de la Ley de Aguas. Asimismo, todos los vertidos a las aguas subterráneas. También se incluyen en esta categoría los ámbitos territoriales indicados en la Resolución de 25 de mayo de 1998, de la Secretaría de Estado de Aguas y Costas, por la que se declaran las zonas sensibles en las cuencas hidrográficas intercomunitarias (BOE de 30 de junio de 1998): en este último supuesto, el coeficiente correspondiente a esta categoría se aplicará únicamente:*
+
+-   *a) En cuanto a los vertidos de aguas residuales urbanas, a los núcleos de población indicados en la mencionada resolución.*
+-   *b) En cuanto a los vertidos de aguas residuales industriales, a aquellas industrias ubicadas en cualquier punto de los ámbitos territoriales relacionados en la mencionada resolución cuya autorización de vertido contemple condiciones específicas para el tratamiento, reducción o limitación del nitrógeno o el fósforo.*
+
+*Se incluyen en las zonas de categoría II: las zonas aptas para la vida de los ciprínidos y para la cría de moluscos, así como cualesquiera otras para las que los planes hidrológicos de cuenca hayan determinado un uso público recreativo.*
+
+*Se incluyen en las zonas de categoría III aquéllas no incluidas en las categorías anteriores.*
+
+*Las definiciones anteriores se refieren a los conceptos regulados en el Real Decreto 927/88 y en su aplicación se tendrán en cuenta los objetivos que, para cada horizonte temporal, los planes hidrológicos de cuenca hayan establecido para cada medio receptor.*
+
+*En los supuestos en que coincidan dos o más usos en el mismo medio receptor en el que se efectúa el vertido, se aplicará el factor más elevado.*
+
+*La aplicación de los factores se extiende a las zonas de influencia que contengan los planes hidrológicos siempre que estén efectivamente delimitadas.*
+
+*B) Vertido de piscifactorías: en el caso de que los valores de los parámetros característicos de contaminación del vertido sean inferiores a los fijados como objetivo de calidad del medio receptor, el coeficiente será 0,006. De no cumplirse esta condición, el coeficiente se multiplicará por 3.*
+
+*C) Aguas de achique procedentes de actividades mineras: en el caso de que los valores de los parámetros característicos de contaminación del vertido sean inferiores a los fijados como objetivo de calidad del medio receptor, el coeficiente será 0,006. De no cumplirse esta condición, el coeficiente se multiplicará por 3.*
+
+*D) Aguas de refrigeración: se aplicarán los coeficientes de la tabla adjunta, siempre que el vertido no ocasione el incumplimiento del objetivo de calidad fijado para la temperatura en el medio receptor y, además, no se altere el valor del resto de parámetros o sustancias del vertido respecto al agua de captación.*
+
+*Si el río no tiene fijados objetivos de calidad, el incremento de temperatura media de una sección fluvial tras la zona de dispersión no superará los 3ºC.*
+
+*En lagos o embalses, la temperatura del vertido no superará los 30ºC.*
+
+<!-- tabla 09: tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-09.json -->
+
+| Volumen Hm3 | Coeficientes de minoración (1) |
+| --- | --- |
+| *Menor de 100* | *0,02000* |
+| *100 a 250* | *0,01166* |
+| *250 a 1.000* | *0,00566* |
+| *Superior a 1.000* | *0,00125* |
+
+*(1) En el caso de centrales térmicas, sean convencionales o nucleares, que utilicen el agua como refrigeración, los coeficientes de la tabla corresponden a un funcionamiento tipo de 6.000 horas anuales en el caso de las centrales térmicas convencionales, y 8.000 horas anuales en el caso de las centrales nucleares. Estos coeficientes se multiplicarán por la relación entre el número de horas de funcionamiento realmente habidas en el año y las correspondientes horas de funcionamiento tipo.*
+
+*De no cumplirse alguna de las condiciones anteriores, los coeficientes se multiplicarán por 3.*
+
+*El importe del canon se determinará por adición de los importes parciales que resulten de aplicar los sucesivos tramos de la escala.*
+
+(Anexo redactado de conformidad con el [R.D. 606/03](http://www.carreteros.org/legislacionb/aguas/rdph/otros/rd606_03.htm))
+
+<!-- tabla 10: tablas/servicios/legislacion/espana/dominio_publico_nacional/tabla-10.json -->
+
+|  |  |  |
+| --- | --- | --- |
+| ![](https://www.aguasgrancanaria.com/icons/ecblank.gif) | ![](https://www.aguasgrancanaria.com/icons/ecblank.gif) | ![](https://www.aguasgrancanaria.com/icons/ecblank.gif) |

@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>Inventario Insular de Cauces</title>
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width"/>
+	<link rel="icon" type="image/jpg" href="../../img/favicon.gif" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="stylesheet" href="css/leaflet.css" />
+    <link rel="stylesheet" href="css/qgis2web.css" />
+    <link rel="stylesheet" href="css/fontawesome-all.min.css" />
+    <link rel="stylesheet" href="css/leaflet-search.css" />
+	<link rel="stylesheet" href="css/leaflet-loader.css">
+	<link rel="stylesheet" href="css/leaflet.defaultextent.css" />
+	<link rel="stylesheet" href="css/L.Control.MousePosition.css" />
+	<link rel="stylesheet" href="../../css/bootstrap.min.css" />
+	<script src="../../js/bootstrap.min.js"></script>
+	<script>
+	
+		 window.addEventListener("load", function () {
+              const loader = document.querySelector(".loader");
+              loader.className += " hidden";
+          });
+	
+	</script>
+    <style>
+      #map {
+	  
+        width: 100%;
+        height: 800px;
+		
+      }
+	  
+	   body {
+		  
+        min-height: 75rem;
+        padding-top: 8rem;
+		
+      }
+	  
+	  coor {
+	  
+	  margin-bottom: 15px; 
+	  margin-left: 20px;
+	  
+	  }
+	  
+	  .info {
+			padding: 6px 8px;
+			font: 14px/16px Arial, Helvetica, sans-serif;
+			background: white;
+			background: rgba(255,255,255,0.8);
+			box-shadow: 0 0 15px rgba(0,0,0,0.2);
+			border-radius: 5px;
+		}
+		.info h2 {
+			margin: 0 0 5px;
+			color: #777;
+		}
+	  
+	   .loader {
+                position: fixed;
+                left: 0px;
+                top: 0px;
+                width: 100%;
+                height: 100%;
+                z-index: 9999;
+                opacity: .8;
+                transition: .3s ease-in 1s;
+				padding-top: 400px;
+            }
+
+            .loader.hidden {
+                animation: fadeOut 1s;
+                animation-fill-mode: forwards;
+            }
+
+            @keyframes fadeOut {
+                100% {
+                    opacity: 0;
+                    visibility: hidden;
+                }
+              }		
+		
+    </style>
+    <title></title>
+  </head>
+  <body>
+  
+	<div class="loader">
+		<div class="text-center">
+		  <div class="spinner-border" role="status">
+			<span class="visually-hidden">Loading...</span>
+		  </div>
+		</div>
+	</div>
+  
+	<nav class="navbar fixed-top navbar-expand-lg border-bottom shadow-sm" style="background-color: white;">
+      <div class="container">
+        <a class="navbar-brand" href="/" target="_self">
+          <img src="../../img/logo11.jpg" width="200" height="65" />
+        </a>
+        <a class="navbar-toggler" href="/" target="_self">
+          <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" style="fill: #3493D3;" fill="currentColor" class="bi bi-arrow-left-circle-fill" viewBox="0 0 16 16">
+		  <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.5 7.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/>
+		  </svg>
+        </a>
+        <div class="collapse navbar-collapse justify-content-end">
+          <a style="text-decoration: none;" href="/" target="_self">Volver</a>
+        </div>
+      </div>
+    </nav>
+  
+    <div class="viewContainer">
+		<form id="frm1" action="" class="text-center">
+		  X: <input type="text" name="x" placeholder="X en metros" value="" size="10" maxlength="6" id="x"/>
+		  Y: <input type="text" name="y" placeholder="Y en metros" value="" size="10" maxlength="7" id="y"/>
+			<input type="button" onclick="zoomTo()" value="Zoom a..."/>
+		</form></br>
+		<div id="map"></div>
+    </div>
+     <script src="js/qgis2web_expressions.js"></script>
+     <script src="js/leaflet.js"></script>
+     <script src="js/leaflet.rotatedMarker.js"></script>
+     <script src="js/leaflet.pattern.js"></script>
+     <script src="js/leaflet-hash.js"></script>
+     <script src="js/Autolinker.min.js"></script>
+     <script src="js/rbush.min.js"></script>
+     <script src="js/labelgun.min.js"></script>
+     <script src="js/labels.js"></script>
+     <script src="js/leaflet.wms.js"></script>
+     <script src="js/proj4.js"></script>
+     <script src="js/proj4leaflet.js"></script>
+     <script src="js/leaflet-search.js"></script>
+     <script src="data/00_Catalogo_Bcos_Cuencas_1.js"></script>
+     <script src="data/Catalogo_v2_2.js"></script>
+	 <script src="data/Deslinde_0.js"></script>
+	 <script src="data/Canalizacion.js"></script>
+	 <script src="js/leaflet-loader.js"></script>
+	 <script src="js/leaflet.defaultextent.js"></script>
+	 <script src="js/L.Control.MousePosition.js"></script>
+	 <script src="js/L.LatLng.UTM.js"></script>
+    <script>
+        var crs = new L.Proj.CRS('EPSG:32628', '+proj=utm +zone=28 +datum=WGS84 +units=m +no_defs', {
+            resolutions: [44800, 22400, 11200, 5600, 2800, 1400, 700, 350, 175, 84, 42, 21, 11.2, 5.6, 2.8, 1.4, 0.7, 0.35, 0.14, 0.07],
+        });
+        var map = L.map('map', {
+            crs: crs,
+            continuousWorld: false,
+            worldCopyJump: false, 
+			center: [27.955018,-15.554364],
+            zoomControl:true, maxZoom:18, minZoom:9,
+			maxBounds: [[28.19974 ,-15.87387], [27.72061 ,-15.32936]]
+        }).fitBounds([[27.71634591,-15.98372460],[28.19368972,-15.12500551]]);
+		L.control.mousePosition().addTo(map);
+		L.control.defaultExtent().addTo(map);
+		var controlLoader = L.control.loader().addTo(map);
+	//	map.on('dragend',function() {
+			controlLoader.show();
+	//		setTimeout(function() {
+	//			controlLoader.hide();
+	//		},3000);
+	//	});
+
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>; <a href="https://www.idecanarias.es/listado_servicios" target="_blank">GRAFCAN</a>');
+		var scale = L.control.scale({
+			'imperial': false
+		});
+		scale.addTo(map);
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+        }
+        var layer_IDECanariasOrtoExpressCampaa2018_0 = L.WMS.layer("https://idecan1.grafcan.es/ServicioWMS/OrtoExpress", "WMS_OrtoExpress", {
+            format: 'image/jpeg',
+            uppercase: true,
+            transparent: true,
+            continuousWorld : true,
+            tiled: true,
+            opacity: 1,
+			identify: false,
+        });
+        map.addLayer(layer_IDECanariasOrtoExpressCampaa2018_0);
+		var controlLoader = L.control.loader().addTo(map);
+		map.on('dragend',function() {
+		controlLoader.show();
+		setTimeout(function() {
+			controlLoader.hide();
+		},3000);
+		});
+        function pop_00_Catalogo_Bcos_Cuencas_1(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <th scope="row">Cuenca</th>\
+                        <td>' + (feature.properties['Cuenca'] !== null ? Autolinker.link(String(feature.properties['name'])) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_00_Catalogo_Bcos_Cuencas_1_0() {
+            return {
+                pane: 'pane_00_Catalogo_Bcos_Cuencas_1',
+                opacity: 1,
+                color: 'rgba(177,56,9,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(255,224,169,0.4)',
+            }
+        }
+        map.createPane('pane_00_Catalogo_Bcos_Cuencas_1');
+        map.getPane('pane_00_Catalogo_Bcos_Cuencas_1').style.zIndex = 401;
+        map.getPane('pane_00_Catalogo_Bcos_Cuencas_1').style['mix-blend-mode'] = 'normal';
+        var layer_00_Catalogo_Bcos_Cuencas_1 = new L.geoJson(json_00_Catalogo_Bcos_Cuencas_1, {
+            attribution: '',
+            pane: 'pane_00_Catalogo_Bcos_Cuencas_1',
+            onEachFeature: pop_00_Catalogo_Bcos_Cuencas_1,
+            style: style_00_Catalogo_Bcos_Cuencas_1_0,
+        });
+        bounds_group.addLayer(layer_00_Catalogo_Bcos_Cuencas_1);
+        map.addLayer(layer_00_Catalogo_Bcos_Cuencas_1);
+        function pop_Catalogo_v2_2(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <th scope="row">Barranco</th>\
+                        <td>' + (feature.properties['Barranco'] !== null ? Autolinker.link(String(feature.properties['Barranco'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Otros Topónimos</th>\
+                        <td>' + (feature.properties['OtrosTopon'] !== null ? Autolinker.link(String(feature.properties['OtrosTopon'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Longitud 2D</th>\
+                        <td>' + (feature.properties['Longitud'] !== null ? Autolinker.link(String(feature.properties['Longitud'])) : '') + ' m' +'</td>\
+                    </tr>\
+					<tr>\
+                        <th scope="row">Coord. Inicial</th>\
+                        <td>' + (feature.properties['Xini'] !== null ? Autolinker.link(String(feature.properties['Xini'])) : '') + ',' + (feature.properties['Yini'] !== null ? Autolinker.link(String(feature.properties['Yini'])) : '') +'</td>\
+                    </tr>\
+					<tr>\
+                        <th scope="row">Coord. Final</th>\
+                        <td>' + (feature.properties['Xfin'] !== null ? Autolinker.link(String(feature.properties['Xfin'])) : '') + ',' + (feature.properties['Yfin'] !== null ? Autolinker.link(String(feature.properties['Yfin'])) : '') +'</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400, width: 250});
+        }
+
+        function style_Catalogo_v2_2_0() {
+            return {	
+                pane: 'pane_Catalogo_v2_2',
+                opacity: 1,
+                color: 'rgba(31,120,180,1.0)',
+                dashArray: '',
+                lineCap: 'square',
+                lineJoin: 'bevel',
+                weight: 2.0,
+                fillOpacity: 0,
+            }
+        }
+        map.createPane('pane_Catalogo_v2_2');
+        map.getPane('pane_Catalogo_v2_2').style.zIndex = 402;
+        map.getPane('pane_Catalogo_v2_2').style['mix-blend-mode'] = 'normal';
+        var layer_Catalogo_v2_2 = new L.geoJson(json_Catalogo_v2_2, {
+            attribution: '',
+            pane: 'pane_Catalogo_v2_2',
+            onEachFeature: pop_Catalogo_v2_2,
+            style: style_Catalogo_v2_2_0,
+        });
+        bounds_group.addLayer(layer_Catalogo_v2_2);
+        map.addLayer(layer_Catalogo_v2_2);
+        function pop_Canalizacion(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <th scope="row">Barranco</th>\
+                        <td>' + (feature.properties['Barranco'] !== null ? Autolinker.link(String(feature.properties['Barranco'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Otros Topónimos</th>\
+                        <td>' + (feature.properties['OtrosTopon'] !== null ? Autolinker.link(String(feature.properties['OtrosTopon'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Longitud 2D</th>\
+                        <td>' + (feature.properties['Longitud'] !== null ? Autolinker.link(String(feature.properties['Longitud'])) : '') + ' m' +'</td>\
+                    </tr>\
+					<tr>\
+                        <th scope="row">Coord. Inicial</th>\
+                        <td>' + (feature.properties['Xini'] !== null ? Autolinker.link(String(feature.properties['Xini'])) : '') + ',' + (feature.properties['Yini'] !== null ? Autolinker.link(String(feature.properties['Yini'])) : '') +'</td>\
+                    </tr>\
+					<tr>\
+                        <th scope="row">Coord. Final</th>\
+                        <td>' + (feature.properties['Xfin'] !== null ? Autolinker.link(String(feature.properties['Xfin'])) : '') + ',' + (feature.properties['Yfin'] !== null ? Autolinker.link(String(feature.properties['Yfin'])) : '') +'</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400, width: 250});
+        }
+
+        function style_Canalizacion() {
+            return {	
+                pane: 'pane_Canalizacion',
+                opacity: 1,
+                color: 'rgba(30,30,30,1.0)',
+                dashArray: '',
+                lineCap: 'square',
+                lineJoin: 'bevel',
+                weight: 2.6,
+                fillOpacity: 0,
+            }
+        }
+        map.createPane('pane_Canalizacion');
+        map.getPane('pane_Canalizacion').style.zIndex = 402;
+        map.getPane('pane_Canalizacion').style['mix-blend-mode'] = 'normal';
+        var layer_Canalizacion = new L.geoJson(json_Canalizacion, {
+            attribution: '',
+            pane: 'pane_Canalizacion',
+            onEachFeature: pop_Canalizacion,
+            style: style_Canalizacion,
+        });
+        bounds_group.addLayer(layer_Canalizacion);
+        map.addLayer(layer_Canalizacion);
+        function pop_Deslinde_0(feature, layer) {
+		var popupContent = '<div id="content">' +
+                '<table class="table">' +
+                '<tr><td><strong>Expediente</strong></td></tr>' +
+                '<tr><td>' + feature.properties['name'] + '</td></tr>' +
+                '</table>' +
+                '</div>';
+        layer.bindPopup(popupContent, {maxHeight: 200, width: 200});
+        }
+
+        function style_Deslinde_0_0() {
+            return {
+                pane: 'pane_Deslinde_0',
+                opacity: 1,
+                color: 'rgba(240,42,49,1.0)',
+                dashArray: '',
+                lineCap: 'square',
+                lineJoin: 'bevel',
+                weight: 2.0,
+                fillOpacity: 0,
+                interactive: true,
+            }
+        }
+        map.createPane('pane_Deslinde_0');
+        map.getPane('pane_Deslinde_0').style.zIndex = 403;
+        map.getPane('pane_Deslinde_0').style['mix-blend-mode'] = 'normal';
+        var layer_Deslinde_0 = new L.geoJson(json_Deslinde_0, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_Deslinde_0',
+            layerName: 'layer_Deslinde_0',
+            pane: 'pane_Deslinde_0',
+            onEachFeature: pop_Deslinde_0,
+            style: style_Deslinde_0_0,
+        });
+        bounds_group.addLayer(layer_Deslinde_0);
+        map.addLayer(layer_Deslinde_0);
+        var baseMaps = {};
+        L.control.layers(baseMaps,{'<img src="legend/Cauces.png" />   Cauce': layer_Catalogo_v2_2,'<img src="legend/Canalz.png" />   Cauce canalizado (en elaboración)': layer_Canalizacion,'<img src="legend/Deslinde.png" />   Deslinde': layer_Deslinde_0,'<img src="legend/Cuencas.png" /> Cuenca': layer_00_Catalogo_Bcos_Cuencas_1,},{collapsed:true}).addTo(map);
+        setBounds();
+        map.addControl(new L.Control.Search({
+            layer: layer_Catalogo_v2_2,
+            initial: false,
+            hideMarkerOnCollapse: true,
+            propertyName: 'Barranco'}));
+        document.getElementsByClassName('search-button')[0].className +=
+         ' fa fa-binoculars';
+
+	 	function zoomTo() {
+			var el1 = document.forms.frm1.elements;
+			var ll = L.latLng(el1.x.value, el1.y.value);
+
+			var utm = "+proj=utm +zone=28";
+			var wgs84 = "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs";
+			var Xi = parseInt(document.getElementById("x").value);
+			var Yi = parseInt(document.getElementById("y").value);
+			var LonLat = proj4(utm, wgs84, [Xi, Yi]); 
+		map.flyTo(new L.LatLng(LonLat[1],LonLat[0]), 18);
+		}; 
+        </script>
+	
+  </body>
+</html>

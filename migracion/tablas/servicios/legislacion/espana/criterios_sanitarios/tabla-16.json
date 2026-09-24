@@ -1,0 +1,28 @@
+{
+  "fuente": "/servicios/legislacion/españa/criterios_sanitarios.php",
+  "indice": 16,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [
+    [
+      "Número de habitantes suministrados",
+      "Número mínimo de muestras al año"
+    ]
+  ],
+  "filas": [
+    [
+      "500",
+      "4"
+    ],
+    [
+      "> 500 - 5.000",
+      "6"
+    ],
+    [
+      "> 5.000",
+      "6 + 2 por cada 5.000 hb. y fracción"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

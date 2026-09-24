@@ -1,0 +1,53 @@
+---
+// Buscador interno (Pagefind: índice estático generado tras el build, incluye el texto completo de la normativa).
+import Icono from '../Icono.astro';
+import portada from '../../data/portada.json';
+const accesos = ((portada as any).accesos_directos ?? []) as { texto: string; url: string }[];
+const ext = (u: string) => /^https?:/.test(u);
+---
+<div class="grid gap-12 lg:grid-cols-[minmax(0,1fr)_20rem]">
+  <div class="min-w-0">
+    <form id="form-buscar" role="search" class="tarjeta p-2 flex items-center gap-2" action="/buscar/" method="get">
+      <label for="q" class="sr-only">Términos de búsqueda</label>
+      <Icono nombre="buscar" clase="ml-3 text-texto-suave shrink-0" />
+      <input id="q" name="q" type="search" autocomplete="off" class="min-w-0 flex-1 bg-transparent px-2 py-3 text-lg outline-none" placeholder="Buscar en la web del Consejo…" />
+      <button class="boton boton-primario">Buscar</button>
+    </form>
+    <p id="buscar-estado" class="mt-4 text-sm text-texto-suave" role="status" aria-live="polite"></p>
+    <ol id="buscar-resultados" class="mt-6 grid gap-4"></ol>
+  </div>
+  {accesos.length > 0 && (
+    <nav aria-labelledby="t-accesos-directos" class="tarjeta p-5 self-start">
+      <h2 id="t-accesos-directos" class="font-display text-lg font-bold">Accesos directos</h2>
+      <ul class="mt-3 grid gap-1 text-[.95rem]">
+        {accesos.map((a) => <li><a href={a.url} {...(ext(a.url) ? { target: '_blank', rel: 'noopener noreferrer', class: 'enlace-externo' } : {})}>{a.texto}{ext(a.url) && <span class="sr-only"> (abre en una ventana nueva)</span>}</a></li>)}
+      </ul>
+    </nav>
+  )}
+</div>
+<script>
+  const form = document.getElementById('form-buscar') as HTMLFormElement;
+  const input = document.getElementById('q') as HTMLInputElement;
+  const estado = document.getElementById('buscar-estado')!;
+  const lista = document.getElementById('buscar-resultados')!;
+  let pf: any = null;
+  const cargar = async () => {
+    if (pf) return pf;
+    try { const ruta = ['/pagefind', 'pagefind.js'].join('/'); pf = await import(/* @vite-ignore */ ruta); await pf.options({ excerptLength: 30 }); return pf; }
+    catch { estado.textContent = 'El índice de búsqueda se genera al publicar la web (npm run build). En modo desarrollo no está disponible.'; return null; }
+  };
+  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]!));
+  const buscar = async (q: string) => {
+    lista.innerHTML = '';
+    if (!q.trim()) { estado.textContent = ''; return; }
+    const p = await cargar(); if (!p) return;
+    estado.textContent = 'Buscando…';
+    const r = await p.search(q);
+    const datos = await Promise.all(r.results.slice(0, 30).map((x: any) => x.data()));
+    estado.textContent = `${r.results.length} resultados para «${q}»${r.results.length > 30 ? ' (se muestran los 30 más relevantes)' : ''}.`;
+    lista.innerHTML = datos.map((d: any) => `<li class="tarjeta p-5"><a href="${d.url}" class="font-display text-lg font-bold">${esc(d.meta?.title ?? d.url)}</a><p class="mt-1 text-sm text-texto-suave">${d.excerpt}</p><p class="mt-1 text-xs text-texto-suave">${esc(decodeURI(d.url))}</p></li>`).join('');
+  };
+  const q0 = new URLSearchParams(location.search).get('q') ?? '';
+  input.value = q0; if (q0) buscar(q0);
+  form.addEventListener('submit', (e) => { e.preventDefault(); history.replaceState(null, '', `?q=${encodeURIComponent(input.value)}`); buscar(input.value); });
+</script>

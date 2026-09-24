@@ -1,0 +1,79 @@
+---
+import { render } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import Migas from '../../../components/Migas.astro';
+import Icono from '../../../components/Icono.astro';
+import TarjetaNoticia from '../../../components/TarjetaNoticia.astro';
+import VistaPrevia from '../../../components/VistaPrevia.astro';
+import { noticiasOrdenadas } from '../../../lib/noticias';
+import { fechaLarga, fechaISO } from '../../../lib/formato';
+import imagenes from '../../../data/imagenes.json';
+
+export async function getStaticPaths() {
+  const todas = await noticiasOrdenadas();
+  return todas.map((n, i) => ({ params: { slug: n.id }, props: { noticia: n, anterior: todas[i + 1] ?? null, siguiente: todas[i - 1] ?? null, relacionadas: todas.filter((x) => x.id !== n.id).slice(0, 3) } }));
+}
+const { noticia, anterior, siguiente, relacionadas } = Astro.props;
+const d = noticia.data;
+const { Content } = await render(noticia);
+const url = `/actualidad/noticias/${noticia.id}/`;
+const img = d.imagen ? (imagenes as Record<string, any>)[d.imagen] : null;
+const descripcion = (noticia.body ?? '').replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/[#*_>`]/g, '').replace(/\s+/g, ' ').trim().slice(0, 155) || d.titulo;
+const ld = {
+  '@context': 'https://schema.org', '@type': 'NewsArticle', headline: d.titulo, inLanguage: 'es',
+  ...(d.fecha ? { datePublished: fechaISO(d.fecha) } : {}),
+  ...(d.imagen ? { image: [new URL(d.imagen, Astro.site).href] } : {}),
+  publisher: { '@type': 'GovernmentOrganization', name: 'Consejo Insular de Aguas de Gran Canaria' },
+  ...(d.fuente ? { isBasedOn: d.fuente.url } : {}),
+  mainEntityOfPage: new URL(url, Astro.site).href,
+};
+const migas = [{ titulo: 'Inicio', url: '/' }, { titulo: 'Actualidad', url: '/actualidad/' }, { titulo: 'Noticias', url: '/actualidad/noticias/' }, { titulo: d.titulo, url }];
+const migasLd = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: migas.map((m, i) => ({ '@type': 'ListItem', position: i + 1, name: m.titulo, item: new URL(m.url, Astro.site).href })) };
+---
+<Base titulo={d.titulo} descripcion={descripcion} url={url} imagen={d.imagen} tipo="article" jsonld={[ld, migasLd]}>
+  <article>
+    <header class="relative isolate overflow-hidden bg-atlantico-900 text-white">
+      <div class="absolute inset-0 -z-10 ondas-fondo opacity-50" aria-hidden="true"></div>
+      <div class="contenedor pt-8 pb-28 md:pb-40">
+        <Migas items={migas} claro />
+        <div class="mt-8 max-w-4xl">
+          {d.fecha ? <time datetime={fechaISO(d.fecha)} class="antetitulo !text-turquesa-300">{fechaLarga(d.fecha)}</time> : <p class="antetitulo !text-turquesa-300">Noticia</p>}
+          <h1 class="mt-3 text-[clamp(1.9rem,1.2rem+2.6vw,3.2rem)] font-bold">{d.titulo}</h1>
+        </div>
+      </div>
+    </header>
+    <div class="contenedor -mt-20 md:-mt-28 relative">
+      <div class="mx-auto max-w-4xl">
+        {d.imagen && (
+          <figure class="overflow-hidden rounded-[var(--radius-tarjeta)] shadow-[var(--shadow-elevada)] bg-superficie">
+            <picture>
+              {img?.webp && <source srcset={img.webp} type="image/webp" />}
+              <img src={d.imagen} alt={d.imagen_alt} width={img?.w} height={img?.h} class="w-full max-h-[34rem] object-cover" />
+            </picture>
+          </figure>
+        )}
+        <div class="prosa mx-auto mt-10 text-lg"><Content /></div>
+        {d.adjuntos.length > 0 && (
+          <section class="mx-auto mt-10 max-w-[72ch]" aria-labelledby="t-adjuntos">
+            <h2 id="t-adjuntos" class="font-display text-xl font-bold">Documentos adjuntos</h2>
+            <ul class="mt-3 grid gap-2">{d.adjuntos.map((a) => <li class="flex flex-wrap items-center gap-2"><a href={a.url} class="doc-link" data-formato={a.formato ?? ''}>{a.texto ?? 'Descargar'}</a><VistaPrevia src={a.url} titulo={a.texto ?? d.titulo} /></li>)}</ul>
+          </section>
+        )}
+        {d.fuente && (
+          <p class="mx-auto mt-10 max-w-[72ch] flex flex-wrap items-center gap-2 rounded-2xl bg-superficie-2 p-4 text-sm">
+            <Icono nombre="noticias" tam={18} clase="text-marca-700" /> Fuente:
+            <a href={d.fuente.url} target="_blank" rel="noopener noreferrer" class="enlace-externo font-semibold">{d.fuente.texto}<span class="sr-only"> (abre en una ventana nueva)</span></a>
+          </p>
+        )}
+        <nav aria-label="Otras noticias" class="mx-auto mt-12 max-w-[72ch] grid gap-3 sm:grid-cols-2">
+          {anterior && <a href={`/actualidad/noticias/${anterior.id}/`} class="tarjeta tarjeta-enlace p-4 no-underline" rel="prev"><span class="text-xs text-texto-suave">Anterior</span><span class="block font-semibold text-texto">{anterior.data.titulo}</span></a>}
+          {siguiente && <a href={`/actualidad/noticias/${siguiente.id}/`} class="tarjeta tarjeta-enlace p-4 no-underline sm:text-right sm:col-start-2" rel="next"><span class="text-xs text-texto-suave">Siguiente</span><span class="block font-semibold text-texto">{siguiente.data.titulo}</span></a>}
+        </nav>
+      </div>
+      <section class="mt-20" aria-labelledby="t-mas">
+        <h2 id="t-mas" class="font-display text-2xl font-bold">Más noticias</h2>
+        <div class="mt-6 grid gap-6 md:grid-cols-3">{relacionadas.map((n) => <TarjetaNoticia noticia={n} />)}</div>
+      </section>
+    </div>
+  </article>
+</Base>

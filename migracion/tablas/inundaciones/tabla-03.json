@@ -1,0 +1,32 @@
+{
+  "fuente": "/inundaciones.php",
+  "indice": 3,
+  "titulo": "MPRI del 3º Ciclo del Plan de Inundaciones",
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Anuncio del BOC",
+      ""
+    ],
+    [
+      "Memoria - Julio 2025",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/inundaciones/20250730_250728-boc-a-2025-150-2772.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/inundaciones/es120_mpri_anexos-03_00.pdf"
+    }
+  ]
+}

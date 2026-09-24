@@ -1,0 +1,40 @@
+﻿Parámetro;Unidad;Tipo A1;Tipo A2;Tipo A3
+pH;-;(6,5-8,5);(5,5-9);(5,5-9)
+Color (O);Escala Pt;20;100;200
+Sólidos en suspensión;mg/l;(25);-;-
+Temperatura (O);ºC;25;25;25
+Conductividad a 20ºC;mS/cm;(1.000);(1.000);(1.000)
+Nitratos (O) (*);mg/l NO3;50;50;50
+Fluoruros (1);mg/l F;1,5;(0,7/1,7);(0,7/1,7)
+Hierro disuelto;mg/l Fe;0,3;2;(1)
+Manganeso;mg/l Mn;(0,05);(0,1);(1)
+Cobre;mg/l Cu;0,05 (O);(0,05);(1)
+Zinc;mg/l Zn;3;5;5
+Boro;mg/l B;(1);(1);(1)
+Arsénico;mg/l As;0,05;0,05;0,1
+Cadmio;mg/l Cd;0,005;0,005;0,005
+Cromo total;mg/l Cr;0,05;0,05;0,05
+Plomo;mg/l Pb;0,05;0,05;0,05
+Selenio;mg/l Se;0,01;0,01;0,01
+Mercurio;mg/l Hg;0,001;0,001;0,001
+Bario;mg/l Ba;0,1;1;1
+Cianuros;mg/l CN;0,05;0,05;0,05
+Sulfatos (**);mg/l SO4;250;250 (O);250 (O)
+Cloruros (**);mg/l Cl;(200);(200);(200)
+Detergentes;mg/l (lauril-sulfato);(0,2);(0,2);(0,5)
+Fosfatos (*) (2);mg/l P2O5;(0,4);(0,7);(0,7)
+Fenoles;mg/l C6H5OH;0,001;0,005;0,1
+"Hidrocarburos disueltos o emulsionados
+(tras extracción en éter de petróleo)";mg/l;0,05;0,2;1
+Carburos aromáticos policíclicos;mg/l;0,0002;0,0002;0,001
+Plaguicidas totales;mg/l;0,001;0,0025;0,005
+DQO (*);mg/l O2;-;-;(30)
+Oxigeno disuelto (*);% satur;(70);(50);(30)
+DBO5 (*);mg/l O2;(3);(5);(7)
+Nitrogeno Kjedahl;mg/l N;(1);(2);(3)
+Amoniaco;mg/l NH4;(0,05);1,5;4 (O)
+Sustancias extraibles con cloroformo;mg/l SEC;(0,1);(0,2);(0,5)
+Coliformes totales a 37ºC;100 ml;(50);(5.000);(50.000)
+Coliformes fecales;100 ml;(20);(2.000);(20.000)
+Estreptococos fecales;100 ml;(20);(1.000);(10.000)
+Salmonellas;;Ausente en 5.000 ml;Ausente en 1.000 ml;

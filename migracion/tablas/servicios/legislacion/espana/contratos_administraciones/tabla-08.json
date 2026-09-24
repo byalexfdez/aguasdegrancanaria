@@ -1,0 +1,42 @@
+{
+  "fuente": "/servicios/legislacion/españa/contratos_administraciones.php",
+  "indice": 8,
+  "titulo": null,
+  "columnas": 8,
+  "cabeceras": [
+    [
+      "K",
+      ">",
+      "-",
+      "60.000",
+      "120.000",
+      "360.000",
+      "840.000",
+      "2.400.000"
+    ],
+    [
+      "",
+      "£",
+      "60.000",
+      "120.000",
+      "360.000",
+      "840.000",
+      "2.400.000",
+      "-"
+    ]
+  ],
+  "filas": [
+    [
+      "Categoría",
+      "",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

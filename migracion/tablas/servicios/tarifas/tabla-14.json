@@ -1,0 +1,26 @@
+{
+  "fuente": "/servicios/tarifas.php",
+  "indice": 14,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [],
+  "filas": [
+    [
+      "1.",
+      "Expedición de Certificados de documentos, acuerdos, estado de tramitación de procedimientos y otras certificaciones",
+      "12,05"
+    ],
+    [
+      "2.",
+      "Compulsa de documentos, por página",
+      "3,36"
+    ],
+    [
+      "3.",
+      "Bastanteo de poderes que sean realizados en el CIAGC",
+      "16,47"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

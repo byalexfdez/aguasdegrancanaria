@@ -1,0 +1,39 @@
+---
+import Icono from '../Icono.astro';
+import { getCollection } from 'astro:content';
+import { nodo, visibles } from '../../lib/navegacion';
+const { entrada } = Astro.props;
+const n = nodo(entrada.data.nodo);
+const hijos = visibles(n);
+const resumen = new Map((await getCollection('paginas')).map((e) => [e.data.url, e.data.entradilla ?? e.data.descripcion]));
+const ICONOS: Record<string, string> = {
+  introduccion: 'libro', funciones: 'lista', organizacion: 'rejilla', 'organos-de-gobierno': 'institucion', 'juntas-y-sesiones': 'calendario', elecciones: 'firma', ubicacion: 'ubicacion',
+  presas: 'presa', 'salto-de-chira': 'rayo', desaladoras: 'fabrica', pluviometros: 'lluvia', censo: 'mapa', cauces: 'ondas',
+  'plan-hidrologico': 'libro', inundaciones: 'alerta', dma: 'balanza', 'red-control': 'grafica', participacion: 'comunidad',
+  sede: 'edificio', 'documentos-registro': 'documento', tasas: 'euro', tarifas: 'euro', normativa: 'balanza', contratacion: 'maletin', facturacion: 'euro', empleo: 'personas', enlaces: 'externo',
+  feder: 'euro', 'feder-aquamac': 'euro', ngeu: 'euro', sobrecoste: 'euro',
+  'consejos-ahorro': 'gota', 'riada-tasarte': 'lluvia', jovenes: 'personas', jornadas: 'calendario', articulos: 'libro', plan88: 'libro',
+  noticias: 'noticias', anuncios: 'megafono', avisos: 'alerta',
+};
+const cuenta = (h: any): number => (h.hijos ?? []).reduce((s: number, x: any) => s + 1 + cuenta(x), 0);
+const tieneContenido = entrada.body?.trim().length > 0;
+---
+<div class="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+  {hijos.map((h, i) => (
+    <a href={h.url} class="tarjeta tarjeta-enlace group relative flex flex-col gap-3 p-6 no-underline text-texto revelar" style={`transition-delay:${Math.min(i, 6) * 60}ms`} {...(h.externo ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>
+      <span class="grid place-items-center size-12 rounded-2xl bg-marca-50 text-marca-700 dark:bg-marca-900 dark:text-marca-200 group-hover:bg-marca-700 group-hover:text-white transition-colors">
+        <Icono nombre={ICONOS[h.id] ?? (h.id.startsWith('capa-') || h.id.startsWith('carto-') ? 'capas' : h.id.startsWith('p88') ? 'libro' : h.id.startsWith('norma') ? 'balanza' : 'documento')} tam={24} />
+      </span>
+      <span class="font-display text-lg font-bold leading-snug text-atlantico-900 dark:text-white group-hover:text-marca-700">{h.titulo}</span>
+      {(h.entradilla ?? resumen.get(h.url)) && !(resumen.get(h.url) ?? '').endsWith('Consejo Insular de Aguas de Gran Canaria') && <span class="text-sm text-texto-suave line-clamp-3">{h.entradilla ?? resumen.get(h.url)}</span>}
+      <span class="mt-auto pt-2 inline-flex items-center gap-1.5 text-sm font-semibold text-marca-700 dark:text-marca-300">
+        {h.externo ? <>Sede externa <Icono nombre="externo" tam={14} /><span class="sr-only"> (abre en una ventana nueva)</span></> : cuenta(h) > 0 ? <>{cuenta(h)} páginas <Icono nombre="flecha" tam={16} clase="transition-transform group-hover:translate-x-1" /></> : <>Ver <Icono nombre="flecha" tam={16} clase="transition-transform group-hover:translate-x-1" /></>}
+      </span>
+    </a>
+  ))}
+</div>
+{tieneContenido && (
+  <article class="prosa mt-14">
+    <slot />
+  </article>
+)}

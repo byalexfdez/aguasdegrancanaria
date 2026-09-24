@@ -1,0 +1,22 @@
+{
+  "fuente": "/servicios/legislacion/canarias/nitratos.php",
+  "indice": 2,
+  "titulo": null,
+  "columnas": 1,
+  "cabeceras": [],
+  "filas": [
+    [
+      "© GOBIERNO DE CANARIAS"
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 0,
+      "texto": "None",
+      "url": "/imagenes/img/0_-10.gif",
+      "imagen": true
+    }
+  ]
+}

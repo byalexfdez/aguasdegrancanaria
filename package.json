@@ -1,0 +1,45 @@
+{
+  "name": "aguasgrancanaria-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Rediseño y migración de la web del Consejo Insular de Aguas de Gran Canaria",
+  "scripts": {
+    "scrape:crawl": "node scripts/scrape/01-crawl.mjs",
+    "scrape:check": "node scripts/scrape/02-check-resources.mjs",
+    "scrape:download": "node scripts/scrape/03-download.mjs",
+    "scrape:extract": "node scripts/scrape/04-extract.mjs",
+    "scrape:collections": "node scripts/scrape/05-collections.mjs",
+    "scrape:report": "node scripts/scrape/06-report.mjs",
+    "scrape:all": "npm run scrape:crawl && npm run scrape:check && npm run scrape:download && npm run scrape:extract && npm run scrape:collections && npm run scrape:report",
+    "dev": "astro dev",
+    "build": "astro build && pagefind --site dist",
+    "preview": "node scripts/servidor-local.mjs",
+    "contenido": "node scripts/contenido/construir.mjs",
+    "verificar": "node scripts/verify/verificar.mjs",
+    "redirecciones": "node scripts/despliegue/redirecciones.mjs",
+    "servir": "node scripts/servidor-local.mjs",
+    "verificar:navegador": "python scripts/verify/navegador.py"
+  },
+  "devDependencies": {
+    "axe-core": "^4.13.0",
+    "cheerio": "^1.2.0",
+    "iconv-lite": "^0.6.3",
+    "lighthouse": "^12.8.2",
+    "pagefind": "^1.5.2",
+    "turndown": "^7.2.4",
+    "turndown-plugin-gfm": "^1.0.2",
+    "xlsx": "^0.18.5",
+    "yaml": "^2.9.1"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "@fontsource-variable/public-sans": "^5.3.0",
+    "@fontsource-variable/sora": "^5.3.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^5.18.2",
+    "echarts": "^5.6.0",
+    "leaflet": "1.9",
+    "tailwindcss": "^4.3.3"
+  }
+}

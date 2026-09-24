@@ -1,0 +1,26 @@
+{
+  "fuente": "/perfil_con.php",
+  "indice": 4,
+  "titulo": null,
+  "columnas": 1,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Información Complementaria:"
+    ],
+    [
+      "- Anulaciones: NO"
+    ],
+    [
+      "- Estadísticas: NO"
+    ],
+    [
+      "- Penalizaciones: NO"
+    ],
+    [
+      "- Renuncias: NO"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

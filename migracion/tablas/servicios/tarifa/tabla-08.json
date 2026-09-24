@@ -1,0 +1,62 @@
+{
+  "fuente": "/servicios/tarifa.php",
+  "indice": 8,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "",
+      "",
+      "EUROS"
+    ]
+  ],
+  "filas": [
+    [
+      "1.",
+      "Trabajos de campo: mediciones, levantamientos topográficos,\nnivelaciones, replanteos, toma de muestras, ensayos de\nbombeo, aforos y otros; con emisión de informe facultativo.",
+      "140,60"
+    ],
+    [
+      "2.",
+      "Por día de trabajo de campo, adicional, cuando sea\nnecesario más de 1 día para el trabajo a realizar",
+      "93,50"
+    ],
+    [
+      "3.",
+      "Trabajos de gabinete; estudios, proyectos, valoraciones,\ncálculos, evaluaciones de proyectos y documentos, y\notros; con emisión de informe facultativo.",
+      "75,10"
+    ],
+    [
+      "4.",
+      "Inspecciones facultativas, sin trabajos específicos de\ncampo, con emisión de informe facultativo o acta.",
+      "72,60"
+    ],
+    [
+      "5.",
+      "Inspecciones facultativas de pozos, galerías u otros elementos\ncon alto riesgo, con emisión de informe facultativo o acta.",
+      "202,60"
+    ],
+    [
+      "6.",
+      "Actuación administrativa de localización y/o consulta de\nexpedientes o documentos en archivo histórico de este\nOrganismo, incremento sobre la tasa que corresponda",
+      "3,30"
+    ],
+    [
+      "7.",
+      "Remisión de documentos mediante correo ordinario\ncon acuse de recibo (certificado), envío local o\nnacional, hasta 200. g de peso.",
+      "4,10"
+    ],
+    [
+      "8.",
+      "Remisión de documentos mediante correo ordinario con\nacuse de recibo (certificado), envío local o nacional,\nhasta 1000 g de peso",
+      "5,85"
+    ],
+    [
+      "9.",
+      "Tasa mínima de actuación administrativa (no reguladas)",
+      "12,00"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

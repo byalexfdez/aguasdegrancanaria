@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/nitratos.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 08/01/2007",
+      "Título",
+      "Nitratos: protección de las aguas contra la contaminación producida por los nitratos procedentes de fuentes agrarias.",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "R.D. 261/1996, de 16 de febrero, sobre protección de las aguas contra la contaminación producida por los nitratos procedentes de fuentes agrarias.",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua Cont",
+      "",
+      "Real Decreto",
+      "España"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

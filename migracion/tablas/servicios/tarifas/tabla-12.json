@@ -1,0 +1,66 @@
+{
+  "fuente": "/servicios/tarifas.php",
+  "indice": 12,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [],
+  "filas": [
+    [
+      "1.",
+      "Fotocopia ordinaria de documentos de más de 30 años de antigüedad, hasta 5 páginas, formato A4",
+      "4,77"
+    ],
+    [
+      "2.",
+      "Fotocopia ordinaria de documentos de menos de 30 años de antigüedad, hasta 5 páginas, formato A4",
+      "2,09"
+    ],
+    [
+      "3.",
+      "Fotocopia ordinaria de documentos de más de 30 años de antigüedad, por página adicional a partir de 5, formato A4",
+      "0,95"
+    ],
+    [
+      "3.",
+      "Fotocopia ordinaria de documentos de más de 30 años de antigüedad, por página adicional a partir de 5, formato A4",
+      "0,95"
+    ],
+    [
+      "4.",
+      "Fotocopia ordinaria de documentos de menos de 30 años de antigüedad por página adicional a partir de 5, formato A4",
+      "0,41"
+    ],
+    [
+      "5.",
+      "Fotocopia ordinaria de documentos de más de 30 años de antigüedad, hasta 5 páginas, formato A3",
+      "5,12"
+    ],
+    [
+      "6.",
+      "Fotocopia ordinaria de documentos de menos de 30 años de antigüedad, hasta 5 páginas, formato A3",
+      "2,44"
+    ],
+    [
+      "7.",
+      "Fotocopia ordinaria de documentos de más de 30 años de antigüedad, por página adicional a partir de 5, formato A3",
+      "1,02"
+    ],
+    [
+      "8.",
+      "Fotocopia ordinaria de documentos de menos de 30 años de antigüedad, por página adicional a partir de 5, formato A3",
+      "0,48"
+    ],
+    [
+      "9.",
+      "Copia o impresión de planos, por plano hasta formato A1 o 0,50 m2",
+      "12,87"
+    ],
+    [
+      "10.",
+      "Copia o impresión de planos, por plano hasta formato B0 o 1,50 m2",
+      "23,87"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

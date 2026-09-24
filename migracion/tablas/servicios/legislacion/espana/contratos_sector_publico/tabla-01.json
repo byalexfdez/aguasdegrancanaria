@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/contratos_sector_publico.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 17/05/2010",
+      "Título",
+      "Ley de Contratos del Sector Publico",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Ley 30/07, de 30 de octubre, de contratos del Sector Público",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Contr",
+      "",
+      "Ley",
+      "España"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

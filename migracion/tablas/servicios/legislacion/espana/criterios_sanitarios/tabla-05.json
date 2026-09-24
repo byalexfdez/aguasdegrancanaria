@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/criterios_sanitarios.php",
+  "indice": 5,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "Parámetro",
+      "Valor paramétrico",
+      "Notas"
+    ]
+  ],
+  "filas": [
+    [
+      "28. Acrilamida.",
+      "0,10 µg/l",
+      "1"
+    ],
+    [
+      "29. Epiclorhidrina",
+      "0,10 µg/l",
+      "1"
+    ],
+    [
+      "30. Cloruro de vinilo",
+      "0,50 µg/l",
+      "1"
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 3,
+      "columna": 2,
+      "texto": "1",
+      "url": "http://www.juridicas.com/base_datos/Admin/rd140-2003.html"
+    }
+  ]
+}

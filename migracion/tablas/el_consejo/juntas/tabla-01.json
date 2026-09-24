@@ -1,0 +1,46 @@
+{
+  "fuente": "/el_consejo/juntas.php",
+  "indice": 1,
+  "titulo": "RESEÑA DE JUNTAS",
+  "columnas": 6,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Juntas de Gobierno",
+      "Juntas Generales",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 2,
+      "columna": 0,
+      "texto": "Juntas de Gobierno",
+      "url": "javascript:mostrar_gobierno();"
+    },
+    {
+      "fila": 2,
+      "columna": 0,
+      "texto": "",
+      "url": "/imagenes/img/collapse.gif",
+      "imagen": true
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "Juntas Generales",
+      "url": "javascript:mostrar_generales();"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/imagenes/img/collapse.gif",
+      "imagen": true
+    }
+  ]
+}

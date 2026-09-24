@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/canarias/ley_aguas.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación Creada el 19/03/2001",
+      "Título",
+      "Ley de Aguas de Canarias",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "L. 12/1990 de 26 de julio, sobre Normas Reguladoras de Aguas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua",
+      "",
+      "Ley",
+      "Canarias"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

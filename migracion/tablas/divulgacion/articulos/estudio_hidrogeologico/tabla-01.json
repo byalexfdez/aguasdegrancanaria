@@ -1,0 +1,39 @@
+{
+  "fuente": "/divulgacion/articulos/estudio_hidrogeologico.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Artículos y\nPublicaciones",
+      "Título",
+      "Estudio hidrogeológico del este de Gran Canaria",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Estado del conocimiento actual sobre el ciclo hidrológico, sobre el funcionamiento del acuífero y sobre los usos del agua en la zona este de Gran Canaria",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Tipo",
+      "Año",
+      "Tema",
+      "Autor"
+    ],
+    [
+      "",
+      "Estudio",
+      "2006",
+      "Hidrogeología",
+      "IGME - CIAGC"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

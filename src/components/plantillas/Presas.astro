@@ -1,0 +1,55 @@
+---
+import Icono from '../Icono.astro';
+import MapaPresas from '../MapaPresas.astro';
+import presas from '../../data/presas.json';
+import { ultimaLectura } from '../../lib/volumenes';
+import { numero } from '../../lib/formato';
+const { entrada } = Astro.props;
+const lectura = ultimaLectura();
+const inv = presas.inventarios as { id: string; titulo: string; total: number }[];
+const accesos = [
+  { t: 'Estado de los embalses', d: 'Lecturas mensuales, gráficas y Excel descargables.', u: '/agua-en-gran-canaria/presas/volumenes/', i: 'grafica' },
+  { t: 'Archivo técnico', d: 'Documentación técnica de las presas.', u: '/agua-en-gran-canaria/presas/archivo-tecnico/', i: 'documento' },
+  { t: 'Mapa de presas', d: 'Mapa interactivo con 168 presas y sus fichas. También en KMZ para Google Earth.', u: '#t-mapa-presas', i: 'mapa' },
+];
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase();
+---
+<div class="grid gap-4 sm:grid-cols-3">
+  {accesos.map((a) => (
+    <a href={a.u} class="tarjeta tarjeta-enlace group flex gap-4 p-5 no-underline text-texto">
+      <span class="grid place-items-center size-12 shrink-0 rounded-2xl bg-marca-50 text-marca-700 group-hover:bg-marca-700 group-hover:text-white dark:bg-marca-900 dark:text-marca-200"><Icono nombre={a.i} /></span>
+      <span><span class="block font-display font-bold text-atlantico-900 dark:text-white group-hover:text-marca-700">{a.t}</span><span class="text-sm text-texto-suave">{a.d}</span></span>
+    </a>
+  ))}
+</div>
+
+<dl class="mt-8 grid gap-px overflow-hidden rounded-[var(--radius-tarjeta)] border border-borde bg-borde sm:grid-cols-3">
+  {inv.map((i) => (
+    <div class="bg-superficie p-5">
+      <dt class="text-sm text-texto-suave">{i.titulo.replace(/\s+/g, ' ')}</dt>
+      <dd class="font-display text-3xl font-bold text-marca-700 dark:text-marca-300">{numero(i.total)}</dd>
+    </div>
+  ))}
+</dl>
+
+{lectura && (
+  <aside class="mt-8 tarjeta p-6 bg-atlantico-900 text-white border-0" aria-labelledby="t-ahora">
+    <div class="flex flex-wrap items-center justify-between gap-4">
+      <h2 id="t-ahora" class="font-display text-xl font-bold">Embalses del Consejo · {cap(lectura.mes)} de {lectura.anio}</h2>
+      <a href="/agua-en-gran-canaria/presas/volumenes/" class="boton boton-claro">Ver el panel <Icono nombre="flecha" tam={16} /></a>
+    </div>
+    <ul class="mt-5 grid gap-x-8 gap-y-2 sm:grid-cols-2">
+      {lectura.presas.map((p) => (
+        <li class="grid grid-cols-[7rem_1fr_4rem] items-center gap-3 text-sm">
+          <span class="font-semibold">{cap(p.presa)}</span>
+          <span class="h-2.5 rounded-full bg-white/10 overflow-hidden" aria-hidden="true"><span class="block h-full rounded-full bg-turquesa-500" style={`width:${Math.min(100, (p.porcentaje ?? 0) * 100)}%`}></span></span>
+          <span class="text-right tabular-nums">{p.porcentaje == null ? '—' : `${numero(p.porcentaje * 100, 1)} %`}</span>
+        </li>
+      ))}
+    </ul>
+  </aside>
+)}
+
+<MapaPresas />
+
+<article class="prosa mt-12"><slot /></article>

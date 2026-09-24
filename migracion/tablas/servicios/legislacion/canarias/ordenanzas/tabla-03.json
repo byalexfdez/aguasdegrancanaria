@@ -1,0 +1,44 @@
+{
+  "fuente": "/servicios/legislacion/canarias/ordenanzas.php",
+  "indice": 3,
+  "titulo": null,
+  "columnas": 6,
+  "cabeceras": [
+    [
+      "",
+      "Azada",
+      "Horas",
+      "Caudal",
+      "M3/hora",
+      "M3/azada"
+    ]
+  ],
+  "filas": [
+    [
+      "Norte",
+      "1",
+      "12",
+      "8 l/s",
+      "28.8",
+      "345.6"
+    ],
+    [
+      "Sur-Centro",
+      "1",
+      "12",
+      "10 l/s",
+      "36",
+      "432"
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 0,
+      "texto": "",
+      "url": "https://www.aguasgrancanaria.com/icons/ecblank.gif",
+      "imagen": true
+    }
+  ]
+}

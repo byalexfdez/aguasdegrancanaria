@@ -1,0 +1,1490 @@
+{
+  "/imagenes/logo_sdc.png": {
+    "w": 91,
+    "h": 132,
+    "bytes": 2741
+  },
+  "/imagenes/img/0.gif": {
+    "w": 90,
+    "h": 86,
+    "bytes": 1737
+  },
+  "/imagenes/img/01_04_general.gif": {
+    "w": 514,
+    "h": 260,
+    "bytes": 4994
+  },
+  "/imagenes/img/0_-10.gif": {
+    "w": 596,
+    "h": 8,
+    "bytes": 293
+  },
+  "/imagenes/img/16.gif": {
+    "w": 437,
+    "h": 551,
+    "bytes": 13366
+  },
+  "/imagenes/img/1_densidad_peq.gif": {
+    "w": 102,
+    "h": 121,
+    "bytes": 1265
+  },
+  "/imagenes/img/1_gambuesa.jpg": {
+    "w": 204,
+    "h": 173,
+    "bytes": 7703
+  },
+  "/imagenes/img/1_niebla.jpg": {
+    "w": 396,
+    "h": 184,
+    "bytes": 6183
+  },
+  "/imagenes/img/1_panoramica_artenara.jpg": {
+    "w": 800,
+    "h": 144,
+    "bytes": 56331,
+    "webp": "/imagenes/img/1_panoramica_artenara.opt.webp"
+  },
+  "/imagenes/img/1_permeabilidad.gif": {
+    "w": 569,
+    "h": 743,
+    "bytes": 32584
+  },
+  "/imagenes/img/2005-03-07_presapintor0091.jpg": {
+    "w": 401,
+    "h": 365,
+    "bytes": 121705,
+    "webp": "/imagenes/img/2005-03-07_presapintor0091.opt.webp"
+  },
+  "/imagenes/img/20250719-fotonoticia-abastecimiento-de-agua-en-el-valle-de-agaete.jpg": {
+    "w": 980,
+    "h": 454,
+    "bytes": 87334,
+    "webp": "/imagenes/img/20250719-fotonoticia-abastecimiento-de-agua-en-el-valle-de-agaete.opt.webp"
+  },
+  "/imagenes/img/20250721-fotonoticia-el-nuevo-deposito-de-el-fondillo.jpg": {
+    "w": 1024,
+    "h": 683,
+    "bytes": 84571,
+    "webp": "/imagenes/img/20250721-fotonoticia-el-nuevo-deposito-de-el-fondillo.opt.webp"
+  },
+  "/imagenes/img/20251111_fotonoticia_arranca-la-obra-submarina-de-salto-de-chira.webp": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 84200
+  },
+  "/imagenes/img/20251111_fotonoticia_la-excavacion-de-la-caverna-de-la-central-concentra-la-obra-subterranea.jpg": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 147422,
+    "webp": "/imagenes/img/20251111_fotonoticia_la-excavacion-de-la-caverna-de-la-central-concentra-la-obra-subterranea.opt.webp"
+  },
+  "/imagenes/img/20260401_fotonoticia_la-red-de-presas-de-gran-canaria.jpg": {
+    "w": 1707,
+    "h": 960,
+    "bytes": 236334,
+    "webp": "/imagenes/img/20260401_fotonoticia_la-red-de-presas-de-gran-canaria.opt.webp"
+  },
+  "/imagenes/img/23.gif": {
+    "w": 337,
+    "h": 205,
+    "bytes": 8464
+  },
+  "/imagenes/img/250715-fotonoticia-reunion-cabildo-gran-canaria.jpeg": {
+    "w": 2000,
+    "h": 1072,
+    "bytes": 171745,
+    "webp": "/imagenes/img/250715-fotonoticia-reunion-cabildo-gran-canaria.opt.webp"
+  },
+  "/imagenes/img/250726-fotonoticia-obras-en-tres-barrancos.webp": {
+    "w": 880,
+    "h": 495,
+    "bytes": 70902
+  },
+  "/imagenes/img/250726-fotonoticia-un-millon-de-euros-mitigara-inundaciones.webp": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 105096
+  },
+  "/imagenes/img/2894_reunion.jpg": {
+    "w": 980,
+    "h": 590,
+    "bytes": 78407,
+    "webp": "/imagenes/img/2894_reunion.opt.webp"
+  },
+  "/imagenes/img/3_d_almac_precip.gif": {
+    "w": 525,
+    "h": 720,
+    "bytes": 48514
+  },
+  "/imagenes/img/3_d_almac_precip_peq.gif": {
+    "w": 245,
+    "h": 336,
+    "bytes": 12079
+  },
+  "/imagenes/img/3_d_aprovechamientos.gif": {
+    "w": 478,
+    "h": 696,
+    "bytes": 10542
+  },
+  "/imagenes/img/3_d_aprovecham_peq.jpg": {
+    "w": 231,
+    "h": 313,
+    "bytes": 18449
+  },
+  "/imagenes/img/3_d_presas.gif": {
+    "w": 500,
+    "h": 704,
+    "bytes": 43657
+  },
+  "/imagenes/img/3_d_presas_peq.gif": {
+    "w": 210,
+    "h": 298,
+    "bytes": 10564
+  },
+  "/imagenes/img/3_t_max_avdas.gif": {
+    "w": 903,
+    "h": 354,
+    "bytes": 12670
+  },
+  "/imagenes/img/3_t_max_avdas_peq.gif": {
+    "w": 576,
+    "h": 226,
+    "bytes": 6730
+  },
+  "/imagenes/img/3_t_obras_almac_peq.gif": {
+    "w": 192,
+    "h": 84,
+    "bytes": 1146
+  },
+  "/imagenes/img/3_t_presas_peq.gif": {
+    "w": 180,
+    "h": 81,
+    "bytes": 1146
+  },
+  "/imagenes/img/4_casa_maq.jpg": {
+    "w": 216,
+    "h": 162,
+    "bytes": 8969
+  },
+  "/imagenes/img/4_d_sit_adm.gif": {
+    "w": 314,
+    "h": 192,
+    "bytes": 2014
+  },
+  "/imagenes/img/4_fondo_pozo.jpg": {
+    "w": 147,
+    "h": 126,
+    "bytes": 5516
+  },
+  "/imagenes/img/4_humedal.jpg": {
+    "w": 181,
+    "h": 149,
+    "bytes": 8453
+  },
+  "/imagenes/img/4_m_captaciones.gif": {
+    "w": 611,
+    "h": 712,
+    "bytes": 21893
+  },
+  "/imagenes/img/4_m_descensos.gif": {
+    "w": 613,
+    "h": 714,
+    "bytes": 15242
+  },
+  "/imagenes/img/4_m_descensos_peq.gif": {
+    "w": 76,
+    "h": 89,
+    "bytes": 950
+  },
+  "/imagenes/img/4_m_hidroq.gif": {
+    "w": 617,
+    "h": 719,
+    "bytes": 19966
+  },
+  "/imagenes/img/4_m_hidroq_peq.gif": {
+    "w": 80,
+    "h": 93,
+    "bytes": 1207
+  },
+  "/imagenes/img/4_m_niveles.gif": {
+    "w": 627,
+    "h": 731,
+    "bytes": 18388
+  },
+  "/imagenes/img/4_m_niveles_peq.gif": {
+    "w": 97,
+    "h": 113,
+    "bytes": 1465
+  },
+  "/imagenes/img/4_pozo.jpg": {
+    "w": 180,
+    "h": 120,
+    "bytes": 7536
+  },
+  "/imagenes/img/4_t_tipo_capt_munic.gif": {
+    "w": 560,
+    "h": 440,
+    "bytes": 9947
+  },
+  "/imagenes/img/4_t_tipo_capt_munic_peq.gif": {
+    "w": 143,
+    "h": 112,
+    "bytes": 1198
+  },
+  "/imagenes/img/5_m_depuradoras.gif": {
+    "w": 680,
+    "h": 852,
+    "bytes": 63938
+  },
+  "/imagenes/img/5_m_depuradoras_peq.gif": {
+    "w": 71,
+    "h": 89,
+    "bytes": 2473
+  },
+  "/imagenes/img/5_m_desaladoras_as.gif": {
+    "w": 680,
+    "h": 812,
+    "bytes": 56860
+  },
+  "/imagenes/img/5_m_desaladoras_sw.gif": {
+    "w": 612,
+    "h": 756,
+    "bytes": 49354
+  },
+  "/imagenes/img/5_panoramica.jpg": {
+    "w": 608,
+    "h": 141,
+    "bytes": 19073
+  },
+  "/imagenes/img/5_t_edar_peq.gif": {
+    "w": 167,
+    "h": 72,
+    "bytes": 788
+  },
+  "/imagenes/img/6_m_cultivos.gif": {
+    "w": 653,
+    "h": 777,
+    "bytes": 21029
+  },
+  "/imagenes/img/6_t_abast_munic.gif": {
+    "w": 839,
+    "h": 524,
+    "bytes": 19907
+  },
+  "/imagenes/img/9.gif": {
+    "w": 437,
+    "h": 848,
+    "bytes": 20376
+  },
+  "/imagenes/img/agrivoltaica_bosque_comestible.webp": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 183182
+  },
+  "/imagenes/img/alerta-2018-01-29.png": {
+    "w": 501,
+    "h": 332,
+    "bytes": 11933
+  },
+  "/imagenes/img/antonio-morales-debate-insular-gran-canaria.webp": {
+    "w": 1500,
+    "h": 1000,
+    "bytes": 38892
+  },
+  "/imagenes/img/aquamac.jpg": {
+    "w": 115,
+    "h": 94,
+    "bytes": 2017
+  },
+  "/imagenes/img/articulo_4.gif": {
+    "w": 452,
+    "h": 284,
+    "bytes": 18470
+  },
+  "/imagenes/img/avenida_tasarte_clip_image002.jpg": {
+    "w": 522,
+    "h": 411,
+    "bytes": 79415,
+    "webp": "/imagenes/img/avenida_tasarte_clip_image002.opt.webp"
+  },
+  "/imagenes/img/avenida_tasarte_clip_image004.jpg": {
+    "w": 532,
+    "h": 367,
+    "bytes": 42331,
+    "webp": "/imagenes/img/avenida_tasarte_clip_image004.opt.webp"
+  },
+  "/imagenes/img/avenida_tasarte_clip_image006.gif": {
+    "w": 606,
+    "h": 324,
+    "bytes": 65475
+  },
+  "/imagenes/img/avenida_tasarte_clip_image009.jpg": {
+    "w": 468,
+    "h": 346,
+    "bytes": 67816,
+    "webp": "/imagenes/img/avenida_tasarte_clip_image009.opt.webp"
+  },
+  "/imagenes/img/avenida_tasarte_clip_image011.jpg": {
+    "w": 534,
+    "h": 366,
+    "bytes": 39168,
+    "webp": "/imagenes/img/avenida_tasarte_clip_image011.opt.webp"
+  },
+  "/imagenes/img/avenida_tasarte_clip_image015.jpg": {
+    "w": 532,
+    "h": 372,
+    "bytes": 44267,
+    "webp": "/imagenes/img/avenida_tasarte_clip_image015.opt.webp"
+  },
+  "/imagenes/img/avenida_tasarte_clip_image017.jpg": {
+    "w": 370,
+    "h": 391,
+    "bytes": 37074,
+    "webp": "/imagenes/img/avenida_tasarte_clip_image017.opt.webp"
+  },
+  "/imagenes/img/avenida_tasarte_clip_image019.jpg": {
+    "w": 492,
+    "h": 367,
+    "bytes": 41971,
+    "webp": "/imagenes/img/avenida_tasarte_clip_image019.opt.webp"
+  },
+  "/imagenes/img/balance.gif": {
+    "w": 416,
+    "h": 518,
+    "bytes": 7010
+  },
+  "/imagenes/img/barrancos_cuencas.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 82696,
+    "webp": "/imagenes/img/barrancos_cuencas.opt.webp"
+  },
+  "/imagenes/img/bide-a.gif": {
+    "w": 118,
+    "h": 47,
+    "bytes": 1656
+  },
+  "/imagenes/img/boe.gif": {
+    "w": 139,
+    "h": 55,
+    "bytes": 2116
+  },
+  "/imagenes/img/boe_a_2013.gif": {
+    "w": 249,
+    "h": 47,
+    "bytes": 1784
+  },
+  "/imagenes/img/borrasca-canarias.jpg": {
+    "w": 636,
+    "h": 431,
+    "bytes": 116206,
+    "webp": "/imagenes/img/borrasca-canarias.opt.webp"
+  },
+  "/imagenes/img/c2_europa.jpg": {
+    "w": 96,
+    "h": 96,
+    "bytes": 1970
+  },
+  "/imagenes/img/cabildo.jpg": {
+    "w": 211,
+    "h": 204,
+    "bytes": 13853
+  },
+  "/imagenes/img/cable-barranco.webp": {
+    "w": 1200,
+    "h": 789,
+    "bytes": 238016
+  },
+  "/imagenes/img/ccauces.jpg": {
+    "w": 92,
+    "h": 99,
+    "bytes": 26941
+  },
+  "/imagenes/img/chira-aerrea-canarias7.webp": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 154464
+  },
+  "/imagenes/img/ciagc.gif": {
+    "w": 114,
+    "h": 105,
+    "bytes": 4167
+  },
+  "/imagenes/img/collage-barranquillo-salinetas.webp": {
+    "w": 2000,
+    "h": 1545,
+    "bytes": 475968
+  },
+  "/imagenes/img/collapse.gif": {
+    "w": 16,
+    "h": 16,
+    "bytes": 857
+  },
+  "/imagenes/img/comision_adaptacion_cambio_climatico.webp": {
+    "w": 600,
+    "h": 450,
+    "bytes": 21370
+  },
+  "/imagenes/img/consumos_agrarios.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 86474,
+    "webp": "/imagenes/img/consumos_agrarios.opt.webp"
+  },
+  "/imagenes/img/cuando-salto-chira.webp": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 333038
+  },
+  "/imagenes/img/cultivos.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 70144,
+    "webp": "/imagenes/img/cultivos.opt.webp"
+  },
+  "/imagenes/img/decreto.gif": {
+    "w": 54,
+    "h": 42,
+    "bytes": 2759
+  },
+  "/imagenes/img/del_regante_gui174.jpg": {
+    "w": 283,
+    "h": 280,
+    "bytes": 114519,
+    "webp": "/imagenes/img/del_regante_gui174.opt.webp"
+  },
+  "/imagenes/img/desalacion_cambio_climatico_noticia.webp": {
+    "w": 1200,
+    "h": 675,
+    "bytes": 100672
+  },
+  "/imagenes/img/desalacion_depuracion.jpg": {
+    "w": 570,
+    "h": 402,
+    "bytes": 65358,
+    "webp": "/imagenes/img/desalacion_depuracion.opt.webp"
+  },
+  "/imagenes/img/desaladoras-portatiles.webp": {
+    "w": 1200,
+    "h": 675,
+    "bytes": 51066
+  },
+  "/imagenes/img/desaladoras_clip_image002.gif": {
+    "w": 501,
+    "h": 373,
+    "bytes": 6974
+  },
+  "/imagenes/img/desaladoras_clip_image004.gif": {
+    "w": 566,
+    "h": 659,
+    "bytes": 16174
+  },
+  "/imagenes/img/desaladoras_clip_image006.gif": {
+    "w": 563,
+    "h": 144,
+    "bytes": 3867
+  },
+  "/imagenes/img/desaladoras_clip_image008.jpg": {
+    "w": 558,
+    "h": 388,
+    "bytes": 36387,
+    "webp": "/imagenes/img/desaladoras_clip_image008.opt.webp"
+  },
+  "/imagenes/img/desaladoras_clip_image010.gif": {
+    "w": 237,
+    "h": 259,
+    "bytes": 2423
+  },
+  "/imagenes/img/desaladoras_clip_image012.gif": {
+    "w": 563,
+    "h": 172,
+    "bytes": 4181
+  },
+  "/imagenes/img/desaladoras_clip_image014.gif": {
+    "w": 564,
+    "h": 302,
+    "bytes": 8332
+  },
+  "/imagenes/img/desaladoras_clip_image016.gif": {
+    "w": 564,
+    "h": 294,
+    "bytes": 7895
+  },
+  "/imagenes/img/desalife-agua-potable-energia.webp": {
+    "w": 990,
+    "h": 575,
+    "bytes": 88452
+  },
+  "/imagenes/img/directivas_prioritarias.gif": {
+    "w": 118,
+    "h": 47,
+    "bytes": 1650
+  },
+  "/imagenes/img/dir_inundaciones.gif": {
+    "w": 109,
+    "h": 47,
+    "bytes": 1633
+  },
+  "/imagenes/img/dma_conceptos_clip_image003.jpg": {
+    "w": 414,
+    "h": 209,
+    "bytes": 12643
+  },
+  "/imagenes/img/dma_conceptos_clip_image005.gif": {
+    "w": 153,
+    "h": 156,
+    "bytes": 1237
+  },
+  "/imagenes/img/dma_conceptos_clip_image007.gif": {
+    "w": 397,
+    "h": 121,
+    "bytes": 13116
+  },
+  "/imagenes/img/dma_conceptos_clip_image009.gif": {
+    "w": 159,
+    "h": 178,
+    "bytes": 1683
+  },
+  "/imagenes/img/d_evapo_precip.gif": {
+    "w": 332,
+    "h": 235,
+    "bytes": 5179
+  },
+  "/imagenes/img/d_precip_mensual.gif": {
+    "w": 295,
+    "h": 235,
+    "bytes": 2259
+  },
+  "/imagenes/img/d_precip_periodo.gif": {
+    "w": 323,
+    "h": 276,
+    "bytes": 4274
+  },
+  "/imagenes/img/emisario-guia_galdar.webp": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 136014
+  },
+  "/imagenes/img/escudo.gif": {
+    "w": 55,
+    "h": 58,
+    "bytes": 2629
+  },
+  "/imagenes/img/esdudos-emblemas-programas-cofinanciados3.jpg": {
+    "w": 1028,
+    "h": 82,
+    "bytes": 25048
+  },
+  "/imagenes/img/evaluacion_riesgos_inundacion.gif": {
+    "w": 240,
+    "h": 47,
+    "bytes": 2134
+  },
+  "/imagenes/img/favicon.gif": {
+    "w": 120,
+    "h": 120,
+    "bytes": 1577
+  },
+  "/imagenes/img/firgas_presa_2.jpg": {
+    "w": 316,
+    "h": 224,
+    "bytes": 75576,
+    "webp": "/imagenes/img/firgas_presa_2.opt.webp"
+  },
+  "/imagenes/img/fondos_feder_clip_image002.jpg": {
+    "w": 156,
+    "h": 99,
+    "bytes": 2674
+  },
+  "/imagenes/img/fotonoticia_chira_entra_en_fase_clave.webp": {
+    "w": 880,
+    "h": 495,
+    "bytes": 51000
+  },
+  "/imagenes/img/fotonoticia_cuenta_atras_agua_desalada_soria.webp": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 190322
+  },
+  "/imagenes/img/galeria_piloto_canarias7.jpg": {
+    "w": 1197,
+    "h": 840,
+    "bytes": 199916,
+    "webp": "/imagenes/img/galeria_piloto_canarias7.opt.webp"
+  },
+  "/imagenes/img/gc-contra-desertizacion.webp": {
+    "w": 1024,
+    "h": 768,
+    "bytes": 237860
+  },
+  "/imagenes/img/get_adobe_reader.gif": {
+    "w": 112,
+    "h": 33,
+    "bytes": 2101
+  },
+  "/imagenes/img/get_google_earth.gif": {
+    "w": 112,
+    "h": 33,
+    "bytes": 2679
+  },
+  "/imagenes/img/gran-canaria-un-modelo-claro-de-isla-sostenible.webp": {
+    "w": 750,
+    "h": 500,
+    "bytes": 37896
+  },
+  "/imagenes/img/granca.jpg": {
+    "w": 61,
+    "h": 67,
+    "bytes": 9006
+  },
+  "/imagenes/img/guiabarranco.jpg": {
+    "w": 1451,
+    "h": 1011,
+    "bytes": 528944,
+    "webp": "/imagenes/img/guiabarranco.opt.webp"
+  },
+  "/imagenes/img/infraestructuras.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 92373,
+    "webp": "/imagenes/img/infraestructuras.opt.webp"
+  },
+  "/imagenes/img/institutogeologicominero.gif": {
+    "w": 105,
+    "h": 112,
+    "bytes": 1949
+  },
+  "/imagenes/img/instrumentos_pdf_0.gif": {
+    "w": 199,
+    "h": 47,
+    "bytes": 2029
+  },
+  "/imagenes/img/islapluv.jpg": {
+    "w": 336,
+    "h": 354,
+    "bytes": 155463,
+    "webp": "/imagenes/img/islapluv.opt.webp"
+  },
+  "/imagenes/img/isoyetas_peq.gif": {
+    "w": 152,
+    "h": 189,
+    "bytes": 3647
+  },
+  "/imagenes/img/isoyetas_rango_peq.gif": {
+    "w": 147,
+    "h": 193,
+    "bytes": 2093
+  },
+  "/imagenes/img/jornada_online.jpg": {
+    "w": 1695,
+    "h": 2294,
+    "bytes": 421722,
+    "webp": "/imagenes/img/jornada_online.opt.webp"
+  },
+  "/imagenes/img/jovenes_por_agua.jpg": {
+    "w": 600,
+    "h": 449,
+    "bytes": 62480,
+    "webp": "/imagenes/img/jovenes_por_agua.opt.webp"
+  },
+  "/imagenes/img/lluvias-gc-oliver.webp": {
+    "w": 1290,
+    "h": 1259,
+    "bytes": 72916
+  },
+  "/imagenes/img/logo11.jpg": {
+    "w": 600,
+    "h": 200,
+    "bytes": 33255,
+    "webp": "/imagenes/img/logo11.opt.webp"
+  },
+  "/imagenes/img/logociagc.jpg": {
+    "w": 100,
+    "h": 92,
+    "bytes": 3048
+  },
+  "/imagenes/img/logociagc_cian_peq_agua_clara.gif": {
+    "w": 100,
+    "h": 54,
+    "bytes": 1319
+  },
+  "/imagenes/img/logotipo_programa_color.jpg": {
+    "w": 146,
+    "h": 164,
+    "bytes": 7149
+  },
+  "/imagenes/img/logo_pdf.gif": {
+    "w": 34,
+    "h": 34,
+    "bytes": 1452
+  },
+  "/imagenes/img/mancomunidadsureste.gif": {
+    "w": 105,
+    "h": 166,
+    "bytes": 5022
+  },
+  "/imagenes/img/manual_directiva.gif": {
+    "w": 258,
+    "h": 47,
+    "bytes": 2265
+  },
+  "/imagenes/img/marca.gif": {
+    "w": 150,
+    "h": 10,
+    "bytes": 468
+  },
+  "/imagenes/img/masasaguasubterranea.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 95533,
+    "webp": "/imagenes/img/masasaguasubterranea.opt.webp"
+  },
+  "/imagenes/img/mejoras-redes-santa-lucia.webp": {
+    "w": 600,
+    "h": 327,
+    "bytes": 215010
+  },
+  "/imagenes/img/ministerioeducacionciencia.jpg": {
+    "w": 166,
+    "h": 67,
+    "bytes": 17119
+  },
+  "/imagenes/img/modelo-desalacion-agua.webp": {
+    "w": 1200,
+    "h": 675,
+    "bytes": 22534
+  },
+  "/imagenes/img/noticia20240930.jpg": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 121882,
+    "webp": "/imagenes/img/noticia20240930.opt.webp"
+  },
+  "/imagenes/img/noticia_22112024.jpg": {
+    "w": 1200,
+    "h": 675,
+    "bytes": 53674,
+    "webp": "/imagenes/img/noticia_22112024.opt.webp"
+  },
+  "/imagenes/img/noticia_29102024.jpg": {
+    "w": 1600,
+    "h": 900,
+    "bytes": 628922,
+    "webp": "/imagenes/img/noticia_29102024.opt.webp"
+  },
+  "/imagenes/img/noticia_29102024_2.jpg": {
+    "w": 1024,
+    "h": 683,
+    "bytes": 111599,
+    "webp": "/imagenes/img/noticia_29102024_2.opt.webp"
+  },
+  "/imagenes/img/noticia_29102024_3.jpg": {
+    "w": 1200,
+    "h": 675,
+    "bytes": 77408,
+    "webp": "/imagenes/img/noticia_29102024_3.opt.webp"
+  },
+  "/imagenes/img/nueva_directiva_aguas.gif": {
+    "w": 189,
+    "h": 47,
+    "bytes": 1495
+  },
+  "/imagenes/img/oliver-embalses-2.webp": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 128732
+  },
+  "/imagenes/img/oliver-embalses.webp": {
+    "w": 758,
+    "h": 531,
+    "bytes": 112628
+  },
+  "/imagenes/img/orggeneral.png": {
+    "w": 727,
+    "h": 368,
+    "bytes": 23098
+  },
+  "/imagenes/img/pcag_1.gif": {
+    "w": 575,
+    "h": 61,
+    "bytes": 4266
+  },
+  "/imagenes/img/pcag_2.gif": {
+    "w": 113,
+    "h": 42,
+    "bytes": 1552
+  },
+  "/imagenes/img/permeabilidad.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 98074,
+    "webp": "/imagenes/img/permeabilidad.opt.webp"
+  },
+  "/imagenes/img/politica_territorial_9_millones.jpg": {
+    "w": 990,
+    "h": 575,
+    "bytes": 63111,
+    "webp": "/imagenes/img/politica_territorial_9_millones.opt.webp"
+  },
+  "/imagenes/img/pozos.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 75747,
+    "webp": "/imagenes/img/pozos.opt.webp"
+  },
+  "/imagenes/img/precipitaciones.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 84654,
+    "webp": "/imagenes/img/precipitaciones.opt.webp"
+  },
+  "/imagenes/img/presas-gran-canaria.webp": {
+    "w": 768,
+    "h": 432,
+    "bytes": 111288
+  },
+  "/imagenes/img/presas.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 93441,
+    "webp": "/imagenes/img/presas.opt.webp"
+  },
+  "/imagenes/img/presas_de_grancanaria_clip_image001.jpg": {
+    "w": 308,
+    "h": 230,
+    "bytes": 99172,
+    "webp": "/imagenes/img/presas_de_grancanaria_clip_image001.opt.webp"
+  },
+  "/imagenes/img/presas_de_grancanaria_clip_image001_0000.jpg": {
+    "w": 308,
+    "h": 230,
+    "bytes": 110376,
+    "webp": "/imagenes/img/presas_de_grancanaria_clip_image001_0000.opt.webp"
+  },
+  "/imagenes/img/presas_de_grancanaria_clip_image001_0001.jpg": {
+    "w": 310,
+    "h": 375,
+    "bytes": 192577,
+    "webp": "/imagenes/img/presas_de_grancanaria_clip_image001_0001.opt.webp"
+  },
+  "/imagenes/img/presas_de_grancanaria_clip_image001_0002.jpg": {
+    "w": 394,
+    "h": 416,
+    "bytes": 181061,
+    "webp": "/imagenes/img/presas_de_grancanaria_clip_image001_0002.opt.webp"
+  },
+  "/imagenes/img/presas_de_grancanaria_clip_image002_0008.gif": {
+    "w": 385,
+    "h": 357,
+    "bytes": 38022
+  },
+  "/imagenes/img/presas_de_grancanaria_clip_image002_0010.gif": {
+    "w": 363,
+    "h": 474,
+    "bytes": 87288
+  },
+  "/imagenes/img/presas_de_grancanaria_clip_image002_0011.gif": {
+    "w": 505,
+    "h": 181,
+    "bytes": 12884
+  },
+  "/imagenes/img/presas_de_grancanaria_clip_image002_0012.gif": {
+    "w": 573,
+    "h": 192,
+    "bytes": 15088
+  },
+  "/imagenes/img/presas_de_grancanaria_clip_image002_0013.gif": {
+    "w": 573,
+    "h": 206,
+    "bytes": 19070
+  },
+  "/imagenes/img/presa_chira_gran_canaria.jpg": {
+    "w": 340,
+    "h": 239,
+    "bytes": 91826,
+    "webp": "/imagenes/img/presa_chira_gran_canaria.opt.webp"
+  },
+  "/imagenes/img/presa_de_chira.jpg": {
+    "w": 305,
+    "h": 270,
+    "bytes": 114117,
+    "webp": "/imagenes/img/presa_de_chira.opt.webp"
+  },
+  "/imagenes/img/presidente.jpg": {
+    "w": 512,
+    "h": 373,
+    "bytes": 46512,
+    "webp": "/imagenes/img/presidente.opt.webp"
+  },
+  "/imagenes/img/p_anual_1924.gif": {
+    "w": 889,
+    "h": 555,
+    "bytes": 15252
+  },
+  "/imagenes/img/p_anual_1924_peq.jpg": {
+    "w": 252,
+    "h": 157,
+    "bytes": 7727
+  },
+  "/imagenes/img/p_anual_1950.gif": {
+    "w": 923,
+    "h": 575,
+    "bytes": 15093
+  },
+  "/imagenes/img/p_anual_1950_peq.jpg": {
+    "w": 251,
+    "h": 157,
+    "bytes": 7011
+  },
+  "/imagenes/img/p_anual_norte.gif": {
+    "w": 880,
+    "h": 548,
+    "bytes": 10580
+  },
+  "/imagenes/img/p_anual_norte_peq.jpg": {
+    "w": 303,
+    "h": 189,
+    "bytes": 10523
+  },
+  "/imagenes/img/p_anual_porcota.gif": {
+    "w": 947,
+    "h": 590,
+    "bytes": 13411
+  },
+  "/imagenes/img/p_anual_porcota_peq.jpg": {
+    "w": 303,
+    "h": 189,
+    "bytes": 12584
+  },
+  "/imagenes/img/p_anual_porzonas.gif": {
+    "w": 914,
+    "h": 569,
+    "bytes": 18520
+  },
+  "/imagenes/img/p_anual_porzonas_peq.jpg": {
+    "w": 240,
+    "h": 149,
+    "bytes": 7805
+  },
+  "/imagenes/img/p_anual_resto.gif": {
+    "w": 922,
+    "h": 574,
+    "bytes": 9352
+  },
+  "/imagenes/img/p_anual_resto_peq.jpg": {
+    "w": 303,
+    "h": 189,
+    "bytes": 8961
+  },
+  "/imagenes/img/p_desv_ah.gif": {
+    "w": 860,
+    "h": 578,
+    "bytes": 13527
+  },
+  "/imagenes/img/p_desv_ah_peq.jpg": {
+    "w": 303,
+    "h": 189,
+    "bytes": 11086
+  },
+  "/imagenes/img/p_desv_la.gif": {
+    "w": 860,
+    "h": 581,
+    "bytes": 13299
+  },
+  "/imagenes/img/p_desv_la_peq.jpg": {
+    "w": 303,
+    "h": 189,
+    "bytes": 11228
+  },
+  "/imagenes/img/p_desv_rt.gif": {
+    "w": 922,
+    "h": 574,
+    "bytes": 13029
+  },
+  "/imagenes/img/p_desv_rt_peq.jpg": {
+    "w": 303,
+    "h": 189,
+    "bytes": 10965
+  },
+  "/imagenes/img/p_estaciones.gif": {
+    "w": 910,
+    "h": 567,
+    "bytes": 12247
+  },
+  "/imagenes/img/p_estaciones_peq.jpg": {
+    "w": 303,
+    "h": 189,
+    "bytes": 8620
+  },
+  "/imagenes/img/p_mensual.gif": {
+    "w": 962,
+    "h": 539,
+    "bytes": 10193
+  },
+  "/imagenes/img/p_mensual_peq.jpg": {
+    "w": 314,
+    "h": 177,
+    "bytes": 10188
+  },
+  "/imagenes/img/p_mensual_porzonas.gif": {
+    "w": 910,
+    "h": 566,
+    "bytes": 9233
+  },
+  "/imagenes/img/p_mensual_porzonas_peq.jpg": {
+    "w": 276,
+    "h": 172,
+    "bytes": 8119
+  },
+  "/imagenes/img/p_tabla.jpg": {
+    "w": 409,
+    "h": 344,
+    "bytes": 39267,
+    "webp": "/imagenes/img/p_tabla.opt.webp"
+  },
+  "/imagenes/img/queso.jpg": {
+    "w": 371,
+    "h": 250,
+    "bytes": 61525,
+    "webp": "/imagenes/img/queso.opt.webp"
+  },
+  "/imagenes/img/recursos.gif": {
+    "w": 297,
+    "h": 302,
+    "bytes": 3777
+  },
+  "/imagenes/img/redcontrol.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 98151,
+    "webp": "/imagenes/img/redcontrol.opt.webp"
+  },
+  "/imagenes/img/redcontrol_image001.png": {
+    "w": 513,
+    "h": 483,
+    "bytes": 395159,
+    "webp": "/imagenes/img/redcontrol_image001.opt.webp"
+  },
+  "/imagenes/img/redcontrol_image003.png": {
+    "w": 713,
+    "h": 497,
+    "bytes": 200240,
+    "webp": "/imagenes/img/redcontrol_image003.opt.webp"
+  },
+  "/imagenes/img/redcontrol_image005.png": {
+    "w": 713,
+    "h": 497,
+    "bytes": 433432,
+    "webp": "/imagenes/img/redcontrol_image005.opt.webp"
+  },
+  "/imagenes/img/redcontrol_image007.png": {
+    "w": 713,
+    "h": 497,
+    "bytes": 479963,
+    "webp": "/imagenes/img/redcontrol_image007.opt.webp"
+  },
+  "/imagenes/img/redpluviometrica.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 115187,
+    "webp": "/imagenes/img/redpluviometrica.opt.webp"
+  },
+  "/imagenes/img/refuerzo-sistema-electrico.webp": {
+    "w": 1200,
+    "h": 675,
+    "bytes": 26526
+  },
+  "/imagenes/img/reglamento.gif": {
+    "w": 575,
+    "h": 62,
+    "bytes": 5324
+  },
+  "/imagenes/img/reglamento_estatal.gif": {
+    "w": 203,
+    "h": 47,
+    "bytes": 1467
+  },
+  "/imagenes/img/relieve.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 77414,
+    "webp": "/imagenes/img/relieve.opt.webp"
+  },
+  "/imagenes/img/reloj-de-pared.jpg": {
+    "w": 118,
+    "h": 118,
+    "bytes": 6082
+  },
+  "/imagenes/img/reparacion_balsa_mota_noticia.png": {
+    "w": 1200,
+    "h": 848,
+    "bytes": 2400257,
+    "webp": "/imagenes/img/reparacion_balsa_mota_noticia.opt.webp"
+  },
+  "/imagenes/img/riego_canarias7.jpg": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 129585,
+    "webp": "/imagenes/img/riego_canarias7.opt.webp"
+  },
+  "/imagenes/img/salto-chira.webp": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 185268
+  },
+  "/imagenes/img/saltochira_visita-1.jpg": {
+    "w": 2048,
+    "h": 1366,
+    "bytes": 1200262,
+    "webp": "/imagenes/img/saltochira_visita-1.opt.webp"
+  },
+  "/imagenes/img/saltochira_visita-2.jpg": {
+    "w": 2048,
+    "h": 1366,
+    "bytes": 844541,
+    "webp": "/imagenes/img/saltochira_visita-2.opt.webp"
+  },
+  "/imagenes/img/saltochira_visita-5.jpg": {
+    "w": 2048,
+    "h": 1366,
+    "bytes": 1054047,
+    "webp": "/imagenes/img/saltochira_visita-5.opt.webp"
+  },
+  "/imagenes/img/salto_chira_16.jpg": {
+    "w": 1200,
+    "h": 675,
+    "bytes": 215990,
+    "webp": "/imagenes/img/salto_chira_16.opt.webp"
+  },
+  "/imagenes/img/salto_chira_sentencia.webp": {
+    "w": 1200,
+    "h": 840,
+    "bytes": 151056
+  },
+  "/imagenes/img/sara_aagensen_transicion_ecologica.webp": {
+    "w": 659,
+    "h": 371,
+    "bytes": 92350
+  },
+  "/imagenes/img/siberio_y_caidero.jpg": {
+    "w": 289,
+    "h": 340,
+    "bytes": 134599,
+    "webp": "/imagenes/img/siberio_y_caidero.opt.webp"
+  },
+  "/imagenes/img/sliderdesa.webp": {
+    "w": 1955,
+    "h": 543,
+    "bytes": 43924
+  },
+  "/imagenes/img/sliderplan.webp": {
+    "w": 1955,
+    "h": 543,
+    "bytes": 78386
+  },
+  "/imagenes/img/sliderpresa.webp": {
+    "w": 1955,
+    "h": 543,
+    "bytes": 67644
+  },
+  "/imagenes/img/soria-chira-las-ninas.webp": {
+    "w": 784,
+    "h": 523,
+    "bytes": 25074
+  },
+  "/imagenes/img/subvencioneslogo.png": {
+    "w": 921,
+    "h": 120,
+    "bytes": 55612,
+    "webp": "/imagenes/img/subvencioneslogo.opt.webp"
+  },
+  "/imagenes/img/tragsa-ahonda-salinetas.webp": {
+    "w": 880,
+    "h": 495,
+    "bytes": 40194
+  },
+  "/imagenes/img/ue.gif": {
+    "w": 231,
+    "h": 151,
+    "bytes": 2380
+  },
+  "/imagenes/img/verde-campos-sur-gran-canaria.webp": {
+    "w": 1200,
+    "h": 675,
+    "bytes": 227542
+  },
+  "/imagenes/img/viaje_salto_chira.webp": {
+    "w": 1200,
+    "h": 675,
+    "bytes": 74718
+  },
+  "/imagenes/img/vicepresidente.jpg": {
+    "w": 349,
+    "h": 450,
+    "bytes": 94498,
+    "webp": "/imagenes/img/vicepresidente.opt.webp"
+  },
+  "/imagenes/img/visita_edar_guia_galdar.webp": {
+    "w": 1200,
+    "h": 675,
+    "bytes": 119100
+  },
+  "/imagenes/img/vista_publicacion_enlace.gif": {
+    "w": 12,
+    "h": 12,
+    "bytes": 99
+  },
+  "/imagenes/img/word_-2.gif": {
+    "w": 140,
+    "h": 47,
+    "bytes": 1791
+  },
+  "/imagenes/img/word_24_2017.gif": {
+    "w": 305,
+    "h": 47,
+    "bytes": 2588
+  },
+  "/imagenes/img/yonay_concepcion_noticia.webp": {
+    "w": 1200,
+    "h": 675,
+    "bytes": 22872
+  },
+  "/imagenes/img/zonificacion.jpg": {
+    "w": 570,
+    "h": 403,
+    "bytes": 81979,
+    "webp": "/imagenes/img/zonificacion.opt.webp"
+  },
+  "/imagenes/pdfs/canagua/canagua2024.gif": {
+    "w": 1228,
+    "h": 614,
+    "bytes": 1540451
+  },
+  "/imagenes/pdfs/canagua/rrss_1200x628.jpg": {
+    "w": 1200,
+    "h": 628,
+    "bytes": 469174,
+    "webp": "/imagenes/pdfs/canagua/rrss_1200x628.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/barrancos_cuencas.jpg": {
+    "w": 3307,
+    "h": 2338,
+    "bytes": 985338,
+    "webp": "/imagenes/pdfs/cartografia/barrancos_cuencas.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/consumos_agrarios.jpg": {
+    "w": 3307,
+    "h": 2338,
+    "bytes": 1414175,
+    "webp": "/imagenes/pdfs/cartografia/consumos_agrarios.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/cultivos.jpg": {
+    "w": 3307,
+    "h": 2338,
+    "bytes": 913712,
+    "webp": "/imagenes/pdfs/cartografia/cultivos.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/desalacion_depuracion.jpg": {
+    "w": 3307,
+    "h": 2335,
+    "bytes": 822856,
+    "webp": "/imagenes/pdfs/cartografia/desalacion_depuracion.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/infraestructuras.jpg": {
+    "w": 3307,
+    "h": 2338,
+    "bytes": 1362030,
+    "webp": "/imagenes/pdfs/cartografia/infraestructuras.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/masasaguasubterranea.jpg": {
+    "w": 3307,
+    "h": 2340,
+    "bytes": 1395546,
+    "webp": "/imagenes/pdfs/cartografia/masasaguasubterranea.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/permeabilidad.jpg": {
+    "w": 3307,
+    "h": 2340,
+    "bytes": 1524110,
+    "webp": "/imagenes/pdfs/cartografia/permeabilidad.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/pozos.jpg": {
+    "w": 3307,
+    "h": 2338,
+    "bytes": 963004,
+    "webp": "/imagenes/pdfs/cartografia/pozos.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/precipitaciones.jpg": {
+    "w": 3307,
+    "h": 2338,
+    "bytes": 1024298,
+    "webp": "/imagenes/pdfs/cartografia/precipitaciones.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/presas.jpg": {
+    "w": 3307,
+    "h": 2338,
+    "bytes": 1526732,
+    "webp": "/imagenes/pdfs/cartografia/presas.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/redcontrol.jpg": {
+    "w": 3307,
+    "h": 2340,
+    "bytes": 1529394,
+    "webp": "/imagenes/pdfs/cartografia/redcontrol.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/redpluviometrica.jpg": {
+    "w": 3307,
+    "h": 2340,
+    "bytes": 1636572,
+    "webp": "/imagenes/pdfs/cartografia/redpluviometrica.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/relieve.jpg": {
+    "w": 3307,
+    "h": 2338,
+    "bytes": 1203952,
+    "webp": "/imagenes/pdfs/cartografia/relieve.opt.webp"
+  },
+  "/imagenes/pdfs/cartografia/zonificacion.jpg": {
+    "w": 3307,
+    "h": 2338,
+    "bytes": 1002154,
+    "webp": "/imagenes/pdfs/cartografia/zonificacion.opt.webp"
+  },
+  "/imagenes/pdfs/ecoislas/ecoislas_600x450.png": {
+    "w": 600,
+    "h": 450,
+    "bytes": 114435,
+    "webp": "/imagenes/pdfs/ecoislas/ecoislas_600x450.opt.webp"
+  },
+  "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-1.jpeg": {
+    "w": 2048,
+    "h": 1152,
+    "bytes": 664484,
+    "webp": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-1.opt.webp"
+  },
+  "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-2.jpeg": {
+    "w": 2048,
+    "h": 1152,
+    "bytes": 591417,
+    "webp": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-2.opt.webp"
+  },
+  "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-3.jpeg": {
+    "w": 2048,
+    "h": 1152,
+    "bytes": 663790,
+    "webp": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-3.opt.webp"
+  },
+  "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-4.jpeg": {
+    "w": 2048,
+    "h": 1152,
+    "bytes": 543882,
+    "webp": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-4.opt.webp"
+  },
+  "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-5.jpeg": {
+    "w": 2048,
+    "h": 1152,
+    "bytes": 664888,
+    "webp": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-5.opt.webp"
+  },
+  "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-6.jpeg": {
+    "w": 2048,
+    "h": 1152,
+    "bytes": 454675,
+    "webp": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-6.opt.webp"
+  },
+  "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-7.jpeg": {
+    "w": 2048,
+    "h": 1152,
+    "bytes": 442376,
+    "webp": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-7.opt.webp"
+  },
+  "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-8.jpeg": {
+    "w": 2048,
+    "h": 1152,
+    "bytes": 607969,
+    "webp": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-8.opt.webp"
+  },
+  "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-9.jpeg": {
+    "w": 2048,
+    "h": 1152,
+    "bytes": 530143,
+    "webp": "/imagenes/pdfs/fondosfeder/ampliacion-edar-guia-galdar-9.opt.webp"
+  },
+  "/imagenes/pdfs/fondosfeder/logofondosfeder.png": {
+    "w": 760,
+    "h": 105,
+    "bytes": 63626,
+    "webp": "/imagenes/pdfs/fondosfeder/logofondosfeder.opt.webp"
+  },
+  "/imagenes/svg/consejos_ahorro-01.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 2651
+  },
+  "/imagenes/svg/consejos_ahorro-02.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 2605
+  },
+  "/imagenes/svg/consejos_ahorro-03.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 1474
+  },
+  "/imagenes/svg/consejos_ahorro-04.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 2995
+  },
+  "/imagenes/svg/consejos_ahorro-05.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 1856
+  },
+  "/imagenes/svg/consejos_ahorro-06.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 2923
+  },
+  "/imagenes/svg/consejos_ahorro-07.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 5647
+  },
+  "/imagenes/svg/consejos_ahorro-08.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 1814
+  },
+  "/imagenes/svg/consejos_ahorro-09.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 3610
+  },
+  "/imagenes/svg/consejos_ahorro-10.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 3730
+  },
+  "/imagenes/svg/consejos_ahorro-11.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 1580
+  },
+  "/imagenes/svg/consejos_ahorro-12.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 4878
+  },
+  "/imagenes/svg/consejos_ahorro-13.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 2891
+  },
+  "/imagenes/svg/consejos_ahorro-14.svg": {
+    "w": 100,
+    "h": 100,
+    "bytes": 9352
+  }
+}

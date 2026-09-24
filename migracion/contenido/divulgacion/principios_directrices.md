@@ -1,0 +1,172 @@
+---
+titulo: "Principios, Directrices y Prevenciones"
+titulo_html: "Principios, Directrices y Prevenciones"
+ruta_antigua: "/divulgacion/principios_directrices.php"
+url_antigua: "https://www.aguasgrancanaria.com/divulgacion/principios_directrices.php"
+seccion: "Divulgación"
+origen: "inventario"
+ultima_actualizacion: null
+ultima_actualizacion_texto: null
+encabezados: 
+  - nivel: 1
+    texto: "DIVULGACIÓN"
+  - nivel: 4
+    texto: "PRINCIPIOS, DIRECTRICES Y PREVENCIONES"
+  - nivel: 5
+    texto: "PREVISIONES ACERCA DE LOS RECURSOS"
+  - nivel: 5
+    texto: "PREVISIONES ACERCA DE LAS DEMANDAS FUTURAS"
+  - nivel: 5
+    texto: "Tabla 1.- Demanda industrial estimada para los años horizonte"
+  - nivel: 5
+    texto: "Tabla 2.- Demanda estimadas para los años horizonte"
+  - nivel: 5
+    texto: "Tabla 3.- Demanda urbana estimada para los años horizonte"
+  - nivel: 5
+    texto: "Tabla 4.- Demanda turística estimada para los años horizonte"
+  - nivel: 5
+    texto: "Tabla 5.- Demanda turística estimada para los años horizonte"
+documentos: []
+imagenes: []
+videos: []
+iframes: []
+enlaces_externos: []
+enlaces_internos: []
+emails: []
+telefonos: []
+tablas: 
+  - archivo: "tablas/divulgacion/principios_directrices/tabla-01.json"
+    titulo: "DEMANDAS INDUSTRIAL"
+    filas: 2
+    columnas: 5
+  - archivo: "tablas/divulgacion/principios_directrices/tabla-02.json"
+    titulo: "DOTACIONES ESTIMADAS"
+    filas: 5
+    columnas: 5
+  - archivo: "tablas/divulgacion/principios_directrices/tabla-03.json"
+    titulo: "DEMANDA URBANA"
+    filas: 2
+    columnas: 5
+  - archivo: "tablas/divulgacion/principios_directrices/tabla-04.json"
+    titulo: "DEMANDA TURÍSTICA"
+    filas: 2
+    columnas: 5
+  - archivo: "tablas/divulgacion/principios_directrices/tabla-05.json"
+    titulo: "DEMANDAS (hm³ ) · Años Horizonte"
+    filas: 6
+    columnas: 5
+referencias_rotas: []
+contenido_oculto_en_origen: []
+---
+
+# DIVULGACIÓN
+
+#### PRINCIPIOS, DIRECTRICES Y PREVENCIONES
+
+El objetivo es la consecución de la mejor satisfacción de las demandas de agua y la racionalización del empleo de los recursos hidráulicos, protegiendo a su vez la calidad de los recursos y economizándolos en armonía con el medio ambiente.
+
+El estudio de la situación actual ha puesto de manifiesto las disfunciones que impiden poder dar por cubiertos dichos objetivos hoy día. Esto es así porque hay demandas no satisfechas, tanto por cantidad como por calidad o precio, y porque la obtención del agua, su distribución y su uso, han producido situaciones que no se encuentran en armonía con el medio ambiente ni significan un uso racional del agua.
+
+Estas disfunciones comienzan con el desconocimiento del volumen existente o aprovechable del propio recurso, bien sea de agua superficial, o del volumen de agua subterránea extraíble anualmente para al menos no empeorar la degradación del acuífero. Las pérdidas de la distribución, en las conducciones en alta o en los abastecimientos urbanos y turísticos, junto con el despilfarro que significa el que no se aproveche todavía toda el agua depurada para el regadío, son otros aspectos, y no los únicos, de estas disfunciones. Consecuentemente, la primera meta a conseguir es su solución en un plazo razonable de tiempo.
+
+Al introducir el tiempo en el análisis de las demandas y de los recursos necesarios para satisfacerlas, se cumple el fundamento de la planificación, el proceso por el que se ordenan unos medios, en el tiempo y en el espacio, para conseguir unos objetivos que cubran las necesidades futuras.
+
+La definición de las demandas en los años horizonte y la forma en que se han de asignar los recursos no se pueden realizar sin determinaciones previas, consecuencia de la expresión de la política hidráulica (principios), de medidas de homogeneización a nivel regional o nacional (directrices) y, por último, de previsiones técnicas o metodológicas.
+
+Los medios con los que la Administración puede intervenir para dirigir este proceso sé reducen a dos: medidas de ordenanza y actuaciones de inversión. Se ha de entender que ciertas actuaciones de inversión necesitan a su vez de gastos previos de definición y que las ordenanzas no son más que la expresión en forma de normas de las medidas por la que se ha de conducir la labor de todos.
+
+Los principios que inspiran este Plan son:
+
+1.  La consideración del agua como un recurso escaso, condicionante del desarrollo económico, social y medioambiental de la isla.
+2.  La atención al bien colectivo antes que al individual, propiciando la reordenación de los aprovechamientos, incentivando la fusión o agrupación entre Comunidades y Heredades.
+3.  Promover la actuación de la Administración con el fin de:
+    1.  Aumentar el volumen de agua puesto a disposición del mercado.
+    2.  Disminuir la sobreexplotación del acuífero garantizando aportaciones alternativas al uso existente, en las mismas condiciones como mínimo, de cantidad y calidad.
+
+##### PREVISIONES ACERCA DE LOS RECURSOS
+
+Suponer que el volumen de los recursos de agua superficial no varía en los años horizonte, significa estimar que el volumen medio interanual aprovechado sigue constante, o lo que es lo mismo, que la lluvia en el futuro se comportará análogamente al pasado y que el posible incremento del aprovechamiento, no supondrá un aumento significativo de los recursos totales.
+
+La previsión de que sea el 50% de los volúmenes enviados al abastecimiento, el volumen del agua depurada aprovechable, responde a una estimación de unas pérdidas de: un 20% en la distribución, un 10% en el uso urbano o turístico, un 20% en el saneamiento y un 10% en el proceso de depuración.
+
+##### PREVISIONES ACERCA DE LAS DEMANDAS FUTURAS
+
+Como se ha visto en el estudio de la situación actual, el consumo agrario ha crecido significativamente en los últimos años pero no hay que olvidar que la situación de los mercados ha sido y será el gran condicionante de la producción agraria y, por consiguiente, de la demanda de agua en este sector. Teniendo en cuenta esto se ha supuesto que la demanda futura será como máximo 83,5 hm³ .
+
+La demanda industrial asociada al sector servicios y suministrada directamente por las redes municipales se ha supuesto que mantiene su porcentaje dentro del crecimiento que experimenta el suministro urbano, ya que no se prevé que aumente significativamente el grado de industrialización de la isla a medio plazo.
+
+##### Tabla 1.- Demanda industrial estimada para los años horizonte
+
+<!-- tabla 01: tablas/divulgacion/principios_directrices/tabla-01.json -->
+
+****DEMANDAS INDUSTRIAL****
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Año** | **1996** | **2002** | **2006** | **2012** |
+| **hm³** | **6** | **7,5** | **8,5** | **9,5** |
+
+La demanda urbana futura viene determinada por la población a abastecer y por la dotación que suponemos va a consumir dicha población. Para la determinación de la población futura en los años horizonte se ha utilizado el estudio de crecimiento demogr´fico realizado por el Instituto Canario de Estadística (I.S.T.A.C.) mientras que las dotaciones se han fijado según el cuadro siguiente, supuesto un incremento pequeño de las dotaciones en función de un previsible incremento de la calidad de vida.
+
+Hay que señalar que las dotaciones consideradas son sensiblemente inferiores a las que la Orden Ministerial de 14 de Septiembre de 1992 (B.O.E. 24, de 16 de Octubre) fija para los Planes Hidrológicos de Cuenca en cada año horizonte en atención al h´bito de ahorro de agua de la población.
+
+Los datos de población por núcleos parten de los datos de población de 1991 adaptando el valor a la población real de 1996 considerando las curvas más desfavorables, abiertas o cerradas (movimientos migratorios). La población de hecho se ha determinado aplacando a la de derecho de 1996 la misma relación que tenían en 1991. En los núcleos con zonas turísticas se ha tomado la población de hecho incrementada en el número de camas.
+
+##### Tabla 2.- Demanda estimadas para los años horizonte
+
+<!-- tabla 02: tablas/divulgacion/principios_directrices/tabla-02.json -->
+
+****DOTACIONES ESTIMADAS****
+
+| Tamaño del núcleoHab. |  | Dotación: I/hab/día |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | **2002** | **2006** | **2012** |
+| **<10.000** |  | **175** | **190** | **200** |
+| **10.00050.000** |  | **200** | **215** | **225** |
+| **50.000200.000** |  | **225** | **240** | **250** |
+| **\>200.000** |  | **250** | **265** | **275** |
+
+Los resultados se presentan en el cuadro adjunto que arroja un volumen total para cada año horizonte:
+
+##### Tabla 3.- Demanda urbana estimada para los años horizonte
+
+<!-- tabla 03: tablas/divulgacion/principios_directrices/tabla-03.json -->
+
+****DEMANDA URBANA****
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Año** | **1996** | **2002** | **2006** | **2012** |
+| **hm³** | **43** | **55,5** | **62,5** | **68** |
+
+El consumo turístico se ha obtenido como resultado de multiplicar el número de camas turísticas, según datos del I.S.T.A.C. y de los ayuntamientos, por la dotación turística que se ha adoptado la de Playa del és. El incremento de camas turísticas se ha estimado como el 20%, 15% y 10% para cada año horizonte, teniendo en cuenta que en el planeamiento urbanístico aprobado existen autorizadas más de 250.000 camas y con la consideración de que si bien es posible que no se incremente el número de camas en el porcentaje previsto, la diferencia se vería compensada por una mejor calidad del turismo lo que lleva aparejado unas dotaciones superiores a las previstas.
+
+##### Tabla 4.- Demanda turística estimada para los años horizonte
+
+<!-- tabla 04: tablas/divulgacion/principios_directrices/tabla-04.json -->
+
+****DEMANDA TURÍSTICA****
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Año** | **1996** | **2002** | **2006** | **2012** |
+| **hm³** | **11,5** | **14** | **16,5** | **19** |
+
+En resumen las demandas en cada año horizonte ascienden a:
+
+##### Tabla 5.- Demanda turística estimada para los años horizonte
+
+<!-- tabla 05: tablas/divulgacion/principios_directrices/tabla-05.json -->
+
+****DEMANDAS (hm³ )****
+
+****Años Horizonte****
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | **1996** | **2002** | **2006** | **2012** |
+| **Urbana** | **43** | **55,5** | **62,5** | **68** |
+| **Turística** | **11,5** | **14** | **16,5** | **19** |
+| **Industrial** | **6** | **7,5** | **8,5** | **9,5** |
+| **Agraria** | **79,5** | **83,5** | **83,5** | **83,5** |
+| **TOTAL** | **149** | **164,5** | **178** | **191** |

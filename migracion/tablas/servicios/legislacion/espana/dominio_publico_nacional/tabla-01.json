@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/dominio_publico_nacional.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 18/11/2009",
+      "Título",
+      "Reglamento del Dominio Público Hidráulico (Nacional)",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "RD 849/86, de 11 de abril, por el que se aprueba el Reglamento del DPH que desarrolla los títulos preliminar, I, IV, V, VI Y VII DE LA LEY 29/85, de 2 de agosto, de Aguas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua DPH",
+      "",
+      "Real Decreto",
+      "España"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

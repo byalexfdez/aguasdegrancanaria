@@ -1,0 +1,70 @@
+{
+  "fuente": "/perfil_con.php",
+  "indice": 2,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "31/01/2024",
+      ""
+    ],
+    [
+      "31/01/2022",
+      ""
+    ],
+    [
+      "03/12/2021",
+      ""
+    ],
+    [
+      "26/01/2021",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/mesa-20240131.txt"
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/mesa-20240131.pdf"
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Mesa-20240131.docx"
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Mesa-20240131.odt"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/mesa_contratacion_ene_2022.pdf"
+    },
+    {
+      "fila": 2,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/mesa_contratacion_dic_2021.pdf"
+    },
+    {
+      "fila": 3,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/transparencia/mesa-20210126.pdf"
+    }
+  ]
+}

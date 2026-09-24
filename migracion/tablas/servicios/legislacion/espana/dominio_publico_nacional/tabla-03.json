@@ -1,0 +1,107 @@
+{
+  "fuente": "/servicios/legislacion/españa/dominio_publico_nacional.php",
+  "indice": 3,
+  "titulo": null,
+  "columnas": 3,
+  "cabeceras": [
+    [
+      "Clase",
+      "Grupo",
+      ""
+    ]
+  ],
+  "filas": [
+    [
+      "Clase 1",
+      "0",
+      "Servicios"
+    ],
+    [
+      "",
+      "1",
+      "Energia y agua"
+    ],
+    [
+      "",
+      "2",
+      "Metal"
+    ],
+    [
+      "",
+      "3",
+      "Alimentación"
+    ],
+    [
+      "",
+      "4",
+      "Conservera"
+    ],
+    [
+      "",
+      "5",
+      "Confección"
+    ],
+    [
+      "",
+      "6",
+      "Madera"
+    ],
+    [
+      "",
+      "7",
+      "Manufacturas diversas"
+    ],
+    [
+      "Clase 2",
+      "8",
+      "Mineria"
+    ],
+    [
+      "",
+      "9",
+      "Química"
+    ],
+    [
+      "",
+      "10",
+      "Materiales de construcción"
+    ],
+    [
+      "",
+      "11",
+      "Bebidas y tabaco"
+    ],
+    [
+      "",
+      "12",
+      "Aceites, carnes y lácteos"
+    ],
+    [
+      "",
+      "13",
+      "Textil"
+    ],
+    [
+      "",
+      "14",
+      "Papel"
+    ],
+    [
+      "Clase 3",
+      "15",
+      "Curtidos"
+    ],
+    [
+      "",
+      "16",
+      "Tratamiento de superficies"
+    ],
+    [
+      "",
+      "17",
+      "Zootecnia"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

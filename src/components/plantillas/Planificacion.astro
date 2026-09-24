@@ -1,0 +1,28 @@
+---
+// Plan Hidrológico / Plan de Gestión del Riesgo de Inundación: línea temporal de ciclos (a partir de los
+// encabezados del propio contenido) + contenido completo.
+const { entrada, headings = [] } = Astro.props;
+const h2 = headings.filter((h: any) => h.depth === 2);
+const ciclos = h2.map((h: any) => {
+  const años = h.text.match(/(19|20)\d{2}(?:\s*[-–]\s*(19|20)\d{2})?/)?.[0] ?? null;
+  const aprobado = /APROBADO/i.test(h.text);
+  return { ...h, años, aprobado, nombre: h.text.replace(/\s*\(APROBADO\)\s*/i, '').replace(/(19|20)\d{2}\s*[-–]\s*(19|20)\d{2}/, '').trim() };
+});
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase();
+---
+{ciclos.length > 1 && (
+  <nav aria-label="Ciclos de planificación" class="mb-12">
+    <ol class="relative grid gap-4 md:grid-cols-[repeat(auto-fit,minmax(11rem,1fr))] before:absolute before:hidden md:before:block before:left-0 before:right-0 before:top-5 before:h-0.5 before:bg-gradient-to-r before:from-marca-300 before:to-turquesa-300">
+      {ciclos.map((c: any, i: number) => (
+        <li class="relative">
+          <a href={`#${c.slug}`} class="group grid gap-2 no-underline md:pt-0">
+            <span class:list={['relative z-10 grid place-items-center size-10 rounded-full font-display font-bold ring-4 ring-fondo', i === 0 ? 'bg-marca-700 text-white' : 'bg-superficie text-marca-800 border-2 border-marca-300 group-hover:bg-marca-50']}>{ciclos.length - i}</span>
+            <span class="font-display font-bold text-atlantico-900 dark:text-white group-hover:text-marca-700 leading-snug">{cap(c.nombre)}</span>
+            <span class="text-sm text-texto-suave">{c.años ?? ''}{c.aprobado && <span class="chip ml-1 !bg-turquesa-100 !text-turquesa-700">Aprobado</span>}</span>
+          </a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+)}
+<article class="prosa"><slot /></article>

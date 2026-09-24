@@ -1,0 +1,5340 @@
+[
+  {
+    "ruta": "/transparencia.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 25,
+    "items": [
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Fomento de la transparencia",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/fomento.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/fomento.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Solicitud de acceso a la información",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/acceso.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/acceso.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 371036,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Portal de transparencia del Cabildo de Gran Canaria",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://cabildo.grancanaria.com/transparencia",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Comisionado de transparencia",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://transparenciacanarias.org/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Reclamación al Comisionado",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://transparenciacanarias.org/como-reclamar/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Institucional",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/consejo.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/consejo.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Organización",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/organizacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/organizacion.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Altos cargos y eventuales",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/organos_gobierno.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/organos_gobierno.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Empleados públicos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/empleados.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/empleados.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Normativa",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/legislacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/legislacion.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Servicios",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/documento.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/documento.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Económico financiera",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/economico.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/economico.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Patrimonio",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/patrimonio.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/patrimonio.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Obras Públicas",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/obras.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/obras.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Contratos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/perfil_con.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/perfil_con.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Convenios y encomiendas",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/convenio.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/convenio.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Ayudas y subvenciones",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/ayudas.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/ayudas.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Ordenación del territorio",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.idegrancanaria.es/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Planificación",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/plan_hidro.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/plan_hidro.php"
+      },
+      {
+        "grupo": [
+          "PORTAL DE TRANSPARENCIA"
+        ],
+        "titulo": "Estadística",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/estadistica.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/estadistica.php"
+      },
+      {
+        "grupo": [
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:00)"
+        ],
+        "titulo": "AVISO LEGAL |",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/avisos.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/avisos.php"
+      },
+      {
+        "grupo": [
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:00)"
+        ],
+        "titulo": "ENLACES",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/enlaces.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/enlaces.php"
+      },
+      {
+        "grupo": [
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:00)"
+        ],
+        "titulo": "| UBICACIÓN |",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/ubicacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/ubicacion.php"
+      },
+      {
+        "grupo": [
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:00)"
+        ],
+        "titulo": "ACCESIBILIDAD",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/accesibilidad.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/accesibilidad.php"
+      },
+      {
+        "grupo": [
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:00)"
+        ],
+        "titulo": "| PRIVACIDAD",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/privacidad.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/privacidad.php"
+      }
+    ]
+  },
+  {
+    "ruta": "/consejo.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 11,
+    "items": [
+      {
+        "grupo": [
+          "INSTITUCIONAL"
+        ],
+        "titulo": "Introducción",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/introduccion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/introduccion.php"
+      },
+      {
+        "grupo": [
+          "INSTITUCIONAL"
+        ],
+        "titulo": "Organización",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/organizacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/organizacion.php"
+      },
+      {
+        "grupo": [
+          "INSTITUCIONAL"
+        ],
+        "titulo": "Ubicación",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/ubicacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/ubicacion.php"
+      },
+      {
+        "grupo": [
+          "INSTITUCIONAL"
+        ],
+        "titulo": "Órganos de Gobierno",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/organos_gobierno.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/organos_gobierno.php"
+      },
+      {
+        "grupo": [
+          "INSTITUCIONAL"
+        ],
+        "titulo": "Funciones",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/funciones.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/funciones.php"
+      },
+      {
+        "grupo": [
+          "INSTITUCIONAL"
+        ],
+        "titulo": "Presupuestos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/presupuesto.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/presupuesto.php"
+      },
+      {
+        "grupo": [
+          "INSTITUCIONAL",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "AVISO LEGAL |",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/avisos.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/avisos.php"
+      },
+      {
+        "grupo": [
+          "INSTITUCIONAL",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "ENLACES",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/enlaces.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/enlaces.php"
+      },
+      {
+        "grupo": [
+          "INSTITUCIONAL",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "| UBICACIÓN |",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/ubicacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/ubicacion.php"
+      },
+      {
+        "grupo": [
+          "INSTITUCIONAL",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "ACCESIBILIDAD",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/accesibilidad.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/accesibilidad.php"
+      },
+      {
+        "grupo": [
+          "INSTITUCIONAL",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "| PRIVACIDAD",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/privacidad.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/privacidad.php"
+      }
+    ]
+  },
+  {
+    "ruta": "/economico.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 9,
+    "items": [
+      {
+        "grupo": [
+          "ECONÓMICO FINANCIERA",
+          "Facturación electrónica - FACE"
+        ],
+        "titulo": "Facturación electrónica - FACE",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://face.gob.es/es",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "ECONÓMICO FINANCIERA",
+          "Facturación electrónica - FACE",
+          "LA0000164"
+        ],
+        "titulo": "Tarifas y cánones",
+        "etiqueta": "Códigos DIR3 Oficina Contable:LA0000164 Órgano Gestor:LA0000164 Unidad TramitadoraLA0000164",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/tarifas.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/tarifas.php"
+      },
+      {
+        "grupo": [
+          "ECONÓMICO FINANCIERA",
+          "Facturación electrónica - FACE",
+          "LA0000164"
+        ],
+        "titulo": "Periodo medio de pago a proveedores",
+        "etiqueta": "Códigos DIR3 Oficina Contable:LA0000164 Órgano Gestor:LA0000164 Unidad TramitadoraLA0000164",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/info.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/info.php"
+      },
+      {
+        "grupo": [
+          "ECONÓMICO FINANCIERA",
+          "Facturación electrónica - FACE",
+          "LA0000164"
+        ],
+        "titulo": "Presupuestos",
+        "etiqueta": "Códigos DIR3 Oficina Contable:LA0000164 Órgano Gestor:LA0000164 Unidad TramitadoraLA0000164",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/presupuesto.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/presupuesto.php"
+      },
+      {
+        "grupo": [
+          "ECONÓMICO FINANCIERA",
+          "Facturación electrónica - FACE",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "AVISO LEGAL |",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/avisos.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/avisos.php"
+      },
+      {
+        "grupo": [
+          "ECONÓMICO FINANCIERA",
+          "Facturación electrónica - FACE",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "ENLACES",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/servicios/enlaces.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/servicios/enlaces.php"
+      },
+      {
+        "grupo": [
+          "ECONÓMICO FINANCIERA",
+          "Facturación electrónica - FACE",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "| UBICACIÓN |",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/ubicacion.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/el_consejo/ubicacion.php"
+      },
+      {
+        "grupo": [
+          "ECONÓMICO FINANCIERA",
+          "Facturación electrónica - FACE",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "ACCESIBILIDAD",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/accesibilidad.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/accesibilidad.php"
+      },
+      {
+        "grupo": [
+          "ECONÓMICO FINANCIERA",
+          "Facturación electrónica - FACE",
+          "HORARIO DE REGISTRO DE ENTRADA: 9:00 - 14:00 (JULIO, AGOSTO Y SEPTIEMBRE: 8:30 - 13:30)"
+        ],
+        "titulo": "| PRIVACIDAD",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/privacidad.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/privacidad.php"
+      }
+    ]
+  },
+  {
+    "ruta": "/presupuesto.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 84,
+    "items": [
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Completo",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_Completo_2025.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_completo_2025.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 8308615,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Resumen",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2025.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2025.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 909548,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Completo",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_Completo_2024.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_completo_2024.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 3981630,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Resumen",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2024.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2024.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 990411,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Detallado",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_Detallado_2024.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_detallado_2024.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 51853,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Detallado",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_Detallado_2024.xlsx",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": null,
+        "estado_origen": 300,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Detallado",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_Detallado_2024.ods",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": null,
+        "estado_origen": 300,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Liquidación",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Liquidacion-ppto-2024.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/liquidacion-ppto-2024.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 92320,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Liquidación",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Liquidacion-ppto-2024.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/liquidacion-ppto-2024.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 19886,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Liquidación",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Liquidacion-ppto-2024.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/liquidacion-ppto-2024.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 21751,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Ejecución trimestral",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Ejecucion_trimestral_2024.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/ejecucion_trimestral_2024.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 97866,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Ejecución trimestral",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Ejecucion_trimestral_2024.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/ejecucion_trimestral_2024.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 32839,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Ejecución trimestral",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Ejecucion_trimestral_2024.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/ejecucion_trimestral_2024.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 26586,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Movimiento y situación de la tesorería",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Movimiento-Tesoreria-2024.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/movimiento-tesoreria-2024.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 81716,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Movimiento y situación de la tesorería",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Movimiento-Tesoreria-2024.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/movimiento-tesoreria-2024.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 21168,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Movimiento y situación de la tesorería",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Movimiento-Tesoreria-2024.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/movimiento-tesoreria-2024.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 15591,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Gastos de personal y su porcentaje sobre el gasto total",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Dotacion_plantilla_2024.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/dotacion_plantilla_2024.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 65105,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Gastos de personal y su porcentaje sobre el gasto total",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Dotacion_plantilla_2024.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/dotacion_plantilla_2024.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 10314,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Gastos de personal y su porcentaje sobre el gasto total",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Dotacion_plantilla_2024.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/dotacion_plantilla_2024.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 8575,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Cuentas Anuales",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Cuentas_Anuales_2024.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/cuentas_anuales_2024.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 101692,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Cuentas Anuales",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Cuentas_Anuales_2024.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/cuentas_anuales_2024.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 24539,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Cuentas Anuales",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Cuentas_Anuales_2024.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/cuentas_anuales_2024.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 22159,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Modificaciones presupuestarias",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Modificaciones_presupuestarias_2024.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/modificaciones_presupuestarias_2024.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 33780,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Modificaciones presupuestarias",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Modificaciones_presupuestarias_2024.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/modificaciones_presupuestarias_2024.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 27346,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Auditoría de cuentas(*** NO DISPONIBLE 17/03/2025)",
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Auditoria_cuentas_2023.xlsx",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Auditoría de cuentas(*** NO DISPONIBLE 17/03/2025)",
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Auditoria_cuentas_2023.ods",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Arrendamiento de Bienes Inmuebles(*** NO DISPONIBLE 17/03/2025)",
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/arrendamiento_inmuebles_2023.xlsx",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Arrendamiento de Bienes Inmuebles(*** NO DISPONIBLE 17/03/2025)",
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/arrendamiento_inmuebles_2023.ods",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Patrocinio y campañas de publicidad institucional",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Publicidad_propaganda_2024.xls",
+        "ruta_nueva": "/documentos/pdfs/transparencia/publicidad_propaganda_2024.xls",
+        "tipo": "documento",
+        "formato": "xls",
+        "bytes": 45056,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Patrocinio y campañas de publicidad institucional",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Publicidad_propaganda_2024.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/publicidad_propaganda_2024.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 17331,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvenciones para Actividades Económicas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Subvenciones.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/subvenciones.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 223142,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvenciones para Actividades Económicas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/actividades_economicas_2024.xlsx",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvenciones para Actividades Económicas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/actividades_economicas_2024.ods",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Completo",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_Completo_2023.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_completo_2023.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 9499080,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Resumen",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2023.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2023.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 999371,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Balance",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Balance-2023.pdf",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": null,
+        "estado_origen": 300,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Balance",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Balance-2023.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/balance-2023.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 16401,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Balance",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Balance-2023.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/balance-2023.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 11940,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Liquidación",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Liquidacion-ppto-2023.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/liquidacion-ppto-2023.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1914988,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Liquidación",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Liquidacion-ppto-2023.xlsx",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": null,
+        "estado_origen": 300,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Liquidación",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Liquidacion-ppto-2023.ods",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": null,
+        "estado_origen": 300,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Ejecución trimestral",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Ejecucion_trimestral_2023.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/ejecucion_trimestral_2023.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 66244,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Ejecución trimestral",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Ejecucion_trimestral_2023.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/ejecucion_trimestral_2023.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 13832,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Ejecución trimestral",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Ejecucion_trimestral_2023.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/ejecucion_trimestral_2023.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 7858,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Gastos de personal y su porcentaje sobre el gasto total",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Dotacion_plantilla_2023.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/dotacion_plantilla_2023.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 8604,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Gastos de personal y su porcentaje sobre el gasto total",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Dotacion_plantilla_2023.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/dotacion_plantilla_2023.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 7966,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Gastos de personal y su porcentaje sobre el gasto total",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Dotacion_plantilla_2023.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/dotacion_plantilla_2023.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 6319,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Cuentas Anuales",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Cuentas_Anuales_2023.pdf",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": null,
+        "estado_origen": 300,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Cuentas Anuales",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Cuentas_Anuales_2023.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/cuentas_anuales_2023.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 10777,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Cuentas Anuales",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Cuentas_Anuales_2023.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/cuentas_anuales_2023.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 9663,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Movimiento y situación de la tesorería",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Movimiento-Tesoreria-2023.pdf",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": null,
+        "estado_origen": 300,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Movimiento y situación de la tesorería",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Movimiento-Tesoreria-2023.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/movimiento-tesoreria-2023.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 112674,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Movimiento y situación de la tesorería",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Movimiento-Tesoreria-2023.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/movimiento-tesoreria-2023.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 106570,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Modificaciones presupuestarias",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Modificaciones_presupuestarias_2023.pdf",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Modificaciones presupuestarias",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Modificaciones_presupuestarias_2023.xlsx",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Modificaciones presupuestarias",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Modificaciones_presupuestarias_2023.ods",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Auditoría de cuentas(*** NO DISPONIBLE 17/03/2025)",
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Auditoria_cuentas_2023.xlsx",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Auditoría de cuentas(*** NO DISPONIBLE 17/03/2025)",
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Auditoria_cuentas_2023.ods",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Arrendamiento de Bienes Inmuebles(*** NO DISPONIBLE 17/03/2025)",
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/arrendamiento_inmuebles_2023.xlsx",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Arrendamiento de Bienes Inmuebles(*** NO DISPONIBLE 17/03/2025)",
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/arrendamiento_inmuebles_2023.ods",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvenciones para Actividades Económicas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/actividades_economicas_2023.pdf",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvenciones para Actividades Económicas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/actividades_economicas_2023.xlsx",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvenciones para Actividades Económicas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/actividades_economicas_2023.ods",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": null,
+        "estado_origen": 404,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Completo",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_Completo_%202022.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_completo_-2022.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 29464040,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Resumen",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2022.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2022.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 12611,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Completo",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_Completo_%202021.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_completo_-2021.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 41641790,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Resumen",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2021.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2021.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 988242,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Detallado",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2021.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2021.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 54985,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Detallado",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2021.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2021.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 33487,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Liquidación del Presupuesto",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Liquidacion_presupuesto_2021.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/liquidacion_presupuesto_2021.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 440017,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Rendición de Cuentas (Pendiente)",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RendicionCuentaPendiente2021.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rendicioncuentapendiente2021.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 320616,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Completo",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_Completo_%202020.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_completo_-2020.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 78678838,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Resumen",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2020.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2020.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1030712,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Detallado",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2020.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2020.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 64014,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Detallado",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2020.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2020.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 39151,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Liquidación del Presupuesto",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Liquidacion_presupuesto_2020.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/liquidacion_presupuesto_2020.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 338023,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Rendición de Cuentas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RendicionCuenta2020.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rendicioncuenta2020.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 427518,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Completo",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_Completo_%202019.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_completo_-2019.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 40172714,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Resumen",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2019.pdf",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": null,
+        "estado_origen": 300,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Detallado",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2019.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2019.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 49336,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Detallado",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2019.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2019.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 21926,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Liquidación del Presupuesto",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/LiquidacionPresupuesto2019.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/liquidacionpresupuesto2019.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 647657,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Rendición de Cuentas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RendicionCuenta2019.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rendicioncuenta2019.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 660232,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PRESUPUESTOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Presupuestos",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Presupuesto_2018.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/presupuesto_2018.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 253709,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/info.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 56,
+    "items": [
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2025"
+        ],
+        "titulo": "Diciembre",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2025-12.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2025-12.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 108765,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2025"
+        ],
+        "titulo": "Julio",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2025-07.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2025-07.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 398290,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2025"
+        ],
+        "titulo": "Junio",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2025-06.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2025-06.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 400991,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2025"
+        ],
+        "titulo": "Mayo",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2025-05.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2025-05.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 400709,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2025"
+        ],
+        "titulo": "Abril",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2025-04.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2025-04.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 399317,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2025"
+        ],
+        "titulo": "Marzo",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2025-03.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2025-03.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 398411,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2025"
+        ],
+        "titulo": "Febrero",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2025-02.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2025-02.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 401111,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2025"
+        ],
+        "titulo": "Enero",
+        "etiqueta": null,
+        "anio_en_texto": 2025,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2025-01.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2025-01.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 398877,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2024"
+        ],
+        "titulo": "Noviembre",
+        "etiqueta": null,
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2024-11.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2024-11.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 395368,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2024"
+        ],
+        "titulo": "Septiembre",
+        "etiqueta": null,
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2024-09.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2024-09.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 395859,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2024"
+        ],
+        "titulo": "Agosto",
+        "etiqueta": null,
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2024-08.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2024-08.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 108690,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2024"
+        ],
+        "titulo": "Junio",
+        "etiqueta": null,
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2024-06.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2024-06.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 395433,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2024"
+        ],
+        "titulo": "Mayo",
+        "etiqueta": null,
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2024-05.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2024-05.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 393528,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2024"
+        ],
+        "titulo": "Abril",
+        "etiqueta": null,
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2024-04.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2024-04.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 396912,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2024"
+        ],
+        "titulo": "Marzo",
+        "etiqueta": null,
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2024-03.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2024-03.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 395890,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2024"
+        ],
+        "titulo": "Febrero",
+        "etiqueta": null,
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2024-02.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2024-02.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 395492,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2024"
+        ],
+        "titulo": "Enero",
+        "etiqueta": null,
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2024-01.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2024-01.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 396400,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2023"
+        ],
+        "titulo": "Noviembre",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2023-11.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2023-11.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 395553,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2023"
+        ],
+        "titulo": "Octubre",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2023-10.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2023-10.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 392778,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2023"
+        ],
+        "titulo": "Septiembre",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2023-09.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2023-09.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 397309,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2023"
+        ],
+        "titulo": "Agosto",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2023-08.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2023-08.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 396952,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2023"
+        ],
+        "titulo": "Julio",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2023-07.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2023-07.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 394868,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2023"
+        ],
+        "titulo": "Mayo",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2023-05.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2023-05.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 392380,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2023"
+        ],
+        "titulo": "Abril",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2023-04.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2023-04.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 395402,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2023"
+        ],
+        "titulo": "Marzo",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2023-03.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2023-03.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 393388,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2023"
+        ],
+        "titulo": "Febrero",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2023-02.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2023-02.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 397054,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2023"
+        ],
+        "titulo": "Enero",
+        "etiqueta": null,
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2023-01.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2023-01.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 393474,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2022"
+        ],
+        "titulo": "Diciembre",
+        "etiqueta": null,
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2022-12.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2022-12.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 397758,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2022"
+        ],
+        "titulo": "Octubre",
+        "etiqueta": null,
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2022-10.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2022-10.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 393156,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2022"
+        ],
+        "titulo": "Agosto",
+        "etiqueta": null,
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2022-08.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2022-08.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 390916,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2022"
+        ],
+        "titulo": "Julio",
+        "etiqueta": null,
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2022-07.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2022-07.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 393041,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2022"
+        ],
+        "titulo": "Junio",
+        "etiqueta": null,
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2022-06.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2022-06.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 396583,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2022"
+        ],
+        "titulo": "Mayo",
+        "etiqueta": null,
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2022-05.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2022-05.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 394283,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2022"
+        ],
+        "titulo": "Abril",
+        "etiqueta": null,
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2022-04.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2022-04.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 396609,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2022"
+        ],
+        "titulo": "Marzo",
+        "etiqueta": null,
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2022-03.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2022-03.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 396490,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2022"
+        ],
+        "titulo": "Febrero",
+        "etiqueta": null,
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2022-02.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2022-02.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 392509,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2022"
+        ],
+        "titulo": "Enero",
+        "etiqueta": null,
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2022-01.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2022-01.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 391879,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2021"
+        ],
+        "titulo": "Diciembre",
+        "etiqueta": null,
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2021-12.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2021-12.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 394935,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2021"
+        ],
+        "titulo": "Noviembre",
+        "etiqueta": null,
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2021-11.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2021-11.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 394996,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2021"
+        ],
+        "titulo": "Octubre",
+        "etiqueta": null,
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2021-10.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2021-10.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 392807,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2021"
+        ],
+        "titulo": "Septiembre",
+        "etiqueta": null,
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2021-09.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2021-09.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 395351,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2021"
+        ],
+        "titulo": "Junio",
+        "etiqueta": null,
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2021-06.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2021-06.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 393740,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2021"
+        ],
+        "titulo": "Mayo",
+        "etiqueta": null,
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2021-05.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2021-05.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 391974,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2021"
+        ],
+        "titulo": "Abril",
+        "etiqueta": null,
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2021-04.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2021-04.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 393743,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2021"
+        ],
+        "titulo": "Febrero",
+        "etiqueta": null,
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2021-02.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2021-02.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 392502,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2021"
+        ],
+        "titulo": "Enero",
+        "etiqueta": null,
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2021-01.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2021-01.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 394391,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2020"
+        ],
+        "titulo": "Diciembre",
+        "etiqueta": null,
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2020-12.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2020-12.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 393586,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2020"
+        ],
+        "titulo": "Noviembre",
+        "etiqueta": null,
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2020-11.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2020-11.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 95349,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2020"
+        ],
+        "titulo": "Octubre",
+        "etiqueta": null,
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2020-10.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2020-10.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 391621,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2020"
+        ],
+        "titulo": "Septiembre",
+        "etiqueta": null,
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2020-09.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2020-09.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 395351,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2020"
+        ],
+        "titulo": "Agosto",
+        "etiqueta": null,
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2020-08.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2020-08.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 391190,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2020"
+        ],
+        "titulo": "Mayo",
+        "etiqueta": null,
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2020-05.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2020-05.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 390458,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2020"
+        ],
+        "titulo": "Abril",
+        "etiqueta": null,
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2020-04.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2020-04.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 390895,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2020"
+        ],
+        "titulo": "Marzo",
+        "etiqueta": null,
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2020-03.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2020-03.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 393386,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2020"
+        ],
+        "titulo": "Febrero",
+        "etiqueta": null,
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2020-02.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2020-02.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 391045,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PERIODO MEDIO DE PAGO A PROVEEDORES",
+          "AÑO 2020"
+        ],
+        "titulo": "Enero",
+        "etiqueta": null,
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/InfPu/PMP-2020-01.pdf",
+        "ruta_nueva": "/documentos/pdfs/infpu/pmp-2020-01.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 96180,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/perfil_con.php",
+    "titulo": "CONTRATOS",
+    "total": 39,
+    "items": [
+      {
+        "grupo": [
+          "FAX:"
+        ],
+        "titulo": "- Perfil del Contratante - Actual",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://community.vortal.biz/sts/Login?SkinName=aguasgrancanaria",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "FAX:"
+        ],
+        "titulo": "- Procedimientos Antiguos",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/perfil_con_2.php",
+        "ruta_nueva": null,
+        "tipo": "pagina",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": 200,
+        "pagina_interna": "/perfil_con_2.php"
+      },
+      {
+        "grupo": [
+          "31/01/2024"
+        ],
+        "titulo": null,
+        "etiqueta": "31/01/2024",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Mesa-20240131.txt",
+        "ruta_nueva": "/documentos/pdfs/transparencia/mesa-20240131.txt",
+        "tipo": "documento",
+        "formato": "txt",
+        "bytes": 1053,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "31/01/2024"
+        ],
+        "titulo": null,
+        "etiqueta": "31/01/2024",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Mesa-20240131.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/mesa-20240131.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 190605,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "31/01/2024"
+        ],
+        "titulo": null,
+        "etiqueta": "31/01/2024",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Mesa-20240131.docx",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "docx",
+        "bytes": null,
+        "estado_origen": 300,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "31/01/2024"
+        ],
+        "titulo": null,
+        "etiqueta": "31/01/2024",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Mesa-20240131.odt",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "odt",
+        "bytes": null,
+        "estado_origen": 300,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "31/01/2022"
+        ],
+        "titulo": null,
+        "etiqueta": "31/01/2022",
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Mesa_Contratacion_ENE_2022.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/mesa_contratacion_ene_2022.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 193273,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "03/12/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "03/12/2021",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Mesa_Contratacion_DIC_2021.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/mesa_contratacion_dic_2021.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 192352,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "26/01/2021",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Mesa-20210126.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/mesa-20210126.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 589875,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2024.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2024.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 37382,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2024.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2024.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 29994,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores (Relación Trimestral)",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_Menores_2024.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_menores_2024.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 56155,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores (Relación Trimestral)",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_Menores_2024.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_menores_2024.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 36439,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Modificados",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2024-Modificados.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2024-modificados.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 63629,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Modificados",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2024-Modificados.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2024-modificados.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 56288,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2023.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2023.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 36555,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2023.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2023.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 28517,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores (Relación Trimestral)",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_Menores_2023.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_menores_2023.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 49426,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores (Relación Trimestral)",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_Menores_2023.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_menores_2023.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 36130,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2022.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2022.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 37318,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2022.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2022.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 29584,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores (Relación Trimestral)",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_Menores_2022.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_menores_2022.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 51070,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores (Relación Trimestral)",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_Menores_2022.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_menores_2022.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 38217,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2021.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2021.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 12379,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2021.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2021.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 5539,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores (Relación Trimestral)",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_Menores_2021.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_menores_2021.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 110694,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores (Relación Trimestral)",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_Menores_2021.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_menores_2021.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 111657,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/ContratosAbiertos_2020.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratosabiertos_2020.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 66997,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/ContratosAbiertos_2020.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratosabiertos_2020.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 59472,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores (Relación Trimestral)",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2020.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2020.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 80048,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores (Relación Trimestral)",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2020.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2020.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 73849,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/ContratosAbiertos_2019.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratosabiertos_2019.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 13021,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/ContratosAbiertos_2019.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratosabiertos_2019.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 5972,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2019.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2019.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 75498,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2019.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2019.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 67431,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2018.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2018.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 76343,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Contratos Menores",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Contratos_2018.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/contratos_2018.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 68470,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Modificaciones presupuestarias: Gastos plurianuales",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Gastos_plurianuales.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/gastos_plurianuales.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4793058,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "26/01/2021"
+        ],
+        "titulo": null,
+        "etiqueta": "Modificaciones presupuestarias: Reajuste de Gastos plurianuales",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Gastos_plurianuales_Reajuste.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/gastos_plurianuales_reajuste.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 960573,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/perfil_con_2.php",
+    "titulo": "PERFIL DEL CONTRATANTE",
+    "total": 0,
+    "items": []
+  },
+  {
+    "ruta": "/convenio.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 38,
+    "items": [
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Encomiendas de Gestión",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2024-Encomiendas.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2024-encomiendas.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 64054,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Encomiendas de Gestión",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2024-Encomiendas.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2024-encomiendas.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 56750,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Convenio Gobierno de Canarias (Consejería de Política Territorial) - Proyecto PERTE de digitalización del ciclo del agua -",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2024-Convenio_PERTE_BOC.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2024-convenio_perte_boc.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 266506,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Convenio de cooperación educativa con la Universidad de Las Palmas de Gran Canaria",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2024_ConvenioULPGCfirmado.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2024_convenioulpgcfirmado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 286983,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Encomiendas de Gestión",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2023-Encomiendas.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2023-encomiendas.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 64021,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Encomiendas de Gestión",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2023-Encomiendas.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2023-encomiendas.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 56774,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Convenios",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Convenios_2023.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/convenios_2023.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 34415,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Convenios",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Convenios_2023.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/convenios_2023.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 27586,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Encomiendas de Gestión",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2022-Encomiendas.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2022-encomiendas.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 64046,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Encomiendas de Gestión",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2022-Encomiendas.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2022-encomiendas.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 56851,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Convenios",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2021_No_convenios.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2021_no_convenios.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 245819,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Encomiendas de Gestión",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2021-Encomiendas.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2021-encomiendas.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 63959,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Encomiendas de Gestión",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2021-Encomiendas.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2021-encomiendas.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 56779,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Convenios",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2021_No_convenios.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2021_no_convenios.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 245819,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Encomiendas de Gestión",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2020-Encomiendas.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2020-encomiendas.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 63541,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Encomiendas de Gestión",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2020-Encomiendas.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2020-encomiendas.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 56214,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Convenios",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2020_No_convenios.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2020_no_convenios.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 463348,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Encomiendas de Gestión",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2019-Encomiendas.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2019-encomiendas.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 63535,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Encomiendas de Gestión",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2019-Encomiendas.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2019-encomiendas.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 56135,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Convenio de cooperación educativa con la Universidad de Las Palmas de Gran Canaria",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/ConvenioULPGCfirmado.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/convenioulpgcfirmado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 5487813,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Programa de Formación Dual Inserta de la Fundación Universitaria de Las Palmas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2019_ConvenioFULPfirmado.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2019_conveniofulpfirmado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 6130975,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Convenio con la Comunidad de Regantes Medianias de Ingenio",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2019_Convenio_Medianias_Ingenio.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2019_convenio_medianias_ingenio.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1852110,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Resumen 2018 (31/12/2018)",
+        "anio_en_texto": 2018,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Convenios_2018.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/convenios_2018.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2191188,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Concierto específico de colaboración para la formación en centros de trabajo (22/02/2018)",
+        "anio_en_texto": 2018,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/CentrosdeTrabajo.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/centrosdetrabajo.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 555938,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el Ayuntamiento de Firgas (14/10/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Firgas.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/firgas.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 855109,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el Ayuntamiento de Arucas (29/09/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Arucas.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/arucas.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1127244,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el Ayuntamiento de Valleseco (20/09/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Valleseco.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/valleseco.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1129004,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el Ayuntamiento de Gáldar (16/09/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Galdar.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/galdar.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1086679,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el ayuntamiento de Teror (15/09/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Teror.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/teror.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 987278,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el ayuntamiento de San Mateo (12/09/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/San%20Mateo.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/san-mateo.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1025714,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el Ayuntamiento de Moya (07/09/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Moya.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/moya.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 744169,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el Ayuntamiento de Mogán (06/09/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Mogan.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/mogan.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 777102,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el Ayuntamiento de Tejeda (31/08/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Tejeda.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/tejeda.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 960682,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el Ayuntamiento de Agaete (31/08/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Agaete.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/agaete.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 950775,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el Ayuntamiento de Santa María de Guía (31/08/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Guia.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/guia.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1079983,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el Ayuntamiento de Artenara (31/08/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Artenara.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/artenara.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1009527,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Acuerdo de prórroga convenio entre el Consejo Insular de Aguas y el Ayuntamiento de La Aldea (31/08/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/La%20Aldea.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/la-aldea.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1013368,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "CONVENIOS Y ENCOMIENDAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Convenio entre la Consejería de Economía, Hacienda y Seguridad del Gobierno de Canarias, Cabildo Insular de Gran Canaria y el Consejo Insular de Aguas de Gran Canaria (01/08/2016)",
+        "anio_en_texto": 2016,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/ConvenioGobCanCabildo.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/conveniogobcancabildo.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2042925,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/empleados.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 23,
+    "items": [
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Relación de puestos de trabajo",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/20241018%20RPT%20CIAGC%202024.txt",
+        "ruta_nueva": "/documentos/pdfs/transparencia/20241018-rpt-ciagc-2024.txt",
+        "tipo": "documento",
+        "formato": "txt",
+        "bytes": 24675,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Relación de puestos de trabajo",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/20241018%20RPT%20CIAGC%202024.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/20241018-rpt-ciagc-2024.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 313066,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Relación de puestos de trabajo",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/20241018%20RPT%20CIAGC%202024.xlsx",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": null,
+        "estado_origen": 300,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Relación de puestos de trabajo",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/20241018%20RPT%20CIAGC%202024.ods",
+        "ruta_nueva": null,
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": null,
+        "estado_origen": 300,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Personal Laboral (11/05/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_2018_Laborales.txt",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_2018_laborales.txt",
+        "tipo": "documento",
+        "formato": "txt",
+        "bytes": 3702,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Personal Laboral (11/05/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_2018_Laborales.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_2018_laborales.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 74884,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Personal Laboral (11/05/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_2018_Laborales.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_2018_laborales.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 60288,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Personal Funcionario (11/05/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_2018_Funcionarios.txt",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_2018_funcionarios.txt",
+        "tipo": "documento",
+        "formato": "txt",
+        "bytes": 2560,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Personal Funcionario (11/05/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_2018_Funcionarios.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_2018_funcionarios.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 70395,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Personal Funcionario (11/05/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_2018_Funcionarios.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_2018_funcionarios.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 59227,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Departamentos (11/05/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Departamentos.txt",
+        "ruta_nueva": "/documentos/pdfs/transparencia/departamentos.txt",
+        "tipo": "documento",
+        "formato": "txt",
+        "bytes": 2194,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Departamentos (11/05/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Departamentos.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/departamentos.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 77295,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Departamentos (11/05/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Departamentos.docx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/departamentos.docx",
+        "tipo": "documento",
+        "formato": "docx",
+        "bytes": 162303,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Departamentos (11/05/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Departamentos.odt",
+        "ruta_nueva": "/documentos/pdfs/transparencia/departamentos.odt",
+        "tipo": "documento",
+        "formato": "odt",
+        "bytes": 154256,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Relación de puestos de trabajo (Actualización: 20/02/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_CIAGC_2023.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_ciagc_2023.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1648772,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Relación de puestos de trabajo (Actualización: 20/02/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_CIAGC_2023_ConNombres.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_ciagc_2023_connombres.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 216811,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Relación de puestos de trabajo (Actualización: 20/02/2024)",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_CIAGC_2023_ConNombres.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_ciagc_2023_connombres.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 42312,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Personal Laboral (11/05/2023)",
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_2018_Laborales.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_2018_laborales.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 74884,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Personal Laboral (11/05/2023)",
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_2018_Laborales.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_2018_laborales.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 60288,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Personal Funcionario (11/05/2023)",
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_2018_Funcionarios.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_2018_funcionarios.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 70395,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Personal Funcionario (11/05/2023)",
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/RPT_2018_Funcionarios.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/rpt_2018_funcionarios.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 59227,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Departamentos (11/05/2023)",
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Departamentos.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/departamentos.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 77295,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EMPLEADOS PÚBLICOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Departamentos (11/05/2023)",
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Departamentos.docx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/departamentos.docx",
+        "tipo": "documento",
+        "formato": "docx",
+        "bytes": 162303,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/ayudas.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 26,
+    "items": [
+      {
+        "grupo": [
+          "AUXILIOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Anuncio del BOC",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/boc-a-2024-259-4424.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/boc-a-2024-259-4424.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 181516,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Bases de la convocatoria",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Bases_Convocatoria.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/bases_convocatoria.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 736487,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Baremos Estándar de Coste Unitario: BECU",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Resolucion_BECU2024_Agricultura.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/resolucion_becu2024_agricultura.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 314870,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Enlace al Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/803873",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Anuncio",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Auxilios2020.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/auxilios2020.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 16230406,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Anuncio",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Auxilios2019.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/auxilios2019.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 65576,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS"
+        ],
+        "titulo": null,
+        "etiqueta": "Resolución",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Auxilios2019_Resolucion.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/auxilios2019_resolucion.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 5187707,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Concesiones Administrativas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2024_Concesiones.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2024_concesiones.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 63718,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Concesiones Administrativas",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2024_Concesiones.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2024_concesiones.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 56671,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvención al agua de riego",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2024_Subvencion_AguaRiego.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2024_subvencion_aguariego.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 156747,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvención al agua de riego",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2024_Subvencion_AguaRiego.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2024_subvencion_aguariego.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 18530,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvención al agua de riego",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2024_Subvencion_AguaRiego.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2024_subvencion_aguariego.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 10839,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Plan estratégico de subvenciones",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2023_PLAN_SUBVENCIONES.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2023_plan_subvenciones.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 238270,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvención al agua de riego",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2023_Subvencion_AguaRiego.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2023_subvencion_aguariego.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 181740,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvención al agua de riego",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2023_Subvencion_AguaRiego.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2023_subvencion_aguariego.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 29334,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvención al agua de riego",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2023_Subvencion_AguaRiego.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2023_subvencion_aguariego.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 17537,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Plan estratégico de subvenciones",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2022_PLAN_SUBVENCIONES.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2022_plan_subvenciones.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 4794833,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvención al agua de riego",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2022_Subvencion_AguaRiego.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2022_subvencion_aguariego.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 338341,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Plan estratégico de subvenciones",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2021_PLAN_SUBVENCIONES.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2021_plan_subvenciones.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 200769,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvención al agua de riego",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2021_Subvencion_AguaRiego.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2021_subvencion_aguariego.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 17343017,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvención al agua de riego",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2020_Subvencionn_AguaRiego.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2020_subvencionn_aguariego.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 1160194,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Resolución",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2020_Resolucion_AguaRiego.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2020_resolucion_aguariego.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 184772,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Subvención al agua de riego",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2019_Subvencion_AguaRiego.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2019_subvencion_aguariego.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 520647,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Resolución",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2019_Resolucion_AguaRiego.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2019_resolucion_aguariego.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 198354,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Resumen",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Convenios_2018.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/convenios_2018.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2191188,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "AUXILIOS",
+          "CONCESIONES, AYUDAS Y SUBVENCIONES PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Concesión de subvención directa a INFECAR",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Convenios/Decreto.pdf",
+        "ruta_nueva": "/documentos/pdfs/convenios/decreto.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 2354433,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/obras.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 15,
+    "items": [
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2024",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2024.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2024.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 40072,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2024",
+        "anio_en_texto": 2024,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2024.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2024.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 32192,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2023",
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2023.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2023.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 39409,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2023",
+        "anio_en_texto": 2023,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2023.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2023.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 31056,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2022",
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2022.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2022.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 38870,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2022",
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2022.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2022.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 31236,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2021",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2021.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2021.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 45964,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2021",
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2021.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2021.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 38725,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2020",
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2020.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2020.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 69215,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2020",
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2020.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2020.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 59577,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2019",
+        "anio_en_texto": 2019,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2019.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2019.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 70807,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2019",
+        "anio_en_texto": 2019,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2019.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2019.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 60765,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2018",
+        "anio_en_texto": 2018,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2018.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2018.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 64230,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2018",
+        "anio_en_texto": 2018,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2018.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2018.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 57077,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "OBRAS PÚBLICAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Obras 2017",
+        "anio_en_texto": 2017,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Obras_2017.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/obras_2017.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 92320,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/patrimonio.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 3,
+    "items": [
+      {
+        "grupo": [
+          "PATRIMONIO"
+        ],
+        "titulo": null,
+        "etiqueta": "Lista de Vehículos",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Vehiculos.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/vehiculos.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 85017,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PATRIMONIO"
+        ],
+        "titulo": null,
+        "etiqueta": "Inmuebles Urbanos, Rústicos y Embalses",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/PATRIMONIO.xlsx",
+        "ruta_nueva": "/documentos/pdfs/transparencia/patrimonio.xlsx",
+        "tipo": "documento",
+        "formato": "xlsx",
+        "bytes": 64167,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "PATRIMONIO"
+        ],
+        "titulo": null,
+        "etiqueta": "Inmuebles Urbanos, Rústicos y Embalses",
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/PATRIMONIO.ods",
+        "ruta_nueva": "/documentos/pdfs/transparencia/patrimonio.ods",
+        "tipo": "documento",
+        "formato": "ods",
+        "bytes": 56854,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  },
+  {
+    "ruta": "/estadistica.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 0,
+    "items": []
+  },
+  {
+    "ruta": "/fomento.php",
+    "titulo": "PORTAL DE TRANSPARENCIA",
+    "total": 14,
+    "items": [
+      {
+        "grupo": [
+          "FOMENTO DE LA TRANSPARENCIA"
+        ],
+        "titulo": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.",
+        "etiqueta": null,
+        "anio_en_texto": 2013,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/BOE-A-2013-12887.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/boe-a-2013-12887.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 480376,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "FOMENTO DE LA TRANSPARENCIA"
+        ],
+        "titulo": "Ley 12/2014, de 26 de diciembre, de transparencia y de acceso a la información pública, del Gobierno de Canarias.",
+        "etiqueta": null,
+        "anio_en_texto": 2014,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/ley_canaria.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/ley_canaria.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 426844,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "FOMENTO DE LA TRANSPARENCIA"
+        ],
+        "titulo": "Ley 8/2015, de 1 de abril, de Cabildos Insulares.",
+        "etiqueta": null,
+        "anio_en_texto": 2015,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/ley_8_2015.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/ley_8_2015.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 529115,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "FOMENTO DE LA TRANSPARENCIA"
+        ],
+        "titulo": "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.",
+        "etiqueta": null,
+        "anio_en_texto": 1999,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/BOE-A-1999-23750-consolidado.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/boe-a-1999-23750-consolidado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 326344,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "FOMENTO DE LA TRANSPARENCIA"
+        ],
+        "titulo": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+        "etiqueta": null,
+        "anio_en_texto": 2015,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/BOE-A-2015-10565-consolidado.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/boe-a-2015-10565-consolidado.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 660632,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "FOMENTO DE LA TRANSPARENCIA"
+        ],
+        "titulo": "Ordenanza de Transparencia, acceso a la información pública y reutilización del Cabildo de Gran Canaria.",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Ordenanza_Transparencia_Cabildo.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/ordenanza_transparencia_cabildo.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 995033,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "FOMENTO DE LA TRANSPARENCIA"
+        ],
+        "titulo": "Comisionado de Transparencia y Acceso a la Información de Canarias",
+        "etiqueta": null,
+        "anio_en_texto": null,
+        "url_antigua": "http://transparenciacanarias.org/",
+        "ruta_nueva": null,
+        "tipo": "externo",
+        "formato": null,
+        "bytes": null,
+        "estado_origen": null,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EVALUACION DEL CUMPLIMENTO DE LA LEY 12/2014 DE TRANSPARENCIA DE CANARIAS"
+        ],
+        "titulo": "Año 2022",
+        "etiqueta": null,
+        "anio_en_texto": 2022,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/puntuacion_2022.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/puntuacion_2022.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 686561,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EVALUACION DEL CUMPLIMENTO DE LA LEY 12/2014 DE TRANSPARENCIA DE CANARIAS"
+        ],
+        "titulo": "Año 2021",
+        "etiqueta": null,
+        "anio_en_texto": 2021,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/puntuacion_2021.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/puntuacion_2021.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 667410,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EVALUACION DEL CUMPLIMENTO DE LA LEY 12/2014 DE TRANSPARENCIA DE CANARIAS"
+        ],
+        "titulo": "Año 2020",
+        "etiqueta": null,
+        "anio_en_texto": 2020,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/puntuacion_2020.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/puntuacion_2020.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 676602,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EVALUACION DEL CUMPLIMENTO DE LA LEY 12/2014 DE TRANSPARENCIA DE CANARIAS"
+        ],
+        "titulo": "Año 2019",
+        "etiqueta": null,
+        "anio_en_texto": 2019,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/2019-acreditacion.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/2019-acreditacion.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 763946,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EVALUACION DEL CUMPLIMENTO DE LA LEY 12/2014 DE TRANSPARENCIA DE CANARIAS"
+        ],
+        "titulo": "Año 2018",
+        "etiqueta": null,
+        "anio_en_texto": 2018,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Informe_Anual_2018.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/informe_anual_2018.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 5805111,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EVALUACION DEL CUMPLIMENTO DE LA LEY 12/2014 DE TRANSPARENCIA DE CANARIAS"
+        ],
+        "titulo": "Año 2017",
+        "etiqueta": null,
+        "anio_en_texto": 2017,
+        "url_antigua": "https://www.aguasgrancanaria.com/pdfs/Transparencia/Informe_Anual_2017.pdf",
+        "ruta_nueva": "/documentos/pdfs/transparencia/informe_anual_2017.pdf",
+        "tipo": "documento",
+        "formato": "pdf",
+        "bytes": 8456665,
+        "estado_origen": 200,
+        "pagina_interna": null
+      },
+      {
+        "grupo": [
+          "EVALUACION DEL CUMPLIMENTO DE LA LEY 12/2014 DE TRANSPARENCIA DE CANARIAS"
+        ],
+        "titulo": null,
+        "etiqueta": "Descargar Documento:",
+        "anio_en_texto": 2014,
+        "url_antigua": "https://www.aguasgrancanaria.com/el_consejo/fomento.txt",
+        "ruta_nueva": "/documentos/el_consejo/fomento.txt",
+        "tipo": "documento",
+        "formato": "txt",
+        "bytes": 1952,
+        "estado_origen": 200,
+        "pagina_interna": null
+      }
+    ]
+  }
+]

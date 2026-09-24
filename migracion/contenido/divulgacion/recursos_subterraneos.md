@@ -1,0 +1,193 @@
+---
+titulo: "Recursos Subterráneos"
+titulo_html: "Recursos Subterráneos"
+ruta_antigua: "/divulgacion/recursos_subterraneos.php"
+url_antigua: "https://www.aguasgrancanaria.com/divulgacion/recursos_subterraneos.php"
+seccion: "Divulgación"
+origen: "inventario"
+ultima_actualizacion: null
+ultima_actualizacion_texto: null
+encabezados: 
+  - nivel: 1
+    texto: "DIVULGACIÓN"
+  - nivel: 4
+    texto: "RECURSOS SUBTERRÁNEOS"
+  - nivel: 4
+    texto: "RECURSOS TOTALES"
+  - nivel: 5
+    texto: "RECURSOS APROVECHADOS"
+  - nivel: 5
+    texto: "ACTUACIONES"
+documentos: []
+imagenes: 
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_humedal.jpg"
+    ruta_nueva: "/imagenes/img/4_humedal.jpg"
+    alt: ""
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_pozo.jpg"
+    ruta_nueva: "/imagenes/img/4_pozo.jpg"
+    alt: ""
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_fondo_pozo.jpg"
+    ruta_nueva: "/imagenes/img/4_fondo_pozo.jpg"
+    alt: ""
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_casa_maq.jpg"
+    ruta_nueva: "/imagenes/img/4_casa_maq.jpg"
+    alt: ""
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_T_tipo_capt_munic.gif"
+    ruta_nueva: "/imagenes/img/4_t_tipo_capt_munic.gif"
+    alt: null
+    enlazada: true
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_T_tipo_capt_munic_peq.gif"
+    ruta_nueva: "/imagenes/img/4_t_tipo_capt_munic_peq.gif"
+    alt: ""
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_D_sit_adm.gif"
+    ruta_nueva: "/imagenes/img/4_d_sit_adm.gif"
+    alt: ""
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_M_descensos.gif"
+    ruta_nueva: "/imagenes/img/4_m_descensos.gif"
+    alt: null
+    enlazada: true
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_M_descensos_peq.gif"
+    ruta_nueva: "/imagenes/img/4_m_descensos_peq.gif"
+    alt: ""
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_M_descensos.gif"
+    ruta_nueva: "/imagenes/img/4_m_descensos.gif"
+    alt: null
+    enlazada: true
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_M_captaciones.gif"
+    ruta_nueva: "/imagenes/img/4_m_captaciones.gif"
+    alt: null
+    enlazada: true
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_M_captaciones.gif"
+    ruta_nueva: "/imagenes/img/4_m_captaciones.gif"
+    alt: null
+    enlazada: true
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_M_hidroq.gif"
+    ruta_nueva: "/imagenes/img/4_m_hidroq.gif"
+    alt: null
+    enlazada: true
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_M_hidroq_peq.gif"
+    ruta_nueva: "/imagenes/img/4_m_hidroq_peq.gif"
+    alt: ""
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_M_hidroq.gif"
+    ruta_nueva: "/imagenes/img/4_m_hidroq.gif"
+    alt: null
+    enlazada: true
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_M_niveles.gif"
+    ruta_nueva: "/imagenes/img/4_m_niveles.gif"
+    alt: null
+    enlazada: true
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_M_niveles_peq.gif"
+    ruta_nueva: "/imagenes/img/4_m_niveles_peq.gif"
+    alt: ""
+    enlazada: false
+  - url_antigua: "https://www.aguasgrancanaria.com/img/4_M_niveles.gif"
+    ruta_nueva: "/imagenes/img/4_m_niveles.gif"
+    alt: null
+    enlazada: true
+videos: []
+iframes: []
+enlaces_externos: []
+enlaces_internos: []
+emails: []
+telefonos: []
+tablas: []
+referencias_rotas: []
+contenido_oculto_en_origen: []
+---
+
+# DIVULGACIÓN
+
+#### RECURSOS SUBTERRÁNEOS
+
+En Canarias adquiere gran importancia el aprovechamiento de aguas de origen subterráneo. Más del 80% de los recursos hidráulicos disponibles provienen del subsuelo.
+
+Los nacientes, fuentes naturales o manantiales, nunca fueron abundantes en las islas. Menudeaban hace unos siglos en algunas islas, principalmente en Gran Canaria, Tenerife, La Palma y La Gomera.
+
+Por escasa que fueran sus aportaciones, constituyeron la única fuente importante de recursos hidráulicos del Archipiélago hasta que, terciado el siglo XIX, comenzó la apertura de galerías y posteriormente de pozos. Estas obras, a la par que se constituían en una nueva fuente de recursos hidráulicos, fueron afectando a los manatiales originales, de manera que fue disminuyendo en gran medida su caudal, llegando incluso a desaparecer en muchos casos.
+
+#### RECURSOS TOTALES
+
+La única estimación de la aportación superficial realizada hasta la fecha tuvo lugar durante el SPA-15. Utilizando los datos conocidos de pluviometría y estimándola.
+
+Como ejercicio teórico y con el fin de resaltar lo que significa esa cifra, suponiendo que únicamente hayamos extraído de las reservas 50 hm3 cada año, que han sido más, desde el SPA-15 (1971), hasta el Plan Hidrológico de Gran canaria (1995) se estima un consumo de más de la mitad de las reservas calculadas en el SPA-15 .
+
+Tan importante como conocer nuestra reserva de agua subterránea es determinar cuál es el volumen del que se puede disponer sin afectarla, es decir, sin que descienda el nivel freático ni, en teoría, empeore la calidad del agua extraída. El cálculo de este valor, pasa por saber qué parte de la lluvia se infiltra, y una vez en el subsuelo, qué parte se descarga al mar, ya que la diferencia entre estos dos valores es el volumen del agua subterránea renovable anualmente.
+
+El valor de esta recarga fue determinado en varios apartados del SPA-15 , llegándose a resultados no concordantes. Así, en el estudio del balance precipitación, evapotranspiración, escorrentía e infiltración a nivel interanual, se estimó la infiltración en 190 hm3 . Sin embargo, estudiando este balance a nivel diario, durante los tres años hidrológicos 1979/71, 1971/72 y 1972/73, tiempo de realización del SPA-15, se estimó una media de infiltración de 154 hm3. Finalmente se consideró en el balance hídrico una recarga total de 153 hm3/año, desglosada en 95 hm3/año de infiltración de la lluvia, 18 hm3/año de infiltración por retorno de riegos, es decir, por el agua no utilizada por las plantas que se infiltra después de regar. Por otro lado, la descarga al mar se estimó por dos procedimientos distintos, obteniéndose valores de 17 hm3/año y 40 hm3/año.
+
+Con el inventario realizado durante el MAC-21 y en la elaboración del "Modelo matemático de simulación del flujo subterráneo en Gran Canaria", realizado en Junio de 1981, se llegó a calcular la infiltración de agua de lluvia en 101,5 hm3/año y la de retorno de riego en 22,2 hm3/año. Por otra parte, la descarga de agua al mar se cifró en 59,1 hm3/año.
+
+A la vista, por lo tanto, de esta información cabe hacer la misma consideración que se ha hecho con los recursos superficiales, y es la necesidad de evaluar con mayor precisión los elementos del balance de la precipitación y, en general, acotar el valor de infiltración interanual y de la descarga de agua subterránea al mar, porque, sin ir más lejos, la cifra dada de retorno de riesgos, entre un 18% y un 26% de la recarga total estimada, hoy día debe de ser bastante menor por el cambio de métodos de riego, que precisamente tratan de evitar esa pérdida por infiltración.
+
+En conclusión, se puede adoptar como valor de los recursos totales, la media de las diferencias entre la recarga y los retornos de riego con la descarga de agua subterránea al mar, que asciende a 119 hm3.
+
+![](/imagenes/img/4_humedal.jpg)
+
+##### RECURSOS APROVECHADOS
+
+La estimación del volumen de agua subterránea extraído anualmente, y su caracterización físico química, pasa por el inventario y control de las captaciones existentes. Es fundamental conocer cuánto, dónde y con qué calidad se extrae.
+
+En un primer trabajo de inventario, en 1991, se abordó la identificación entre puntos de captación autorizados y sus expedientes administrativos, así como entre captación existente y autorización.
+
+![](/imagenes/img/4_pozo.jpg)
+
+Con este inventario, llamado de nivel 1, por ser la primera aproximación a la realidad se llegó a que de un total de 5.542 expedientes diferentes, que corresponden 4.599 autorizaciones para pozos, 610 galerías, 39 sondeos junto con 294 no diferenciados se han ejecutado un total de 2.358, correspondientes a 1.876 pozos, 431 galerías, 35 sondeos y 16 no diferenciados. De este total únicamente se encontraban en uso 1.337 aprovechamientos.
+
+En la actualidad existen 6.412 expedientes administrativos relacionados con las captaciones de aguas subterráneas(Figura 1). De los cuales se tiene que:
+
+-   2.841 autorizados (A)
+-   509 sin expediente (SE)
+-   868 caducados (C)
+-   930 nulos (N)
+
+![](/imagenes/img/4_fondo_pozo.jpg) ![](/imagenes/img/4_casa_maq.jpg)
+
+-   46 con caducidad parcial (CP)
+-   349 denegados (D)
+-   54 sin resolver (SR)
+-   389 inscritos (I)
+
+ [![](/imagenes/img/4_t_tipo_capt_munic_peq.gif) Tabla 1.- Estado de captación por término municipal](/imagenes/img/4_t_tipo_capt_munic.gif)
+
+![](/imagenes/img/4_d_sit_adm.gif)
+
+Figura 1 .- Situación Administrativa
+
+El volumen de agua subterránea extraído, dista de ser homogéneo. La variación de la composición química es notable entre las aguas alumbradas a cotas altas y las correspondientes a zonas costeras, variando de unas pocas partes por millón a salinidades en algunos puntos similares a las del mar. Influyen distintos factores, tales como el tiempo transcurrido desde su infiltración, composición de las rocas, existencia de gases volcánicos y la contaminación antrópica. Las aguas en general van pasando de bicarbonatadas cálcicas a cloruradas sódicas en función de la altitud y del mayor o menor grado de intrusión marina. Tan grave como la degradación de la calidad del agua por la mezcla con agua de mar es el efecto de la contaminación por abonos y pesticidas, así como por la existencia de pozos negros y las pérdidas de las redes de saneamiento, junto con el lavado de residuos incontrolados, sólidos y líquidos, que llegan al acuífero insular.
+
+[![](/imagenes/img/4_m_descensos_peq.gif)](/imagenes/img/4_m_descensos.gif)
+
+[Figura 2.- Descensos de nivel](/imagenes/img/4_m_descensos.gif)
+
+[![](/imagenes/img/4_m_descensos_peq.gif)](/imagenes/img/4_m_captaciones.gif)
+
+[Figura 3.- Captaciones](/imagenes/img/4_m_captaciones.gif)
+
+[![](/imagenes/img/4_m_hidroq_peq.gif)](/imagenes/img/4_m_hidroq.gif)
+
+[Figura 4.- Hidroquímica](/imagenes/img/4_m_hidroq.gif)
+
+[![](/imagenes/img/4_m_niveles_peq.gif)](/imagenes/img/4_m_niveles.gif)
+
+[Figura 5.- Niveles](/imagenes/img/4_m_niveles.gif)
+
+##### ACTUACIONES
+
+-   Realización de estudios básicos acerca de los parámetros hidrogeológicos más importantes que debe culminar con la puesta operativa de un modelo matemático del flujo subterráneo, que permita la proyección de resultados ante distintas hipótesis de explotación.
+-   Realizaciones periódicas de inventarios de captaciones para el conocimiento al día de los volúmenes extraídos, energía consumida, niveles y calidad del agua.
+-   Potenciar el agrupamiento de captaciones mediante el uso de los instrumentos de la Ley de Aguas (Artículos 87, 88 y 120.2).
+-   Como medida cautelar y necesaria, declarar las zonas con riesgo de sobreexplotación de acuerdo con el Artículo 48 de la Ley de Aguas.
+-   Declarar como no objeto de concesión o de mantenimiento de caudales aquellas captaciones que hayan presentado o presenten un aumento significativo en su contenido en cloruro en el agua extraída.
+-   Imponer en todas las captaciones la instalación de aparatos de medida y la obligación de enviar la información del volumen extraído con una periodicidad a determinar.
+-   Definir como zonas para favorecer la recarga del acuífero , donde se limitara la extracción de agua subterránea con las medidas necesarias que se incluirán en las Ordenanzas.
+-   Definir como pequeño aprovechamiento de agua subterránea o de naciente a aquél que, destinándose al autoconsumo, su volumen anual aprovechado no exceda de 1.500 m3 .
+-   Dictar normas técnicas acerca de la determinación de los caudales de las captaciones.
+-   Impulsar la creación del Centro Insular de Analítica de Aguas.

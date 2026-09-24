@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/canarias/nitratos.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 04/07/2005",
+      "Título",
+      "Nitratos: Masas de agua afectadas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "D. 49/2000 masas de agua afectadas por la contaminación de nitratos de origen agrario y se designan las zonas vulnerables por dicha contaminación",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua Cont",
+      "",
+      "Decreto",
+      "Canarias"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

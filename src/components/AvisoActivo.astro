@@ -1,0 +1,26 @@
+---
+// Aviso/alerta destacada (colección "avisos", gestionable desde el CMS). Solo se muestran los activos.
+import { getCollection } from 'astro:content';
+import Icono from './Icono.astro';
+import { fechaLarga } from '../lib/formato';
+const activos = (await getCollection('avisos', (a) => a.data.activo)).sort((a, b) => (b.data.fecha?.getTime() ?? 0) - (a.data.fecha?.getTime() ?? 0));
+const estilos = {
+  alerta: 'bg-alerta-700 text-white',
+  aviso: 'bg-calido-500 text-atlantico-950',
+  informacion: 'bg-marca-700 text-white',
+};
+---
+{activos.length > 0 && (
+  <div role="region" aria-label="Avisos importantes">
+    {activos.map((a) => (
+      <div class:list={['relative', estilos[a.data.nivel]]}>
+        <div class="contenedor flex flex-wrap items-center gap-x-4 gap-y-1 py-3">
+          <Icono nombre="alerta" tam={22} clase="shrink-0" />
+          <p class="font-display font-bold">{a.data.titulo}</p>
+          {a.data.fecha && <p class="text-sm opacity-90">{fechaLarga(a.data.fecha)}</p>}
+          {a.data.enlace && <a href={a.data.enlace} class="ml-auto inline-flex items-center gap-1 font-semibold underline text-inherit hover:text-inherit">{a.data.subtitulo ?? 'Más información'}<Icono nombre="flecha" tam={16} /></a>}
+        </div>
+      </div>
+    ))}
+  </div>
+)}

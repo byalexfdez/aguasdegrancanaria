@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/europa/aguas_residuales.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 08/01/2007",
+      "Título",
+      "Directiva de Aguas residuales urbanas",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Directiva 91/271/CEE del Consejo, de 21 de mayo de 1991, sobre el tratamiento de las aguas residuales urbanasctiva",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "Agua Resid",
+      "",
+      "Directiva",
+      "Union Europea"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}

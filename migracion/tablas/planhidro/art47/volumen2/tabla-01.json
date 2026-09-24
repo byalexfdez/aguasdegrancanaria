@@ -1,0 +1,32 @@
+{
+  "fuente": "/planhidro/art47/volumen2.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 2,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Memoria",
+      ""
+    ],
+    [
+      "Anexo n°1: Balances",
+      ""
+    ]
+  ],
+  "notas": [],
+  "enlaces": [
+    {
+      "fila": 0,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/planhidro/phart47_memord.pdf"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "texto": "",
+      "url": "/documentos/pdfs/planhidro/phart47_balance.pdf"
+    }
+  ]
+}

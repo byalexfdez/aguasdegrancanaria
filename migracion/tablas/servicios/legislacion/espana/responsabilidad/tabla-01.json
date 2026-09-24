@@ -1,0 +1,39 @@
+{
+  "fuente": "/servicios/legislacion/españa/responsabilidad.php",
+  "indice": 1,
+  "titulo": null,
+  "columnas": 5,
+  "cabeceras": [],
+  "filas": [
+    [
+      "Legislación\nCreada el 06/11/2007",
+      "Título",
+      "Responsabilidad medioambiental",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Descripción",
+      "Ley 26/2007, de 23 de Octubre, de Responsabilidad Medioambiental",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Código",
+      "Aprobado",
+      "Categoría",
+      "Ámbito"
+    ],
+    [
+      "",
+      "MAmb",
+      "",
+      "Ley",
+      "España"
+    ]
+  ],
+  "notas": [],
+  "enlaces": []
+}
