@@ -51,6 +51,7 @@ export default function servirMedios() {
   const raiz = carpetaMedios();
   return {
     name: 'aguas-medios',
+    enforce: 'pre', // antes que el enrutador de Astro (si no, /admin/ acaba en la 404 tras un reinicio)
     configureServer(server) { server.middlewares.use(manejador(raiz)); },
     configurePreviewServer(server) { server.middlewares.use(manejador(raiz)); },
   };
