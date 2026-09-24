@@ -9,6 +9,12 @@
 </head>
 <body>
   <!-- Decap CMS (antes Netlify CMS): edita los contenidos del repositorio Git. Ver README > «Gestor de contenidos». -->
+  <script>window.CMS_MANUAL_INIT = true;</script>
   <script src="https://unpkg.com/decap-cms@^3.3.3/dist/decap-cms.js"></script>
+  <script>
+    // El inicio de sesión con GitHub lo hace admin/oauth/*.php en el mismo dominio en que esté publicada la web.
+    // El resto de la configuración se lee de config.yml.
+    CMS.init({ config: { backend: { base_url: window.location.origin, auth_endpoint: 'admin/oauth/auth.php' } } });
+  </script>
 </body>
 </html>

@@ -10,6 +10,8 @@ const hta = path.join(dist, '.htaccess');
 if (fs.existsSync(hta)) {
   const cab = '<IfModule mod_headers.c>\n  Header set X-Robots-Tag "noindex, nofollow"\n</IfModule>\n\n';
   const txt = fs.readFileSync(hta, 'utf8');
-  if (!txt.includes('X-Robots-Tag')) fs.writeFileSync(hta, cab + txt, 'utf8');
+  // Sin HSTS: en un dominio de pruebas obligaría durante un año a usar HTTPS en todos sus subdominios.
+  const sinHsts = txt.replace(/^.*Strict-Transport-Security.*\r?\n/m, '');
+  if (!txt.includes('X-Robots-Tag')) fs.writeFileSync(hta, cab + sinHsts, 'utf8');
 }
 console.log('Demo: robots.txt y X-Robots-Tag con noindex.');

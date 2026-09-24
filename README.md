@@ -92,14 +92,28 @@ Se entra en **https://www.aguasgrancanaria.com/admin/**. Funciona en cuanto est�
 | Volúmenes de presas | Subir el Excel del año a `public/datos/volumenes/` con el mismo formato. La portada, la página de Presas y el panel de embalses se actualizan al publicar. |
 | Páginas | Título, entradilla, descripción para buscadores, fecha de última actualización y contenido de las 177 páginas. |
 
-**Configuración.** Decap CMS guarda los cambios como *commits* en el repositorio **github.com/byalexfdez/aguasdegrancanaria** (rama `main`), que se define en `backend` dentro de `public/admin/config.yml`. Para que funcione en producción faltan dos piezas:
+**Cómo funciona.** Decap CMS guarda cada cambio como un *commit* en **github.com/byalexfdez/aguasdegrancanaria** (rama `main`). La acción `.github/workflows/publicar.yml` compila la web y la sube por FTP al hosting. El inicio de sesión con GitHub lo resuelven `admin/oauth/auth.php` y `callback.php` en el propio hosting (requiere PHP con cURL o `allow_url_fopen`), así que no hace falta ningún servicio externo. El flujo editorial (borrador → en revisión → listo) trabaja con ramas del repositorio; solo al publicar se actualiza la web.
 
-1. **Inicio de sesión con GitHub (OAuth).** El backend `github` necesita un pequeño servicio OAuth. Si la web se aloja en Netlify, Netlify lo ofrece de serie. En cualquier otro servidor (Plesk, Cloudflare Pages…) hay que desplegar un proxy OAuth, por ejemplo [decap-proxy](https://github.com/sterlingwes/decap-proxy) en Cloudflare Workers, y añadir `base_url` (y `auth_endpoint` si hace falta) en `backend`. Cada editor debe tener una cuenta de GitHub con permiso de escritura en el repositorio.
-2. **Despliegue automático.** Cada cambio en `main` debe lanzar `npm run build` y publicar `dist/`, ya sea desde el alojamiento o con una acción de GitHub que suba el resultado por FTP o SSH al servidor.
+**Puesta en marcha (una sola vez):**
 
-Por defecto está activado el flujo editorial (borrador → en revisión → listo), que funciona con ramas y *pull requests* del repositorio.
+1. **OAuth App de GitHub:** GitHub → Settings → Developer settings → OAuth Apps → *New OAuth App*.
+   - *Homepage URL:* `https://SU-DOMINIO/`
+   - *Authorization callback URL:* `https://SU-DOMINIO/admin/oauth/callback.php`
+   - Guarde el *Client ID* y genere un *Client secret*.
+2. **Secretos del repositorio:** Settings → Secrets and variables → Actions → *New repository secret*:
 
-La carpeta `recursos/` (auditoría, propuesta y prompt de la licitación) está excluida del repositorio. `medios/` también, porque los documentos se despliegan aparte.
+   | Secreto | Valor |
+   |---|---|
+   | `FTP_SERVER` | servidor FTP del hosting (p. ej. `ftp.su-dominio.com`) |
+   | `FTP_USERNAME` · `FTP_PASSWORD` | usuario y contraseña FTP |
+   | `FTP_DIR` | carpeta raíz de la web en el FTP, acabada en `/` (p. ej. `/public_html/` o `/httpdocs/`) |
+   | `OAUTH_CLIENT_ID` · `OAUTH_CLIENT_SECRET` | los de la OAuth App |
+
+   Variables opcionales (pestaña *Variables*): `FTP_PROTOCOL` = `ftp` si el hosting no admite FTP cifrado (por defecto `ftps`) y `COMPILACION` = `build` para la web definitiva (por defecto `build:demo`, sin indexar en buscadores).
+3. **Primera publicación:** Actions → *Publicar en el hosting* → *Run workflow*. La primera vez sube la web completa, unos 110 MB. Después solo sube lo que cambie. Los documentos (`medios/documentos` → `/documentos`) y los vídeos (`medios/videos` → `/videos`) se suben aparte por FTP, una sola vez; la acción no los toca.
+4. **Editores:** cada persona necesita una cuenta de GitHub invitada como colaboradora del repositorio (Settings → Collaborators) con permiso de escritura. Entra en `https://SU-DOMINIO/admin/` → *Iniciar sesión con GitHub*.
+
+Tras guardar o publicar en el panel, la web tarda unos minutos en actualizarse, lo que dura la acción. El progreso se ve en la pestaña *Actions*.
 
 **Edición en local, sin Git remoto:**
 

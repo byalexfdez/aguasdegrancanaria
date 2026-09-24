@@ -24,3 +24,6 @@ Thumbs.db
 
 # Paquetes para subir al hosting
 /entrega/
+
+# Credenciales del inicio de sesión del gestor (se generan en el despliegue)
+public/admin/oauth/config.php

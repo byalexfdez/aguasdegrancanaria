@@ -1,0 +1,77 @@
+# Publicar en el hosting: compila la web y la sube por FTP en cada cambio de la rama main
+# (incluidos los que se guardan desde el gestor de contenidos /admin/). Ver README, apartado 4.
+#
+# Secretos del repositorio (Settings → Secrets and variables → Actions → Secrets):
+#   FTP_SERVER, FTP_USERNAME, FTP_PASSWORD  acceso FTP al hosting
+#   FTP_DIR                                 carpeta raíz de la web en el FTP, acabada en «/» (p. ej. /public_html/ o /httpdocs/)
+#   OAUTH_CLIENT_ID, OAUTH_CLIENT_SECRET    OAuth App de GitHub para iniciar sesión en /admin/
+# Variables opcionales (misma pantalla → Variables):
+#   FTP_PROTOCOL  ftps (por defecto) o ftp si el hosting no admite FTP cifrado
+#   COMPILACION   build:demo (por defecto, sin indexar en buscadores) o build (web definitiva)
+name: Publicar en el hosting
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      # Mientras falten los secretos, la acción no hace nada (y no da error).
+      - name: Comprobar configuración
+        id: config
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+          FTP_DIR: ${{ secrets.FTP_DIR }}
+          OAUTH_CLIENT_ID: ${{ secrets.OAUTH_CLIENT_ID }}
+        run: |
+          if [ -z "$FTP_SERVER" ] || [ -z "$FTP_DIR" ] || [ -z "$OAUTH_CLIENT_ID" ]; then
+            echo "::notice::Faltan secretos (FTP_SERVER, FTP_DIR, OAUTH_CLIENT_ID…). No se publica. Ver README, apartado 4."
+            echo "lista=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "lista=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.config.outputs.lista == 'true'
+
+      - uses: actions/setup-node@v4
+        if: steps.config.outputs.lista == 'true'
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+        if: steps.config.outputs.lista == 'true'
+
+      - name: Compilar
+        if: steps.config.outputs.lista == 'true'
+        run: npm run ${{ vars.COMPILACION || 'build:demo' }}
+        env:
+          ASTRO_TELEMETRY_DISABLED: 1
+
+      - name: Credenciales del inicio de sesión del gestor
+        if: steps.config.outputs.lista == 'true'
+        run: node scripts/despliegue/oauth-config.mjs
+        env:
+          OAUTH_CLIENT_ID: ${{ secrets.OAUTH_CLIENT_ID }}
+          OAUTH_CLIENT_SECRET: ${{ secrets.OAUTH_CLIENT_SECRET }}
+
+      # Sube solo lo que ha cambiado. No toca lo que no subió él (/documentos, /videos…).
+      - name: Subir por FTP
+        if: steps.config.outputs.lista == 'true'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ${{ vars.FTP_PROTOCOL || 'ftps' }}
+          local-dir: ./dist/
+          server-dir: ${{ secrets.FTP_DIR }}

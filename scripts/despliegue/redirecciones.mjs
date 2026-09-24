@@ -46,10 +46,16 @@ ErrorDocument 404 /404.html
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
-  # Forzar HTTPS y www
-  RewriteCond %{HTTPS} off [OR]
-  RewriteCond %{HTTP_HOST} !^www\\. [NC]
+  # Dominio oficial sin www → con www (solo afecta a aguasgrancanaria.com; en otros dominios no hace nada)
+  RewriteCond %{HTTP_HOST} ^aguasgrancanaria\\.com$ [NC]
   RewriteRule ^ https://www.aguasgrancanaria.com%{REQUEST_URI} [R=301,L,NE]
+  # Forzar HTTPS en el dominio en que se publique (sin bucle detrás de proxy nginx/Plesk)
+  RewriteCond %{HTTPS} off
+  RewriteCond %{HTTP:X-Forwarded-Proto} !https
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L,NE]
+
+  # Inicio de sesión del gestor de contenidos (PHP): nunca se redirige
+  RewriteRule ^admin/oauth/ - [L]
 
   # Las fichas del Censo de Instalaciones siguen sirviéndose desde su carpeta original (no se migran).
   RewriteRule ^cartografia/CIfichas/ - [L]

@@ -1,0 +1,4 @@
+# Las credenciales nunca se sirven directamente
+<Files "config.php">
+  Require all denied
+</Files>
