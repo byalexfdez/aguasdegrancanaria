@@ -21,3 +21,6 @@ Thumbs.db
 
 # Material interno de la licitación (auditoría, propuesta, prompt): no se publica
 /recursos/
+
+# Paquetes para subir al hosting
+/entrega/
