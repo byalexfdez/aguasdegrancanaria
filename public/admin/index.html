@@ -14,7 +14,8 @@
   <script>
     // El inicio de sesión con GitHub lo hace admin/oauth/*.php en el mismo dominio en que esté publicada la web.
     // El resto de la configuración se lee de config.yml.
-    CMS.init({ config: { backend: { base_url: window.location.origin, auth_endpoint: 'admin/oauth/auth.php' } } });
+    var origen = window.location.origin; // también «Ver en el sitio» apunta al dominio en que se abre (demo o definitivo)
+    CMS.init({ config: { site_url: origen, display_url: origen, backend: { base_url: origen, auth_endpoint: 'admin/oauth/auth.php' } } });
   </script>
 </body>
 </html>
